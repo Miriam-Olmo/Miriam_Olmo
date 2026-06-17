@@ -1,0 +1,81 @@
+﻿ID_Inmueble;Direccion;Distrito;Tipo;Habitaciones;Metros_Cuadrados;Anio_Construccion;Estado;timestamp_importacion;version_sistema;campo_reservado_1
+INM001;Calle Castellana 36;Chamb.;Apartamento;3;96;1963;a reformar;2025-10-02T09:21:00;v3.2.1;X
+INM002;Calle Alcala 24;arganzuela;Piso;4;108;1977;A estrenar;2025-10-21T16:27:00;v3.2.1;1
+INM003;Calle Bailen 51;Arganz.;LOFT;46;1;??;Buen estado;2025-10-06T23:52:00;v3.2.1;
+INM004;Calle Princesa 109;retiro;DUPLEX;4;158;1993;bueno;2025-10-13T02:46:00;v3.2.1;
+INM005;Calle Velazquez 24;salamanca;Estudio;0;35;1998;NUEVO;2025-10-27T20:23:00;v3.2.1;0
+INM006;Calle Gran Via 118;TETUAN;Ático;140;4;2018;Obra nueva;2025-10-27T01:40:00;v3.1.8;
+INM007;Calle Orense 50;MONCLOA;Apto.;3;100;1958;A estrenar;2025-10-05T17:28:00;v3.2.1;
+INM008;Calle Velazquez 98;Retiro;Atico;2;103;1985;BUENO;2025-10-01T08:51:00;v3.1.8;
+INM009;Calle San Bernardo 54;tetuan;Studio;0;36;N/D;Reformar;2025-10-03T16:22:00;v3.2.1;
+INM010;Calle Bailen 63;Chamberí;Loft;1;55;1970;Buen estado;2025-10-18T22:40:00;v3.2.1;
+INM011;Calle Embajadores 15;moncloa;atico;4;139;N/D;A estrenar;2025-10-11T13:22:00;v3.2.1;
+INM012;Calle Bravo Murillo 146;TETUAN;Dúplex;160;4;1990;Nuevo;2025-10-22T04:23:00;v3.2.0;
+INM013;Calle Atocha 36;Latina;Duplex;5;184;1981;Necesita reforma;2025-10-10T04:58:00;v3.1.8;
+INM014;Calle Orense 110;arganzuela;Loft;61;1;2001;Buen estado;2025-10-17T03:40:00;v3.2.0;1
+INM015;Calle Mayor 24;El Retiro;Studio;0;41;1956;Nuevo;2025-10-15T21:01:00;v3.1.8;
+INM016;Calle Raimundo Fernandez 17;Bº Salamanca;estudio;0;38;1999;B.;2025-10-01T05:33:00;v3.1.8;1
+INM017;Calle Alcala 30;usera;DX;175;4;2018;BUENO;2025-10-04T17:46:00;v3.1.8;X
+INM018;Calle Princesa 117;tetuan;Piso;3;102;1950;a reformar;2025-10-08T06:56:00;v3.1.8;0
+INM019;Calle Segovia 28;Chamartín;Loft;56;1;N/A;Necesita reforma;2025-10-17T06:48:00;v3.2.1;X
+INM020;Calle Goya 96;arganzuela;loft;1;57;999;REFORMAR;2025-10-03T10:35:00;v3.2.0;1
+INM021;Calle Alcala 29;ARGANZUELA;Apartamento;3;104;1996;B.;2025-10-25T00:16:00;v3.2.1;0
+INM022;Calle Serrano 125;El Retiro;PISO;2;73;1958;Necesita reforma;2025-10-20T20:00:00;v3.2.1;0
+INM023;Calle Bailen 43;Salamanca;Estudio;0;40;1983;a reformar;2025-10-12T21:54:00;v3.2.1;0
+INM024;Calle Bravo Murillo 80;USERA;DUPLEX;3;153;2001;Reformar;2025-10-25T06:52:00;v3.2.0;
+INM025;Calle Castellana 58;Tetuan;Dúplex;5;183;1958;B.;2025-10-27T05:54:00;v3.2.1;0
+INM026;Calle Castellana 57;Centro;LOFT;1;80;1950;Nuevo;2025-10-17T19:20:00;v3.2.1;
+INM027;Calle Gran Via 85;Centro;Studio;0;27;N/D;a reformar;2025-10-25T22:20:00;v3.2.0;
+INM028;Calle Bravo Murillo 139;El Retiro;atico;4;147;1966;Reformar;2025-10-12T07:44:00;v3.2.1;1
+INM029;Calle Castellana 122;usera;LOFT;1;75;2002;nuevo;2025-10-06T03:01:00;v3.2.1;
+INM030;Calle Hortaleza 106;Chamberí;Flat;4;118;2009;REFORMAR;2025-10-02T15:34:00;v3.2.0;0
+INM031;Calle Embajadores 28;centro;PISO;1;65;1981;Obra nueva;2025-10-15T16:57:00;v3.1.8;
+INM032;Calle Goya 109;Retiro;LOFT;1;73;1973;B.;2025-10-29T02:55:00;v3.1.8;0
+INM033;Calle Arenal 141;LATINA;Studio;0;27;1962;nuevo;2025-10-20T00:31:00;v3.2.0;X
+INM034;Calle Princesa 105;Arganzuela;piso;1;60;2012;Buen estado;2025-10-24T16:53:00;v3.2.0;0
+INM035;Calle Fuencarral 1;El Retiro;Dúplex;2;119;1999;BUENO;2025-10-03T03:28:00;v3.1.8;X
+INM036;Calle Goya 49;Latina;Ático;3;129;1987;A estrenar;2025-10-15T03:03:00;v3.2.1;
+INM037;Calle Gran Via 81;Cent.;loft;1;79;1957;nuevo;2025-10-05T06:59:00;v3.2.0;X
+INM038;Calle Segovia 21;Usera;DUPLEX;137;3;-;NUEVO;2025-10-01T13:41:00;v3.1.8;1
+INM039;Calle Velazquez 146;Usera;Piso;2;83;1981;REFORMAR;2025-10-29T13:44:00;v3.1.8;X
+INM040;Calle Orense 145;USERA;Piso;1;66;2016;bueno;2025-10-27T10:13:00;v3.2.1;
+INM041;Calle Castellana 68;chamartin;ESTUDIO;0;35;2000;A estrenar;2025-10-08T16:42:00;v3.2.1;
+INM042;Calle Alcala 118;CHAMARTIN;Dúplex;4;160;1962;Nuevo;2025-10-16T01:18:00;v3.2.0;
+INM043;Calle Atocha 34;Arganzuela;ESTUDIO;0;41;1994;Nuevo;2025-10-28T11:35:00;v3.2.1;
+INM044;Calle Arenal 140;retiro;atico;3;119;1988;a reformar;2025-10-30T01:06:00;v3.2.1;1
+INM045;Calle Goya 68;arganzuela;Flat;3;92;1964;Nuevo;2025-10-07T12:11:00;v3.2.1;X
+INM046;Calle Toledo 54;Arganz.;ESTUDIO;0;33;1993;Nuevo;2025-10-26T02:21:00;v3.2.1;
+INM047;Calle Atocha 14;CHAMARTIN;Loft;1;76;1961;Reformar;2025-10-07T21:25:00;v3.2.1;
+INM048;Calle Embajadores 34;MONCLOA;Atico;2;96;1983;A estrenar;2025-10-05T21:02:00;v3.1.8;
+INM049;Calle Bailen 3;LATINA;Loft;1;72;1964;NUEVO;2025-10-11T21:09:00;v3.2.1;
+INM050;Calle San Bernardo 150;Salamanca;LOFT;1;47;2020;nuevo;2025-10-12T07:52:00;v3.2.1;
+INM051;Calle Toledo 94;Moncloa;Estudio;0;26;1955;BUENO;2025-10-05T17:50:00;v3.2.1;1
+INM052;Calle San Bernardo 144;retiro;Studio;0;28;2002;Necesita reforma;2025-10-21T04:54:00;v3.2.1;
+INM053;Calle Princesa 106;salamanca;estudio;0;30;1953;nuevo;2025-10-01T11:32:00;v3.2.1;
+INM054;Calle Princesa 28;tetuan;Duplex;3;144;1998;A estrenar;2025-10-20T10:28:00;v3.2.1;
+INM055;Calle Arenal 90;LATINA;Studio;0;31;1989;Nuevo;2025-10-24T11:27:00;v3.2.1;0
+INM056;Calle Embajadores 72;RETIRO;Apartamento;83;2;1958;Bueno;2025-10-01T20:43:00;v3.2.0;X
+INM057;Calle Bailen 85;tetuan;Loft;1;70;1953;Nuevo;2025-10-23T19:06:00;v3.1.8;
+INM058;Calle Atocha 10;Chamartin;estudio;0;43;1963;A reformar;2025-10-12T04:16:00;v3.2.1;
+INM059;Calle Hortaleza 131;moncloa;Atic.;4;142;1964;Buen estado;2025-10-22T17:07:00;v3.1.8;0
+INM060;Calle Gran Via 112;usera;estudio;0;33;1950;Reformar;2025-10-01T02:53:00;v3.2.1;1
+INM061;Calle Hortaleza 18;Arganzuela;Studio;0;36;1992;Reformar;2025-10-29T11:43:00;v3.2.0;X
+INM062;Calle Hortaleza 84;Tetuán;Piso;3;98;2001;Reformar;2025-10-30T00:51:00;v3.2.1;X
+INM063;Calle Bravo Murillo 108;Chamartin;Loft;1;53;1998;Necesita reforma;2025-10-06T12:52:00;v3.1.8;
+INM064;Calle Fuencarral 141;Salamanca;Loft;1;64;1950;Buen estado;2025-10-19T01:40:00;v3.2.0;0
+INM065;Calle Orense 83;chamartin;estudio;0;38;2009;Bueno;2025-10-10T09:56:00;v3.2.0;
+INM066;Calle Mayor 44;LATINA;Studio;0;41;1960;Bueno;2025-10-28T04:10:00;v3.2.1;1
+INM067;Calle Serrano 61;ARGANZUELA;Loft;1;66;1989;A estrenar;2025-10-07T12:36:00;v3.2.1;
+INM068;Calle Gran Via 63;retiro;Estudio;0;25;-;REFORMAR;2025-10-18T09:44:00;v3.2.1;X
+INM069;Calle Orense 50;Chamberi;DUPLEX;5;200;??;Buen estado;2025-10-02T13:51:00;v3.2.1;1
+INM070;Calle Alcala 28;Moncloa-Aravaca;estudio;0;29;2004;NUEVO;2025-10-13T13:42:00;v3.2.1;
+INM071;Calle Gran Via 143;Salamanca;Loft;1;74;1981;NUEVO;2025-10-21T04:50:00;v3.1.8;0
+INM072;Calle Segovia 144;La Latina;estudio;0;39;1990;bueno;2025-10-06T17:33:00;v3.2.1;
+INM073;Calle Bailen 115;usera;loft;1;72;1970;REFORMAR;2025-10-20T21:38:00;v3.2.1;
+INM074;Calle Atocha 134;LATINA;DX;4;165;999;Reformar;2025-10-26T14:23:00;v3.1.8;1
+INM075;Calle Toledo 61;retiro;ATICO;3;116;-;BUENO;2025-10-19T03:31:00;v3.1.8;
+INM076;Calle Goya 39;TETUAN;Loft;1;50;N/D;Buen estado;2025-10-13T04:32:00;v3.2.1;
+INM077;Calle Hortaleza 105;SALAMANCA;Studio;0;27;1992;a reformar;2025-10-20T20:54:00;v3.2.1;
+INM078;Calle Hortaleza 100;latina;duplex;2;120;1952;Reformar;2025-10-04T23:45:00;v3.2.1;
+INM079;Calle Toledo 100;MONCLOA;duplex;2;125;2003;A reformar;2025-10-26T20:10:00;v3.2.1;
+INM080;Calle Mayor 57;ARGANZUELA;loft;1;59;1984;BUENO;2025-10-21T05:49:00;v3.2.1;1

@@ -1,0 +1,2123 @@
+﻿Suma de Dias_Retraso,Estado_Pago,Año,Trimestre,Mes,Día,ID_Contrato,ID_Pago,Suma de Importe_Pagado,Metodo_Pago
+29,Fuera De Plazo,2022,Qtr 1,marzo,5,CT0138,PG02075,3020 €,Efectivo
+19,Fuera De Plazo,2022,Qtr 2,abril,5,CT0034,PG00528,1260 €,Bizum
+14,Fuera De Plazo,2022,Qtr 2,mayo,5,CT 0120,PG01782,670 €,Domiciliación
+12,Fuera De Plazo,2022,Qtr 2,mayo,5,CT0119,PG01777,320 €,Bizum
+15,Fuera De Plazo,2022,Qtr 2,mayo,5,CT0138,PG02077,3020 €,Efectivo
+23,Fuera De Plazo,2022,Qtr 2,junio,5,CT0025,PG00383,1860 €,Domiciliación
+6,Fuera De Plazo,2022,Qtr 2,junio,5,CT0054,PG00849,2200 €,Domiciliación
+9,Fuera De Plazo,2022,Qtr 2,junio,5,CT0056,PG00878,1570 €,Transferencia
+25,Fuera De Plazo,2022,Qtr 2,junio,5,CT0126,PG01857,1400 €,Efectivo
+8,Fuera De Plazo,2022,Qtr 2,junio,5,CT0138,PG02078,3020 €,Domiciliación
+15,Fuera De Plazo,2022,Qtr 3,julio,5,CT0037,PG00552,2640 €,Transferencia
+25,Fuera De Plazo,2022,Qtr 3,agosto,5,CT0084,PG01254,1950 €,Efectivo
+16,Fuera De Plazo,2022,Qtr 3,agosto,5,CT0128,PG01905,1470 €,Bizum
+13,Fuera De Plazo,2022,Qtr 3,septiembre,5,CT 0102,PG01546,480 €,Bizum
+12,Fuera De Plazo,2022,Qtr 3,septiembre,5,CT0087,PG01310,2640 €,Efectivo
+28,Fuera De Plazo,2022,Qtr 4,octubre,5,0056,PG00882,1570 €,Bizum
+29,Fuera De Plazo,2022,Qtr 4,octubre,5,CT0026,PG00407,1070 €,Transferencia
+18,Fuera De Plazo,2022,Qtr 4,noviembre,5,CT0048,PG00718,1590 €,Transferencia
+11,Fuera De Plazo,2022,Qtr 4,noviembre,5,CT0056,PG00883,1570 €,Efectivo
+20,Fuera De Plazo,2022,Qtr 4,noviembre,5,CT0084,PG01257,1950 €,Transferencia
+27,Fuera De Plazo,2022,Qtr 4,noviembre,5,CT0106,PG01607,2480 €,Bizum
+5,Fuera De Plazo,2022,Qtr 4,noviembre,5,CT0114,PG01724,1090 €,Efectivo
+24,Fuera De Plazo,2022,Qtr 4,diciembre,5,CT0026,PG00409,1070 €,Domiciliación
+6,Fuera De Plazo,2022,Qtr 4,diciembre,5,CT0054,PG00855,2200 €,Bizum
+6,Fuera De Plazo,2022,Qtr 4,diciembre,5,CT0095,PG01444,2070 €,Transferencia
+29,Fuera De Plazo,2022,Qtr 4,diciembre,5,CT0098,PG01488,2370 €,Transferencia
+9,Fuera De Plazo,2022,Qtr 4,diciembre,5,CT0115,PG01732,1500 €,Bizum
+5,Fuera De Plazo,2023,Qtr 1,enero,5,CT0024,PG00382,2190 €,Bizum
+13,Fuera De Plazo,2023,Qtr 1,enero,5,CT0034,PG00537,1260 €,Bizum
+11,Fuera De Plazo,2023,Qtr 1,enero,5,CT0053,PG00831,960 €,Bizum
+10,Fuera De Plazo,2023,Qtr 1,enero,5,CT0056,PG00885,1570 €,Domiciliación
+18,Fuera De Plazo,2023,Qtr 1,enero,5,CT0086,PG01283,490 €,Efectivo
+9,Fuera De Plazo,2023,Qtr 1,enero,5,CT0136,PG02059,1540 €,Bizum
+9,Fuera De Plazo,2023,Qtr 1,febrero,5,CT0026,PG00411,1070 €,Bizum
+27,Fuera De Plazo,2023,Qtr 1,marzo,5,CT0128,PG01912,1470 €,Efectivo
+28,Fuera De Plazo,2023,Qtr 2,abril,5,CT0115,PG01736,1500 €,Transferencia
+8,Fuera De Plazo,2023,Qtr 2,mayo,5,CT0015,PG00265,910 €,Efectivo
+7,Fuera De Plazo,2023,Qtr 2,junio,5,0088,PG01325,940 €,Bizum
+23,Fuera De Plazo,2023,Qtr 2,junio,5,CT0002,PG00024,620 €,Transferencia
+17,Fuera De Plazo,2023,Qtr 2,junio,5,CT0115,PG01738,1500 €,Domiciliación
+11,Fuera De Plazo,2023,Qtr 2,junio,5,CT0135,PG02051,760 €,Domiciliación
+15,Fuera De Plazo,2023,Qtr 3,julio,5,ct-0052,PG00816,2170 €,Efectivo
+22,Fuera De Plazo,2023,Qtr 3,julio,5,CT0053,PG00837,960 €,Bizum
+11,Fuera De Plazo,2023,Qtr 3,julio,5,CT0063,PG00976,720 €,Domiciliación
+8,Fuera De Plazo,2023,Qtr 3,julio,5,CT0131,PG01986,470 €,Bizum
+7,Fuera De Plazo,2023,Qtr 3,agosto,5,CT0110,PG01667,2220 €,Transferencia
+17,Fuera De Plazo,2023,Qtr 3,septiembre,5,CT0061,PG00934,1440 €,Bizum
+5,Fuera De Plazo,2023,Qtr 3,septiembre,5,CT0084,PG01267,1950 €,Bizum
+99,Fuera De Plazo,2023,Qtr 3,septiembre,5,CT0115,PG01741,1500 €,Efectivo
+14,Fuera De Plazo,2023,Qtr 4,octubre,5,CT0002,PG00028,620 €,Domiciliación
+7,Fuera De Plazo,2023,Qtr 4,octubre,5,ct0009,PG00169,580 €,Efectivo
+14,Fuera De Plazo,2023,Qtr 4,octubre,5,CT0043,PG00628,1090 €,Bizum
+20,Fuera De Plazo,2023,Qtr 4,octubre,5,CT0069,PG01044,1490 €,Transferencia
+15,Fuera De Plazo,2023,Qtr 4,octubre,5,CT0115,PG01742,1500 €,Transferencia
+20,Fuera De Plazo,2023,Qtr 4,octubre,5,CT0127,PG01883,1610 €,Bizum
+8,Fuera De Plazo,2023,Qtr 4,noviembre,5,ct0009,PG00170,580 €,Domiciliación
+23,Fuera De Plazo,2023,Qtr 4,noviembre,5,CT0042,PG00620,2710 €,Efectivo
+23,Fuera De Plazo,2023,Qtr 4,noviembre,5,CT0053,PG00841,960 €,Bizum
+29,Fuera De Plazo,2023,Qtr 4,noviembre,5,CT0058,PG00899,1410 €,Efectivo
+10,Fuera De Plazo,2023,Qtr 4,noviembre,5,CT0061,PG00936,1440 €,Efectivo
+26,Fuera De Plazo,2023,Qtr 4,noviembre,5,CT0084,PG01269,1950 €,Domiciliación
+24,Fuera De Plazo,2024,Qtr 1,enero,5,ct0009,PG00172,580 €,Efectivo
+17,Fuera De Plazo,2024,Qtr 1,enero,5,CT0048,PG00732,1590 €,Efectivo
+27,Fuera De Plazo,2024,Qtr 1,enero,5,CT0058,PG00901,1410 €,Efectivo
+30,Fuera De Plazo,2024,Qtr 1,enero,5,CT0061,PG00938,1440 €,Bizum
+12,Fuera De Plazo,2024,Qtr 1,enero,5,CT0091,PG01375,950 €,Bizum
+14,Fuera De Plazo,2024,Qtr 1,enero,5,CT0118,PG01768,670 €,Transferencia
+24,Fuera De Plazo,2024,Qtr 1,enero,5,ct-0127,PG01886,1610 €,Bizum
+13,Fuera De Plazo,2024,Qtr 1,febrero,5,CT0011,PG00181,690 €,Recibo
+17,Fuera De Plazo,2024,Qtr 1,febrero,5,CT0095,PG01458,2070 €,Domiciliación
+26,Fuera De Plazo,2024,Qtr 1,marzo,5,CT0036,PG00547,1200 €,Bizum
+25,Fuera De Plazo,2024,Qtr 1,marzo,5,CT0042,PG00624,2710 €,Domiciliación
+10,Fuera De Plazo,2024,Qtr 1,marzo,5,CT0111,PG01693,1020 €,Domiciliación
+26,Fuera De Plazo,2024,Qtr 2,abril,5,CT0049,PG00756,2090 €,Bizum
+23,Fuera De Plazo,2024,Qtr 2,abril,5,CT0063,PG00985,720 €,Bizum
+15,Fuera De Plazo,2024,Qtr 2,abril,5,CT0084,PG01274,1950 €,Efectivo
+18,Fuera De Plazo,2024,Qtr 2,abril,5,CT0086,PG01298,490 €,Domiciliación
+14,Fuera De Plazo,2024,Qtr 2,mayo,5,CT0012,PG00207,800 €,Domiciliación
+23,Fuera De Plazo,2024,Qtr 2,mayo,5,CT0025,PG00406,1860 €,Efectivo
+29,Fuera De Plazo,2024,Qtr 2,mayo,5,CT0092,PG01407,980 €,Bizum
+13,Fuera De Plazo,2024,Qtr 2,junio,5,CT0012,PG00208,800 €,Transferencia
+9,Fuera De Plazo,2024,Qtr 2,junio,5,CT0107,PG01611,340 €,Transferencia
+28,Fuera De Plazo,2024,Qtr 2,junio,5,CT0111,PG01696,1020 €,Efectivo
+9,Fuera De Plazo,2024,Qtr 2,junio,5,CT0122,PG01803,2670 €,Transferencia
+30,Fuera De Plazo,2024,Qtr 3,julio,5,CT0020,PG00321,720 €,Efectivo
+24,Fuera De Plazo,2024,Qtr 3,julio,5,CT-0057,PG00890,1500 €,Transferencia
+14,Fuera De Plazo,2024,Qtr 3,julio,5,CT0084,PG01277,1950 €,Domiciliación
+26,Fuera De Plazo,2024,Qtr 3,julio,5,CT0107,PG01612,340 €,Efectivo
+6,Fuera De Plazo,2024,Qtr 3,julio,5,CT0109,PG01645,2070 €,Recibo
+8,Fuera De Plazo,2024,Qtr 3,julio,5,CT0130,PG01961,730 €,Efectivo
+8,Fuera De Plazo,2024,Qtr 3,julio,5,CT0149,PG02218,2320 €,Efectivo
+18,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0050,PG00773,750 €,Transferencia
+15,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0069,PG01054,1490 €,Efectivo
+11,Fuera De Plazo,2024,Qtr 3,agosto,5,ct0073,PG01109,1760 €,Transferencia
+20,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0086,PG01302,490 €,Bizum
+30,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0100,PG01515,2990 €,Efectivo
+27,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0105,PG01592,890 €,Recibo
+22,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0108,PG01643,1420 €,Domiciliación
+24,Fuera De Plazo,2024,Qtr 3,agosto,5,CT0140,PG02111,1070 €,Domiciliación
+20,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0046,PG00687,480 €,Domiciliación
+21,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0079,PG01190,460 €,Domiciliación
+12,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0086,PG01303,490 €,Efectivo
+16,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0093,PG01411,720 €,Efectivo
+23,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0107,PG01614,340 €,Transferencia
+30,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0128,PG01930,1470 €,Efectivo
+25,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0132,PG02014,2090 €,Recibo
+11,Fuera De Plazo,2024,Qtr 3,septiembre,5,CT0150,PG02230,1680 €,Efectivo
+18,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0032,PG00500,1790 €,Efectivo
+22,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0061,PG00947,1440 €,Bizum
+29,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0063,PG00991,720 €,Domiciliación
+7,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0090,PG01359,1230 €,Bizum
+17,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0112,PG01702,1600 €,Recibo
+25,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0125,PG01852,1750 €,Domiciliación
+16,Fuera De Plazo,2024,Qtr 4,octubre,5,CT0128,PG01931,1470 €,Domiciliación
+23,Fuera De Plazo,2024,Qtr 4,noviembre,5,CT 0031,PG00481,470 €,Transferencia
+23,Fuera De Plazo,2024,Qtr 4,noviembre,5,CT0008,PG00137,1450 €,Transferencia
+10,Fuera De Plazo,2024,Qtr 4,noviembre,5,CT0130,PG01965,730 €,Efectivo
+28,Fuera De Plazo,2024,Qtr 4,noviembre,5,CT0133,PG02018,1420 €,Transferencia
+15,Fuera De Plazo,2024,Qtr 4,noviembre,5,CT0142,PG02142,2240 €,Efectivo
+23,Fuera De Plazo,2024,Qtr 4,diciembre,5,CT0089,PG01334,760 €,Domiciliación
+30,Fuera De Plazo,2024,Qtr 4,diciembre,5,CT0109,PG01650,2070 €,Transferencia
+28,Fuera De Plazo,2024,Qtr 4,diciembre,5,CT0149,PG02223,2320 €,Efectivo
+28,Fuera De Plazo,2025,Qtr 1,enero,5,CT0011,PG00192,690 €,Transferencia
+6,Fuera De Plazo,2025,Qtr 1,enero,5,CT0023,PG00359,1210 €,Domiciliación
+13,Fuera De Plazo,2025,Qtr 1,enero,5,CT0031,PG00483,470 €,Efectivo
+22,Fuera De Plazo,2025,Qtr 1,enero,5,CT0057,PG00896,1500 €,Transferencia
+9,Fuera De Plazo,2025,Qtr 1,enero,5,CT0068,PG01040,1470 €,Domiciliación
+10,Fuera De Plazo,2025,Qtr 1,febrero,5,CT-0044,PG00661,1460 €,Transferencia
+20,Fuera De Plazo,2025,Qtr 1,febrero,5,CT0074,PG01129,2720 €,Efectivo
+19,Fuera De Plazo,2025,Qtr 1,febrero,5,CT0093,PG01416,720 €,Transferencia
+16,Fuera De Plazo,2025,Qtr 1,febrero,5,CT0124,PG01823,580 €,Efectivo
+16,Fuera De Plazo,2025,Qtr 1,febrero,5,CT0140,PG02117,1070 €,Efectivo
+24,Fuera De Plazo,2025,Qtr 1,marzo,5,CT0013,PG00231,1670 €,Efectivo
+7,Fuera De Plazo,2025,Qtr 1,marzo,5,CT0059,PG00907,760 €,Bizum
+20,Fuera De Plazo,2025,Qtr 1,marzo,5,ct-0069,PG01061,1490 €,Domiciliación
+10,Fuera De Plazo,2025,Qtr 1,marzo,5,CT0078,PG01173,800 €,Domiciliación
+28,Fuera De Plazo,2025,Qtr 1,marzo,5,CT0150,PG02236,1680 €,Efectivo
+30,Fuera De Plazo,2025,Qtr 2,abril,5,CT0011,PG00195,690 €,Efectivo
+7,Fuera De Plazo,2025,Qtr 2,abril,5,CT0013,PG00232,1670 €,Transferencia
+7,Fuera De Plazo,2025,Qtr 2,abril,5,CT0022,PG00348,990 €,Transferencia
+26,Fuera De Plazo,2025,Qtr 2,abril,5,CT0046,PG00694,480 €,Transferencia
+18,Fuera De Plazo,2025,Qtr 2,abril,5,CT0050,PG00781,750 €,Efectivo
+5,Fuera De Plazo,2025,Qtr 2,abril,5,CT0055,PG00865,900 €,Domiciliación
+17,Fuera De Plazo,2025,Qtr 2,abril,5,CT0067,PG01027,1620 €,Bizum
+18,Fuera De Plazo,2025,Qtr 2,abril,5,CT0099,PG01494,1720 €,Bizum
+7,Fuera De Plazo,2025,Qtr 2,mayo,5,CT0020,PG00331,720 €,Domiciliación
+25,Fuera De Plazo,2025,Qtr 2,mayo,5,CT0033,PG00519,650 €,Domiciliación
+20,Fuera De Plazo,2025,Qtr 2,mayo,5,CT0091,PG01391,950 €,Efectivo
+23,Fuera De Plazo,2025,Qtr 2,mayo,5,CT0150,PG02238,1680 €,Recibo
+27,Fuera De Plazo,2025,Qtr 2,junio,5,CT0032,PG00508,1790 €,Domiciliación
+28,Fuera De Plazo,2025,Qtr 2,junio,5,CT0043,PG00648,1090 €,Domiciliación
+30,Fuera De Plazo,2025,Qtr 2,junio,5,CT0062,PG00957,1860 €,Bizum
+25,Fuera De Plazo,2025,Qtr 2,junio,5,CT0067,PG01029,1620 €,Bizum
+15,Fuera De Plazo,2025,Qtr 2,junio,5,CT0078,PG01176,800 €,Bizum
+19,Fuera De Plazo,2025,Qtr 2,junio,5,CT0113,PG01712,2770 €,Efectivo
+26,Fuera De Plazo,2025,Qtr 2,junio,5,CT0137,PG02067,490 €,Transferencia
+30,Fuera De Plazo,2025,Qtr 3,julio,5,CT0022,PG00351,990 €,Bizum
+29,Fuera De Plazo,2025,Qtr 3,julio,5,ct0073,PG01120,1760 €,Transferencia
+24,Fuera De Plazo,2025,Qtr 3,julio,5,CT0074,PG01134,2720 €,Domiciliación
+7,Fuera De Plazo,2025,Qtr 3,julio,5,CT0124,PG01828,580 €,Recibo
+18,Fuera De Plazo,2025,Qtr 3,julio,5,CT0134,PG02041,590 €,Bizum
+21,Fuera De Plazo,2025,Qtr 3,julio,5,ct0147,PG02195,850 €,Transferencia
+11,Fuera De Plazo,2025,Qtr 3,agosto,5,CT 0065,PG01008,2010 €,Domiciliación
+22,Fuera De Plazo,2025,Qtr 3,agosto,5,CT 0091,PG01394,950 €,Bizum
+10,Fuera De Plazo,2025,Qtr 3,agosto,5,CT0027,PG00431,780 €,Transferencia
+5,Fuera De Plazo,2025,Qtr 3,agosto,5,CT0031,PG00490,470 €,Bizum
+29,Fuera De Plazo,2025,Qtr 3,agosto,5,CT0033,PG00522,650 €,Transferencia
+17,Fuera De Plazo,2025,Qtr 3,agosto,5,CT0137,PG02069,490 €,Transferencia
+19,Fuera De Plazo,2025,Qtr 3,agosto,5,CT0141,PG02133,520 €,Domiciliación
+28,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0007,PG00118,1080 €,Domiciliación
+30,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT-0035,PG00539,950 €,Efectivo
+22,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0045,PG00675,1440 €,Domiciliación
+22,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0051,PG00808,520 €,Efectivo
+10,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0072,PG01105,670 €,Transferencia
+22,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0089,PG01343,760 €,Transferencia
+17,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0137,PG02070,490 €,Bizum
+23,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0139,PG02095,640 €,Domiciliación
+24,Fuera De Plazo,2025,Qtr 3,septiembre,5,CT0146,PG02184,1320 €,Domiciliación
+15,Fuera De Plazo,2025,Qtr 4,octubre,5,CT 0079,PG01203,460 €,Bizum
+9,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0012,PG00224,800 €,Efectivo
+29,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0018,PG00296,2120 €,Bizum
+21,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0019,PG00313,2710 €,Efectivo
+29,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0046,PG00700,480 €,Domiciliación
+20,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0069,PG01068,1490 €,Bizum
+21,Fuera De Plazo,2025,Qtr 4,octubre,5,ct-0077,PG01165,540 €,Transferencia
+14,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0082,PG01239,740 €,Transferencia
+5,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0083,PG01253,560 €,Bizum
+6,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0091,PG01396,950 €,Bizum
+8,Fuera De Plazo,2025,Qtr 4,octubre,5,CT0116,PG01749,1310 €,Efectivo
+26,Fuera De Plazo,2025,Qtr 4,noviembre,5,CT0031,PG00493,470 €,Transferencia
+18,Fuera De Plazo,2025,Qtr 4,noviembre,5,CT0079,PG01204,460 €,Efectivo
+24,Fuera De Plazo,2025,Qtr 4,noviembre,5,ct-0090,PG01372,1230 €,Efectivo
+12,Fuera De Plazo,2025,Qtr 4,noviembre,5,CT0099,PG01501,1720 €,Efectivo
+25,Fuera De Plazo,2025,Qtr 4,noviembre,5,CT0139,PG02097,640 €,Recibo
+17,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0014,PG00254,2560 €,Bizum
+10,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0027,PG00435,780 €,Efectivo
+8,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0079,PG01205,460 €,Domiciliación
+11,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0113,PG01718,2770 €,Efectivo
+25,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0137,PG02073,490 €,Bizum
+19,Fuera De Plazo,2025,Qtr 4,diciembre,5,CT0139,PG02098,640 €,Domiciliación
+41,Impagado,2022,Qtr 1,marzo,5,CT0005,PG00083,0 €,Transferencia
+46,Impagado,2022,Qtr 2,abril,5,CT0106,PG01600,0 €,Bizum
+36,Impagado,2022,Qtr 2,mayo,5,CT0024,PG00374,0 €,Domiciliación
+55,Impagado,2022,Qtr 2,mayo,5,CT0060,PG00918,0 €,Domiciliación
+71,Impagado,2022,Qtr 2,junio,5,CT0048,PG00713,0 €,Domiciliación
+33,Impagado,2022,Qtr 2,junio,5,CT0049,PG00734,999 €,Transferencia
+58,Impagado,2022,Qtr 3,julio,5,CT0047,PG00707,0 €,Domiciliación
+82,Impagado,2022,Qtr 3,julio,5,CT-0126,PG01858,0 €,Transferencia
+63,Impagado,2022,Qtr 3,septiembre,5,CT0063,PG00966,0 €,Transferencia
+32,Impagado,2022,Qtr 4,octubre,5,CT0087,PG01311,0 €,Efectivo
+39,Impagado,2022,Qtr 4,diciembre,5,CT0015,PG00260,0 €,Bizum
+70,Impagado,2022,Qtr 4,diciembre,5,CT0034,PG00536,999 €,Bizum
+32,Impagado,2022,Qtr 4,diciembre,5,CT0114,PG01725,0 €,Efectivo
+34,Impagado,2023,Qtr 1,enero,5,CT0049,PG00741,0 €,Domiciliación
+40,Impagado,2023,Qtr 1,enero,5,CT0128,PG01910,0 €,Transferencia
+62,Impagado,2023,Qtr 1,marzo,5,CT0130,PG01945,999 €,Bizum
+73,Impagado,2023,Qtr 2,abril,5,CT0048,PG00723,0 €,Bizum
+82,Impagado,2023,Qtr 2,junio,5,CT0050,PG00759,0 €,Transferencia
+53,Impagado,2023,Qtr 3,julio,5,CT0025,PG00396,0 €,Efectivo
+78,Impagado,2023,Qtr 3,julio,5,CT0095,PG01451,0 €,Efectivo
+57,Impagado,2023,Qtr 3,julio,5,CT0128,PG01916,999 €,Domiciliación
+58,Impagado,2023,Qtr 3,agosto,5,CT0135,PG02053,0 €,Efectivo
+76,Impagado,2023,Qtr 4,octubre,5,CT0025,PG00399,0 €,Efectivo
+81,Impagado,2023,Qtr 4,noviembre,5,CT 0031,PG00469,0 €,Domiciliación
+62,Impagado,2023,Qtr 4,diciembre,5,CT0011,PG00179,0 €,Transferencia
+73,Impagado,2024,Qtr 1,febrero,5,CT0048,PG00733,0 €,Bizum
+30,Impagado,2024,Qtr 1,febrero,5,CT0091,PG01376,0 €,Transferencia
+57,Impagado,2024,Qtr 1,marzo,5,CT0012,PG00205,0 €,Domiciliación
+88,Impagado,2024,Qtr 2,abril,5,CT0012,PG00206,0 €,Domiciliación
+70,Impagado,2024,Qtr 2,abril,5,CT0105,PG01588,0 €,Transferencia
+47,Impagado,2024,Qtr 2,mayo,5,CT0043,PG00635,0 €,Transferencia
+59,Impagado,2024,Qtr 2,junio,5,0070,PG01093,0 €,Transferencia
+32,Impagado,2024,Qtr 2,junio,5,ct-0130,PG01960,0 €,Efectivo
+50,Impagado,2024,Qtr 3,julio,5,CT0002,PG00037,0 €,Transferencia
+72,Impagado,2024,Qtr 3,julio,5,CT0044,PG00654,0 €,Bizum
+40,Impagado,2024,Qtr 3,julio,5,CT0090,PG01356,0 €,Bizum
+64,Impagado,2024,Qtr 3,julio,5,CT0122,PG01804,0 €,Bizum
+48,Impagado,2024,Qtr 3,septiembre,5,CT0140,PG02112,999 €,Domiciliación
+86,Impagado,2024,Qtr 4,octubre,5,CT0027,PG00421,0 €,Efectivo
+84,Impagado,2025,Qtr 1,enero,5,CT0043,PG00643,0 €,Domiciliación
+44,Impagado,2025,Qtr 1,enero,5,CT0055,PG00862,0 €,Efectivo
+48,Impagado,2025,Qtr 1,enero,5,CT0067,PG01024,0 €,Bizum
+90,Impagado,2025,Qtr 1,enero,5,CT0141,PG02126,0 €,Transferencia
+50,Impagado,2025,Qtr 1,febrero,5,CT0004,PG00077,0 €,Bizum
+43,Impagado,2025,Qtr 1,marzo,5,CT0020,PG00329,0 €,Efectivo
+80,Impagado,2025,Qtr 2,abril,5,CT0004,PG00079,0 €,Domiciliación
+30,Impagado,2025,Qtr 2,abril,5,CT0019,PG00307,0 €,Efectivo
+61,Impagado,2025,Qtr 2,abril,5,CT0134,PG02038,0 €,Transferencia
+78,Impagado,2025,Qtr 2,mayo,5,0080,PG01212,0 €,Transferencia
+89,Impagado,2025,Qtr 2,mayo,5,CT0014,PG00247,0 €,Bizum
+42,Impagado,2025,Qtr 2,mayo,5,CT0022,PG00349,0 €,Efectivo
+73,Impagado,2025,Qtr 2,mayo,5,ct0147,PG02193,0 €,Domiciliación
+73,Impagado,2025,Qtr 2,junio,5,CT0030,PG00462,0 €,Efectivo
+30,Impagado,2025,Qtr 3,julio,5,CT0046,PG00697,0 €,Transferencia
+30,Impagado,2025,Qtr 3,julio,5,CT0089,PG01341,0 €,Bizum
+35,Impagado,2025,Qtr 3,julio,5,CT0100,PG01526,0 €,Domiciliación
+80,Impagado,2025,Qtr 3,agosto,5,CT0023,PG00366,0 €,Bizum
+65,Impagado,2025,Qtr 3,agosto,5,CT0142,PG02151,0 €,Efectivo
+34,Impagado,2025,Qtr 3,septiembre,5,CT0018,PG00295,0 €,Efectivo
+68,Impagado,2025,Qtr 3,septiembre,5,CT0103,PG01556,0 €,Domiciliación
+84,Impagado,2025,Qtr 3,septiembre,5,CT0150,PG02242,0 €,Efectivo
+61,Impagado,2025,Qtr 4,noviembre,5,CT0008,PG00149,0 €,Recibo
+73,Impagado,2025,Qtr 4,noviembre,5,CT0104,PG01571,999 €,Transferencia
+44,Impagado,2025,Qtr 4,diciembre,5,CT0001,PG00010,0 €,Bizum
+44,Impagado,2025,Qtr 4,diciembre,5,CT0031,PG00494,0 €,Domiciliación
+46,Impagado,2025,Qtr 4,diciembre,5,CT0035,PG00542,0 €,Efectivo
+0,Pagado,2022,Qtr 1,enero,5,CT0106,PG01597,2480 €,Transferencia
+0,Pagado,2022,Qtr 1,febrero,5,CT0024,PG00371,2190 €,Bizum
+0,Pagado,2022,Qtr 1,febrero,5,CT0056,PG00874,1570 €,Efectivo
+0,Pagado,2022,Qtr 1,febrero,5,CT0106,PG01598,2480 €,Transferencia
+0,Pagado,2022,Qtr 1,febrero,5,CT0126,PG01853,1400 €,Bizum
+0,Pagado,2022,Qtr 1,febrero,5,CT0138,PG02074,3020 €,Bizum
+0,Pagado,2022,Qtr 1,marzo,5,CT0024,PG00372,2190 €,Efectivo
+0,Pagado,2022,Qtr 1,marzo,5,CT0034,PG00527,1260 €,Efectivo
+0,Pagado,2022,Qtr 1,marzo,5,CT0047,PG00703,2030 €,Bizum
+0,Pagado,2022,Qtr 1,marzo,5,CT0048,PG00710,1590 €,Domiciliación
+0,Pagado,2022,Qtr 1,marzo,5,CT0056,PG00875,1570 €,Transferencia
+0,Pagado,2022,Qtr 1,marzo,5,CT0095,PG01435,2070 €,Transferencia
+0,Pagado,2022,Qtr 1,marzo,5,CT0102,PG01540,480 €,Efectivo
+0,Pagado,2022,Qtr 1,marzo,5,CT0106,PG01599,2480 €,Bizum
+0,Pagado,2022,Qtr 1,marzo,5,CT0126,PG01854,1400 €,Transferencia
+0,Pagado,2022,Qtr 2,abril,5,CT0024,PG00373,2190 €,Domiciliación
+0,Pagado,2022,Qtr 2,abril,5,CT0029,PG00448,1580 €,Efectivo
+0,Pagado,2022,Qtr 2,abril,5,CT0047,PG00704,2030 €,Efectivo
+0,Pagado,2022,Qtr 2,abril,5,CT0048,PG00711,1590 €,Bizum
+0,Pagado,2022,Qtr 2,abril,5,CT0056,PG00876,1570 €,Domiciliación
+0,Pagado,2022,Qtr 2,abril,5,CT0060,PG00917,1060 €,Bizum
+0,Pagado,2022,Qtr 2,abril,5,CT0098,PG01480,2370 €,Efectivo
+0,Pagado,2022,Qtr 2,abril,5,CT0102,PG01541,480 €,Transferencia
+0,Pagado,2022,Qtr 2,abril,5,CT0119,PG01776,320 €,Transferencia
+0,Pagado,2022,Qtr 2,abril,5,CT0126,PG01855,1400 €,Bizum
+0,Pagado,2022,Qtr 2,abril,5,CT0128,PG01901,1470 €,Domiciliación
+0,Pagado,2022,Qtr 2,abril,5,CT0138,PG02076,3020 €,Efectivo
+0,Pagado,2022,Qtr 2,mayo,5,CT0002,PG00011,620 €,Transferencia
+0,Pagado,2022,Qtr 2,mayo,5,CT0005,PG00085,980 €,Bizum
+0,Pagado,2022,Qtr 2,mayo,5,ct0009,PG00152,580 €,Efectivo
+0,Pagado,2022,Qtr 2,mayo,5,CT0029,PG00449,1580 €,Bizum
+0,Pagado,2022,Qtr 2,mayo,5,CT0034,PG00529,1260 €,Bizum
+0,Pagado,2022,Qtr 2,mayo,5,CT0037,PG00550,2640 €,Recibo
+0,Pagado,2022,Qtr 2,mayo,5,CT0047,PG00705,2030 €,Recibo
+0,Pagado,2022,Qtr 2,mayo,5,CT0048,PG00712,1590 €,Domiciliación
+0,Pagado,2022,Qtr 2,mayo,5,CT0054,PG00848,2200 €,Efectivo
+0,Pagado,2022,Qtr 2,mayo,5,CT0056,PG00877,1570 €,Transferencia
+0,Pagado,2022,Qtr 2,mayo,5,CT0098,PG01481,2370 €,Transferencia
+0,Pagado,2022,Qtr 2,mayo,5,CT0102,PG01542,480 €,Bizum
+0,Pagado,2022,Qtr 2,mayo,5,CT0106,PG01601,2480 €,Transferencia
+0,Pagado,2022,Qtr 2,mayo,5,CT0126,PG01856,1400 €,Efectivo
+0,Pagado,2022,Qtr 2,mayo,5,CT0127,PG01866,1610 €,Bizum
+0,Pagado,2022,Qtr 2,mayo,5,CT0128,PG01902,1470 €,Bizum
+0,Pagado,2022,Qtr 2,junio,5,CT0002,PG00012,620 €,Transferencia
+0,Pagado,2022,Qtr 2,junio,5,CT0005,PG00086,980 €,Transferencia
+0,Pagado,2022,Qtr 2,junio,5,ct0009,PG00153,580 €,Efectivo
+0,Pagado,2022,Qtr 2,junio,5,CT0029,PG00450,1580 €,Efectivo
+0,Pagado,2022,Qtr 2,junio,5,CT0034,PG00530,1260 €,Efectivo
+0,Pagado,2022,Qtr 2,junio,5,CT0037,PG00551,2640 €,Domiciliación
+0,Pagado,2022,Qtr 2,junio,5,CT0047,PG00706,2030 €,Bizum
+0,Pagado,2022,Qtr 2,junio,5,CT0053,PG00824,960 €,Bizum
+99,Pagado,2022,Qtr 2,junio,5,CT0060,PG00919,1060 €,Efectivo
+0,Pagado,2022,Qtr 2,junio,5,CT0095,PG01438,2070 €,Bizum
+0,Pagado,2022,Qtr 2,junio,5,CT0098,PG01482,2370 €,Domiciliación
+0,Pagado,2022,Qtr 2,junio,5,CT0102,PG01543,480 €,Transferencia
+0,Pagado,2022,Qtr 2,junio,5,CT0106,PG01602,2480 €,Domiciliación
+0,Pagado,2022,Qtr 2,junio,5,CT0114,PG01719,1090 €,Bizum
+0,Pagado,2022,Qtr 2,junio,5,CT0119,PG01778,320 €,Bizum
+0,Pagado,2022,Qtr 2,junio,5,CT0120,PG01783,670 €,Domiciliación
+0,Pagado,2022,Qtr 2,junio,5,CT0127,PG01867,1610 €,Transferencia
+0,Pagado,2022,Qtr 3,julio,5,CT0002,PG00013,620 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0005,PG00087,980 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0015,PG00255,910 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0024,PG00376,2190 €,Transferencia
+0,Pagado,2022,Qtr 3,julio,5,CT0025,PG00384,1860 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,ct-0029,PG00451,1580 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0034,PG00531,1260 €,Transferencia
+0,Pagado,2022,Qtr 3,julio,5,CT0048,PG00714,1590 €,Bizum
+0,Pagado,2022,Qtr 3,julio,5,CT0049,PG00735,2090 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,CT0053,PG00825,960 €,Bizum
+0,Pagado,2022,Qtr 3,julio,5,CT0054,PG00850,2200 €,Recibo
+0,Pagado,2022,Qtr 3,julio,5,CT0056,PG00879,1570 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,CT0060,PG00920,1060 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT-0063,PG00964,720 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,CT0071,PG01095,1730 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0095,PG01439,2070 €,Bizum
+0,Pagado,2022,Qtr 3,julio,5,CT0098,PG01483,2370 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0102,PG01544,480 €,Transferencia
+0,Pagado,2022,Qtr 3,julio,5,CT0106,PG01603,2480 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,CT0114,PG01720,1090 €,Efectivo
+0,Pagado,2022,Qtr 3,julio,5,CT0119,PG01779,320 €,Bizum
+0,Pagado,2022,Qtr 3,julio,5,CT0127,PG01868,1610 €,Domiciliación
+0,Pagado,2022,Qtr 3,julio,5,CT0128,PG01904,1470 €,Bizum
+0,Pagado,2022,Qtr 3,julio,5,CT0138,PG02079,3020 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0002,PG00014,620 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0005,PG00088,980 €,Recibo
+0,Pagado,2022,Qtr 3,agosto,5,ct0009,PG00155,580 €,Domiciliación
+0,Pagado,2022,Qtr 3,agosto,5,CT0015,PG00256,910 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0024,PG00377,2190 €,Recibo
+0,Pagado,2022,Qtr 3,agosto,5,CT0025,PG00385,1860 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,ct-0029,PG00452,1580 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0037,PG00553,2640 €,Recibo
+0,Pagado,2022,Qtr 3,agosto,5,CT0047,PG00708,2030 €,Bizum
+0,Pagado,2022,Qtr 3,agosto,5,CT0048,PG00715,1590 €,Bizum
+0,Pagado,2022,Qtr 3,agosto,5,CT0049,PG00736,2090 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0054,PG00851,2200 €,Bizum
+0,Pagado,2022,Qtr 3,agosto,5,CT0056,PG00880,1570 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0060,PG00921,1060 €,Bizum
+0,Pagado,2022,Qtr 3,agosto,5,CT0063,PG00965,720 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0070,PG01071,650 €,Bizum
+0,Pagado,2022,Qtr 3,agosto,5,CT0071,PG01096,1730 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0087,PG01309,2640 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0095,PG01440,2070 €,Domiciliación
+0,Pagado,2022,Qtr 3,agosto,5,CT0098,PG01484,2370 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0102,PG01545,480 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0106,PG01604,2480 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0114,PG01721,1090 €,Domiciliación
+0,Pagado,2022,Qtr 3,agosto,5,CT0119,PG01780,320 €,Efectivo
+0,Pagado,2022,Qtr 3,agosto,5,CT0120,PG01785,670 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0126,PG01859,1400 €,Transferencia
+0,Pagado,2022,Qtr 3,agosto,5,CT0127,PG01869,1610 €,Domiciliación
+0,Pagado,2022,Qtr 3,agosto,5,CT0138,PG02080,3020 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,0120,PG01786,670 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0002,PG00015,620 €,Transferencia
+0,Pagado,2022,Qtr 3,septiembre,5,CT0005,PG00089,980 €,Domiciliación
+0,Pagado,2022,Qtr 3,septiembre,5,ct0009,PG00156,580 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0015,PG00257,910 €,Domiciliación
+0,Pagado,2022,Qtr 3,septiembre,5,CT0024,PG00378,2190 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0025,PG00386,1860 €,Recibo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0029,PG00453,1580 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0034,PG00533,1260 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0037,PG00554,2640 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0047,PG00709,2030 €,Bizum
+99,Pagado,2022,Qtr 3,septiembre,5,CT0048,PG00716,1590 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0049,PG00737,2090 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0053,PG00827,960 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0054,PG00852,2200 €,Domiciliación
+0,Pagado,2022,Qtr 3,septiembre,5,CT0056,PG00881,1570 €,Transferencia
+0,Pagado,2022,Qtr 3,septiembre,5,CT0060,PG00922,1060 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0070,PG01072,650 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0071,PG01097,1730 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0084,PG01255,1950 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0095,PG01441,2070 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0098,PG01485,2370 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0106,PG01605,2480 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0114,PG01722,1090 €,Efectivo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0119,PG01781,320 €,Domiciliación
+0,Pagado,2022,Qtr 3,septiembre,5,CT0126,PG01860,1400 €,Recibo
+0,Pagado,2022,Qtr 3,septiembre,5,CT0127,PG01870,1610 €,Bizum
+0,Pagado,2022,Qtr 3,septiembre,5,CT0128,PG01906,1470 €,Domiciliación
+0,Pagado,2022,Qtr 3,septiembre,5,CT0138,PG02081,3020 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0002,PG00016,620 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0005,PG00090,980 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,ct0009,PG00157,580 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0015,PG00258,910 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0024,PG00379,2190 €,Recibo
+0,Pagado,2022,Qtr 4,octubre,5,CT0025,PG00387,1860 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0037,PG00555,2640 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0048,PG00717,1590 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0049,PG00738,2090 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0053,PG00828,960 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0054,PG00853,2200 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0060,PG00923,1060 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0063,PG00967,720 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0070,PG01073,650 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0071,PG01098,1730 €,Transferencia
+99,Pagado,2022,Qtr 4,octubre,5,CT0076,PG01146,1030 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0084,PG01256,1950 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0095,PG01442,2070 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0098,PG01486,2370 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0102,PG01547,480 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0106,PG01606,2480 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT-0108,PG01621,1420 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0114,PG01723,1090 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0120,PG01787,670 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0126,PG01861,1400 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0127,PG01871,1610 €,Bizum
+0,Pagado,2022,Qtr 4,octubre,5,CT0128,PG01907,1470 €,Transferencia
+0,Pagado,2022,Qtr 4,octubre,5,CT0138,PG02082,3020 €,Domiciliación
+0,Pagado,2022,Qtr 4,octubre,5,CT0148,PG02201,2360 €,Transferencia
+0,Pagado,2022,Qtr 4,noviembre,5,0015,PG00259,910 €,Domiciliación
+0,Pagado,2022,Qtr 4,noviembre,5,CT0002,PG00017,620 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,ct0009,PG00158,580 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0021,PG00340,490 €,Recibo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0024,PG00380,2190 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0025,PG00388,1860 €,Recibo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0026,PG00408,1070 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0034,PG00535,1260 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0053,PG00829,960 €,Transferencia
+0,Pagado,2022,Qtr 4,noviembre,5,CT0054,PG00854,2200 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT-0060,PG00924,1060 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0063,PG00968,720 €,Transferencia
+0,Pagado,2022,Qtr 4,noviembre,5,CT0070,PG01074,650 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0076,PG01147,1030 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0095,PG01443,2070 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0098,PG01487,2370 €,Domiciliación
+0,Pagado,2022,Qtr 4,noviembre,5,CT0102,PG01548,480 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0108,PG01622,1420 €,Transferencia
+0,Pagado,2022,Qtr 4,noviembre,5,CT0115,PG01731,1500 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0120,PG01788,670 €,Domiciliación
+0,Pagado,2022,Qtr 4,noviembre,5,CT0125,PG01829,1750 €,Efectivo
+0,Pagado,2022,Qtr 4,noviembre,5,CT0126,PG01862,1400 €,Domiciliación
+0,Pagado,2022,Qtr 4,noviembre,5,CT0127,PG01872,1610 €,Bizum
+0,Pagado,2022,Qtr 4,noviembre,5,CT0128,PG01908,1470 €,Transferencia
+0,Pagado,2022,Qtr 4,noviembre,5,CT0138,PG02083,3020 €,Domiciliación
+0,Pagado,2022,Qtr 4,noviembre,5,CT0148,PG02202,2360 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,0087,PG01313,2640 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT 0131,PG01979,470 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0002,PG00018,620 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,ct0009,PG00159,580 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0017,PG00282,1200 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0021,PG00341,490 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0024,PG00381,2190 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0025,PG00389,1860 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0048,PG00719,1590 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0049,PG00740,2090 €,Domiciliación
+0,Pagado,2022,Qtr 4,diciembre,5,ct-0053,PG00830,960 €,Domiciliación
+0,Pagado,2022,Qtr 4,diciembre,5,CT0056,PG00884,1570 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0060,PG00925,1060 €,Domiciliación
+0,Pagado,2022,Qtr 4,diciembre,5,CT0063,PG00969,720 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0070,PG01075,650 €,Domiciliación
+0,Pagado,2022,Qtr 4,diciembre,5,CT0076,PG01148,1030 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0084,PG01258,1950 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0086,PG01282,490 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0102,PG01549,480 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0106,PG01608,2480 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0108,PG01623,1420 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0120,PG01789,670 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0125,PG01830,1750 €,Efectivo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0126,PG01863,1400 €,Transferencia
+0,Pagado,2022,Qtr 4,diciembre,5,CT0127,PG01873,1610 €,Bizum
+0,Pagado,2022,Qtr 4,diciembre,5,CT0128,PG01909,1470 €,Recibo
+0,Pagado,2022,Qtr 4,diciembre,5,CT0138,PG02084,3020 €,Domiciliación
+0,Pagado,2022,Qtr 4,diciembre,5,CT0148,PG02203,2360 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,0148,PG02204,2360 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,CT 0115,PG01733,1500 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0002,PG00019,620 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,ct0009,PG00160,580 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0015,PG00261,910 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0017,PG00283,1200 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0025,PG00390,1860 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0026,PG00410,1070 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0054,PG00856,2200 €,Bizum
+0,Pagado,2023,Qtr 1,enero,5,CT0060,PG00926,1060 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,CT0063,PG00970,720 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0076,PG01149,1030 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0084,PG01259,1950 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0087,PG01314,2640 €,Bizum
+0,Pagado,2023,Qtr 1,enero,5,CT0095,PG01445,2070 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0098,PG01489,2370 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0102,PG01550,480 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0108,PG01624,1420 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,CT0114,PG01726,1090 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0120,PG01790,670 €,Domiciliación
+0,Pagado,2023,Qtr 1,enero,5,CT0125,PG01831,1750 €,Bizum
+0,Pagado,2023,Qtr 1,enero,5,CT0126,PG01864,1400 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,CT0127,PG01874,1610 €,Transferencia
+0,Pagado,2023,Qtr 1,enero,5,CT0131,PG01980,470 €,Efectivo
+0,Pagado,2023,Qtr 1,enero,5,CT0138,PG02085,3020 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,ct0009,PG00161,580 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0015,PG00262,910 €,Efectivo
+0,Pagado,2023,Qtr 1,febrero,5,CT0017,PG00284,1200 €,Transferencia
+0,Pagado,2023,Qtr 1,febrero,5,CT0025,PG00391,1860 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0034,PG00538,1260 €,Recibo
+0,Pagado,2023,Qtr 1,febrero,5,CT0048,PG00721,1590 €,Recibo
+0,Pagado,2023,Qtr 1,febrero,5,CT0053,PG00832,960 €,Transferencia
+0,Pagado,2023,Qtr 1,febrero,5,CT0054,PG00857,2200 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0060,PG00927,1060 €,Transferencia
+0,Pagado,2023,Qtr 1,febrero,5,CT0063,PG00971,720 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0070,PG01077,650 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0076,PG01150,1030 €,Transferencia
+0,Pagado,2023,Qtr 1,febrero,5,CT0084,PG01260,1950 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0086,PG01284,490 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0087,PG01315,2640 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0088,PG01321,940 €,Domiciliación
+0,Pagado,2023,Qtr 1,febrero,5,CT0095,PG01446,2070 €,Domiciliación
+0,Pagado,2023,Qtr 1,febrero,5,CT0098,PG01490,2370 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0102,PG01551,480 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0105,PG01574,890 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0108,PG01625,1420 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0114,PG01727,1090 €,Efectivo
+0,Pagado,2023,Qtr 1,febrero,5,CT0115,PG01734,1500 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0120,PG01791,670 €,Domiciliación
+0,Pagado,2023,Qtr 1,febrero,5,CT0125,PG01832,1750 €,Efectivo
+0,Pagado,2023,Qtr 1,febrero,5,CT0127,PG01875,1610 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0131,PG01981,470 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0136,PG02060,1540 €,Bizum
+0,Pagado,2023,Qtr 1,febrero,5,CT0138,PG02086,3020 €,Transferencia
+0,Pagado,2023,Qtr 1,febrero,5,CT0148,PG02205,2360 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,0086,PG01285,490 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT 0060,PG00928,1060 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0002,PG00021,620 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,ct0009,PG00162,580 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0015,PG00263,910 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0017,PG00285,1200 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0025,PG00392,1860 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0026,PG00412,1070 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0028,PG00436,910 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0048,PG00722,1590 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0049,PG00743,2090 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0052,PG00812,2170 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,ct-0053,PG00833,960 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0054,PG00858,2200 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0063,PG00972,720 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,ct-0070,PG01078,650 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0076,PG01151,1030 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0084,PG01261,1950 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0087,PG01316,2640 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0088,PG01322,940 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0095,PG01447,2070 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0096,PG01459,2000 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0098,PG01491,2370 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0105,PG01575,890 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0108,PG01626,1420 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0114,PG01728,1090 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0115,PG01735,1500 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0120,PG01792,670 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0125,PG01833,1750 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0127,PG01876,1610 €,Efectivo
+0,Pagado,2023,Qtr 1,marzo,5,CT0131,PG01982,470 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0135,PG02048,760 €,Bizum
+0,Pagado,2023,Qtr 1,marzo,5,CT0136,PG02061,1540 €,Transferencia
+0,Pagado,2023,Qtr 1,marzo,5,CT0138,PG02087,3020 €,Domiciliación
+0,Pagado,2023,Qtr 1,marzo,5,CT0148,PG02206,2360 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,0086,PG01286,490 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,ct-0002,PG00022,620 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,ct0009,PG00163,580 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0015,PG00264,910 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0017,PG00286,1200 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0025,PG00393,1860 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0026,PG00413,1070 €,Bizum
+0,Pagado,2023,Qtr 2,abril,5,CT0028,PG00437,910 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0053,PG00834,960 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0054,PG00859,2200 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0061,PG00929,1440 €,Recibo
+0,Pagado,2023,Qtr 2,abril,5,CT0063,PG00973,720 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0070,PG01079,650 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0076,PG01152,1030 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0084,PG01262,1950 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0087,PG01317,2640 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0088,PG01323,940 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0095,PG01448,2070 €,Bizum
+0,Pagado,2023,Qtr 2,abril,5,CT0096,PG01460,2000 €,Bizum
+0,Pagado,2023,Qtr 2,abril,5,CT0101,PG01532,4010 €,Bizum
+0,Pagado,2023,Qtr 2,abril,5,CT0105,PG01576,890 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0108,PG01627,1420 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0110,PG01663,2220 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0114,PG01729,1090 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0120,PG01793,670 €,Bizum
+0,Pagado,2023,Qtr 2,abril,5,CT0125,PG01834,1750 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0127,PG01877,1610 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0128,PG01913,1470 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0130,PG01946,730 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0131,PG01983,470 €,Domiciliación
+0,Pagado,2023,Qtr 2,abril,5,CT0135,PG02049,760 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0136,PG02062,1540 €,Transferencia
+0,Pagado,2023,Qtr 2,abril,5,CT0138,PG02088,3020 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0144,PG02167,1060 €,Efectivo
+0,Pagado,2023,Qtr 2,abril,5,CT0148,PG02207,2360 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,ct0009,PG00164,580 €,Efectivo
+0,Pagado,2023,Qtr 2,mayo,5,CT0017,PG00287,1200 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0025,PG00394,1860 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0026,PG00414,1070 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0028,PG00438,910 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0048,PG00724,1590 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0049,PG00745,2090 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0050,PG00758,750 €,Efectivo
+0,Pagado,2023,Qtr 2,mayo,5,CT0052,PG00814,2170 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0053,PG00835,960 €,Efectivo
+0,Pagado,2023,Qtr 2,mayo,5,CT0061,PG00930,1440 €,Efectivo
+0,Pagado,2023,Qtr 2,mayo,5,CT0063,PG00974,720 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0070,PG01080,650 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0076,PG01153,1030 €,Efectivo
+0,Pagado,2023,Qtr 2,mayo,5,CT0084,PG01263,1950 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0086,PG01287,490 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0087,PG01318,2640 €,Recibo
+0,Pagado,2023,Qtr 2,mayo,5,CT0088,PG01324,940 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0095,PG01449,2070 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0096,PG01461,2000 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0101,PG01533,4010 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0105,PG01577,890 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0110,PG01664,2220 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0114,PG01730,1090 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0125,PG01835,1750 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0127,PG01878,1610 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0128,PG01914,1470 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0130,PG01947,730 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0131,PG01984,470 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0135,PG02050,760 €,Domiciliación
+0,Pagado,2023,Qtr 2,mayo,5,CT0136,PG02063,1540 €,Transferencia
+0,Pagado,2023,Qtr 2,mayo,5,CT0138,PG02089,3020 €,Bizum
+0,Pagado,2023,Qtr 2,mayo,5,CT0144,PG02168,1060 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,0061,PG00931,1440 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT 0086,PG01288,490 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,ct0009,PG00165,580 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0015,PG00266,910 €,Transferencia
+0,Pagado,2023,Qtr 2,junio,5,CT0017,PG00288,1200 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0025,PG00395,1860 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0026,PG00415,1070 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0028,PG00439,910 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0048,PG00725,1590 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0049,PG00746,2090 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0052,PG00815,2170 €,Transferencia
+0,Pagado,2023,Qtr 2,junio,5,CT0053,PG00836,960 €,Recibo
+0,Pagado,2023,Qtr 2,junio,5,CT0063,PG00975,720 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0070,PG01081,650 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0076,PG01154,1030 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0084,PG01264,1950 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0087,PG01319,2640 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0096,PG01462,2000 €,Transferencia
+0,Pagado,2023,Qtr 2,junio,5,CT0101,PG01534,4010 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0105,PG01578,890 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0108,PG01629,1420 €,Transferencia
+0,Pagado,2023,Qtr 2,junio,5,CT0110,PG01665,2220 €,Efectivo
+0,Pagado,2023,Qtr 2,junio,5,CT0125,PG01836,1750 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0127,PG01879,1610 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0128,PG01915,1470 €,Bizum
+0,Pagado,2023,Qtr 2,junio,5,CT0130,PG01948,730 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0131,PG01985,470 €,Transferencia
+0,Pagado,2023,Qtr 2,junio,5,CT0136,PG02064,1540 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0138,PG02090,3020 €,Domiciliación
+0,Pagado,2023,Qtr 2,junio,5,CT0144,PG02169,1060 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0002,PG00025,620 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,ct0009,PG00166,580 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0015,PG00267,910 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,ct-0017,PG00289,1200 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0026,PG00416,1070 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0028,PG00440,910 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0040,PG00585,1110 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0042,PG00616,2710 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0049,PG00747,2090 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0050,PG00760,750 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0061,PG00932,1440 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0070,PG01082,650 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0076,PG01155,1030 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0084,PG01265,1950 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0086,PG01289,490 €,Recibo
+0,Pagado,2023,Qtr 3,julio,5,CT0087,PG01320,2640 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0088,PG01326,940 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0096,PG01463,2000 €,Efectivo
+0,Pagado,2023,Qtr 3,julio,5,CT0101,PG01535,4010 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0105,PG01579,890 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0108,PG01630,1420 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0110,PG01666,2220 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,ct-0115,PG01739,1500 €,Bizum
+0,Pagado,2023,Qtr 3,julio,5,CT0125,PG01837,1750 €,Efectivo
+0,Pagado,2023,Qtr 3,julio,5,CT0127,PG01880,1610 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0130,PG01949,730 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0135,PG02052,760 €,Domiciliación
+0,Pagado,2023,Qtr 3,julio,5,CT0144,PG02170,1060 €,Transferencia
+0,Pagado,2023,Qtr 3,julio,5,CT0148,PG02210,2360 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT 0148,PG02211,2360 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0002,PG00026,620 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,CT0004,PG00059,1410 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,CT0008,PG00122,1450 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,ct0009,PG00167,580 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT0015,PG00268,910 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,CT0017,PG00290,1200 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0025,PG00397,1860 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0026,PG00417,1070 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,ct-0028,PG00441,910 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0031,PG00466,470 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,CT0040,PG00586,1110 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0042,PG00617,2710 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0048,PG00727,1590 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0049,PG00748,2090 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0050,PG00761,750 €,Domiciliación
+0,Pagado,2023,Qtr 3,agosto,5,CT0052,PG00817,2170 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0053,PG00838,960 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,ct-0061,PG00933,1440 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0063,PG00977,720 €,Recibo
+0,Pagado,2023,Qtr 3,agosto,5,CT0070,PG01083,650 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0076,PG01156,1030 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,ct-0084,PG01266,1950 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0086,PG01290,490 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0088,PG01327,940 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT0095,PG01452,2070 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT0100,PG01503,2990 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0101,PG01536,4010 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0105,PG01580,890 €,Transferencia
+99,Pagado,2023,Qtr 3,agosto,5,CT0108,PG01631,1420 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0115,PG01740,1500 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,ct-0125,PG01838,1750 €,Efectivo
+0,Pagado,2023,Qtr 3,agosto,5,CT0127,PG01881,1610 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT0130,PG01950,730 €,Transferencia
+0,Pagado,2023,Qtr 3,agosto,5,CT0131,PG01987,470 €,Bizum
+0,Pagado,2023,Qtr 3,agosto,5,CT0140,PG02099,1070 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,0108,PG01632,1420 €,Recibo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0002,PG00027,620 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0004,PG00060,1410 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0008,PG00123,1450 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,ct0009,PG00168,580 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0015,PG00269,910 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0017,PG00291,1200 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0025,PG00398,1860 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0026,PG00418,1070 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0028,PG00442,910 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0031,PG00467,470 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0040,PG00587,1110 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0042,PG00618,2710 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0048,PG00728,1590 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0049,PG00749,2090 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0052,PG00818,2170 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0053,PG00839,960 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0063,PG00978,720 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0070,PG01084,650 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0076,PG01157,1030 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0086,PG01291,490 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0088,PG01328,940 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0092,PG01399,980 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0095,PG01453,2070 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0096,PG01465,2000 €,Recibo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0100,PG01504,2990 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0101,PG01537,4010 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0105,PG01581,890 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0110,PG01668,2220 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0111,PG01687,1020 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0118,PG01764,670 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0125,PG01839,1750 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0127,PG01882,1610 €,Domiciliación
+0,Pagado,2023,Qtr 3,septiembre,5,CT0128,PG01918,1470 €,Bizum
+0,Pagado,2023,Qtr 3,septiembre,5,CT0130,PG01951,730 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0131,PG01988,470 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0135,PG02054,760 €,Transferencia
+0,Pagado,2023,Qtr 3,septiembre,5,CT0140,PG02100,1070 €,Efectivo
+0,Pagado,2023,Qtr 3,septiembre,5,CT0148,PG02212,2360 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0004,PG00061,1410 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0008,PG00124,1450 €,Domiciliación
+0,Pagado,2023,Qtr 4,octubre,5,CT0015,PG00270,910 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0028,PG00443,910 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0031,PG00468,470 €,Recibo
+0,Pagado,2023,Qtr 4,octubre,5,CT0038,PG00556,920 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0040,PG00588,1110 €,Domiciliación
+0,Pagado,2023,Qtr 4,octubre,5,CT0042,PG00619,2710 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0048,PG00729,1590 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0049,PG00750,2090 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0050,PG00763,750 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0052,PG00819,2170 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0053,PG00840,960 €,Domiciliación
+0,Pagado,2023,Qtr 4,octubre,5,CT0058,PG00898,1410 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0061,PG00935,1440 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0063,PG00979,720 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0070,PG01085,650 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0084,PG01268,1950 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0086,PG01292,490 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0088,PG01329,940 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0090,PG01347,1230 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0092,PG01400,980 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0095,PG01454,2070 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0096,PG01466,2000 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0100,PG01505,2990 €,Domiciliación
+0,Pagado,2023,Qtr 4,octubre,5,CT0101,PG01538,4010 €,Bizum
+99,Pagado,2023,Qtr 4,octubre,5,CT0105,PG01582,890 €,Transferencia
+99,Pagado,2023,Qtr 4,octubre,5,CT0108,PG01633,1420 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0110,PG01669,2220 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0111,PG01688,1020 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0118,PG01765,670 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0125,PG01840,1750 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0128,PG01919,1470 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0130,PG01952,730 €,Domiciliación
+0,Pagado,2023,Qtr 4,octubre,5,CT0131,PG01989,470 €,Efectivo
+0,Pagado,2023,Qtr 4,octubre,5,CT0132,PG02003,2090 €,Transferencia
+0,Pagado,2023,Qtr 4,octubre,5,CT0135,PG02055,760 €,Bizum
+0,Pagado,2023,Qtr 4,octubre,5,CT0140,PG02101,1070 €,Recibo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0002,PG00029,620 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0004,PG00062,1410 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0008,PG00125,1450 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0015,PG00271,910 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0025,PG00400,1860 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0028,PG00444,910 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0036,PG00543,1200 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0038,PG00557,920 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0040,PG00589,1110 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0043,PG00629,1090 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0048,PG00730,1590 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0049,PG00751,2090 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0050,PG00764,750 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0063,PG00980,720 €,Transferencia
+99,Pagado,2023,Qtr 4,noviembre,5,CT0069,PG01045,1490 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0070,PG01086,650 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0079,PG01180,460 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0086,PG01293,490 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0088,PG01330,940 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0090,PG01348,1230 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0092,PG01401,980 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0095,PG01455,2070 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0096,PG01467,2000 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0100,PG01506,2990 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0101,PG01539,4010 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT-0105,PG01583,890 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0108,PG01634,1420 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0110,PG01670,2220 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0118,PG01766,670 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0125,PG01841,1750 €,Domiciliación
+0,Pagado,2023,Qtr 4,noviembre,5,CT0127,PG01884,1610 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0128,PG01920,1470 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0130,PG01953,730 €,Bizum
+0,Pagado,2023,Qtr 4,noviembre,5,CT0131,PG01990,470 €,Efectivo
+0,Pagado,2023,Qtr 4,noviembre,5,CT0132,PG02004,2090 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0135,PG02056,760 €,Transferencia
+0,Pagado,2023,Qtr 4,noviembre,5,CT0140,PG02102,1070 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,0111,PG01690,1020 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0002,PG00030,620 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0004,PG00063,1410 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0008,PG00126,1450 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,ct0009,PG00171,580 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0015,PG00272,910 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0025,PG00401,1860 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0028,PG00445,910 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0031,PG00470,470 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0036,PG00544,1200 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0038,PG00558,920 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0040,PG00590,1110 €,Recibo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0042,PG00621,2710 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0043,PG00630,1090 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0048,PG00731,1590 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0049,PG00752,2090 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0050,PG00765,750 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0052,PG00821,2170 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0053,PG00842,960 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0061,PG00937,1440 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0063,PG00981,720 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0069,PG01046,1490 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0070,PG01087,650 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0079,PG01181,460 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0084,PG01270,1950 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0086,PG01294,490 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0088,PG01331,940 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0090,PG01349,1230 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0091,PG01374,950 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0092,PG01402,980 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0095,PG01456,2070 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0096,PG01468,2000 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0100,PG01507,2990 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0105,PG01584,890 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0108,PG01635,1420 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0110,PG01671,2220 €,Domiciliación
+0,Pagado,2023,Qtr 4,diciembre,5,CT0118,PG01767,670 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0125,PG01842,1750 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0127,PG01885,1610 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0128,PG01921,1470 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0130,PG01954,730 €,Transferencia
+0,Pagado,2023,Qtr 4,diciembre,5,CT0131,PG01991,470 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0132,PG02005,2090 €,Bizum
+0,Pagado,2023,Qtr 4,diciembre,5,CT0135,PG02057,760 €,Efectivo
+0,Pagado,2023,Qtr 4,diciembre,5,CT0140,PG02103,1070 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,0053,PG00843,960 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0002,PG00031,620 €,Recibo
+0,Pagado,2024,Qtr 1,enero,5,CT0004,PG00064,1410 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0008,PG00127,1450 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0011,PG00180,690 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0015,PG00273,910 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0025,PG00402,1860 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0031,PG00471,470 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0036,PG00545,1200 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0038,PG00559,920 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0040,PG00591,1110 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0042,PG00622,2710 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0043,PG00631,1090 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0046,PG00679,480 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0049,PG00753,2090 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0050,PG00766,750 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0052,PG00822,2170 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0063,PG00982,720 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0069,PG01047,1490 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0070,PG01088,650 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0079,PG01182,460 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0084,PG01271,1950 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0086,PG01295,490 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0088,PG01332,940 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0090,PG01350,1230 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0092,PG01403,980 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0095,PG01457,2070 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0096,PG01469,2000 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0100,PG01508,2990 €,Domiciliación
+0,Pagado,2024,Qtr 1,enero,5,CT0105,PG01585,890 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0108,PG01636,1420 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0110,PG01672,2220 €,Bizum
+0,Pagado,2024,Qtr 1,enero,5,CT0111,PG01691,1020 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0125,PG01843,1750 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0128,PG01922,1470 €,Transferencia
+0,Pagado,2024,Qtr 1,enero,5,CT0130,PG01955,730 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0132,PG02006,2090 €,Efectivo
+0,Pagado,2024,Qtr 1,enero,5,CT0135,PG02058,760 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,0012,PG00204,800 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0002,PG00032,620 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0004,PG00065,1410 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0008,PG00128,1450 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,ct0009,PG00173,580 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0015,PG00274,910 €,Transferencia
+99,Pagado,2024,Qtr 1,febrero,5,CT0020,PG00316,720 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0025,PG00403,1860 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0031,PG00472,470 €,Recibo
+0,Pagado,2024,Qtr 1,febrero,5,CT0036,PG00546,1200 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0038,PG00560,920 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0040,PG00592,1110 €,Recibo
+0,Pagado,2024,Qtr 1,febrero,5,CT0042,PG00623,2710 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0043,PG00632,1090 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0046,PG00680,480 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0049,PG00754,2090 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0050,PG00767,750 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0052,PG00823,2170 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0053,PG00844,960 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0061,PG00939,1440 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0063,PG00983,720 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0069,PG01048,1490 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0070,PG01089,650 €,Recibo
+0,Pagado,2024,Qtr 1,febrero,5,CT0079,PG01183,460 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0084,PG01272,1950 €,Recibo
+0,Pagado,2024,Qtr 1,febrero,5,CT0086,PG01296,490 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0090,PG01351,1230 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0092,PG01404,980 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0096,PG01470,2000 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0100,PG01509,2990 €,Domiciliación
+0,Pagado,2024,Qtr 1,febrero,5,CT0105,PG01586,890 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0108,PG01637,1420 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0110,PG01673,2220 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0111,PG01692,1020 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0118,PG01769,670 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0125,PG01844,1750 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0127,PG01887,1610 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0128,PG01923,1470 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0130,PG01956,730 €,Recibo
+0,Pagado,2024,Qtr 1,febrero,5,CT0131,PG01993,470 €,Transferencia
+0,Pagado,2024,Qtr 1,febrero,5,CT0132,PG02007,2090 €,Bizum
+0,Pagado,2024,Qtr 1,febrero,5,CT0140,PG02105,1070 €,Efectivo
+0,Pagado,2024,Qtr 1,febrero,5,CT0149,PG02213,2320 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0002,PG00033,620 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0004,PG00066,1410 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0008,PG00129,1450 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,ct0009,PG00174,580 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0011,PG00182,690 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0020,PG00317,720 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0025,PG00404,1860 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0031,PG00473,470 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0038,PG00561,920 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0040,PG00593,1110 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0041,PG00594,2670 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0043,PG00633,1090 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0046,PG00681,480 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0049,PG00755,2090 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0051,PG00790,520 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0053,PG00845,960 €,Recibo
+0,Pagado,2024,Qtr 1,marzo,5,CT0057,PG00886,1500 €,Recibo
+0,Pagado,2024,Qtr 1,marzo,5,CT0058,PG00903,1410 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0061,PG00940,1440 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0063,PG00984,720 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0069,PG01049,1490 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0070,PG01090,650 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0079,PG01184,460 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0084,PG01273,1950 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0086,PG01297,490 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0090,PG01352,1230 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0091,PG01377,950 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0092,PG01405,980 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0100,PG01510,2990 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0105,PG01587,890 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0110,PG01674,2220 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0118,PG01770,670 €,Domiciliación
+0,Pagado,2024,Qtr 1,marzo,5,CT0122,PG01800,2670 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0125,PG01845,1750 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0127,PG01888,1610 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0128,PG01924,1470 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0130,PG01957,730 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0131,PG01994,470 €,Transferencia
+0,Pagado,2024,Qtr 1,marzo,5,CT0132,PG02008,2090 €,Bizum
+0,Pagado,2024,Qtr 1,marzo,5,CT0140,PG02106,1070 €,Efectivo
+0,Pagado,2024,Qtr 1,marzo,5,CT0149,PG02214,2320 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0002,PG00034,620 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0004,PG00067,1410 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0008,PG00130,1450 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0011,PG00183,690 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0020,PG00318,720 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0025,PG00405,1860 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0031,PG00474,470 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0036,PG00548,1200 €,Recibo
+0,Pagado,2024,Qtr 2,abril,5,CT0038,PG00562,920 €,Recibo
+0,Pagado,2024,Qtr 2,abril,5,CT0041,PG00595,2670 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0042,PG00625,2710 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0043,PG00634,1090 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0046,PG00682,480 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0050,PG00769,750 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0053,PG00846,960 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0057,PG00887,1500 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0058,PG00904,1410 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0061,PG00941,1440 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0069,PG01050,1490 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0070,PG01091,650 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0090,PG01353,1230 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0091,PG01378,950 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0092,PG01406,980 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0100,PG01511,2990 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0107,PG01609,340 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0108,PG01639,1420 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0110,PG01675,2220 €,Transferencia
+0,Pagado,2024,Qtr 2,abril,5,CT0111,PG01694,1020 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0118,PG01771,670 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0122,PG01801,2670 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0123,PG01808,480 €,Efectivo
+0,Pagado,2024,Qtr 2,abril,5,CT0125,PG01846,1750 €,Efectivo
+99,Pagado,2024,Qtr 2,abril,5,CT0127,PG01889,1610 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0128,PG01925,1470 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0130,PG01958,730 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0131,PG01995,470 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0132,PG02009,2090 €,Bizum
+0,Pagado,2024,Qtr 2,abril,5,CT0140,PG02107,1070 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0149,PG02215,2320 €,Domiciliación
+0,Pagado,2024,Qtr 2,abril,5,CT0150,PG02225,1680 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,0105,PG01589,890 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT 0049,PG00757,2090 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0002,PG00035,620 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0004,PG00068,1410 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0008,PG00131,1450 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT-0011,PG00184,690 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0020,PG00319,720 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0031,PG00475,470 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0032,PG00495,1790 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0036,PG00549,1200 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0038,PG00563,920 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0041,PG00596,2670 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0042,PG00626,2710 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0044,PG00652,1460 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0046,PG00683,480 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0050,PG00770,750 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0051,PG00792,520 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0053,PG00847,960 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0057,PG00888,1500 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0058,PG00905,1410 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0063,PG00986,720 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0068,PG01032,1470 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,ct-0069,PG01051,1490 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0070,PG01092,650 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0079,PG01186,460 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0084,PG01275,1950 €,Recibo
+0,Pagado,2024,Qtr 2,mayo,5,CT0086,PG01299,490 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0090,PG01354,1230 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0091,PG01379,950 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0100,PG01512,2990 €,Efectivo
+99,Pagado,2024,Qtr 2,mayo,5,CT0108,PG01640,1420 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0110,PG01676,2220 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0111,PG01695,1020 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0118,PG01772,670 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0122,PG01802,2670 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0123,PG01809,480 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0125,PG01847,1750 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0127,PG01890,1610 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0128,PG01926,1470 €,Efectivo
+0,Pagado,2024,Qtr 2,mayo,5,CT0130,PG01959,730 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0131,PG01996,470 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0132,PG02010,2090 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0134,PG02027,590 €,Domiciliación
+0,Pagado,2024,Qtr 2,mayo,5,CT0140,PG02108,1070 €,Bizum
+0,Pagado,2024,Qtr 2,mayo,5,CT0142,PG02136,2240 €,Recibo
+0,Pagado,2024,Qtr 2,mayo,5,CT0149,PG02216,2320 €,Transferencia
+0,Pagado,2024,Qtr 2,mayo,5,CT0150,PG02226,1680 €,Transferencia
+0,Pagado,2024,Qtr 2,junio,5,CT0002,PG00036,620 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0004,PG00069,1410 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0007,PG00103,1080 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0008,PG00132,1450 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0011,PG00185,690 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0020,PG00320,720 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0031,PG00476,470 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT-0032,PG00496,1790 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0038,PG00564,920 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0041,PG00597,2670 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0042,PG00627,2710 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0043,PG00636,1090 €,Bizum
+99,Pagado,2024,Qtr 2,junio,5,CT0044,PG00653,1460 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0046,PG00684,480 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0050,PG00771,750 €,Recibo
+0,Pagado,2024,Qtr 2,junio,5,CT0051,PG00793,520 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0057,PG00889,1500 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,ct-0061,PG00943,1440 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0063,PG00987,720 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0068,PG01033,1470 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0069,PG01052,1490 €,Recibo
+0,Pagado,2024,Qtr 2,junio,5,CT0079,PG01187,460 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0084,PG01276,1950 €,Domiciliación
+99,Pagado,2024,Qtr 2,junio,5,CT0086,PG01300,490 €,Transferencia
+0,Pagado,2024,Qtr 2,junio,5,CT0090,PG01355,1230 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0091,PG01380,950 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0092,PG01408,980 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0100,PG01513,2990 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0108,PG01641,1420 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0110,PG01677,2220 €,Transferencia
+0,Pagado,2024,Qtr 2,junio,5,CT0118,PG01773,670 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0123,PG01810,480 €,Transferencia
+0,Pagado,2024,Qtr 2,junio,5,CT0125,PG01848,1750 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0127,PG01891,1610 €,Domiciliación
+0,Pagado,2024,Qtr 2,junio,5,CT0128,PG01927,1470 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0131,PG01997,470 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0132,PG02011,2090 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0134,PG02028,590 €,Transferencia
+0,Pagado,2024,Qtr 2,junio,5,CT0140,PG02109,1070 €,Efectivo
+0,Pagado,2024,Qtr 2,junio,5,CT0142,PG02137,2240 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0149,PG02217,2320 €,Bizum
+0,Pagado,2024,Qtr 2,junio,5,CT0150,PG02227,1680 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0004,PG00070,1410 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0006,PG00091,970 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0007,PG00104,1080 €,Domiciliación
+0,Pagado,2024,Qtr 3,julio,5,CT0008,PG00133,1450 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0011,PG00186,690 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT-0012,PG00209,800 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0031,PG00477,470 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0032,PG00497,1790 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0038,PG00565,920 €,Domiciliación
+0,Pagado,2024,Qtr 3,julio,5,CT0041,PG00598,2670 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0043,PG00637,1090 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0046,PG00685,480 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0050,PG00772,750 €,Domiciliación
+0,Pagado,2024,Qtr 3,julio,5,CT0051,PG00794,520 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0061,PG00944,1440 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0063,PG00988,720 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0068,PG01034,1470 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0069,PG01053,1490 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0070,PG01094,650 €,Domiciliación
+0,Pagado,2024,Qtr 3,julio,5,CT0079,PG01188,460 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0086,PG01301,490 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0100,PG01514,2990 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0105,PG01591,890 €,Domiciliación
+0,Pagado,2024,Qtr 3,julio,5,CT0108,PG01642,1420 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0110,PG01678,2220 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0111,PG01697,1020 €,Bizum
+0,Pagado,2024,Qtr 3,julio,5,CT0112,PG01699,1600 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0117,PG01752,2080 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0118,PG01774,670 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0123,PG01811,480 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0128,PG01928,1470 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0131,PG01998,470 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0132,PG02012,2090 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0134,PG02029,590 €,Transferencia
+0,Pagado,2024,Qtr 3,julio,5,CT0140,PG02110,1070 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0142,PG02138,2240 €,Efectivo
+0,Pagado,2024,Qtr 3,julio,5,CT0150,PG02228,1680 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0002,PG00038,620 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0004,PG00071,1410 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0006,PG00092,970 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0007,PG00105,1080 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0011,PG00187,690 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0012,PG00210,800 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0019,PG00299,2710 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0020,PG00322,720 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0027,PG00419,780 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0031,PG00478,470 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0032,PG00498,1790 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0038,PG00566,920 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0041,PG00599,2670 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0043,PG00638,1090 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0044,PG00655,1460 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0046,PG00686,480 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0051,PG00795,520 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0057,PG00891,1500 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0061,PG00945,1440 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0063,PG00989,720 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0068,PG01035,1470 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0079,PG01189,460 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0081,PG01218,1290 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0090,PG01357,1230 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0091,PG01382,950 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0092,PG01410,980 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0107,PG01613,340 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0109,PG01646,2070 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0110,PG01679,2220 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0111,PG01698,1020 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0112,PG01700,1600 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0117,PG01753,2080 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0118,PG01775,670 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0122,PG01805,2670 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0123,PG01812,480 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0124,PG01817,580 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0127,PG01893,1610 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0128,PG01929,1470 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0130,PG01962,730 €,Efectivo
+0,Pagado,2024,Qtr 3,agosto,5,CT0131,PG01999,470 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0132,PG02013,2090 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0133,PG02015,1420 €,Domiciliación
+0,Pagado,2024,Qtr 3,agosto,5,CT0134,PG02030,590 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0142,PG02139,2240 €,Bizum
+0,Pagado,2024,Qtr 3,agosto,5,CT0149,PG02219,2320 €,Transferencia
+0,Pagado,2024,Qtr 3,agosto,5,CT0150,PG02229,1680 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,0057,PG00892,1500 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0002,PG00039,620 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0004,PG00072,1410 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0006,PG00093,970 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0007,PG00106,1080 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0008,PG00135,1450 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0011,PG00188,690 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0012,PG00211,800 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0014,PG00239,2560 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0019,PG00300,2710 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0020,PG00323,720 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0027,PG00420,780 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0031,PG00479,470 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0032,PG00499,1790 €,Recibo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0038,PG00567,920 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0041,PG00600,2670 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0043,PG00639,1090 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0044,PG00656,1460 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0050,PG00774,750 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0061,PG00946,1440 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0063,PG00990,720 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0067,PG01020,1620 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0068,PG01036,1470 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0069,PG01055,1490 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,ct0073,PG01110,1760 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0081,PG01219,1290 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0091,PG01383,950 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0100,PG01516,2990 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0105,PG01593,890 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0108,PG01644,1420 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0109,PG01647,2070 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0110,PG01680,2220 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0112,PG01701,1600 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0117,PG01754,2080 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT-0122,PG01806,2670 €,Bizum
+0,Pagado,2024,Qtr 3,septiembre,5,CT0123,PG01813,480 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0124,PG01818,580 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0125,PG01851,1750 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0127,PG01894,1610 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0130,PG01963,730 €,Transferencia
+0,Pagado,2024,Qtr 3,septiembre,5,CT0131,PG02000,470 €,Domiciliación
+0,Pagado,2024,Qtr 3,septiembre,5,CT0133,PG02016,1420 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0134,PG02031,590 €,Efectivo
+0,Pagado,2024,Qtr 3,septiembre,5,CT0142,PG02140,2240 €,Bizum
+99,Pagado,2024,Qtr 3,septiembre,5,CT0149,PG02220,2320 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT 0150,PG02231,1680 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,ct-0002,PG00040,620 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0004,PG00073,1410 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0006,PG00094,970 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0007,PG00107,1080 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0008,PG00136,1450 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0011,PG00189,690 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0012,PG00212,800 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,CT0014,PG00240,2560 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0019,PG00301,2710 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0020,PG00324,720 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,CT0030,PG00454,880 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,CT-0031,PG00480,470 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0041,PG00601,2670 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0043,PG00640,1090 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0044,PG00657,1460 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0046,PG00688,480 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0050,PG00775,750 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0051,PG00797,520 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0057,PG00893,1500 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0067,PG01021,1620 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0068,PG01037,1470 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,ct0073,PG01111,1760 €,Recibo
+0,Pagado,2024,Qtr 4,octubre,5,CT0078,PG01168,800 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,CT0079,PG01191,460 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0081,PG01220,1290 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0086,PG01304,490 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0091,PG01384,950 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0093,PG01412,720 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0105,PG01594,890 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0107,PG01615,340 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0109,PG01648,2070 €,Domiciliación
+0,Pagado,2024,Qtr 4,octubre,5,CT0110,PG01681,2220 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0117,PG01755,2080 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0123,PG01814,480 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0124,PG01819,580 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0127,PG01895,1610 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0130,PG01964,730 €,Bizum
+0,Pagado,2024,Qtr 4,octubre,5,CT0131,PG02001,470 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0133,PG02017,1420 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0134,PG02032,590 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0140,PG02113,1070 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0141,PG02123,520 €,Transferencia
+0,Pagado,2024,Qtr 4,octubre,5,CT0142,PG02141,2240 €,Efectivo
+0,Pagado,2024,Qtr 4,octubre,5,CT0149,PG02221,2320 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,0046,PG00689,480 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0002,PG00041,620 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0003,PG00047,1380 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0004,PG00074,1410 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0006,PG00095,970 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0011,PG00190,690 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0012,PG00213,800 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0013,PG00227,1670 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0014,PG00241,2560 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0020,PG00325,720 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0022,PG00343,990 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0023,PG00357,1210 €,Recibo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0027,PG00422,780 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0030,PG00455,880 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0032,PG00501,1790 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0038,PG00569,920 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0041,PG00602,2670 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0043,PG00641,1090 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0044,PG00658,1460 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0050,PG00776,750 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0057,PG00894,1500 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0061,PG00948,1440 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0063,PG00992,720 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0067,PG01022,1620 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,ct-0068,PG01038,1470 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,ct0073,PG01112,1760 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0074,PG01126,2720 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0078,PG01169,800 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0079,PG01192,460 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0080,PG01206,450 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0081,PG01221,1290 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0083,PG01242,560 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0086,PG01305,490 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0089,PG01333,760 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0090,PG01360,1230 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,ct-0091,PG01385,950 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0093,PG01413,720 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0100,PG01518,2990 €,Recibo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0105,PG01595,890 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0107,PG01616,340 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0109,PG01649,2070 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0110,PG01682,2220 €,Recibo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0117,PG01756,2080 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0123,PG01815,480 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0124,PG01820,580 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0127,PG01896,1610 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0131,PG02002,470 €,Efectivo
+0,Pagado,2024,Qtr 4,noviembre,5,CT0134,PG02033,590 €,Bizum
+0,Pagado,2024,Qtr 4,noviembre,5,CT0140,PG02114,1070 €,Transferencia
+0,Pagado,2024,Qtr 4,noviembre,5,CT0141,PG02124,520 €,Domiciliación
+0,Pagado,2024,Qtr 4,noviembre,5,CT0150,PG02232,1680 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0002,PG00042,620 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0003,PG00048,1380 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0004,PG00075,1410 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0007,PG00109,1080 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0008,PG00138,1450 €,Bizum
+99,Pagado,2024,Qtr 4,diciembre,5,CT0011,PG00191,690 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0012,PG00214,800 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0013,PG00228,1670 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0014,PG00242,2560 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0019,PG00303,2710 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0020,PG00326,720 €,Domiciliación
+99,Pagado,2024,Qtr 4,diciembre,5,CT0022,PG00344,990 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0023,PG00358,1210 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0027,PG00423,780 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0030,PG00456,880 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0031,PG00482,470 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0032,PG00502,1790 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0038,PG00570,920 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0041,PG00603,2670 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0043,PG00642,1090 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0044,PG00659,1460 €,Recibo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0046,PG00690,480 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0050,PG00777,750 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0051,PG00799,520 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0055,PG00861,900 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0061,PG00949,1440 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0063,PG00993,720 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0067,PG01023,1620 €,Recibo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0068,PG01039,1470 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,ct0073,PG01113,1760 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0074,PG01127,2720 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0078,PG01170,800 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0079,PG01193,460 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0080,PG01207,450 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0081,PG01222,1290 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0083,PG01243,560 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0090,PG01361,1230 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0091,PG01386,950 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0093,PG01414,720 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0100,PG01519,2990 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0104,PG01560,2020 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0105,PG01596,890 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0107,PG01617,340 €,Transferencia
+0,Pagado,2024,Qtr 4,diciembre,5,CT0110,PG01683,2220 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0112,PG01704,1600 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0117,PG01757,2080 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0123,PG01816,480 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,CT0127,PG01897,1610 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0128,PG01933,1470 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0130,PG01966,730 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0133,PG02019,1420 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0134,PG02034,590 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0140,PG02115,1070 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0141,PG02125,520 €,Bizum
+0,Pagado,2024,Qtr 4,diciembre,5,CT0142,PG02143,2240 €,Domiciliación
+0,Pagado,2024,Qtr 4,diciembre,5,ct0147,PG02188,850 €,Efectivo
+0,Pagado,2024,Qtr 4,diciembre,5,CT0150,PG02233,1680 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0002,PG00043,620 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0003,PG00049,1380 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0004,PG00076,1410 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0006,PG00097,970 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0007,PG00110,1080 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0008,PG00139,1450 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0012,PG00215,800 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0013,PG00229,1670 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0014,PG00243,2560 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0019,PG00304,2710 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0020,PG00327,720 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0022,PG00345,990 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0027,PG00424,780 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0030,PG00457,880 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0032,PG00503,1790 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0033,PG00515,650 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0038,PG00571,920 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0041,PG00604,2670 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0044,PG00660,1460 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0046,PG00691,480 €,Recibo
+0,Pagado,2025,Qtr 1,enero,5,CT0050,PG00778,750 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0051,PG00800,520 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0061,PG00950,1440 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0063,PG00994,720 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0069,PG01059,1490 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,ct0073,PG01114,1760 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0074,PG01128,2720 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0078,PG01171,800 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0080,PG01208,450 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0081,PG01223,1290 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0083,PG01244,560 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0086,PG01307,490 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0089,PG01335,760 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0090,PG01362,1230 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0091,PG01387,950 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0093,PG01415,720 €,Recibo
+0,Pagado,2025,Qtr 1,enero,5,CT0094,PG01423,1060 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0100,PG01520,2990 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0107,PG01618,340 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0109,PG01651,2070 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0110,PG01684,2220 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT0112,PG01705,1600 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0117,PG01758,2080 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0124,PG01822,580 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0127,PG01898,1610 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0128,PG01934,1470 €,Transferencia
+0,Pagado,2025,Qtr 1,enero,5,CT0130,PG01967,730 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0133,PG02020,1420 €,Domiciliación
+0,Pagado,2025,Qtr 1,enero,5,CT-0134,PG02035,590 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0140,PG02116,1070 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0142,PG02144,2240 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0146,PG02176,1320 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,ct0147,PG02189,850 €,Efectivo
+0,Pagado,2025,Qtr 1,enero,5,CT0149,PG02224,2320 €,Bizum
+0,Pagado,2025,Qtr 1,enero,5,CT0150,PG02234,1680 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,0006,PG00098,970 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT 0081,PG01224,1290 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0002,PG00044,620 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0003,PG00050,1380 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0007,PG00111,1080 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0008,PG00140,1450 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0011,PG00193,690 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0012,PG00216,800 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0013,PG00230,1670 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0014,PG00244,2560 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0019,PG00305,2710 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0022,PG00346,990 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0023,PG00360,1210 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0027,PG00425,780 €,Recibo
+0,Pagado,2025,Qtr 1,febrero,5,CT0030,PG00458,880 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT-0031,PG00484,470 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0032,PG00504,1790 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0033,PG00516,650 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0038,PG00572,920 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0041,PG00605,2670 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0043,PG00644,1090 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0046,PG00692,480 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0050,PG00779,750 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0051,PG00801,520 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0055,PG00863,900 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0057,PG00897,1500 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0059,PG00906,760 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0061,PG00951,1440 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0062,PG00953,1860 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0063,PG00995,720 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0067,PG01025,1620 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0068,PG01041,1470 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0069,PG01060,1490 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,ct0073,PG01115,1760 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0078,PG01172,800 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0079,PG01195,460 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0080,PG01209,450 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0083,PG01245,560 €,Recibo
+0,Pagado,2025,Qtr 1,febrero,5,CT0086,PG01308,490 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0089,PG01336,760 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0090,PG01363,1230 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0091,PG01388,950 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0094,PG01424,1060 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0099,PG01492,1720 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0100,PG01521,2990 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0104,PG01562,2020 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0107,PG01619,340 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0109,PG01652,2070 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,ct-0110,PG01685,2220 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0112,PG01706,1600 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT0117,PG01759,2080 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0127,PG01899,1610 €,Transferencia
+0,Pagado,2025,Qtr 1,febrero,5,CT0130,PG01968,730 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0133,PG02021,1420 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,CT-0134,PG02036,590 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0141,PG02127,520 €,Efectivo
+0,Pagado,2025,Qtr 1,febrero,5,CT0142,PG02145,2240 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0143,PG02156,2400 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0146,PG02177,1320 €,Bizum
+0,Pagado,2025,Qtr 1,febrero,5,ct0147,PG02190,850 €,Domiciliación
+0,Pagado,2025,Qtr 1,febrero,5,CT0150,PG02235,1680 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,0134,PG02037,590 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0001,PG00001,1070 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0002,PG00045,620 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0003,PG00051,1380 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0004,PG00078,1410 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0006,PG00099,970 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0007,PG00112,1080 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0008,PG00141,1450 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0011,PG00194,690 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0012,PG00217,800 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0014,PG00245,2560 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0019,PG00306,2710 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0022,PG00347,990 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0023,PG00361,1210 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0027,PG00426,780 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0031,PG00485,470 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0032,PG00505,1790 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0033,PG00517,650 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0038,PG00573,920 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0041,PG00606,2670 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0043,PG00645,1090 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0044,PG00662,1460 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0046,PG00693,480 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0050,PG00780,750 €,Recibo
+0,Pagado,2025,Qtr 1,marzo,5,CT0051,PG00802,520 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0055,PG00864,900 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0061,PG00952,1440 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0062,PG00954,1860 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0063,PG00996,720 €,Transferencia
+99,Pagado,2025,Qtr 1,marzo,5,CT0067,PG01026,1620 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0068,PG01042,1470 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0072,PG01099,670 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,ct-0073,PG01116,1760 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0074,PG01130,2720 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0077,PG01158,540 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0080,PG01210,450 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0081,PG01225,1290 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0083,PG01246,560 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0089,PG01337,760 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0090,PG01364,1230 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0091,PG01389,950 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0093,PG01417,720 €,Recibo
+0,Pagado,2025,Qtr 1,marzo,5,CT0094,PG01425,1060 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0099,PG01493,1720 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0100,PG01522,2990 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0104,PG01563,2020 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0107,PG01620,340 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0109,PG01653,2070 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0110,PG01686,2220 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0112,PG01707,1600 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0117,PG01760,2080 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0124,PG01824,580 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0127,PG01900,1610 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0128,PG01936,1470 €,Transferencia
+0,Pagado,2025,Qtr 1,marzo,5,CT0130,PG01969,730 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0133,PG02022,1420 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0140,PG02118,1070 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0141,PG02128,520 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,CT0142,PG02146,2240 €,Domiciliación
+0,Pagado,2025,Qtr 1,marzo,5,CT0143,PG02157,2400 €,Bizum
+0,Pagado,2025,Qtr 1,marzo,5,CT0146,PG02178,1320 €,Efectivo
+0,Pagado,2025,Qtr 1,marzo,5,ct0147,PG02191,850 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT 0003,PG00052,1380 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT 0093,PG01418,720 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0002,PG00046,620 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0007,PG00113,1080 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0008,PG00142,1450 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0012,PG00218,800 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0014,PG00246,2560 €,Transferencia
+99,Pagado,2025,Qtr 2,abril,5,CT0020,PG00330,720 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0023,PG00362,1210 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0027,PG00427,780 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0030,PG00460,880 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0031,PG00486,470 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0032,PG00506,1790 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0033,PG00518,650 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0038,PG00574,920 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0041,PG00607,2670 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0043,PG00646,1090 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0044,PG00663,1460 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0051,PG00803,520 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0059,PG00908,760 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0062,PG00955,1860 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0063,PG00997,720 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0068,PG01043,1470 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0069,PG01062,1490 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0072,PG01100,670 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,ct0073,PG01117,1760 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,ct-0074,PG01131,2720 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0077,PG01159,540 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0078,PG01174,800 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0079,PG01197,460 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0080,PG01211,450 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0081,PG01226,1290 €,Transferencia
+99,Pagado,2025,Qtr 2,abril,5,CT0083,PG01247,560 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0089,PG01338,760 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0090,PG01365,1230 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0091,PG01390,950 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0094,PG01426,1060 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0097,PG01471,1620 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0100,PG01523,2990 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,CT0104,PG01564,2020 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0109,PG01654,2070 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0112,PG01708,1600 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0116,PG01743,1310 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0117,PG01761,2080 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0124,PG01825,580 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0130,PG01970,730 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0133,PG02023,1420 €,Transferencia
+0,Pagado,2025,Qtr 2,abril,5,ct-0137,PG02065,490 €,Efectivo
+0,Pagado,2025,Qtr 2,abril,5,CT0140,PG02119,1070 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0141,PG02129,520 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,CT0142,PG02147,2240 €,Bizum
+0,Pagado,2025,Qtr 2,abril,5,CT0143,PG02158,2400 €,Domiciliación
+0,Pagado,2025,Qtr 2,abril,5,ct0147,PG02192,850 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,0044,PG00664,1460 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT 0019,PG00308,2710 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT 0027,PG00428,780 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT 0038,PG00575,920 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT 0100,PG01524,2990 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0001,PG00003,1070 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0003,PG00053,1380 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0004,PG00080,1410 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0006,PG00101,970 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0007,PG00114,1080 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0008,PG00143,1450 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0011,PG00196,690 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0012,PG00219,800 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0013,PG00233,1670 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0023,PG00363,1210 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0030,PG00461,880 €,Efectivo
+99,Pagado,2025,Qtr 2,mayo,5,CT0031,PG00487,470 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0032,PG00507,1790 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0041,PG00608,2670 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0043,PG00647,1090 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0046,PG00695,480 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0051,PG00804,520 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0055,PG00866,900 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0059,PG00909,760 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,ct-0062,PG00956,1860 €,Bizum
+99,Pagado,2025,Qtr 2,mayo,5,CT0063,PG00998,720 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0067,PG01028,1620 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0069,PG01063,1490 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0072,PG01101,670 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,ct0073,PG01118,1760 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0074,PG01132,2720 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0075,PG01138,460 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0077,PG01160,540 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0078,PG01175,800 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0079,PG01198,460 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0081,PG01227,1290 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0083,PG01248,560 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0089,PG01339,760 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0090,PG01366,1230 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0093,PG01419,720 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0094,PG01427,1060 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0097,PG01472,1620 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0103,PG01552,1180 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0104,PG01565,2020 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0109,PG01655,2070 €,Recibo
+0,Pagado,2025,Qtr 2,mayo,5,CT0112,PG01709,1600 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0113,PG01711,2770 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0116,PG01744,1310 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0117,PG01762,2080 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0124,PG01826,580 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,ct0129,PG01937,3030 €,Domiciliación
+0,Pagado,2025,Qtr 2,mayo,5,CT0130,PG01971,730 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0134,PG02039,590 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0137,PG02066,490 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0139,PG02091,640 €,Bizum
+0,Pagado,2025,Qtr 2,mayo,5,CT0142,PG02148,2240 €,Efectivo
+0,Pagado,2025,Qtr 2,mayo,5,CT0143,PG02159,2400 €,Transferencia
+0,Pagado,2025,Qtr 2,mayo,5,CT0146,PG02180,1320 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,0072,PG01102,670 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT 0064,PG01001,2390 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0001,PG00004,1070 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0003,PG00054,1380 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0004,PG00081,1410 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0006,PG00102,970 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0008,PG00144,1450 €,Recibo
+0,Pagado,2025,Qtr 2,junio,5,CT0011,PG00197,690 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0012,PG00220,800 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0013,PG00234,1670 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0014,PG00248,2560 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0016,PG00275,1930 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0018,PG00292,2120 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0019,PG00309,2710 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0020,PG00332,720 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0022,PG00350,990 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0023,PG00364,1210 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0027,PG00429,780 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0031,PG00488,470 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0033,PG00520,650 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0038,PG00576,920 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0041,PG00609,2670 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0044,PG00665,1460 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0045,PG00672,1440 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0046,PG00696,480 €,Recibo
+0,Pagado,2025,Qtr 2,junio,5,CT0050,PG00783,750 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0051,PG00805,520 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0055,PG00867,900 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0063,PG00999,720 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0066,PG01013,3040 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0069,PG01064,1490 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,ct0073,PG01119,1760 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0074,PG01133,2720 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0075,PG01139,460 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0077,PG01161,540 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0079,PG01199,460 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0080,PG01213,450 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0081,PG01228,1290 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0082,PG01235,740 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0083,PG01249,560 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0089,PG01340,760 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,ct-0090,PG01367,1230 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,ct-0091,PG01392,950 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0093,PG01420,720 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0094,PG01428,1060 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0097,PG01473,1620 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0099,PG01496,1720 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT-0100,PG01525,2990 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0103,PG01553,1180 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0104,PG01566,2020 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0109,PG01656,2070 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,ct-0112,PG01710,1600 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0116,PG01745,1310 €,Transferencia
+0,Pagado,2025,Qtr 2,junio,5,CT0117,PG01763,2080 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,ct0129,PG01938,3030 €,Recibo
+0,Pagado,2025,Qtr 2,junio,5,CT0130,PG01972,730 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0133,PG02025,1420 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0134,PG02040,590 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0139,PG02092,640 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0140,PG02121,1070 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0141,PG02131,520 €,Bizum
+0,Pagado,2025,Qtr 2,junio,5,CT0142,PG02149,2240 €,Efectivo
+0,Pagado,2025,Qtr 2,junio,5,CT0143,PG02160,2400 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0146,PG02181,1320 €,Domiciliación
+0,Pagado,2025,Qtr 2,junio,5,CT0150,PG02239,1680 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0001,PG00005,1070 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0003,PG00055,1380 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0004,PG00082,1410 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0007,PG00116,1080 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0008,PG00145,1450 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0011,PG00198,690 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0012,PG00221,800 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0013,PG00235,1670 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0016,PG00276,1930 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0018,PG00293,2120 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,ct-0019,PG00310,2710 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0020,PG00333,720 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0023,PG00365,1210 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0027,PG00430,780 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0030,PG00463,880 €,Recibo
+0,Pagado,2025,Qtr 3,julio,5,CT0031,PG00489,470 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0032,PG00509,1790 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0033,PG00521,650 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0041,PG00610,2670 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0043,PG00649,1090 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0044,PG00666,1460 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0045,PG00673,1440 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0050,PG00784,750 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0051,PG00806,520 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0055,PG00868,900 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0059,PG00911,760 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0062,PG00958,1860 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0064,PG01002,2390 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0066,PG01014,3040 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0067,PG01030,1620 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0069,PG01065,1490 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0072,PG01103,670 €,Recibo
+0,Pagado,2025,Qtr 3,julio,5,CT0075,PG01140,460 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0077,PG01162,540 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0078,PG01177,800 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0079,PG01200,460 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0080,PG01214,450 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0081,PG01229,1290 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0082,PG01236,740 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0083,PG01250,560 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0090,PG01368,1230 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0091,PG01393,950 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0093,PG01421,720 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0094,PG01429,1060 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0097,PG01474,1620 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0099,PG01497,1720 €,Bizum
+99,Pagado,2025,Qtr 3,julio,5,CT0103,PG01554,1180 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0104,PG01567,2020 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0109,PG01657,2070 €,Recibo
+0,Pagado,2025,Qtr 3,julio,5,CT0116,PG01746,1310 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT-0129,PG01939,3030 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0130,PG01973,730 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0133,PG02026,1420 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0137,PG02068,490 €,Domiciliación
+0,Pagado,2025,Qtr 3,julio,5,CT0139,PG02093,640 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0140,PG02122,1070 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0141,PG02132,520 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0142,PG02150,2240 €,Bizum
+0,Pagado,2025,Qtr 3,julio,5,CT0143,PG02161,2400 €,Transferencia
+0,Pagado,2025,Qtr 3,julio,5,CT0146,PG02182,1320 €,Efectivo
+0,Pagado,2025,Qtr 3,julio,5,CT0150,PG02240,1680 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,0018,PG00294,2120 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT 0075,PG01141,460 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT 0078,PG01178,800 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0001,PG00006,1070 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0007,PG00117,1080 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0008,PG00146,1450 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0011,PG00199,690 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0012,PG00222,800 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0013,PG00236,1670 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0014,PG00250,2560 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0016,PG00277,1930 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0020,PG00334,720 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0022,PG00352,990 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0030,PG00464,880 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0032,PG00510,1790 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0039,PG00580,2510 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0041,PG00611,2670 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0043,PG00650,1090 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0044,PG00667,1460 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0045,PG00674,1440 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0046,PG00698,480 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0050,PG00785,750 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0051,PG00807,520 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0055,PG00869,900 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0059,PG00912,760 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0062,PG00959,1860 €,Recibo
+0,Pagado,2025,Qtr 3,agosto,5,CT0064,PG01003,2390 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0066,PG01015,3040 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0067,PG01031,1620 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0069,PG01066,1490 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,ct-0072,PG01104,670 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,ct0073,PG01121,1760 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0074,PG01135,2720 €,Recibo
+0,Pagado,2025,Qtr 3,agosto,5,CT0077,PG01163,540 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0079,PG01201,460 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0081,PG01230,1290 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0082,PG01237,740 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0083,PG01251,560 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0089,PG01342,760 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0090,PG01369,1230 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0093,PG01422,720 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0094,PG01430,1060 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0097,PG01475,1620 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0099,PG01498,1720 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0100,PG01527,2990 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0103,PG01555,1180 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0104,PG01568,2020 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0109,PG01658,2070 €,Domiciliación
+0,Pagado,2025,Qtr 3,agosto,5,CT0113,PG01714,2770 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0116,PG01747,1310 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0121,PG01794,2130 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0130,PG01974,730 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,CT0134,PG02042,590 €,Transferencia
+0,Pagado,2025,Qtr 3,agosto,5,CT0139,PG02094,640 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0143,PG02162,2400 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0145,PG02171,1220 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT0146,PG02183,1320 €,Bizum
+0,Pagado,2025,Qtr 3,agosto,5,ct0147,PG02196,850 €,Efectivo
+0,Pagado,2025,Qtr 3,agosto,5,CT-0150,PG02241,1680 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,0012,PG00223,800 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,0013,PG00237,1670 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,0046,PG00699,480 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0001,PG00007,1070 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,ct-0003,PG00057,1380 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0008,PG00147,1450 €,Efectivo
+99,Pagado,2025,Qtr 3,septiembre,5,CT0010,PG00175,1400 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0011,PG00200,690 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0014,PG00251,2560 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0016,PG00278,1930 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0019,PG00312,2710 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0022,PG00353,990 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0023,PG00367,1210 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0027,PG00432,780 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0030,PG00465,880 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0031,PG00491,470 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0033,PG00523,650 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0038,PG00579,920 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0039,PG00581,2510 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0041,PG00612,2670 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0043,PG00651,1090 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0044,PG00668,1460 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0059,PG00913,760 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0062,PG00960,1860 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0064,PG01004,2390 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0065,PG01009,2010 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0066,PG01016,3040 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0069,PG01067,1490 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,ct0073,PG01122,1760 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0074,PG01136,2720 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0075,PG01142,460 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0077,PG01164,540 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT-0078,PG01179,800 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0079,PG01202,460 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0080,PG01216,450 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0081,PG01231,1290 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0083,PG01252,560 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0085,PG01278,2330 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0090,PG01370,1230 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0091,PG01395,950 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0094,PG01431,1060 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0097,PG01476,1620 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0099,PG01499,1720 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0100,PG01528,2990 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0104,PG01569,2020 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0109,PG01659,2070 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0113,PG01715,2770 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0116,PG01748,1310 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0121,PG01795,2130 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,ct0129,PG01941,3030 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0130,PG01975,730 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0134,PG02043,590 €,Domiciliación
+0,Pagado,2025,Qtr 3,septiembre,5,CT0141,PG02134,520 €,Efectivo
+0,Pagado,2025,Qtr 3,septiembre,5,CT0142,PG02152,2240 €,Transferencia
+0,Pagado,2025,Qtr 3,septiembre,5,CT0143,PG02163,2400 €,Bizum
+0,Pagado,2025,Qtr 3,septiembre,5,CT0145,PG02172,1220 €,Recibo
+0,Pagado,2025,Qtr 3,septiembre,5,ct0147,PG02197,850 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0001,PG00008,1070 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0003,PG00058,1380 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0007,PG00119,1080 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0008,PG00148,1450 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0011,PG00201,690 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0013,PG00238,1670 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0014,PG00252,2560 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0016,PG00279,1930 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0022,PG00354,990 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0023,PG00368,1210 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0027,PG00433,780 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0031,PG00492,470 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0032,PG00512,1790 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0033,PG00524,650 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0035,PG00540,950 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0039,PG00582,2510 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0041,PG00613,2670 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0044,PG00669,1460 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0045,PG00676,1440 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0050,PG00787,750 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0051,PG00809,520 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0055,PG00871,900 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0059,PG00914,760 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0062,PG00961,1860 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0065,PG01010,2010 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0066,PG01017,3040 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0072,PG01106,670 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,ct0073,PG01123,1760 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0074,PG01137,2720 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0075,PG01143,460 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0080,PG01217,450 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0089,PG01344,760 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0090,PG01371,1230 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0094,PG01432,1060 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0099,PG01500,1720 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0100,PG01529,2990 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0103,PG01557,1180 €,Efectivo
+0,Pagado,2025,Qtr 4,octubre,5,CT0104,PG01570,2020 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0109,PG01660,2070 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0113,PG01716,2770 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0121,PG01796,2130 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,ct0129,PG01942,3030 €,Bizum
+0,Pagado,2025,Qtr 4,octubre,5,CT0130,PG01976,730 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0134,PG02044,590 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0137,PG02071,490 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0139,PG02096,640 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0142,PG02153,2240 €,Domiciliación
+0,Pagado,2025,Qtr 4,octubre,5,CT0143,PG02164,2400 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,CT0146,PG02185,1320 €,Transferencia
+0,Pagado,2025,Qtr 4,octubre,5,ct0147,PG02198,850 €,Recibo
+0,Pagado,2025,Qtr 4,octubre,5,CT0150,PG02243,1680 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT 0020,PG00337,720 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0001,PG00009,1070 €,Recibo
+99,Pagado,2025,Qtr 4,noviembre,5,ct-0007,PG00120,1080 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0010,PG00177,1400 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0011,PG00202,690 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0012,PG00225,800 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0014,PG00253,2560 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0016,PG00280,1930 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0018,PG00297,2120 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0019,PG00314,2710 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0022,PG00355,990 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0023,PG00369,1210 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0027,PG00434,780 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0032,PG00513,1790 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0033,PG00525,650 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0035,PG00541,950 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0039,PG00583,2510 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0041,PG00614,2670 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0044,PG00670,1460 €,Transferencia
+99,Pagado,2025,Qtr 4,noviembre,5,CT0046,PG00701,480 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,ct-0050,PG00788,750 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0055,PG00872,900 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0059,PG00915,760 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0062,PG00962,1860 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0064,PG01006,2390 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0065,PG01011,2010 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT-0066,PG01018,3040 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0069,PG01069,1490 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0072,PG01107,670 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,ct0073,PG01124,1760 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0075,PG01144,460 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0077,PG01166,540 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0081,PG01233,1290 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0082,PG01240,740 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0085,PG01280,2330 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0089,PG01345,760 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0091,PG01397,950 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0094,PG01433,1060 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0097,PG01478,1620 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0100,PG01530,2990 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0103,PG01558,1180 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0109,PG01661,2070 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0113,PG01717,2770 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0116,PG01750,1310 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0121,PG01797,2130 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,ct0129,PG01943,3030 €,Efectivo
+0,Pagado,2025,Qtr 4,noviembre,5,CT0130,PG01977,730 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0134,PG02045,590 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0137,PG02072,490 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,CT0142,PG02154,2240 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0143,PG02165,2400 €,Transferencia
+0,Pagado,2025,Qtr 4,noviembre,5,CT0145,PG02174,1220 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0146,PG02186,1320 €,Domiciliación
+0,Pagado,2025,Qtr 4,noviembre,5,ct0147,PG02199,850 €,Bizum
+0,Pagado,2025,Qtr 4,noviembre,5,CT0150,PG02244,1680 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT 0039,PG00584,2510 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT 0041,PG00615,2670 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT 0064,PG01007,2390 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT 0129,PG01944,3030 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT 0142,PG02155,2240 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0008,PG00150,1450 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0010,PG00178,1400 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0011,PG00203,690 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0012,PG00226,800 €,Recibo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0018,PG00298,2120 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0019,PG00315,2710 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT0020,PG00338,720 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0022,PG00356,990 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0023,PG00370,1210 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0032,PG00514,1790 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0033,PG00526,650 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0045,PG00678,1440 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0046,PG00702,480 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0050,PG00789,750 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0051,PG00811,520 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0055,PG00873,900 €,Recibo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0059,PG00916,760 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0062,PG00963,1860 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0065,PG01012,2010 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0066,PG01019,3040 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0069,PG01070,1490 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0072,PG01108,670 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,ct0073,PG01125,1760 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0075,PG01145,460 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0077,PG01167,540 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0081,PG01234,1290 €,Recibo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0082,PG01241,740 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0085,PG01281,2330 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0089,PG01346,760 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0090,PG01373,1230 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0091,PG01398,950 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT0094,PG01434,1060 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0097,PG01479,1620 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0099,PG01502,1720 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0100,PG01531,2990 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0103,PG01559,1180 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0104,PG01572,2020 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0109,PG01662,2070 €,Bizum
+0,Pagado,2025,Qtr 4,diciembre,5,CT0121,PG01798,2130 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0130,PG01978,730 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT0134,PG02046,590 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT0143,PG02166,2400 €,Domiciliación
+0,Pagado,2025,Qtr 4,diciembre,5,CT0145,PG02175,1220 €,Transferencia
+0,Pagado,2025,Qtr 4,diciembre,5,CT0146,PG02187,1320 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,ct0147,PG02200,850 €,Efectivo
+0,Pagado,2025,Qtr 4,diciembre,5,CT0150,PG02245,1680 €,Efectivo

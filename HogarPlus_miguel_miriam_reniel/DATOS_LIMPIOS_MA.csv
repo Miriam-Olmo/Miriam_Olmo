@@ -1,0 +1,71 @@
+﻿Direccion,Distrito,Estado,Habitaciones,ID_Inmueble,Metros_Cuadrados,Tipo,Anio_Construccion
+Calle Alcala 118,Chamartín,Nuevo,4,INM042,160,Dúplex,1962
+Calle Alcala 24,Arganzuela,A Estrenar,4,INM002,108,Piso,1977
+Calle Alcala 28,Moncloa,Nuevo,0,INM070,29,Estudio,2004
+Calle Alcala 29,Arganzuela,Buen Estado,3,INM021,104,Apartamento,1996
+Calle Alcala 30,Usera,Buen Estado,5,INM017,60,Dúplex,2018
+Calle Arenal 140,Retiro,A Reformar,3,INM044,119,Ático,1988
+Calle Arenal 141,Latina,Nuevo,0,INM033,27,Estudio,1962
+Calle Arenal 90,Latina,Nuevo,0,INM055,31,Estudio,1989
+Calle Atocha 10,Chamartín,A Reformar,0,INM058,43,Estudio,1963
+Calle Atocha 134,Latina,A Reformar,4,INM074,165,Dúplex,1999
+Calle Atocha 14,Chamartín,A Reformar,1,INM047,76,Loft,1961
+Calle Atocha 34,Arganzuela,Nuevo,0,INM043,41,Estudio,1994
+Calle Atocha 36,Latina,A Reformar,5,INM013,184,Dúplex,1981
+Calle Bailen 115,Usera,A Reformar,1,INM073,72,Loft,1970
+Calle Bailen 3,Latina,Nuevo,1,INM049,72,Loft,1964
+Calle Bailen 43,Salamanca,A Reformar,0,INM023,40,Estudio,1983
+Calle Bailen 63,Chamberí,Buen Estado,1,INM010,55,Loft,1970
+Calle Bailen 85,Tetuán,Nuevo,1,INM057,70,Loft,1953
+Calle Bravo Murillo 108,Chamartín,A Reformar,1,INM063,53,Loft,1998
+Calle Bravo Murillo 139,Retiro,A Reformar,4,INM028,147,Ático,1966
+Calle Bravo Murillo 146,Tetuán,Nuevo,5,INM012,60,Dúplex,1990
+Calle Bravo Murillo 80,Usera,A Reformar,3,INM024,153,Dúplex,2001
+Calle Castellana 122,Usera,Nuevo,1,INM029,75,Loft,2002
+Calle Castellana 36,Chamberí,A Reformar,3,INM001,96,Apartamento,1963
+Calle Castellana 57,Centro,Nuevo,1,INM026,80,Loft,1950
+Calle Castellana 58,Tetuán,Buen Estado,5,INM025,183,Dúplex,1958
+Calle Castellana 68,Chamartín,A Estrenar,0,INM041,35,Estudio,2000
+Calle Embajadores 28,Centro,Nuevo,1,INM031,65,Piso,1981
+Calle Embajadores 34,Moncloa,A Estrenar,2,INM048,96,Ático,1983
+Calle Embajadores 72,Retiro,Buen Estado,5,INM056,30,Apartamento,1958
+Calle Fuencarral 1,Retiro,Buen Estado,2,INM035,119,Dúplex,1999
+Calle Fuencarral 141,Salamanca,Buen Estado,1,INM064,64,Loft,1950
+Calle Goya 109,Retiro,Buen Estado,1,INM032,73,Loft,1973
+Calle Goya 49,Latina,A Estrenar,3,INM036,129,Ático,1987
+Calle Goya 68,Arganzuela,Nuevo,3,INM045,92,Piso,1964
+Calle Goya 96,Arganzuela,A Reformar,1,INM020,57,Loft,1999
+Calle Gran Via 112,Usera,A Reformar,0,INM060,33,Estudio,1950
+Calle Gran Via 118,Tetuán,Nuevo,5,INM006,60,Ático,2018
+Calle Gran Via 143,Salamanca,Nuevo,1,INM071,74,Loft,1981
+Calle Gran Via 81,Centro,Nuevo,1,INM037,79,Loft,1957
+Calle Hortaleza 100,Latina,A Reformar,2,INM078,120,Dúplex,1952
+Calle Hortaleza 105,Salamanca,A Reformar,0,INM077,27,Estudio,1992
+Calle Hortaleza 106,Chamberí,A Reformar,4,INM030,118,Piso,2009
+Calle Hortaleza 131,Moncloa,Buen Estado,4,INM059,142,Ático,1964
+Calle Hortaleza 18,Arganzuela,A Reformar,0,INM061,36,Estudio,1992
+Calle Hortaleza 84,Tetuán,A Reformar,3,INM062,98,Piso,2001
+Calle Mayor 24,Retiro,Nuevo,0,INM015,41,Estudio,1956
+Calle Mayor 44,Latina,Buen Estado,0,INM066,41,Estudio,1960
+Calle Mayor 57,Arganzuela,Buen Estado,1,INM080,59,Loft,1984
+Calle Orense 110,Arganzuela,Buen Estado,5,INM014,15,Loft,2001
+Calle Orense 145,Usera,Buen Estado,1,INM040,66,Piso,2016
+Calle Orense 50,Moncloa,A Estrenar,3,INM007,100,Apartamento,1958
+Calle Orense 83,Chamartín,Buen Estado,0,INM065,38,Estudio,2009
+Calle Princesa 105,Arganzuela,Buen Estado,1,INM034,60,Piso,2012
+Calle Princesa 106,Salamanca,Nuevo,0,INM053,30,Estudio,1953
+Calle Princesa 109,Retiro,Buen Estado,4,INM004,158,Dúplex,1993
+Calle Princesa 117,Tetuán,A Reformar,3,INM018,102,Piso,1950
+Calle Princesa 28,Tetuán,A Estrenar,3,INM054,144,Dúplex,1998
+Calle Raimundo Fernandez 17,Salamanca,Buen Estado,0,INM016,38,Estudio,1999
+Calle San Bernardo 144,Retiro,A Reformar,0,INM052,28,Estudio,2002
+Calle San Bernardo 150,Salamanca,Nuevo,1,INM050,47,Loft,2020
+Calle Segovia 144,Latina,Buen Estado,0,INM072,39,Estudio,1990
+Calle Serrano 125,Retiro,A Reformar,2,INM022,73,Piso,1958
+Calle Serrano 61,Arganzuela,A Estrenar,1,INM067,66,Loft,1989
+Calle Toledo 100,Moncloa,A Reformar,2,INM079,125,Dúplex,2003
+Calle Toledo 54,Arganzuela,Nuevo,0,INM046,33,Estudio,1993
+Calle Toledo 94,Moncloa,Buen Estado,0,INM051,26,Estudio,1955
+Calle Velazquez 146,Usera,A Reformar,2,INM039,83,Piso,1981
+Calle Velazquez 24,Salamanca,Nuevo,0,INM005,35,Estudio,1998
+Calle Velazquez 98,Retiro,Buen Estado,2,INM008,103,Ático,1985

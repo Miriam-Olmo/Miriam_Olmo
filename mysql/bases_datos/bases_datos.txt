@@ -1,0 +1,112 @@
+
+#supuesto 1
+
+Buenos días,
+
+Me han pasado tu contacto. Soy Carmen, llevo el café "El Despertar" en el barrio de Tetuán desde hace cuatro años. La cosa es que vamos muy bien y ya no me valgo con un cuaderno para apuntar lo que vendemos.
+
+Lo que tengo en la cabeza es algo sencillo. En la carta tendremos unos veinte productos contando los cafés, los bollos y los bocadillos. Quiero saber qué se vende y a qué hora se vende, porque hay días que se vacía la vitrina de cruasanes a las once y otros que sobran a la una. Si lo tuviera apuntado podría pedir mejor al proveedor.
+
+Cada vez que un cliente paga, eso es UNA venta para mí, aunque en esa venta se haya llevado dos cosas. Si pides un café y un cruasán, eso es una venta con dos productos. No me interesa quién paga, eso da igual. Solo qué se ha vendido y cuándo.
+
+También me gustaría que se quedara registrado el precio al que se vendió, porque a veces subimos los cafés y luego ya no me acuerdo cuándo lo hicimos.
+
+¿Es complicado? Avísame y nos vemos un día.
+
+Un abrazo,
+Carmen
+
+
+#supuesto 2
+
+Buenas! Vi tu post sobre que haces bases de datos personales. Mira, tengo un follón con mi colección de Funko Pop que no puedo más, ahora mismo voy por las 312 figuras y solo tengo un Excel desordenado.
+
+Quiero tener cada figura con su número (las Funko llevan numeración propia), el nombre del personaje, la franquicia a la que pertenece (Marvel, Star Wars, Harry Potter, Disney, Stranger Things, etc), si la tengo en caja o suelta porque eso afecta mucho al valor, si es una versión exclusiva (algunas son exclusivas de FYE, otras de Hot Topic, de la SDCC…), el precio al que la compré y la fecha en que la pillé.
+
+Otra cosa importante: Funko saca "colecciones temáticas". Por ejemplo Avengers Endgame tiene su set de figuras, Hogwarts Castle, etc. Una misma figura puede aparecer en VARIAS colecciones temáticas distintas (porque a veces hacen reediciones). Necesito poder asociar figuras a colecciones de manera flexible.
+
+Cada figura SOLO pertenece a UNA franquicia (eso sí es 1 a 1, una figura es de Star Wars O de Marvel, no de los dos a la vez). Pero las colecciones temáticas son otra cosa, ahí sí pueden estar en varias.
+
+¿Te parece factible? Si te animas hablamos!
+
+
+
+
+# supuesto 3
+
+Hola hola, mira, te tengo una buena. Tengo una escuela de buceo en Cabo de Palos desde hace doce años y necesito por fin dejar de llevarlo todo a mano. Te explico cómo es el negocio porque tiene su miga.
+
+Tenemos alumnos, vale. De cada uno necesito guardar el nombre, el contacto, la fecha de nacimiento (esto es importante porque para algunos cursos hay edad mínima), y el contacto de emergencia, eso es OBLIGATORIO porque legalmente nos lo exigen para meter a alguien en el agua.
+
+Damos cursos. Los cursos van por niveles: el Open Water es el primero, el básico, lo puede hacer cualquiera. Luego está el Advanced Open Water, que necesita haber hecho el Open Water antes. Luego está el Rescue, que necesita Advanced. Y luego está el Dive Master, que es ya el nivel pro, y para hacerlo hay que tener Rescue terminado. O sea hay una jerarquía clara, no puedes saltarte cursos.
+
+De cada curso necesito guardar el nombre, el precio, las horas estimadas, y cuál es el prerequisito para hacerlo (porque ya te he dicho que hay una progresión).
+
+Cuando un alumno se apunta a un curso, eso es lo que yo llamo una matrícula. La matrícula tiene fecha de inicio. Tiene fecha de fin, pero a veces está vacía porque el alumno aún está en curso. Cuando termina, le ponemos nota final.
+
+Cada matrícula la lleva un instructor concreto. Aquí ya viene el lío: yo tengo cinco instructores. Pero no todos pueden dar todos los cursos. Cada instructor tiene una certificación. Algunos solo pueden dar Open Water, otros pueden dar hasta Rescue, y solo dos pueden formar Dive Masters. O sea que necesito saber qué cursos puede impartir cada instructor.
+
+Y de los instructores quiero guardar: nombre, email, año en que se certificó.
+
+Lo dejamos ahí. Cuando lo pienses me dices y nos vemos en el café Lola del puerto un sábado tranqui, ¿vale? Un saludo.
+
+
+# supuesto 4
+
+De: Andrea Martín <andrea@vozabierta.io>
+
+Para: tú
+
+Asunto: Brief técnico - plataforma podcasts (esto va a ser grande)
+
+Hola,
+
+Te paso lo que tenemos pensado. Es una plataforma tipo Spotify pero exclusivamente para podcasts. Queremos hacerlo en serio. Te describo todo:
+
+OYENTES
+
+Personas que consumen contenido. Cuenta gratuita (con anuncios) o de pago (sin anuncios y con extras). Email, nombre, fecha de alta.
+
+PODCASTERS
+
+Las personas que crean podcasts. Bio, nombre artístico, email. Algunos podcasters son personas individuales y otros son equipos. Un podcast puede tener UN podcaster (los monólogos) o VARIOS (los conversacionales tienen host + co-hosts).
+
+
+PODCASTS
+
+Cada podcast tiene título, descripción, idioma principal (mayoría español pero también inglés, francés...), frecuencia de publicación (semanal, quincenal, mensual, irregular).
+
+Un podcast puede tener varios podcasters asociados (los hosts). Cada uno con su rol: host principal, co-host, invitado recurrente.
+
+Los podcasts se categorizan en géneros: true crime, tecnología, humor, política, deporte, etc. Un podcast puede pertenecer a varios géneros.
+
+
+EPISODIOS
+
+Cada podcast tiene muchos episodios. Episodio: título, duración en segundos, fecha de publicación, URL del archivo de audio.
+
+SUSCRIPCIONES
+
+Los oyentes se suscriben a podcasts (como darle al follow). Tenemos que guardar quién sigue qué y desde cuándo.
+
+ESCUCHAS
+
+Los oyentes escuchan episodios. Necesitamos guardar: qué oyente, qué episodio, cuándo lo escuchó (última vez), en qué segundo lo dejó (para retomar donde estaba), si lo completó del todo.
+
+VALORACIONES
+
+Los oyentes pueden poner valoración (1-5 estrellas) a:
+
+- Un PODCAST entero (el podcast en general)
+
+- Un EPISODIO concreto (este episodio en particular)
+
+Las dos son cosas distintas porque a un mismo oyente puede gustarle el podcast pero un episodio concreto haberle parecido flojo.
+
+COMENTARIOS
+Cada episodio puede tener comentarios. Los oyentes los escriben. Aquí lo interesante: los comentarios pueden tener RESPUESTAS de otros oyentes (o del propio podcaster). Una respuesta es a su vez un comentario. Y a una respuesta otro oyente puede responder. Vamos, lo típico de un hilo.
+
+Es bastante, lo sé. Léelo bien y nos vemos el lunes.
+
+Andrea
+

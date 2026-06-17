@@ -1,0 +1,4002 @@
+[
+  {
+    "id_venta": "VNT-00189",
+    "nombre_comprador": "  Guillermo Jiménez ",
+    "email": "guillermo.jimenez@yahoo.es",
+    "dni": "21507650",
+    "tipo_entrada": "General",
+    "precio": 65,
+    "fecha_compra": "22/05/2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00298",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@musica.es",
+    "dni": "",
+    "tipo_entrada": "Gral",
+    "precio": 74,
+    "fecha_compra": "14 de enero de 2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00092",
+    "nombre_comprador": "Pilar Reyes",
+    "email": "pilar.reyes@outlook.com",
+    "dni": "57688529K",
+    "tipo_entrada": "premium",
+    "precio": 117,
+    "fecha_compra": "27 de mayo de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00295",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@hotmail.com",
+    "dni": "20739561L",
+    "tipo_entrada": "Vip",
+    "precio": 158,
+    "fecha_compra": "28-mar-2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00072",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@outlook.com",
+    "dni": "65559839H",
+    "tipo_entrada": "general ",
+    "precio": "91,00",
+    "fecha_compra": "11/05/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00132",
+    "nombre_comprador": "Sara Navarro",
+    "email": "sara.navarro@outlook.com",
+    "dni": "N/A",
+    "tipo_entrada": "general ",
+    "precio": 99999,
+    "fecha_compra": "17-05-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00373",
+    "nombre_comprador": "  María López ",
+    "email": "maria.lopez@outlook.com",
+    "dni": "28805567E",
+    "tipo_entrada": "VIP ",
+    "precio": "155€",
+    "fecha_compra": "25-02-2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00268",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@management.com",
+    "dni": "X9418218R",
+    "tipo_entrada": "Gral.",
+    "precio": 51,
+    "fecha_compra": "2026-01-12",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00197",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@management.com",
+    "dni": "46147308",
+    "tipo_entrada": "Gral.",
+    "precio": "51€",
+    "fecha_compra": "15/04/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00312",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "antonio.munoz@musica.es",
+    "dni": "54667809Y",
+    "tipo_entrada": "premium",
+    "precio": "132,00",
+    "fecha_compra": "2026-06-24",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00125",
+    "nombre_comprador": "Rosa Cruz",
+    "email": "rosa.cruz@hotmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "Premium",
+    "precio": 95,
+    "fecha_compra": "16-may-2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00234",
+    "nombre_comprador": "  María López ",
+    "email": "maria.lopez@management.com",
+    "dni": "81611045F",
+    "tipo_entrada": "Prémium",
+    "precio": 91,
+    "fecha_compra": "15/5/26",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00087",
+    "nombre_comprador": "Laura González",
+    "email": "n/a",
+    "dni": "49124904D",
+    "tipo_entrada": "Vip",
+    "precio": 188,
+    "fecha_compra": "05/06/2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00202",
+    "nombre_comprador": "Natalia Iglesias",
+    "email": "natalia.iglesias@gmail.com",
+    "dni": "74103912M",
+    "tipo_entrada": "PREMIUM",
+    "precio": 121,
+    "fecha_compra": "15 de marzo de 2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00124",
+    "nombre_comprador": "  FRANCISCO PEREZ ",
+    "email": "francisco.perez@outlook.com",
+    "dni": "39508245J",
+    "tipo_entrada": "Prémium",
+    "precio": "107,00",
+    "fecha_compra": "6 de abril de 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00419",
+    "nombre_comprador": "Andrea Ortega",
+    "email": "andrea.ortega@yahoo.es",
+    "dni": "46210517K",
+    "tipo_entrada": "Prémium",
+    "precio": "130€",
+    "fecha_compra": "mayo 2, 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00201",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "rafael.delgado@yahoo.es",
+    "dni": "67179047A",
+    "tipo_entrada": "Premium",
+    "precio": "117€",
+    "fecha_compra": "06/05/2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00144",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@outlook.com",
+    "dni": "46685578V",
+    "tipo_entrada": "Premiun",
+    "precio": 94,
+    "fecha_compra": "1 de enero de 2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00057",
+    "nombre_comprador": "Adrián Calvo",
+    "email": "adrian.calvo@musica.es",
+    "dni": "15168989",
+    "tipo_entrada": "Gral.",
+    "precio": 75,
+    "fecha_compra": "2026-05-17",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00286",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@hotmail.com",
+    "dni": "78786599F",
+    "tipo_entrada": "VIP",
+    "precio": 146,
+    "fecha_compra": "6/6/26",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00351",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@gmail.com",
+    "dni": "90776943",
+    "tipo_entrada": "General",
+    "precio": 91,
+    "fecha_compra": "05/01/2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00116",
+    "nombre_comprador": "Guillermo Jiménez",
+    "email": "guillermo.jimenez@hotmail.com",
+    "dni": "84277128",
+    "tipo_entrada": "vip",
+    "precio": 151,
+    "fecha_compra": "06/04/2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00391",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@yahoo.es",
+    "dni": "68536768B",
+    "tipo_entrada": "Vip",
+    "precio": -152,
+    "fecha_compra": "16/04/2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00138",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@musica.es",
+    "dni": "X9378825S",
+    "tipo_entrada": "general",
+    "precio": 73,
+    "fecha_compra": "04/03/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00137",
+    "nombre_comprador": "Lucía Díaz",
+    "email": "sin email",
+    "dni": "59616555A",
+    "tipo_entrada": "premium",
+    "precio": 100,
+    "fecha_compra": "mayo 5, 2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00136",
+    "nombre_comprador": "Francisco Pérez",
+    "email": "francisco.perez@yahoo.es",
+    "dni": "71193423M",
+    "tipo_entrada": "general",
+    "precio": 100,
+    "fecha_compra": "5 de enero de 2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00071",
+    "nombre_comprador": "Marta Vázquez",
+    "email": "marta.vazquez@yahoo.es",
+    "dni": "13908068Z",
+    "tipo_entrada": "premium",
+    "precio": -139,
+    "fecha_compra": "abril 24, 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00018",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "raul.herrero@outlook.com",
+    "dni": "67772049L",
+    "tipo_entrada": "GENERAL",
+    "precio": 80,
+    "fecha_compra": "abril 10, 2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00185",
+    "nombre_comprador": "Guillermo Jiménez",
+    "email": "guillermo.jimenez@musica.es",
+    "dni": "21327835G",
+    "tipo_entrada": "Gral",
+    "precio": "97,00",
+    "fecha_compra": "26/3/26",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00156",
+    "nombre_comprador": "Miguel Rodríguez",
+    "email": "miguel.rodriguez@hotmail.com",
+    "dni": "23245372-P",
+    "tipo_entrada": "vip",
+    "precio": 153,
+    "fecha_compra": "01/05/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00229",
+    "nombre_comprador": "Carlos Martínez",
+    "email": "carlos.martinez@gmail.com",
+    "dni": "80166008Z",
+    "tipo_entrada": "premium",
+    "precio": 97,
+    "fecha_compra": "2026-03-19",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00227",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@outlook.com",
+    "dni": "80632831Y",
+    "tipo_entrada": "Gral",
+    "precio": 99999,
+    "fecha_compra": "15-feb-2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00332",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "antonio.munoz@musica.es",
+    "dni": "86793756J",
+    "tipo_entrada": "V.I.P.",
+    "precio": 151,
+    "fecha_compra": "04-04-2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00322",
+    "nombre_comprador": "Eva Garrido",
+    "email": null,
+    "dni": "97283256M",
+    "tipo_entrada": "PREMIUM",
+    "precio": 131,
+    "fecha_compra": "03/06/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00172",
+    "nombre_comprador": "  guillermo jimenez ",
+    "email": "guillermo.jimenez@hotmail.com",
+    "dni": "79171687Y",
+    "tipo_entrada": "Gral",
+    "precio": 69,
+    "fecha_compra": "13 de abril de 2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00311",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@management.com",
+    "dni": "13922081C",
+    "tipo_entrada": "vip",
+    "precio": 153,
+    "fecha_compra": "4/1/26",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00035",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@hotmail.com",
+    "dni": "57288136N",
+    "tipo_entrada": "V.I.P.",
+    "precio": 175,
+    "fecha_compra": "20/5/26",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00364",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@outlook.com",
+    "dni": "X4802977E",
+    "tipo_entrada": "Vip",
+    "precio": 146,
+    "fecha_compra": "1-feb-2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00214",
+    "nombre_comprador": "María López",
+    "email": "maria.lopez@musica.es",
+    "dni": "67796900F",
+    "tipo_entrada": "General",
+    "precio": "93,00",
+    "fecha_compra": "enero 26, 2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00406",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@yahoo.es",
+    "dni": "91882291M",
+    "tipo_entrada": "Premium",
+    "precio": 99,
+    "fecha_compra": "abril 17, 2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00263",
+    "nombre_comprador": "  Pedro Sánchez ",
+    "email": "pedro.sanchez@yahoo.es",
+    "dni": "42822896-R",
+    "tipo_entrada": "VIP",
+    "precio": 152,
+    "fecha_compra": "mayo 14, 2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00276",
+    "nombre_comprador": "David Ruiz",
+    "email": "david.ruiz@outlook.com",
+    "dni": "37713235C",
+    "tipo_entrada": "general",
+    "precio": 60,
+    "fecha_compra": "abril 24, 2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00122",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@gmail.com",
+    "dni": "65377624D",
+    "tipo_entrada": "general",
+    "precio": 97,
+    "fecha_compra": "8-mar-2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00390",
+    "nombre_comprador": "Lucía Díaz",
+    "email": "lucia.diaz@musica.es",
+    "dni": "52181984K",
+    "tipo_entrada": "VIP",
+    "precio": 162,
+    "fecha_compra": "14/02/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00261",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@hotmail.com",
+    "dni": "84424395C",
+    "tipo_entrada": "general",
+    "precio": 51,
+    "fecha_compra": "24 de marzo de 2026",
+    "metodo_pago": null
+  },
+  {
+    "id_venta": "VNT-00325",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@gmail.com",
+    "dni": "34150810L",
+    "tipo_entrada": "Premium",
+    "precio": 138,
+    "fecha_compra": "28/02/2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00151",
+    "nombre_comprador": "  David Ruiz ",
+    "email": "david.ruiz@musica.es",
+    "dni": "N/A",
+    "tipo_entrada": " VIP",
+    "precio": 154,
+    "fecha_compra": "2026-05-23",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00001",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "luis.fuentes@outlook.com",
+    "dni": "71585593W",
+    "tipo_entrada": "Premiun",
+    "precio": 134,
+    "fecha_compra": "25/02/2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00120",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@outlook.com",
+    "dni": "15786878T",
+    "tipo_entrada": "VIP",
+    "precio": 147,
+    "fecha_compra": "6/4/26",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00226",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@management.com",
+    "dni": "88164250Y",
+    "tipo_entrada": "premium",
+    "precio": "133,00",
+    "fecha_compra": "4/2/26",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00089",
+    "nombre_comprador": "Rosa Cruz",
+    "email": "rosa.cruz@gmail.com",
+    "dni": "67943873X",
+    "tipo_entrada": "VIP ",
+    "precio": 185,
+    "fecha_compra": "28-mar-2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00052",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@hotmail.com",
+    "dni": "85812116J",
+    "tipo_entrada": "vip",
+    "precio": 184,
+    "fecha_compra": "25/4/26",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00105",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@outlook.com",
+    "dni": "53406567I",
+    "tipo_entrada": "premium",
+    "precio": 130,
+    "fecha_compra": "2026-06-22",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00061",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@yahoo.es",
+    "dni": "78674708T",
+    "tipo_entrada": "vip",
+    "precio": "145€",
+    "fecha_compra": "17-ene-2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00021",
+    "nombre_comprador": "Nuria Gallego",
+    "email": "",
+    "dni": "23726915T",
+    "tipo_entrada": "PREMIUM",
+    "precio": 121,
+    "fecha_compra": "01-05-2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00262",
+    "nombre_comprador": "María López",
+    "email": "maria.lopez@hotmail.com",
+    "dni": "59976005D",
+    "tipo_entrada": "VIP ",
+    "precio": 181,
+    "fecha_compra": "15 de marzo de 2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00271",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@outlook.com",
+    "dni": "21526062V",
+    "tipo_entrada": "GENERAL",
+    "precio": 83,
+    "fecha_compra": "junio 27, 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00157",
+    "nombre_comprador": "Lucía Díaz",
+    "email": "lucia.diaz@musica.es",
+    "dni": "52181984K",
+    "tipo_entrada": "VIP",
+    "precio": 162,
+    "fecha_compra": "14/02/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00287",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@yahoo.es",
+    "dni": "97777422Y",
+    "tipo_entrada": "PREMIUM",
+    "precio": "117,00",
+    "fecha_compra": "06/03/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00066",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@gmail.com",
+    "dni": "59468550A",
+    "tipo_entrada": "Premiun",
+    "precio": 119,
+    "fecha_compra": "2026-01-25",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00131",
+    "nombre_comprador": "Irene Prieto",
+    "email": "irene.prieto@outlook.com",
+    "dni": "38158070N",
+    "tipo_entrada": "VIP ",
+    "precio": 161,
+    "fecha_compra": "junio 25, 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00259",
+    "nombre_comprador": "Paula Gil",
+    "email": "-",
+    "dni": "38606966V",
+    "tipo_entrada": "general",
+    "precio": 81,
+    "fecha_compra": "08/06/2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00212",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "antonio.munoz@outlook.com",
+    "dni": "62394739N",
+    "tipo_entrada": "PREMIUM",
+    "precio": 128,
+    "fecha_compra": "10/02/2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00296",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@outlook.com",
+    "dni": "21171324P",
+    "tipo_entrada": "PREMIUM",
+    "precio": "138,00",
+    "fecha_compra": "25 de enero de 2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00211",
+    "nombre_comprador": "Rosa Cruz",
+    "email": "rosa.cruz@outlook.com",
+    "dni": "48656152C",
+    "tipo_entrada": "general ",
+    "precio": 81,
+    "fecha_compra": "junio 14, 2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00063",
+    "nombre_comprador": "Carmen Hernández",
+    "email": "correo@",
+    "dni": "N/A",
+    "tipo_entrada": "Vip",
+    "precio": 179,
+    "fecha_compra": "abril 18, 2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00013",
+    "nombre_comprador": "Daniel Castro",
+    "email": "daniel.castro@outlook.com",
+    "dni": "70436720W",
+    "tipo_entrada": "Premiun",
+    "precio": 128,
+    "fecha_compra": "24 de marzo de 2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00188",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@hotmail.com",
+    "dni": "47979220-R",
+    "tipo_entrada": "general ",
+    "precio": 97,
+    "fecha_compra": "mayo 7, 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00281",
+    "nombre_comprador": "Miguel Rodríguez",
+    "email": "miguel.rodriguez@gmail.com",
+    "dni": "71995701C",
+    "tipo_entrada": "Gral",
+    "precio": 78,
+    "fecha_compra": "1/4/26",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00047",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@gmail.com",
+    "dni": "98983888",
+    "tipo_entrada": "PREMIUM",
+    "precio": 99999,
+    "fecha_compra": "2026-01-13",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00257",
+    "nombre_comprador": "Marta Vázquez",
+    "email": "marta.vazquez@hotmail.com",
+    "dni": "85088096X",
+    "tipo_entrada": "General",
+    "precio": 50,
+    "fecha_compra": "8-ene-2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00010",
+    "nombre_comprador": "  david ruiz ",
+    "email": "david.ruiz@yahoo.es",
+    "dni": "44589898M",
+    "tipo_entrada": "GENERAL",
+    "precio": "90€",
+    "fecha_compra": "12/03/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00127",
+    "nombre_comprador": "Alberto Medina",
+    "email": "",
+    "dni": "39260335W",
+    "tipo_entrada": "premium",
+    "precio": 118,
+    "fecha_compra": "24/6/26",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00363",
+    "nombre_comprador": "Miguel Rodríguez",
+    "email": "miguel.rodriguez@outlook.com",
+    "dni": "30738427P",
+    "tipo_entrada": "general",
+    "precio": "62,00",
+    "fecha_compra": "10/02/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00313",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@outlook.com",
+    "dni": "49054205N",
+    "tipo_entrada": "Premium",
+    "precio": 131,
+    "fecha_compra": "2026-02-08",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00037",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@hotmail.com",
+    "dni": "47038339R",
+    "tipo_entrada": "Prémium",
+    "precio": -109,
+    "fecha_compra": "1 de marzo de 2026",
+    "metodo_pago": null
+  },
+  {
+    "id_venta": "VNT-00088",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "luis.fuentes@gmail.com",
+    "dni": "78507933",
+    "tipo_entrada": "Premiun",
+    "precio": 117,
+    "fecha_compra": "1 de mayo de 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00349",
+    "nombre_comprador": "Sara Navarro",
+    "email": "",
+    "dni": "53169737",
+    "tipo_entrada": "general",
+    "precio": 65,
+    "fecha_compra": "02-01-2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00016",
+    "nombre_comprador": "  DAVID RUIZ ",
+    "email": "david.ruiz@musica.es",
+    "dni": "82381952T",
+    "tipo_entrada": "premium",
+    "precio": 110,
+    "fecha_compra": "18/03/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00077",
+    "nombre_comprador": "  Silvia Castillo ",
+    "email": "silvia.castillo@yahoo.es",
+    "dni": "98447373J",
+    "tipo_entrada": "general ",
+    "precio": 93,
+    "fecha_compra": "02-04-2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00339",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "rafael.delgado@gmail.com",
+    "dni": "45534249E",
+    "tipo_entrada": "vip",
+    "precio": 183,
+    "fecha_compra": "10/03/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00015",
+    "nombre_comprador": "Silvia Castillo",
+    "email": "correo sin arroba.com",
+    "dni": "48141360Z",
+    "tipo_entrada": "Vip",
+    "precio": 156,
+    "fecha_compra": "8 de marzo de 2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00379",
+    "nombre_comprador": "  MARTA VAZQUEZ ",
+    "email": "marta.vazquez@outlook.com",
+    "dni": "23070100-L",
+    "tipo_entrada": "GENERAL",
+    "precio": 75,
+    "fecha_compra": "12-jun-2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00245",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@gmail.com",
+    "dni": "47733231C",
+    "tipo_entrada": "VIP ",
+    "precio": 169,
+    "fecha_compra": "24/2/26",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00356",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "-",
+    "dni": "47279846",
+    "tipo_entrada": "general",
+    "precio": 57,
+    "fecha_compra": "02-03-2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00003",
+    "nombre_comprador": "Víctor Blanco",
+    "email": "victor.blanco@musica.es",
+    "dni": "X9371819G",
+    "tipo_entrada": "premium",
+    "precio": 120,
+    "fecha_compra": "marzo 6, 2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00183",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "correo sin arroba.com",
+    "dni": "N/A",
+    "tipo_entrada": "Vip",
+    "precio": 184,
+    "fecha_compra": "24/05/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00273",
+    "nombre_comprador": "Alicia Vega",
+    "email": "",
+    "dni": "54325475-G",
+    "tipo_entrada": "Prémium",
+    "precio": 109,
+    "fecha_compra": "5-feb-2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00403",
+    "nombre_comprador": "  gloria ortiz ",
+    "email": "gloria.ortiz@outlook.com",
+    "dni": "65559839H",
+    "tipo_entrada": "general ",
+    "precio": "91,00",
+    "fecha_compra": "11/05/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00323",
+    "nombre_comprador": "Carmen Hernández",
+    "email": "carmen.hernandez@musica.es",
+    "dni": "22690720",
+    "tipo_entrada": "Prémium",
+    "precio": -104,
+    "fecha_compra": "9 de abril de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00377",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@yahoo.es",
+    "dni": "82688015W",
+    "tipo_entrada": "General",
+    "precio": "56€",
+    "fecha_compra": "2026-01-08",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00307",
+    "nombre_comprador": "Daniel Castro",
+    "email": "daniel.castro@yahoo.es",
+    "dni": "63929804Q",
+    "tipo_entrada": "general ",
+    "precio": 74,
+    "fecha_compra": "1 de enero de 2026",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00360",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@hotmail.com",
+    "dni": "34213769G",
+    "tipo_entrada": "general ",
+    "precio": 81,
+    "fecha_compra": "19-02-2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00113",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@gmail.com",
+    "dni": "97755782D",
+    "tipo_entrada": "Premium",
+    "precio": 99,
+    "fecha_compra": "24/01/2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00367",
+    "nombre_comprador": "Alejandro Molina",
+    "email": "alejandro.molina@management.com",
+    "dni": "29950518X",
+    "tipo_entrada": "general ",
+    "precio": 92,
+    "fecha_compra": "26 de enero de 2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00337",
+    "nombre_comprador": "Alicia Vega",
+    "email": "alicia.vega@management.com",
+    "dni": "81715863Z",
+    "tipo_entrada": "PREMIUM",
+    "precio": -115,
+    "fecha_compra": "enero 23, 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00174",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@gmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "PREMIUM",
+    "precio": 117,
+    "fecha_compra": "7 de junio de 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00025",
+    "nombre_comprador": "Marta Vázquez",
+    "email": "marta.vazquez@gmail.com",
+    "dni": "26059096G",
+    "tipo_entrada": "Vip",
+    "precio": 147,
+    "fecha_compra": "febrero 26, 2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00039",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@musica.es",
+    "dni": "54881018L",
+    "tipo_entrada": "Vip",
+    "precio": 181,
+    "fecha_compra": "3-abr-2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00029",
+    "nombre_comprador": "Adrián Calvo",
+    "email": "adrian.calvo@yahoo.es",
+    "dni": "95634408V",
+    "tipo_entrada": "Prémium",
+    "precio": 94,
+    "fecha_compra": "12-may-2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00084",
+    "nombre_comprador": "Pedro Sánchez",
+    "email": "pedro.sanchez@hotmail.com",
+    "dni": "61514973-R",
+    "tipo_entrada": "Premium",
+    "precio": 115,
+    "fecha_compra": "6/5/26",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00246",
+    "nombre_comprador": "Nuria Gallego",
+    "email": "nuria.gallego@gmail.com",
+    "dni": "X4507886F",
+    "tipo_entrada": "Premium",
+    "precio": 104,
+    "fecha_compra": "marzo 16, 2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00321",
+    "nombre_comprador": "  gloria ortiz ",
+    "email": "gloria.ortiz@musica.es",
+    "dni": "",
+    "tipo_entrada": "general ",
+    "precio": 61,
+    "fecha_compra": "11-jun-2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00378",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "no disponible",
+    "dni": "85663810B",
+    "tipo_entrada": "Vip",
+    "precio": 152,
+    "fecha_compra": "19/01/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00145",
+    "nombre_comprador": "Óscar Herrera",
+    "email": "oscar.herrera@outlook.com",
+    "dni": "N/A",
+    "tipo_entrada": "V.I.P.",
+    "precio": 151,
+    "fecha_compra": "27/01/2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00123",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@outlook.com",
+    "dni": "36059032T",
+    "tipo_entrada": "general ",
+    "precio": 63,
+    "fecha_compra": "5/3/26",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00191",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@yahoo.es",
+    "dni": "85102924A",
+    "tipo_entrada": "Premium",
+    "precio": 90,
+    "fecha_compra": "22 de abril de 2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00282",
+    "nombre_comprador": "  CRISTINA RAMOS ",
+    "email": "cristina.ramos@management.com",
+    "dni": "21079489N",
+    "tipo_entrada": "Gral.",
+    "precio": 95,
+    "fecha_compra": "abril 16, 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00341",
+    "nombre_comprador": "Alejandro Molina",
+    "email": "alejandro.molina@hotmail.com",
+    "dni": "30630696D",
+    "tipo_entrada": "Vip",
+    "precio": -162,
+    "fecha_compra": "2026-01-17",
+    "metodo_pago": null
+  },
+  {
+    "id_venta": "VNT-00094",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@yahoo.es",
+    "dni": "91882291M",
+    "tipo_entrada": "Premium",
+    "precio": 99,
+    "fecha_compra": "abril 17, 2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00162",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "roberto.cortes@management.com",
+    "dni": "",
+    "tipo_entrada": "General",
+    "precio": 57,
+    "fecha_compra": "01/02/2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00184",
+    "nombre_comprador": "Lucía Díaz",
+    "email": "lucia.diaz@yahoo.es",
+    "dni": "43501223N",
+    "tipo_entrada": "Prémium",
+    "precio": 90,
+    "fecha_compra": "3 de mayo de 2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00049",
+    "nombre_comprador": "  LOLA FLORES ",
+    "email": "lola.flores@hotmail.com",
+    "dni": "57698045",
+    "tipo_entrada": "VIP ",
+    "precio": 159,
+    "fecha_compra": "12-01-2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00074",
+    "nombre_comprador": "Óscar Herrera",
+    "email": "oscar.herrera@management.com",
+    "dni": "65548633J",
+    "tipo_entrada": "VIP",
+    "precio": 147,
+    "fecha_compra": "23/03/2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00011",
+    "nombre_comprador": "Pilar Reyes",
+    "email": "pilar.reyes@hotmail.com",
+    "dni": "78510704C",
+    "tipo_entrada": "Premiun",
+    "precio": 126,
+    "fecha_compra": "12/03/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00070",
+    "nombre_comprador": "Carmen Hernández",
+    "email": "carmen.hernandez@musica.es",
+    "dni": "37002880C",
+    "tipo_entrada": "VIP ",
+    "precio": 166,
+    "fecha_compra": "07-06-2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00250",
+    "nombre_comprador": "Sara Navarro",
+    "email": "sara.navarro@gmail.com",
+    "dni": "40283277L",
+    "tipo_entrada": "Premiun",
+    "precio": -110,
+    "fecha_compra": "2026-05-26",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00348",
+    "nombre_comprador": "Laura González",
+    "email": "laura.gonzalez@hotmail.com",
+    "dni": "18234220G",
+    "tipo_entrada": "Gral.",
+    "precio": 83,
+    "fecha_compra": "11-feb-2026",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00076",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@gmail.com",
+    "dni": "37539747-K",
+    "tipo_entrada": "Premium",
+    "precio": 139,
+    "fecha_compra": "22/05/2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00389",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@management.com",
+    "dni": "75987927K",
+    "tipo_entrada": "general ",
+    "precio": 54,
+    "fecha_compra": "2026-03-06",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00285",
+    "nombre_comprador": "  fernando morales ",
+    "email": "fernando.morales@hotmail.com",
+    "dni": "12152643H",
+    "tipo_entrada": "Vip",
+    "precio": 189,
+    "fecha_compra": "08/03/2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00099",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@hotmail.com",
+    "dni": "32452379G",
+    "tipo_entrada": " VIP",
+    "precio": 188,
+    "fecha_compra": "15/6/26",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00081",
+    "nombre_comprador": "Paula Gil",
+    "email": "paula.gil@outlook.com",
+    "dni": "72850928S",
+    "tipo_entrada": "Premium",
+    "precio": 95,
+    "fecha_compra": "05/05/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00168",
+    "nombre_comprador": "Patricia Romero",
+    "email": "no disponible",
+    "dni": "82265081S",
+    "tipo_entrada": "GENERAL",
+    "precio": 55,
+    "fecha_compra": "11/01/2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00366",
+    "nombre_comprador": "  Paula Gil ",
+    "email": "paula.gil@yahoo.es",
+    "dni": "30162191",
+    "tipo_entrada": "VIP ",
+    "precio": "178,00",
+    "fecha_compra": "06-05-2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00165",
+    "nombre_comprador": "David Ruiz",
+    "email": "david.ruiz@musica.es",
+    "dni": "82396020",
+    "tipo_entrada": " VIP",
+    "precio": 185,
+    "fecha_compra": "16/06/2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00331",
+    "nombre_comprador": "  Sara Navarro ",
+    "email": "sara.navarro@yahoo.es",
+    "dni": "40301728R",
+    "tipo_entrada": "V.I.P.",
+    "precio": 99999,
+    "fecha_compra": "25/03/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00024",
+    "nombre_comprador": "Carlos Martínez",
+    "email": "carlos.martinez@outlook.com",
+    "dni": "X1707762W",
+    "tipo_entrada": "Prémium",
+    "precio": 123,
+    "fecha_compra": "2026-06-10",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00053",
+    "nombre_comprador": "  Tomás Soto ",
+    "email": "tomas.soto@outlook.com",
+    "dni": "95476210J",
+    "tipo_entrada": "general ",
+    "precio": -96,
+    "fecha_compra": "10-04-2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00300",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@hotmail.com",
+    "dni": "98933292",
+    "tipo_entrada": "premium",
+    "precio": 106,
+    "fecha_compra": "08/03/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00365",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@gmail.com",
+    "dni": "40134894-D",
+    "tipo_entrada": "Premium",
+    "precio": 133,
+    "fecha_compra": "06-04-2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00067",
+    "nombre_comprador": "Pedro Sánchez",
+    "email": "pedro.sanchez@outlook.com",
+    "dni": "92148463",
+    "tipo_entrada": "VIP",
+    "precio": 184,
+    "fecha_compra": "2026-05-07",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00150",
+    "nombre_comprador": "Alicia Vega",
+    "email": "alicia.vega@hotmail.com",
+    "dni": "60065117L",
+    "tipo_entrada": "Gral",
+    "precio": 56,
+    "fecha_compra": "5-ene-2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00031",
+    "nombre_comprador": "N/A",
+    "email": "n/a",
+    "dni": "24368701V",
+    "tipo_entrada": "Vip",
+    "precio": 173,
+    "fecha_compra": "febrero 28, 2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00309",
+    "nombre_comprador": "Carlos Martínez",
+    "email": "carlos.martinez@outlook.com",
+    "dni": "56752592N",
+    "tipo_entrada": "Premiun",
+    "precio": 133,
+    "fecha_compra": "2026-06-20",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00146",
+    "nombre_comprador": "  ANTONIO MUÑOZ ",
+    "email": "antonio.munoz@management.com",
+    "dni": "48612968",
+    "tipo_entrada": "Vip",
+    "precio": 156,
+    "fecha_compra": "4 de abril de 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00203",
+    "nombre_comprador": "Marta Vázquez",
+    "email": "marta.vazquez@gmail.com",
+    "dni": "65434526D",
+    "tipo_entrada": "Premium",
+    "precio": 108,
+    "fecha_compra": "04/05/2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00060",
+    "nombre_comprador": "Lucía Díaz",
+    "email": "lucia.diaz@gmail.com",
+    "dni": "37102854J",
+    "tipo_entrada": "Premiun",
+    "precio": 98,
+    "fecha_compra": "2026-02-15",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00225",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@hotmail.com",
+    "dni": "94254420Y",
+    "tipo_entrada": "general ",
+    "precio": 86,
+    "fecha_compra": "junio 19, 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00041",
+    "nombre_comprador": "  isabel gomez ",
+    "email": "isabel.gomez@gmail.com",
+    "dni": "62925057R",
+    "tipo_entrada": "premium",
+    "precio": 118,
+    "fecha_compra": "14 de febrero de 2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00161",
+    "nombre_comprador": "  Cristina Ramos ",
+    "email": "cristina.ramos@musica.es",
+    "dni": "96413557M",
+    "tipo_entrada": "GENERAL",
+    "precio": 67,
+    "fecha_compra": "25/03/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00336",
+    "nombre_comprador": "  sergio león ",
+    "email": "no disponible",
+    "dni": "N/A",
+    "tipo_entrada": "Premiun",
+    "precio": 95,
+    "fecha_compra": "16 de mayo de 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00104",
+    "nombre_comprador": "Adrián Calvo",
+    "email": "adrian.calvo@gmail.com",
+    "dni": "96960449Q",
+    "tipo_entrada": " VIP",
+    "precio": "180,00",
+    "fecha_compra": "5 de mayo de 2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00045",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "raul.herrero@hotmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "V.I.P.",
+    "precio": 99999,
+    "fecha_compra": "01/03/2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00100",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "raul.herrero@management.com",
+    "dni": "62354374V",
+    "tipo_entrada": "Vip",
+    "precio": 169,
+    "fecha_compra": "08-05-2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00033",
+    "nombre_comprador": "Beatriz Aguilar",
+    "email": "beatriz.aguilar@yahoo.es",
+    "dni": "50789378C",
+    "tipo_entrada": "general",
+    "precio": 100,
+    "fecha_compra": "2026-05-02",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00370",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "antonio.munoz@management.com",
+    "dni": "58547818F",
+    "tipo_entrada": "Premium",
+    "precio": 123,
+    "fecha_compra": "febrero 23, 2026",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00148",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@management.com",
+    "dni": "46597195T",
+    "tipo_entrada": "GENERAL",
+    "precio": 99999,
+    "fecha_compra": "12-feb-2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00014",
+    "nombre_comprador": "Francisco Pérez",
+    "email": "n/a",
+    "dni": "73509922J",
+    "tipo_entrada": "Prémium",
+    "precio": 137,
+    "fecha_compra": "04/04/2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00152",
+    "nombre_comprador": "  Pedro Sánchez ",
+    "email": "pedro.sanchez@hotmail.com",
+    "dni": "55908520M",
+    "tipo_entrada": "vip",
+    "precio": 170,
+    "fecha_compra": "20-04-2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00371",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@hotmail.com",
+    "dni": "84021128N",
+    "tipo_entrada": "Vip",
+    "precio": 162,
+    "fecha_compra": "marzo 15, 2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00101",
+    "nombre_comprador": "  ROCÍO SUÁREZ ",
+    "email": "rocio.suarez@gmail.com",
+    "dni": "67953319",
+    "tipo_entrada": "Gral.",
+    "precio": 93,
+    "fecha_compra": "18-01-2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00352",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "@dominio.com",
+    "dni": "73645847P",
+    "tipo_entrada": "vip",
+    "precio": 185,
+    "fecha_compra": "11 de mayo de 2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00173",
+    "nombre_comprador": "Silvia Castillo",
+    "email": "silvia.castillo@outlook.com",
+    "dni": "92466364Q",
+    "tipo_entrada": "Premiun",
+    "precio": 103,
+    "fecha_compra": "21/03/2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00279",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@musica.es",
+    "dni": "98460225P",
+    "tipo_entrada": "general",
+    "precio": 61,
+    "fecha_compra": "2026-06-14",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00147",
+    "nombre_comprador": "Clara Cano",
+    "email": "sin email",
+    "dni": "44616300A",
+    "tipo_entrada": "VIP ",
+    "precio": 171,
+    "fecha_compra": "16/05/2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00368",
+    "nombre_comprador": "Fernando Morales",
+    "email": "fernando.morales@yahoo.es",
+    "dni": "27117558Y",
+    "tipo_entrada": "general",
+    "precio": 57,
+    "fecha_compra": "3-feb-2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00302",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@yahoo.es",
+    "dni": "63414658W",
+    "tipo_entrada": "PREMIUM",
+    "precio": 96,
+    "fecha_compra": "09/02/2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00034",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@hotmail.com",
+    "dni": "24161873M",
+    "tipo_entrada": "VIP ",
+    "precio": 182,
+    "fecha_compra": "24/5/26",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00154",
+    "nombre_comprador": "Carlos Martínez",
+    "email": "carlos.martinez@yahoo.es",
+    "dni": "11378737Q",
+    "tipo_entrada": "VIP",
+    "precio": 99999,
+    "fecha_compra": "2026-01-03",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00314",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@outlook.com",
+    "dni": "18306055X",
+    "tipo_entrada": "Prémium",
+    "precio": 126,
+    "fecha_compra": "mayo 24, 2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00178",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@management.com",
+    "dni": "24336334B",
+    "tipo_entrada": "general",
+    "precio": 87,
+    "fecha_compra": "febrero 14, 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00197",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@management.com",
+    "dni": "46147308",
+    "tipo_entrada": "Gral.",
+    "precio": "51€",
+    "fecha_compra": "15/04/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00007",
+    "nombre_comprador": "  Sandra Cabrera ",
+    "email": "sandra.cabrera@yahoo.es",
+    "dni": "34684475S",
+    "tipo_entrada": "Gral",
+    "precio": 66,
+    "fecha_compra": "20-abr-2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00004",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@gmail.com",
+    "dni": "76124358-Q",
+    "tipo_entrada": " VIP",
+    "precio": 179,
+    "fecha_compra": "22/01/2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00198",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@musica.es",
+    "dni": "",
+    "tipo_entrada": "GENERAL",
+    "precio": 96,
+    "fecha_compra": "7/2/26",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00170",
+    "nombre_comprador": "Elena Álvarez",
+    "email": "elena.alvarez@outlook.com",
+    "dni": "20109437",
+    "tipo_entrada": "Prémium",
+    "precio": 100,
+    "fecha_compra": "febrero 16, 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00266",
+    "nombre_comprador": "Felipe Carrasco",
+    "email": "felipe.carrasco@hotmail.com",
+    "dni": "60611218P",
+    "tipo_entrada": "Prémium",
+    "precio": 103,
+    "fecha_compra": "7 de abril de 2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00062",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@hotmail.com",
+    "dni": "66315301J",
+    "tipo_entrada": "GENERAL",
+    "precio": 92,
+    "fecha_compra": "25/02/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00107",
+    "nombre_comprador": "Elena Álvarez",
+    "email": "N/A",
+    "dni": "69845276A",
+    "tipo_entrada": "VIP",
+    "precio": 185,
+    "fecha_compra": "24/05/2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00079",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@musica.es",
+    "dni": "92310750C",
+    "tipo_entrada": "GENERAL",
+    "precio": 59,
+    "fecha_compra": "06/02/2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00068",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@management.com",
+    "dni": "52478375",
+    "tipo_entrada": "V.I.P.",
+    "precio": 186,
+    "fecha_compra": "14/3/26",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00228",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@hotmail.com",
+    "dni": "71433172W",
+    "tipo_entrada": "general",
+    "precio": 96,
+    "fecha_compra": "2026-05-05",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00069",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@hotmail.com",
+    "dni": "10212187-A",
+    "tipo_entrada": "Premium",
+    "precio": 121,
+    "fecha_compra": "10/06/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00223",
+    "nombre_comprador": "Tomás Soto",
+    "email": "@dominio.com",
+    "dni": "95320264F",
+    "tipo_entrada": "vip",
+    "precio": 174,
+    "fecha_compra": "17/03/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00345",
+    "nombre_comprador": "Alejandro Molina",
+    "email": "alejandro.molina@musica.es",
+    "dni": "48851553J",
+    "tipo_entrada": "PREMIUM",
+    "precio": 93,
+    "fecha_compra": "01/06/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00362",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "rafael.delgado@hotmail.com",
+    "dni": "29144226Y",
+    "tipo_entrada": "VIP ",
+    "precio": 188,
+    "fecha_compra": "25/02/2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00242",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@outlook.com",
+    "dni": "53169555",
+    "tipo_entrada": "PREMIUM",
+    "precio": 130,
+    "fecha_compra": "marzo 8, 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00278",
+    "nombre_comprador": "Cristina Ramos",
+    "email": "cristina.ramos@outlook.com",
+    "dni": "22227594A",
+    "tipo_entrada": "V.I.P.",
+    "precio": 161,
+    "fecha_compra": "19/04/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00297",
+    "nombre_comprador": "Natalia Iglesias",
+    "email": "n/a",
+    "dni": "35451146G",
+    "tipo_entrada": "General",
+    "precio": 85,
+    "fecha_compra": "16/06/2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00181",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@outlook.com",
+    "dni": "X6048065W",
+    "tipo_entrada": "Premium",
+    "precio": 124,
+    "fecha_compra": "enero 13, 2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00290",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "",
+    "dni": "",
+    "tipo_entrada": "vip",
+    "precio": 177,
+    "fecha_compra": "25-may-2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00210",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@hotmail.com",
+    "dni": "66640491S",
+    "tipo_entrada": "Prémium",
+    "precio": 133,
+    "fecha_compra": "2/6/26",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00119",
+    "nombre_comprador": "Laura González",
+    "email": "laura.gonzalez@gmail.com",
+    "dni": "82440371",
+    "tipo_entrada": "Gral.",
+    "precio": -76,
+    "fecha_compra": "mayo 4, 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00090",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "rafael.delgado@hotmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "Gral",
+    "precio": 63,
+    "fecha_compra": "13 de mayo de 2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00338",
+    "nombre_comprador": "Felipe Carrasco",
+    "email": "felipe.carrasco@management.com",
+    "dni": "59264742K",
+    "tipo_entrada": "premium",
+    "precio": 92,
+    "fecha_compra": "8/5/26",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00121",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@hotmail.com",
+    "dni": "79109207V",
+    "tipo_entrada": "General",
+    "precio": 56,
+    "fecha_compra": "2026-02-26",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00051",
+    "nombre_comprador": "Silvia Castillo",
+    "email": "silvia.castillo@yahoo.es",
+    "dni": "27686156K",
+    "tipo_entrada": "premium",
+    "precio": 116,
+    "fecha_compra": "11 de mayo de 2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00335",
+    "nombre_comprador": "Alejandro Molina",
+    "email": "alejandro.molina@management.com",
+    "dni": "21669195",
+    "tipo_entrada": "PREMIUM",
+    "precio": 107,
+    "fecha_compra": "10-feb-2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00301",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@musica.es",
+    "dni": "67293719C",
+    "tipo_entrada": "GENERAL",
+    "precio": 95,
+    "fecha_compra": "14-02-2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00236",
+    "nombre_comprador": "Manuel Torres",
+    "email": "sin email",
+    "dni": "50000149M",
+    "tipo_entrada": "VIP",
+    "precio": 166,
+    "fecha_compra": "1/2/26",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00254",
+    "nombre_comprador": "Ana Fernández",
+    "email": "ana.fernandez@musica.es",
+    "dni": "61528873D",
+    "tipo_entrada": "Gral",
+    "precio": 56,
+    "fecha_compra": "20-jun-2026",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00058",
+    "nombre_comprador": "  LUIS FUENTES ",
+    "email": "luis.fuentes@musica.es",
+    "dni": "16616323G",
+    "tipo_entrada": "V.I.P.",
+    "precio": 174,
+    "fecha_compra": "17/04/2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00055",
+    "nombre_comprador": "Marcos Peña",
+    "email": "marcos.pena@hotmail.com",
+    "dni": "64839908X",
+    "tipo_entrada": "Premium",
+    "precio": 101,
+    "fecha_compra": "07-02-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00265",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "raul.herrero@management.com",
+    "dni": "76409861",
+    "tipo_entrada": "Premiun",
+    "precio": 121,
+    "fecha_compra": "17-03-2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00342",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@yahoo.es",
+    "dni": "68969458",
+    "tipo_entrada": "general",
+    "precio": 77,
+    "fecha_compra": "15 de enero de 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00171",
+    "nombre_comprador": "Marta Vázquez",
+    "email": "tiene espacios @correo.com",
+    "dni": "19028796E",
+    "tipo_entrada": "Gral.",
+    "precio": 89,
+    "fecha_compra": "19/01/2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00260",
+    "nombre_comprador": "Víctor Blanco",
+    "email": "victor.blanco@gmail.com",
+    "dni": "14028892L",
+    "tipo_entrada": "Prémium",
+    "precio": 103,
+    "fecha_compra": "2026-03-01",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00405",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "correo sin arroba.com",
+    "dni": "N/A",
+    "tipo_entrada": "Vip",
+    "precio": 184,
+    "fecha_compra": "24/05/2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00129",
+    "nombre_comprador": "Andrea Ortega",
+    "email": "andrea.ortega@yahoo.es",
+    "dni": "46210517K",
+    "tipo_entrada": "Prémium",
+    "precio": "130€",
+    "fecha_compra": "mayo 2, 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00114",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@gmail.com",
+    "dni": "89328380Z",
+    "tipo_entrada": "VIP",
+    "precio": 0,
+    "fecha_compra": "2026-04-20",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00299",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@yahoo.es",
+    "dni": "66913730",
+    "tipo_entrada": "premium",
+    "precio": 122,
+    "fecha_compra": "junio 2, 2026",
+    "metodo_pago": "N/A"
+  },
+  {
+    "id_venta": "VNT-00219",
+    "nombre_comprador": "Silvia Castillo",
+    "email": "silvia.castillo@outlook.com",
+    "dni": "13994712",
+    "tipo_entrada": "Vip",
+    "precio": 167,
+    "fecha_compra": "26 de mayo de 2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00140",
+    "nombre_comprador": "  ROSA CRUZ ",
+    "email": "rosa.cruz@hotmail.com",
+    "dni": "17386489F",
+    "tipo_entrada": "Prémium",
+    "precio": 97,
+    "fecha_compra": "abril 12, 2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00160",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@gmail.com",
+    "dni": "36720922L",
+    "tipo_entrada": "V.I.P.",
+    "precio": 165,
+    "fecha_compra": "junio 6, 2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00408",
+    "nombre_comprador": "  ÓSCAR HERRERA ",
+    "email": "oscar.herrera@musica.es",
+    "dni": "15082158T",
+    "tipo_entrada": "Prémium",
+    "precio": 135,
+    "fecha_compra": "12/05/2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00192",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@hotmail.com",
+    "dni": "27162621N",
+    "tipo_entrada": "Gral",
+    "precio": 55,
+    "fecha_compra": "04-03-2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00128",
+    "nombre_comprador": "  LAURA GONZALEZ ",
+    "email": "laura.gonzalez@management.com",
+    "dni": "72244899-J",
+    "tipo_entrada": "premium",
+    "precio": 100,
+    "fecha_compra": "1-may-2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00270",
+    "nombre_comprador": "Felipe Carrasco",
+    "email": "felipe.carrasco@outlook.com",
+    "dni": "73351303",
+    "tipo_entrada": "general ",
+    "precio": 72,
+    "fecha_compra": "25 de mayo de 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00252",
+    "nombre_comprador": "  esther campos ",
+    "email": "tiene espacios @correo.com",
+    "dni": "93932889O",
+    "tipo_entrada": "Gral.",
+    "precio": 100,
+    "fecha_compra": "2026-05-15",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00258",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@management.com",
+    "dni": "87632976",
+    "tipo_entrada": " VIP",
+    "precio": 161,
+    "fecha_compra": "20/4/26",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00004",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@gmail.com",
+    "dni": "76124358-Q",
+    "tipo_entrada": " VIP",
+    "precio": 179,
+    "fecha_compra": "22/01/2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00255",
+    "nombre_comprador": "Alicia Vega",
+    "email": "alicia.vega@gmail.com",
+    "dni": "35986503J",
+    "tipo_entrada": "Gral.",
+    "precio": 71,
+    "fecha_compra": "23 de mayo de 2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00218",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@yahoo.es",
+    "dni": "58404738U",
+    "tipo_entrada": "VIP ",
+    "precio": 161,
+    "fecha_compra": "marzo 23, 2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00027",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@management.com",
+    "dni": "",
+    "tipo_entrada": "VIP",
+    "precio": 171,
+    "fecha_compra": "26-mar-2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00304",
+    "nombre_comprador": "Carmen Hernández",
+    "email": "carmen.hernandez@hotmail.com",
+    "dni": "94132688J",
+    "tipo_entrada": " VIP",
+    "precio": 99999,
+    "fecha_compra": "2026-03-28",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00207",
+    "nombre_comprador": "  Juan Moreno ",
+    "email": "juan.moreno@management.com",
+    "dni": "N/A",
+    "tipo_entrada": "vip",
+    "precio": 141,
+    "fecha_compra": "2026-02-14",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00023",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@outlook.com",
+    "dni": "43415162-V",
+    "tipo_entrada": "Premiun",
+    "precio": 101,
+    "fecha_compra": "04/01/2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00026",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "n/a",
+    "dni": "55422244",
+    "tipo_entrada": "general ",
+    "precio": 59,
+    "fecha_compra": "03/04/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00357",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@musica.es",
+    "dni": "83722452Z",
+    "tipo_entrada": "V.I.P.",
+    "precio": -147,
+    "fecha_compra": "11 de marzo de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00159",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@management.com",
+    "dni": "75987927K",
+    "tipo_entrada": "general ",
+    "precio": 54,
+    "fecha_compra": "2026-03-06",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00180",
+    "nombre_comprador": "Andrea Ortega",
+    "email": "andrea.ortega@gmail.com",
+    "dni": "43954789",
+    "tipo_entrada": " VIP",
+    "precio": 142,
+    "fecha_compra": "26-jun-2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00230",
+    "nombre_comprador": "Andrea Ortega",
+    "email": "andrea.ortega@outlook.com",
+    "dni": "",
+    "tipo_entrada": "general",
+    "precio": "100,00",
+    "fecha_compra": "10/01/2026",
+    "metodo_pago": "Tarjeta"
+  },
+  {
+    "id_venta": "VNT-00283",
+    "nombre_comprador": "Francisco Pérez",
+    "email": "francisco.perez@hotmail.com",
+    "dni": "62458932V",
+    "tipo_entrada": "general",
+    "precio": 60,
+    "fecha_compra": "2026-03-04",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00417",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@outlook.com",
+    "dni": "70720566M",
+    "tipo_entrada": "Premiun",
+    "precio": 128,
+    "fecha_compra": "24-may-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00175",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@yahoo.es",
+    "dni": "68536768B",
+    "tipo_entrada": "Vip",
+    "precio": -152,
+    "fecha_compra": "16/04/2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00177",
+    "nombre_comprador": "Pablo Santos",
+    "email": "pablo.santos@hotmail.com",
+    "dni": "77142220J",
+    "tipo_entrada": "Premium",
+    "precio": 115,
+    "fecha_compra": "04-02-2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00361",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "-",
+    "dni": "23453152-Y",
+    "tipo_entrada": "general ",
+    "precio": 99999,
+    "fecha_compra": "21 de abril de 2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00409",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@gmail.com",
+    "dni": "65377624D",
+    "tipo_entrada": "general",
+    "precio": 97,
+    "fecha_compra": "8-mar-2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00324",
+    "nombre_comprador": "Clara Cano",
+    "email": "@dominio.com",
+    "dni": "N/A",
+    "tipo_entrada": "Gral",
+    "precio": "58€",
+    "fecha_compra": "13/02/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00264",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@outlook.com",
+    "dni": "73171894Q",
+    "tipo_entrada": "VIP ",
+    "precio": 148,
+    "fecha_compra": "2026-02-24",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00272",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@hotmail.com",
+    "dni": "98429098T",
+    "tipo_entrada": "GENERAL",
+    "precio": 0,
+    "fecha_compra": "24/3/26",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00248",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@management.com",
+    "dni": "92470962",
+    "tipo_entrada": "V.I.P.",
+    "precio": 186,
+    "fecha_compra": "23/01/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00320",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@yahoo.es",
+    "dni": "29811269A",
+    "tipo_entrada": "Vip",
+    "precio": 187,
+    "fecha_compra": "28-jun-2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00340",
+    "nombre_comprador": "Gloria Ortiz",
+    "email": "gloria.ortiz@outlook.com",
+    "dni": "71787651M",
+    "tipo_entrada": "PREMIUM",
+    "precio": 92,
+    "fecha_compra": "12-01-2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00142",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "roberto.cortes@yahoo.es",
+    "dni": "56294407K",
+    "tipo_entrada": "PREMIUM",
+    "precio": "115,00",
+    "fecha_compra": "12-04-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00347",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "roberto.cortes@hotmail.com",
+    "dni": "35793612T",
+    "tipo_entrada": "vip",
+    "precio": 180,
+    "fecha_compra": "2-abr-2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00096",
+    "nombre_comprador": "Pablo Santos",
+    "email": "pablo.santos@management.com",
+    "dni": "44956086B",
+    "tipo_entrada": "general ",
+    "precio": 0,
+    "fecha_compra": "24/03/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00303",
+    "nombre_comprador": "  josé garcía ",
+    "email": "jose.garcia@outlook.com",
+    "dni": "28029744N",
+    "tipo_entrada": "premium",
+    "precio": 123,
+    "fecha_compra": "06/02/2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00118",
+    "nombre_comprador": "Guillermo Jiménez",
+    "email": "guillermo.jimenez@outlook.com",
+    "dni": "X1631179Z",
+    "tipo_entrada": "Prémium",
+    "precio": "103,00",
+    "fecha_compra": "8 de abril de 2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00046",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@management.com",
+    "dni": "12468064",
+    "tipo_entrada": "Premiun",
+    "precio": 138,
+    "fecha_compra": "23/02/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00238",
+    "nombre_comprador": "  pablo santos ",
+    "email": "pablo.santos@yahoo.es",
+    "dni": "43059986",
+    "tipo_entrada": " VIP",
+    "precio": 180,
+    "fecha_compra": "19 de mayo de 2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00410",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@management.com",
+    "dni": "12468064",
+    "tipo_entrada": "Premiun",
+    "precio": 138,
+    "fecha_compra": "23/02/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00316",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@management.com",
+    "dni": "77428032G",
+    "tipo_entrada": "VIP ",
+    "precio": "158,00",
+    "fecha_compra": "2026-01-20",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00196",
+    "nombre_comprador": "José García",
+    "email": "jose.garcia@outlook.com",
+    "dni": "",
+    "tipo_entrada": "PREMIUM",
+    "precio": 116,
+    "fecha_compra": "2026-06-04",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00134",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@management.com",
+    "dni": "66388890B",
+    "tipo_entrada": "Vip",
+    "precio": -180,
+    "fecha_compra": "05/05/2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00315",
+    "nombre_comprador": "Daniel Castro",
+    "email": "daniel.castro@gmail.com",
+    "dni": "71821057S",
+    "tipo_entrada": "PREMIUM",
+    "precio": 123,
+    "fecha_compra": "1 de abril de 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00372",
+    "nombre_comprador": "Ana Fernández",
+    "email": "ana.fernandez@outlook.com",
+    "dni": "98952439S",
+    "tipo_entrada": "VIP",
+    "precio": 164,
+    "fecha_compra": "02/03/2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00213",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@outlook.com",
+    "dni": "76266658S",
+    "tipo_entrada": "V.I.P.",
+    "precio": 148,
+    "fecha_compra": "enero 26, 2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00251",
+    "nombre_comprador": "Paula Gil",
+    "email": "paula.gil@musica.es",
+    "dni": "N/A",
+    "tipo_entrada": "Premium",
+    "precio": 91,
+    "fecha_compra": "11/06/2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00327",
+    "nombre_comprador": "  MARIO GIRON ",
+    "email": "mario.giron@musica.es",
+    "dni": "52001565Z",
+    "tipo_entrada": "Gral.",
+    "precio": 83,
+    "fecha_compra": "5/4/26",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00253",
+    "nombre_comprador": "  FELIPE CARRASCO ",
+    "email": "felipe.carrasco@outlook.com",
+    "dni": "67960448",
+    "tipo_entrada": "General",
+    "precio": "100,00",
+    "fecha_compra": "2026-01-10",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00106",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "-",
+    "dni": "76042812M",
+    "tipo_entrada": "VIP",
+    "precio": 156,
+    "fecha_compra": "13 de mayo de 2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00117",
+    "nombre_comprador": "  Carlos Martínez ",
+    "email": "correo@",
+    "dni": "21964334R",
+    "tipo_entrada": "Prémium",
+    "precio": 114,
+    "fecha_compra": "01-01-2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00167",
+    "nombre_comprador": "Esther Campos",
+    "email": "esther.campos@outlook.com",
+    "dni": "57964863X",
+    "tipo_entrada": "Premiun",
+    "precio": 91,
+    "fecha_compra": "14/1/26",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00284",
+    "nombre_comprador": "Alicia Vega",
+    "email": "notengo@email",
+    "dni": "16409704D",
+    "tipo_entrada": "general ",
+    "precio": 61,
+    "fecha_compra": "2026-05-07",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00064",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@musica.es",
+    "dni": "37868647",
+    "tipo_entrada": "General",
+    "precio": 88,
+    "fecha_compra": "20 de marzo de 2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00158",
+    "nombre_comprador": "Eva Garrido",
+    "email": "correo@",
+    "dni": "90582915Z",
+    "tipo_entrada": "PREMIUM",
+    "precio": 125,
+    "fecha_compra": "13/01/2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00155",
+    "nombre_comprador": "Rosa Cruz",
+    "email": "rosa.cruz@yahoo.es",
+    "dni": "77194013X",
+    "tipo_entrada": "Prémium",
+    "precio": "91€",
+    "fecha_compra": "mayo 12, 2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00009",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@management.com",
+    "dni": "75313057J",
+    "tipo_entrada": "V.I.P.",
+    "precio": 140,
+    "fecha_compra": "18/05/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00187",
+    "nombre_comprador": "  DAVID RUIZ ",
+    "email": "sin email",
+    "dni": "80576741J",
+    "tipo_entrada": "Premiun",
+    "precio": 128,
+    "fecha_compra": "19/02/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00190",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@gmail.com",
+    "dni": "54676053Q",
+    "tipo_entrada": "vip",
+    "precio": 185,
+    "fecha_compra": "18/01/2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00294",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@hotmail.com",
+    "dni": "72689644F",
+    "tipo_entrada": "V.I.P.",
+    "precio": 151,
+    "fecha_compra": "17 de febrero de 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00098",
+    "nombre_comprador": "José García",
+    "email": "jose.garcia@yahoo.es",
+    "dni": "41701674P",
+    "tipo_entrada": "premium",
+    "precio": 127,
+    "fecha_compra": "09/02/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00108",
+    "nombre_comprador": "José García",
+    "email": "jose.garcia@outlook.com",
+    "dni": "75857881V",
+    "tipo_entrada": "Premiun",
+    "precio": "107,00",
+    "fecha_compra": "1-may-2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00305",
+    "nombre_comprador": "  javier domínguez ",
+    "email": "javier.dominguez@outlook.com",
+    "dni": "11275951B",
+    "tipo_entrada": "V.I.P.",
+    "precio": 144,
+    "fecha_compra": "22/04/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00111",
+    "nombre_comprador": "  Rosa Cruz ",
+    "email": "rosa.cruz@management.com",
+    "dni": "13404379W",
+    "tipo_entrada": "Prémium",
+    "precio": "121€",
+    "fecha_compra": "febrero 5, 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00194",
+    "nombre_comprador": "Ana Fernández",
+    "email": "ana.fernandez@gmail.com",
+    "dni": "85276619W",
+    "tipo_entrada": "Vip",
+    "precio": 156,
+    "fecha_compra": "02/04/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00086",
+    "nombre_comprador": "Daniel Castro",
+    "email": "N/A",
+    "dni": "60856575R",
+    "tipo_entrada": "GENERAL",
+    "precio": 69,
+    "fecha_compra": "27/06/2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00216",
+    "nombre_comprador": "Fernando Morales",
+    "email": "fernando.morales@gmail.com",
+    "dni": "32420574G",
+    "tipo_entrada": "VIP ",
+    "precio": 190,
+    "fecha_compra": "2026-05-02",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00097",
+    "nombre_comprador": "Ana Fernández",
+    "email": "@dominio.com",
+    "dni": "43829709E",
+    "tipo_entrada": "Gral.",
+    "precio": 51,
+    "fecha_compra": "28-01-2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00112",
+    "nombre_comprador": "Guillermo Jiménez",
+    "email": "guillermo.jimenez@gmail.com",
+    "dni": "15746469W",
+    "tipo_entrada": "Gral",
+    "precio": 84,
+    "fecha_compra": "2026-01-11",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00019",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@management.com",
+    "dni": "45296615R",
+    "tipo_entrada": "Premium",
+    "precio": 115,
+    "fecha_compra": "27-abr-2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00050",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "roberto.cortes@gmail.com",
+    "dni": "55873760K",
+    "tipo_entrada": "Vip",
+    "precio": 164,
+    "fecha_compra": "9 de mayo de 2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00277",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@musica.es",
+    "dni": "37072082S",
+    "tipo_entrada": "VIP",
+    "precio": 176,
+    "fecha_compra": "22 de junio de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00065",
+    "nombre_comprador": "  ALEJANDRO MOLINA ",
+    "email": "alejandro.molina@gmail.com",
+    "dni": "31654047-K",
+    "tipo_entrada": "VIP ",
+    "precio": 178,
+    "fecha_compra": "14-01-2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00175",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@yahoo.es",
+    "dni": "68536768B",
+    "tipo_entrada": "Vip",
+    "precio": -152,
+    "fecha_compra": "16/04/2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00002",
+    "nombre_comprador": "Pedro Sánchez",
+    "email": "pedro.sanchez@musica.es",
+    "dni": "N/A",
+    "tipo_entrada": "V.I.P.",
+    "precio": 160,
+    "fecha_compra": "2026-01-23",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00267",
+    "nombre_comprador": "  Laura González ",
+    "email": "laura.gonzalez@gmail.com",
+    "dni": "67190488",
+    "tipo_entrada": "Vip",
+    "precio": 168,
+    "fecha_compra": "17/04/2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00401",
+    "nombre_comprador": "Sara Navarro",
+    "email": "sara.navarro@outlook.com",
+    "dni": "N/A",
+    "tipo_entrada": "general ",
+    "precio": 99999,
+    "fecha_compra": "17-05-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00209",
+    "nombre_comprador": "Esther Campos",
+    "email": "esther.campos@outlook.com",
+    "dni": "87666600F",
+    "tipo_entrada": " VIP",
+    "precio": "140€",
+    "fecha_compra": "28-04-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00353",
+    "nombre_comprador": "Pablo Santos",
+    "email": "pablo.santos@management.com",
+    "dni": "66237786V",
+    "tipo_entrada": "Gral.",
+    "precio": 72,
+    "fecha_compra": "14/01/2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00289",
+    "nombre_comprador": "",
+    "email": "adrian.calvo@hotmail.com",
+    "dni": "52676804",
+    "tipo_entrada": "Premiun",
+    "precio": 133,
+    "fecha_compra": "2026-03-06",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00256",
+    "nombre_comprador": "Pablo Santos",
+    "email": "pablo.santos@gmail.com",
+    "dni": "78870570M",
+    "tipo_entrada": "PREMIUM",
+    "precio": 101,
+    "fecha_compra": "10-02-2026",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00076",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@gmail.com",
+    "dni": "37539747-K",
+    "tipo_entrada": "Premium",
+    "precio": 139,
+    "fecha_compra": "22/05/2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00235",
+    "nombre_comprador": "Eva Garrido",
+    "email": "@dominio.com",
+    "dni": "25387340D",
+    "tipo_entrada": "VIP",
+    "precio": 167,
+    "fecha_compra": "13 de marzo de 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00078",
+    "nombre_comprador": "Marta Vázquez",
+    "email": null,
+    "dni": "30041488S",
+    "tipo_entrada": "vip",
+    "precio": 152,
+    "fecha_compra": "22-04-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00008",
+    "nombre_comprador": "Raúl Herrero",
+    "email": "raul.herrero@musica.es",
+    "dni": "N/A",
+    "tipo_entrada": "general",
+    "precio": 78,
+    "fecha_compra": "8-jun-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00117",
+    "nombre_comprador": "  Carlos Martínez ",
+    "email": "correo@",
+    "dni": "21964334R",
+    "tipo_entrada": "Prémium",
+    "precio": 114,
+    "fecha_compra": "01-01-2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00166",
+    "nombre_comprador": "David Ruiz",
+    "email": "david.ruiz@management.com",
+    "dni": "53014471-T",
+    "tipo_entrada": "General",
+    "precio": 81,
+    "fecha_compra": "25/03/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00346",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@yahoo.es",
+    "dni": "67600736",
+    "tipo_entrada": "premium",
+    "precio": 101,
+    "fecha_compra": "08/06/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00040",
+    "nombre_comprador": "Antonio Muñoz",
+    "email": "antonio.munoz@yahoo.es",
+    "dni": "85821325E",
+    "tipo_entrada": "premium",
+    "precio": 130,
+    "fecha_compra": "2/5/26",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00306",
+    "nombre_comprador": "  carlos martínez ",
+    "email": "carlos.martinez@yahoo.es",
+    "dni": "91117376N",
+    "tipo_entrada": "PREMIUM",
+    "precio": 114,
+    "fecha_compra": "16/4/26",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00386",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@hotmail.com",
+    "dni": "",
+    "tipo_entrada": "VIP ",
+    "precio": 99999,
+    "fecha_compra": "20/06/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00006",
+    "nombre_comprador": "  francisco perez ",
+    "email": "francisco.perez@management.com",
+    "dni": "",
+    "tipo_entrada": "Gral",
+    "precio": 0,
+    "fecha_compra": "15/2/26",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00200",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@management.com",
+    "dni": "22899866P",
+    "tipo_entrada": "GENERAL",
+    "precio": 77,
+    "fecha_compra": "mayo 5, 2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00293",
+    "nombre_comprador": "Felipe Carrasco",
+    "email": "felipe.carrasco@hotmail.com",
+    "dni": "75987111X",
+    "tipo_entrada": "VIP",
+    "precio": 178,
+    "fecha_compra": "abril 21, 2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00182",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "luis.fuentes@yahoo.es",
+    "dni": "75993764P",
+    "tipo_entrada": "general ",
+    "precio": 99,
+    "fecha_compra": "27-ene-2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00224",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@management.com",
+    "dni": "94153110B",
+    "tipo_entrada": " VIP",
+    "precio": 186,
+    "fecha_compra": "27/1/26",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00083",
+    "nombre_comprador": "Pedro Sánchez",
+    "email": "pedro.sanchez@yahoo.es",
+    "dni": "23815327T",
+    "tipo_entrada": "Gral",
+    "precio": 79,
+    "fecha_compra": "2026-05-19",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00275",
+    "nombre_comprador": "Adrián Calvo",
+    "email": "adrian.calvo@hotmail.com",
+    "dni": "19392480",
+    "tipo_entrada": "Vip",
+    "precio": 144,
+    "fecha_compra": "10/02/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00354",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@hotmail.com",
+    "dni": "81466893L",
+    "tipo_entrada": "Gral.",
+    "precio": 99999,
+    "fecha_compra": "2026-06-27",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00247",
+    "nombre_comprador": "Pilar Reyes",
+    "email": "pilar.reyes@musica.es",
+    "dni": "33559082",
+    "tipo_entrada": "Premium",
+    "precio": 100,
+    "fecha_compra": "22 de junio de 2026",
+    "metodo_pago": "Bizum"
+  },
+  {
+    "id_venta": "VNT-00317",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@gmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "premium",
+    "precio": 121,
+    "fecha_compra": "05/03/2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00375",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "luis.fuentes@outlook.com",
+    "dni": "79994685-H",
+    "tipo_entrada": "Premiun",
+    "precio": 126,
+    "fecha_compra": "9 de febrero de 2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00102",
+    "nombre_comprador": "  teresa méndez ",
+    "email": "teresa.mendez@hotmail.com",
+    "dni": "36162482L",
+    "tipo_entrada": "Prémium",
+    "precio": 115,
+    "fecha_compra": "22/6/26",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00085",
+    "nombre_comprador": "Sandra Cabrera",
+    "email": "sandra.cabrera@hotmail.com",
+    "dni": "87066247T",
+    "tipo_entrada": "Gral",
+    "precio": 100,
+    "fecha_compra": "2026-06-22",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00319",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@musica.es",
+    "dni": "X8676121Q",
+    "tipo_entrada": "premium",
+    "precio": "96,00",
+    "fecha_compra": "28 de enero de 2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00358",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@hotmail.com",
+    "dni": "88283995J",
+    "tipo_entrada": "VIP",
+    "precio": 162,
+    "fecha_compra": "1-mar-2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00220",
+    "nombre_comprador": "Silvia Castillo",
+    "email": "silvia.castillo@outlook.com",
+    "dni": "98607345U",
+    "tipo_entrada": "vip",
+    "precio": 160,
+    "fecha_compra": "13/01/2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00376",
+    "nombre_comprador": "Ana Fernández",
+    "email": "ana.fernandez@outlook.com",
+    "dni": "64371584",
+    "tipo_entrada": "Vip",
+    "precio": 178,
+    "fecha_compra": "11 de abril de 2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00333",
+    "nombre_comprador": "Ana Fernández",
+    "email": "ana.fernandez@musica.es",
+    "dni": "N/A",
+    "tipo_entrada": "Gral",
+    "precio": 72,
+    "fecha_compra": "20 de mayo de 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00095",
+    "nombre_comprador": "Mario Girón",
+    "email": "sin email",
+    "dni": "70939515V",
+    "tipo_entrada": " VIP",
+    "precio": 177,
+    "fecha_compra": "25/05/2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00133",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@gmail.com",
+    "dni": "20327693V",
+    "tipo_entrada": "Premium",
+    "precio": 102,
+    "fecha_compra": "6 de abril de 2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00334",
+    "nombre_comprador": "  Francisco Pérez ",
+    "email": "francisco.perez@yahoo.es",
+    "dni": "91698732D",
+    "tipo_entrada": "Premiun",
+    "precio": 93,
+    "fecha_compra": "25/06/2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00269",
+    "nombre_comprador": "  Miguel Rodríguez ",
+    "email": "miguel.rodriguez@yahoo.es",
+    "dni": "46838009G",
+    "tipo_entrada": "general ",
+    "precio": 84,
+    "fecha_compra": "10 de marzo de 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00215",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@yahoo.es",
+    "dni": "79174131",
+    "tipo_entrada": "Gral.",
+    "precio": 0,
+    "fecha_compra": "2026-02-28",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00232",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@outlook.com",
+    "dni": "X1768727L",
+    "tipo_entrada": "Premiun",
+    "precio": 95,
+    "fecha_compra": "08-04-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00153",
+    "nombre_comprador": "Carmen Hernández",
+    "email": "carmen.hernandez@hotmail.com",
+    "dni": "24995099",
+    "tipo_entrada": "Premium",
+    "precio": 134,
+    "fecha_compra": "14/01/2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00042",
+    "nombre_comprador": "Óscar Herrera",
+    "email": "oscar.herrera@management.com",
+    "dni": "85067462F",
+    "tipo_entrada": "premium",
+    "precio": "106€",
+    "fecha_compra": "25/02/2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00208",
+    "nombre_comprador": "Isabel Gómez",
+    "email": "isabel.gomez@outlook.com",
+    "dni": "70333053L",
+    "tipo_entrada": " VIP",
+    "precio": 150,
+    "fecha_compra": "abril 16, 2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00141",
+    "nombre_comprador": "Guillermo Jiménez",
+    "email": "guillermo.jimenez@management.com",
+    "dni": "62938641-S",
+    "tipo_entrada": "general",
+    "precio": "51€",
+    "fecha_compra": "03/06/2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00036",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@outlook.com",
+    "dni": "70720566M",
+    "tipo_entrada": "Premiun",
+    "precio": 128,
+    "fecha_compra": "24-may-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00073",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@yahoo.es",
+    "dni": "14183991Y",
+    "tipo_entrada": "PREMIUM",
+    "precio": 91,
+    "fecha_compra": "5-ene-2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00043",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@outlook.com",
+    "dni": "X2887937E",
+    "tipo_entrada": "Premiun",
+    "precio": 105,
+    "fecha_compra": "22-mar-2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00091",
+    "nombre_comprador": "  Mario Girón ",
+    "email": "mario.giron@outlook.com",
+    "dni": "28223512-M",
+    "tipo_entrada": "VIP",
+    "precio": -181,
+    "fecha_compra": "14 de junio de 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00326",
+    "nombre_comprador": "Francisco Pérez",
+    "email": "francisco.perez@gmail.com",
+    "dni": "58796148Y",
+    "tipo_entrada": "Prémium",
+    "precio": 95,
+    "fecha_compra": "4 de enero de 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00130",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "correo sin arroba.com",
+    "dni": "59066128",
+    "tipo_entrada": "V.I.P.",
+    "precio": 183,
+    "fecha_compra": "15 de marzo de 2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00139",
+    "nombre_comprador": "Beatriz Aguilar",
+    "email": "beatriz.aguilar@yahoo.es",
+    "dni": "85864089Y",
+    "tipo_entrada": "Premiun",
+    "precio": 131,
+    "fecha_compra": "22/5/26",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00217",
+    "nombre_comprador": "David Ruiz",
+    "email": "david.ruiz@gmail.com",
+    "dni": "28491507G",
+    "tipo_entrada": "Premium",
+    "precio": 138,
+    "fecha_compra": "febrero 21, 2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00012",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@management.com",
+    "dni": "19575640H",
+    "tipo_entrada": "VIP",
+    "precio": 180,
+    "fecha_compra": "19 de mayo de 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00355",
+    "nombre_comprador": "Roberto Cortés",
+    "email": "roberto.cortes@hotmail.com",
+    "dni": "11189346F",
+    "tipo_entrada": "Gral.",
+    "precio": 88,
+    "fecha_compra": "07/05/2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00028",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@hotmail.com",
+    "dni": "53443711Z",
+    "tipo_entrada": "general ",
+    "precio": 85,
+    "fecha_compra": "06/05/2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00344",
+    "nombre_comprador": "  Sara Navarro ",
+    "email": "sara.navarro@yahoo.es",
+    "dni": "62190363E",
+    "tipo_entrada": "General",
+    "precio": 81,
+    "fecha_compra": "2026-04-17",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00243",
+    "nombre_comprador": "  PAULA GIL ",
+    "email": "paula.gil@gmail.com",
+    "dni": "84596958Z",
+    "tipo_entrada": "Premiun",
+    "precio": 131,
+    "fecha_compra": "22-ene-2026",
+    "metodo_pago": "Metálico"
+  },
+  {
+    "id_venta": "VNT-00221",
+    "nombre_comprador": "Pablo Santos",
+    "email": "pablo.santos@yahoo.es",
+    "dni": "80839007X",
+    "tipo_entrada": "Prémium",
+    "precio": 109,
+    "fecha_compra": "27 de enero de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00186",
+    "nombre_comprador": "Rafael Delgado",
+    "email": "rafael.delgado@management.com",
+    "dni": "21942232W",
+    "tipo_entrada": "Premiun",
+    "precio": 91,
+    "fecha_compra": "mayo 21, 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00032",
+    "nombre_comprador": "Eva Garrido",
+    "email": "eva.garrido@management.com",
+    "dni": "X9244416C",
+    "tipo_entrada": "Premium",
+    "precio": 0,
+    "fecha_compra": "01/01/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00195",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@hotmail.com",
+    "dni": "N/A",
+    "tipo_entrada": "VIP ",
+    "precio": 145,
+    "fecha_compra": "junio 17, 2026",
+    "metodo_pago": "Paypal"
+  },
+  {
+    "id_venta": "VNT-00308",
+    "nombre_comprador": "Pilar Reyes",
+    "email": "pilar.reyes@outlook.com",
+    "dni": "10419981",
+    "tipo_entrada": "PREMIUM",
+    "precio": 113,
+    "fecha_compra": "14/05/2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00017",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@outlook.com",
+    "dni": "30900054Z",
+    "tipo_entrada": "GENERAL",
+    "precio": 80,
+    "fecha_compra": "12/03/2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00291",
+    "nombre_comprador": "  Ana Fernández ",
+    "email": "ana.fernandez@gmail.com",
+    "dni": "69555922N",
+    "tipo_entrada": "general ",
+    "precio": "62,00",
+    "fecha_compra": "24/2/26",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00164",
+    "nombre_comprador": "Manuel Torres",
+    "email": "correo sin arroba.com",
+    "dni": "60511038Q",
+    "tipo_entrada": "Premiun",
+    "precio": 91,
+    "fecha_compra": "13/01/2026",
+    "metodo_pago": "N/A"
+  },
+  {
+    "id_venta": "VNT-00110",
+    "nombre_comprador": "  clara cano ",
+    "email": "clara.cano@yahoo.es",
+    "dni": "15278941H",
+    "tipo_entrada": "Premiun",
+    "precio": 95,
+    "fecha_compra": "junio 7, 2026",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00328",
+    "nombre_comprador": "Elena Álvarez",
+    "email": "elena.alvarez@hotmail.com",
+    "dni": "89427788Q",
+    "tipo_entrada": "PREMIUM",
+    "precio": 0,
+    "fecha_compra": "20-02-2026",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "id_venta": "VNT-00075",
+    "nombre_comprador": "Esther Campos",
+    "email": "esther.campos@gmail.com",
+    "dni": "13346688H",
+    "tipo_entrada": "Vip",
+    "precio": 159,
+    "fecha_compra": "3 de febrero de 2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00241",
+    "nombre_comprador": "  JAVIER DOMÍNGUEZ ",
+    "email": "N/A",
+    "dni": "47508257D",
+    "tipo_entrada": "Premiun",
+    "precio": 99999,
+    "fecha_compra": "febrero 24, 2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00128",
+    "nombre_comprador": "  LAURA GONZALEZ ",
+    "email": "laura.gonzalez@management.com",
+    "dni": "72244899-J",
+    "tipo_entrada": "premium",
+    "precio": 100,
+    "fecha_compra": "1-may-2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00280",
+    "nombre_comprador": "Carlos Martínez",
+    "email": "carlos.martinez@gmail.com",
+    "dni": "39159454P",
+    "tipo_entrada": "Vip",
+    "precio": 180,
+    "fecha_compra": "2026-06-24",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00020",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@yahoo.es",
+    "dni": "",
+    "tipo_entrada": "premium",
+    "precio": 108,
+    "fecha_compra": "07-04-2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00233",
+    "nombre_comprador": "  LOLA FLORES ",
+    "email": "lola.flores@gmail.com",
+    "dni": "17096679C",
+    "tipo_entrada": "Prémium",
+    "precio": 125,
+    "fecha_compra": "febrero 20, 2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00143",
+    "nombre_comprador": "Laura González",
+    "email": "laura.gonzalez@outlook.com",
+    "dni": "88809974M",
+    "tipo_entrada": "Gral.",
+    "precio": 78,
+    "fecha_compra": "2026-06-14",
+    "metodo_pago": "bizum"
+  },
+  {
+    "id_venta": "VNT-00059",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@management.com",
+    "dni": "96718276X",
+    "tipo_entrada": "Gral",
+    "precio": 77,
+    "fecha_compra": "2026-05-05",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00244",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "luis.fuentes@outlook.com",
+    "dni": "60516391X",
+    "tipo_entrada": " VIP",
+    "precio": 141,
+    "fecha_compra": "4/6/26",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00109",
+    "nombre_comprador": "Inés Pastor",
+    "email": "ines.pastor@outlook.com",
+    "dni": "58173202S",
+    "tipo_entrada": "V.I.P.",
+    "precio": -154,
+    "fecha_compra": "19-01-2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00249",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@yahoo.es",
+    "dni": "76514912F",
+    "tipo_entrada": "PREMIUM",
+    "precio": 110,
+    "fecha_compra": "22/01/2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00310",
+    "nombre_comprador": "Juan Moreno",
+    "email": "juan.moreno@hotmail.com",
+    "dni": "83651529T",
+    "tipo_entrada": "Premiun",
+    "precio": 140,
+    "fecha_compra": "26 de abril de 2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00176",
+    "nombre_comprador": "  FRANCISCO PEREZ ",
+    "email": "correo@",
+    "dni": "",
+    "tipo_entrada": "GENERAL",
+    "precio": 61,
+    "fecha_compra": "02-01-2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00163",
+    "nombre_comprador": "Adrián Calvo",
+    "email": "adrian.calvo@management.com",
+    "dni": "72548391C",
+    "tipo_entrada": "vip",
+    "precio": 179,
+    "fecha_compra": "25-05-2026",
+    "metodo_pago": "Pay Pal"
+  },
+  {
+    "id_venta": "VNT-00034",
+    "nombre_comprador": "Hugo Guerrero",
+    "email": "hugo.guerrero@hotmail.com",
+    "dni": "24161873M",
+    "tipo_entrada": "VIP ",
+    "precio": 182,
+    "fecha_compra": "24/5/26",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00169",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@yahoo.es",
+    "dni": "86844836X",
+    "tipo_entrada": "General",
+    "precio": 51,
+    "fecha_compra": "19/04/2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00206",
+    "nombre_comprador": "Diego Rubio",
+    "email": "diego.rubio@musica.es",
+    "dni": "63015631",
+    "tipo_entrada": "PREMIUM",
+    "precio": 136,
+    "fecha_compra": "2026-03-23",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00103",
+    "nombre_comprador": "José García",
+    "email": "jose.garcia@outlook.com",
+    "dni": "43808923G",
+    "tipo_entrada": "VIP",
+    "precio": "166€",
+    "fecha_compra": "08/03/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00222",
+    "nombre_comprador": "Elena Álvarez",
+    "email": "elena.alvarez@management.com",
+    "dni": "50470861Y",
+    "tipo_entrada": "Premium",
+    "precio": 131,
+    "fecha_compra": "25/04/2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00204",
+    "nombre_comprador": "  sandra cabrera ",
+    "email": "sandra.cabrera@hotmail.com",
+    "dni": "49949573J",
+    "tipo_entrada": "PREMIUM",
+    "precio": 97,
+    "fecha_compra": "02/04/2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00369",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@management.com",
+    "dni": "76719940J",
+    "tipo_entrada": "Gral.",
+    "precio": 100,
+    "fecha_compra": "13/02/2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00093",
+    "nombre_comprador": "Óscar Herrera",
+    "email": "oscar.herrera@musica.es",
+    "dni": "15082158T",
+    "tipo_entrada": "Prémium",
+    "precio": 135,
+    "fecha_compra": "12/05/2026",
+    "metodo_pago": "metalico"
+  },
+  {
+    "id_venta": "VNT-00044",
+    "nombre_comprador": "Daniel Castro",
+    "email": "daniel.castro@musica.es",
+    "dni": "16023362K",
+    "tipo_entrada": "premium",
+    "precio": 139,
+    "fecha_compra": "abril 20, 2026",
+    "metodo_pago": "tarjeta credito"
+  },
+  {
+    "id_venta": "VNT-00056",
+    "nombre_comprador": "Mario Girón",
+    "email": "mario.giron@musica.es",
+    "dni": "71410640X",
+    "tipo_entrada": "vip",
+    "precio": 151,
+    "fecha_compra": "23-abr-2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00374",
+    "nombre_comprador": "Paula Gil",
+    "email": "notengo@email",
+    "dni": "77551168F",
+    "tipo_entrada": "Premium",
+    "precio": "108€",
+    "fecha_compra": "20-ene-2026",
+    "metodo_pago": "Visa"
+  },
+  {
+    "id_venta": "VNT-00274",
+    "nombre_comprador": "  cristina ramos ",
+    "email": "cristina.ramos@outlook.com",
+    "dni": "24000677Q",
+    "tipo_entrada": "general ",
+    "precio": "80€",
+    "fecha_compra": "10 de junio de 2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00329",
+    "nombre_comprador": "  rocío suárez ",
+    "email": "rocio.suarez@outlook.com",
+    "dni": "29225877",
+    "tipo_entrada": "Gral.",
+    "precio": 74,
+    "fecha_compra": "enero 9, 2026",
+    "metodo_pago": "PayPal"
+  },
+  {
+    "id_venta": "VNT-00240",
+    "nombre_comprador": "Javier Domínguez",
+    "email": "javier.dominguez@musica.es",
+    "dni": "57166514",
+    "tipo_entrada": "VIP ",
+    "precio": 143,
+    "fecha_compra": "marzo 27, 2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00239",
+    "nombre_comprador": "N/A",
+    "email": "fernando.morales@musica.es",
+    "dni": "66875091S",
+    "tipo_entrada": "Prémium",
+    "precio": 103,
+    "fecha_compra": "26/02/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00179",
+    "nombre_comprador": "Manuel Torres",
+    "email": "manuel.torres@yahoo.es",
+    "dni": "43064092L",
+    "tipo_entrada": "V.I.P.",
+    "precio": 174,
+    "fecha_compra": "14 de mayo de 2026",
+    "metodo_pago": "BIZUM"
+  },
+  {
+    "id_venta": "VNT-00048",
+    "nombre_comprador": "Luis Fuentes",
+    "email": "sin email",
+    "dni": "21813934K",
+    "tipo_entrada": "vip",
+    "precio": 172,
+    "fecha_compra": "abril 28, 2026",
+    "metodo_pago": "Bisum"
+  },
+  {
+    "id_venta": "VNT-00343",
+    "nombre_comprador": "José García",
+    "email": "correo sin arroba.com",
+    "dni": "14242158Y",
+    "tipo_entrada": "premium",
+    "precio": 97,
+    "fecha_compra": "abril 24, 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00237",
+    "nombre_comprador": "Daniel Castro",
+    "email": "daniel.castro@hotmail.com",
+    "dni": "61680358D",
+    "tipo_entrada": "V.I.P.",
+    "precio": 152,
+    "fecha_compra": "17/04/2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00199",
+    "nombre_comprador": "Irene Prieto",
+    "email": "irene.prieto@outlook.com",
+    "dni": "",
+    "tipo_entrada": "Gral",
+    "precio": 75,
+    "fecha_compra": "1-ene-2026",
+    "metodo_pago": "TARJETA"
+  },
+  {
+    "id_venta": "VNT-00115",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@management.com",
+    "dni": "87304983L",
+    "tipo_entrada": " VIP",
+    "precio": 167,
+    "fecha_compra": "13 de junio de 2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00038",
+    "nombre_comprador": "Francisco Pérez",
+    "email": "francisco.perez@musica.es",
+    "dni": "X6447428X",
+    "tipo_entrada": "Premiun",
+    "precio": 104,
+    "fecha_compra": "19 de abril de 2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00205",
+    "nombre_comprador": "",
+    "email": "teresa.mendez@yahoo.es",
+    "dni": "12404540L",
+    "tipo_entrada": "VIP",
+    "precio": "151€",
+    "fecha_compra": "4-jun-2026",
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id_venta": "VNT-00292",
+    "nombre_comprador": "Clara Cano",
+    "email": "clara.cano@yahoo.es",
+    "dni": "N/A",
+    "tipo_entrada": "V.I.P.",
+    "precio": 190,
+    "fecha_compra": "enero 8, 2026",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00082",
+    "nombre_comprador": "Lola Flores",
+    "email": "lola.flores@yahoo.es",
+    "dni": "99279031Z",
+    "tipo_entrada": "GENERAL",
+    "precio": "64,00",
+    "fecha_compra": "13/3/26",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00193",
+    "nombre_comprador": "Rocío Suárez",
+    "email": "rocio.suarez@outlook.com",
+    "dni": "75937784Y",
+    "tipo_entrada": "general",
+    "precio": 98,
+    "fecha_compra": "11/02/2026",
+    "metodo_pago": "Transferencia"
+  },
+  {
+    "id_venta": "VNT-00149",
+    "nombre_comprador": "  ALEJANDRO MOLINA ",
+    "email": "alejandro.molina@management.com",
+    "dni": "32432603G",
+    "tipo_entrada": "Gral.",
+    "precio": 90,
+    "fecha_compra": "25/2/26",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00054",
+    "nombre_comprador": "  Miguel Rodríguez ",
+    "email": "miguel.rodriguez@hotmail.com",
+    "dni": "13501001R",
+    "tipo_entrada": "V.I.P.",
+    "precio": 179,
+    "fecha_compra": "2026-05-08",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00080",
+    "nombre_comprador": "Alberto Medina",
+    "email": "alberto.medina@hotmail.com",
+    "dni": "",
+    "tipo_entrada": "VIP ",
+    "precio": 99999,
+    "fecha_compra": "20/06/2026",
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id_venta": "VNT-00005",
+    "nombre_comprador": "Marcos Peña",
+    "email": "marcos.pena@musica.es",
+    "dni": "78603195M",
+    "tipo_entrada": "PREMIUM",
+    "precio": 121,
+    "fecha_compra": "16-mar-2026",
+    "metodo_pago": "paypal"
+  },
+  {
+    "id_venta": "VNT-00288",
+    "nombre_comprador": "  antonio muñoz ",
+    "email": "antonio.munoz@outlook.com",
+    "dni": "23665188M",
+    "tipo_entrada": "general ",
+    "precio": 0,
+    "fecha_compra": "25 de marzo de 2026",
+    "metodo_pago": "TRANSFERENCIA"
+  },
+  {
+    "id_venta": "VNT-00359",
+    "nombre_comprador": "Sergio León",
+    "email": "sergio.leon@musica.es",
+    "dni": "",
+    "tipo_entrada": "premium",
+    "precio": 118,
+    "fecha_compra": "26/06/2026",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00126",
+    "nombre_comprador": "Patricia Romero",
+    "email": "patricia.romero@gmail.com",
+    "dni": "73169926A",
+    "tipo_entrada": "Prémium",
+    "precio": 127,
+    "fecha_compra": "02/04/2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00380",
+    "nombre_comprador": "Teresa Méndez",
+    "email": "teresa.mendez@gmail.com",
+    "dni": "72157065Q",
+    "tipo_entrada": "VIP",
+    "precio": 190,
+    "fecha_compra": "2026-03-06",
+    "metodo_pago": "transferencia"
+  },
+  {
+    "id_venta": "VNT-00030",
+    "nombre_comprador": "María López",
+    "email": "@dominio.com",
+    "dni": "76779917Y",
+    "tipo_entrada": "Gral.",
+    "precio": 65,
+    "fecha_compra": "7 de abril de 2026",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "id_venta": "VNT-00330",
+    "nombre_comprador": "Sara Navarro",
+    "email": "sara.navarro@musica.es",
+    "dni": null,
+    "tipo_entrada": "PREMIUM",
+    "precio": 135,
+    "fecha_compra": "6-may-2026",
+    "metodo_pago": "Cash"
+  },
+  {
+    "id_venta": "VNT-00318",
+    "nombre_comprador": "Tomás Soto",
+    "email": "tomas.soto@management.com",
+    "dni": "62487600C",
+    "tipo_entrada": "Prémium",
+    "precio": 91,
+    "fecha_compra": "12-04-2026",
+    "metodo_pago": "EFECTIVO"
+  },
+  {
+    "id_venta": "VNT-00022",
+    "nombre_comprador": "  TOMÁS SOTO ",
+    "email": "tomas.soto@yahoo.es",
+    "dni": "14259684Y",
+    "tipo_entrada": "V.I.P.",
+    "precio": 140,
+    "fecha_compra": "2026-04-12",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "id_venta": "VNT-00350",
+    "nombre_comprador": "  Adrián Calvo ",
+    "email": "adrian.calvo@gmail.com",
+    "dni": "27489655",
+    "tipo_entrada": "V.I.P.",
+    "precio": 171,
+    "fecha_compra": "1/6/26",
+    "metodo_pago": "PAYPAL"
+  },
+  {
+    "id_venta": "VNT-00135",
+    "nombre_comprador": "María López",
+    "email": "maria.lopez@management.com",
+    "dni": "89639062N",
+    "tipo_entrada": "VIP ",
+    "precio": 181,
+    "fecha_compra": "26/06/2026",
+    "metodo_pago": "Transfer."
+  },
+  {
+    "id_venta": "VNT-00231",
+    "nombre_comprador": "  alejandro molina ",
+    "email": "alejandro.molina@yahoo.es",
+    "dni": "N/A",
+    "tipo_entrada": "vip",
+    "precio": 170,
+    "fecha_compra": "16 de abril de 2026",
+    "metodo_pago": "Bisum"
+  }
+]
