@@ -1,0 +1,51 @@
+﻿nombre,email,tipo,mensaje,estado,fecha
+Lucía Fernández,lucia.fernandez@gmail.com,urgente,No puedo acceder a mi cuenta desde esta mañana,procesado,2025-01-11T22:00:00.000Z
+Carlos Ruiz,carlos.ruiz@hotmail.com,soporte,¿Cómo cambio mi contraseña?,pendiente,2025-01-12T22:00:00.000Z
+Marta Gómez,marta.gomez@outlook.com,devolucion,Quiero devolver el pedido 4521 porque llegó dañado,pendiente,2025-01-13T22:00:00.000Z
+Javier López,javier.lopez@gmail.com,urgente,La aplicación se cierra cada vez que intento pagar,pendiente,2025-01-13T22:00:00.000Z
+Sara Martín,sara.martin@yahoo.es,soporte,No me llega el correo de confirmación,pendiente,2025-01-14T22:00:00.000Z
+Diego Sánchez,diego.sanchez@gmail.com,devolucion,El producto no coincide con la descripción,pendiente,2025-01-14T22:00:00.000Z
+Elena Torres,elena.torres@hotmail.com,soporte,Necesito ayuda para configurar mi perfil,pendiente,2025-01-15T22:00:00.000Z
+Pablo Díaz,pablo.diaz@gmail.com,urgente,Me han cobrado dos veces la misma factura,pendiente,2025-01-15T22:00:00.000Z
+Andrea Moreno,andrea.moreno@outlook.com,soporte,¿Tienen catálogo en PDF?,pendiente,2025-01-16T22:00:00.000Z
+Raúl Jiménez,raul.jimenez@gmail.com,devolucion,Solicito reembolso del pedido 4490,pendiente,2025-01-16T22:00:00.000Z
+Cristina Romero,cristina.romero@yahoo.es,urgente,Mi pedido lleva una semana sin moverse,procesado,2025-01-17T22:00:00.000Z
+Sergio Navarro,sergio.navarro@gmail.com,soporte,No encuentro la opción para descargar mi factura,pendiente,2025-01-17T22:00:00.000Z
+Beatriz Iglesias,beatriz.iglesias@hotmail.com,devolucion,"La talla no es la correcta, quiero cambiarla",pendiente,2025-01-18T22:00:00.000Z
+Sergio Navarro,sergio.navarro@gmail.com,urgente,La web no carga en el navegador móvil,rechazado,2025-01-18T22:00:00.000Z
+Nuria Ortega,nuria.ortega@outlook.com,soporte,¿Cuánto tarda el envío estándar?,pendiente,2025-01-19T22:00:00.000Z
+Pablo Díaz,pablo.diaz@gmail.com,devolucion,Recibí un artículo equivocado,pendiente,2025-01-19T22:00:00.000Z
+Patricia Vargas,patricia.vargas@yahoo.es,soporte,Quiero actualizar mis datos de facturación,pendiente,2025-01-20T22:00:00.000Z
+Adrián Molina,adrian.molina@gmail.com,urgente,No funciona el código de descuento,pendiente,2025-01-20T22:00:00.000Z
+Laura Delgado,laura.delgado@hotmail.com,devolucion,El paquete llegó incompleto,pendiente,2025-01-21T22:00:00.000Z
+Daniel Herrera,daniel.herrera@gmail.com,soporte,¿Puedo cambiar la dirección de entrega?,en_revision,2025-01-21T22:00:00.000Z
+Marina Cano,marina.cano@outlook.com,urgente,Mi tarjeta fue rechazada sin motivo,en_gestion,2025-01-22T22:00:00.000Z
+Rubén Prieto,ruben.prieto@gmail.com,soporte,No recibo notificaciones push,notificado,2025-01-22T22:00:00.000Z
+Carmen Vega,carmen.vega@yahoo.es,devolucion,Quiero anular la compra antes del envío,en_revision,2025-01-23T22:00:00.000Z
+Iván Reyes,ivan.reyes@gmail.com,urgente,El sistema me dice que mi sesión ha caducado,en_gestion,2025-01-23T22:00:00.000Z
+Ana Crespo,ana.crespo@hotmail.com,soporte,¿Cómo activo la verificación en dos pasos?,notificado,2025-01-24T22:00:00.000Z
+Jorge Méndez,jorge.mendez@gmail.com,devolucion,Producto defectuoso tras dos días de uso,en_revision,2025-01-24T22:00:00.000Z
+Silvia Garrido,silvia.garrido@outlook.com,urgente,No puedo finalizar la compra,notificado,2025-01-25T22:00:00.000Z
+Manuel Aguilar,manuel.aguilar@gmail.com,soporte,Necesito una factura con mis datos de empresa,notificado,2025-01-25T22:00:00.000Z
+Rocío Santos,rocio.santos@yahoo.es,devolucion,El color recibido no es el que pedí,en_revision,2025-01-26T22:00:00.000Z
+Fernando Gil,fernando.gil@gmail.com,urgente,Han desaparecido los artículos de mi carrito,en_gestion,2025-01-26T22:00:00.000Z
+Teresa Marín,teresa.marin@hotmail.com,soporte,¿Dónde veo el historial de mis pedidos?,notificado,2025-01-27T22:00:00.000Z
+Óscar Pascual,oscar.pascual@gmail.com,devolucion,Solicito devolución por arrepentimiento,notificado,2025-01-27T22:00:00.000Z
+Alicia Ramos,alicia.ramos@outlook.com,urgente,La cuenta aparece bloqueada sin avisar,en_gestion,2025-01-28T22:00:00.000Z
+Hugo Campos,hugo.campos@gmail.com,soporte,No me deja subir la foto de perfil,notificado,2025-01-28T22:00:00.000Z
+Natalia Soto,natalia.soto@yahoo.es,devolucion,El envío llegó tarde y ya no lo necesito,en_revision,2025-01-29T22:00:00.000Z
+Gonzalo Bravo,gonzalo.bravo@gmail.com,urgente,Error 500 al intentar registrarme,en_gestion,2025-01-29T22:00:00.000Z
+Eva Lozano,eva.lozano@hotmail.com,soporte,¿Aceptáis pago por transferencia?,notificado,2025-01-30T22:00:00.000Z
+Mario Esteban,mario.esteban@gmail.com,devolucion,Quiero cambiar el modelo por otro,en_revision,2025-01-30T22:00:00.000Z
+Claudia Ferrer,claudia.ferrer@outlook.com,urgente,Cobro duplicado en mi suscripción,en_gestion,2025-01-31T22:00:00.000Z
+Álvaro Nieto,alvaro.nieto@gmail.com,soporte,No encuentro el botón de cancelar suscripción,notificado,2025-01-31T22:00:00.000Z
+Irene Pardo,irene.pardo@yahoo.es,devolucion,El artículo no enciende,en_revision,2025-02-01T22:00:00.000Z
+Rafael Vidal,rafael.vidal@gmail.com,urgente,No puedo recuperar mi contraseña,en_gestion,2025-02-01T22:00:00.000Z
+Lorena Cabrera,lorena.cabrera@hotmail.com,soporte,¿Hacéis envíos a Canarias?,notificado,2025-02-02T22:00:00.000Z
+Tomás Serrano,tomas.serrano@gmail.com,devolucion,Llegaron dos unidades y solo pedí una,notificado,2025-02-02T22:00:00.000Z
+Marta Vázquez,marta.vazquez@outlook.com,urgente,La pasarela de pago da error constante,notificado,2025-02-03T22:00:00.000Z
+Pedro Calvo,pedro.calvo@gmail.com,soporte,Quiero darme de baja del boletín,notificado,2025-02-03T22:00:00.000Z
+Sandra Ibáñez,sandra.ibanez@yahoo.es,devolucion,Producto con la caja abierta y precintos rotos,en_revision,2025-02-04T22:00:00.000Z
+Guillermo Mora,guillermo.mora@gmail.com,urgente,No me aplica la garantía del producto,notificado,2025-02-04T22:00:00.000Z
+Paula Domínguez,paula.dominguez@hotmail.com,soporte,¿Cómo añado un segundo método de pago?,notificado,2025-02-05T22:00:00.000Z
+Antonio Cruz,antonio.cruz@gmail.com,devolucion,Quiero devolver un regalo sin ticket de compra,en_revision,2025-02-05T22:00:00.000Z
