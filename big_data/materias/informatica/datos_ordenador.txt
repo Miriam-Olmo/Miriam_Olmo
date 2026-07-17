@@ -1,0 +1,13 @@
+datos equipo inserta:
+- RAM: 32GB
+- procesador: intel(R) Core(TM) i7-9850H CPU @ 2.60GHz (2.59 GHz)
+´tipo de sistema: 64 bits
+
+datos equipo casa: 
+
+url de descarga:
+
+visual estudio code: https://code.visualstudio.com
+Python: https://www.python.org(3.12.10)
+git: https://git-scm.com/
+hyper terminal: https://hyper.is/

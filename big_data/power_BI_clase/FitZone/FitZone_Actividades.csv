@@ -1,0 +1,16 @@
+﻿ID_Actividad;Actividad;Categoria;Dificultad;Duracion_Min;Precio_Clase;Coste_Clase
+A01;Spinning Inferno;Cardio;Alta;45;12.0;4.5
+A02;Yoga Flow;Cuerpo-Mente;Baja;60;10.0;3.5
+A03;CrossFit WOD;Fuerza;Alta;50;14.0;5.0
+A04;Pilates Reformer;Cuerpo-Mente;Media;55;15.0;6.0
+A05;Boxeo Fitness;Cardio;Alta;45;13.0;4.8
+A06;Zumba Party;Cardio;Baja;50;9.0;3.0
+A07;Body Pump;Fuerza;Media;55;11.0;4.0
+A08;Stretching Profundo;Cuerpo-Mente;Baja;40;8.0;2.8
+A09;HIIT Express;Cardio;Alta;30;10.0;3.5
+A10;Aqua Gym;Cardio;Baja;45;11.0;5.5
+A11;TRX Suspension;Fuerza;Media;45;13.0;4.5
+A12;Meditacion Guiada;Cuerpo-Mente;Baja;30;7.0;2.0
+A13;Functional Training;Fuerza;Media;50;12.0;4.2
+A14;Cycling Virtual;Cardio;Media;40;11.0;4.0
+A15;Power Yoga;Cuerpo-Mente;Media;60;12.0;4.0

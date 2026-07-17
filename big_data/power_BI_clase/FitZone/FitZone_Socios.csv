@@ -1,0 +1,21 @@
+﻿ID_Socio;Socio;Tipo_Cuota;Rango_Edad;Genero;Canal_Alta
+SC001;Ana Gutierrez;Premium;25-34;Mujer;Instagram
+SC002;Pedro Navarro;Basica;35-44;Hombre;Web
+SC003;Laura Dominguez;Premium;18-24;Mujer;TikTok
+SC004;Miguel Serrano;Familiar;35-44;Hombre;Recomendacion
+SC005;Carmen Fuentes;Premium;25-34;Mujer;Google
+SC006;Roberto Aguilar;Basica;45-54;Hombre;Pasaba por aqui
+SC007;Isabel Romero;Estudiante;18-24;Mujer;TikTok
+SC008;Fernando Cabrera;Premium;25-34;Hombre;Instagram
+SC009;Natalia Vidal;Basica;35-44;Mujer;Web
+SC010;Alvaro Medina;Corporativa;25-34;Hombre;Empresa
+SC011;Silvia Campos;Familiar;35-44;Mujer;Recomendacion
+SC012;Daniel Prieto;Estudiante;18-24;Hombre;Instagram
+SC013;Patricia Leon;Premium;25-34;Mujer;Google
+SC014;Sergio Ibarra;Corporativa;35-44;Hombre;Empresa
+SC015;Monica Salazar;Basica;45-54;Mujer;Google
+SC016;Adrian Flores;Premium;25-34;Hombre;TikTok
+SC017;Eva Mendez;Familiar;35-44;Mujer;Recomendacion
+SC018;Tomas Vargas;Estudiante;18-24;Hombre;TikTok
+SC019;Raquel Duran;Corporativa;25-34;Mujer;Empresa
+SC020;Hugo Molina;Basica;55+;Hombre;Pasaba por aqui

@@ -1,0 +1,16 @@
+﻿ID_Servicio;Servicio;Categoria;Dificultad;Duracion_Min;Precio_Base;Coste_Servicio
+SV01;Baño Completo;Estetica;Baja;45;25.0;8.0
+SV02;Corte y Peinado;Estetica;Media;60;35.0;10.0
+SV03;Vacunacion Anual;Veterinaria;Baja;20;40.0;18.0
+SV04;Revision General;Veterinaria;Media;30;45.0;15.0
+SV05;Desparasitacion;Veterinaria;Baja;15;20.0;8.0
+SV06;Limpieza Dental;Veterinaria;Alta;45;60.0;25.0
+SV07;Stripping;Estetica;Alta;90;55.0;15.0
+SV08;Corte de Unas;Estetica;Baja;10;8.0;2.0
+SV09;Consulta Dermatologica;Veterinaria;Alta;40;50.0;20.0
+SV10;Ecografia;Veterinaria;Alta;30;65.0;30.0
+SV11;Spa Relajante;Bienestar;Baja;50;30.0;10.0
+SV12;Hidratacion Pelaje;Estetica;Media;40;28.0;9.0
+SV13;Fisioterapia;Bienestar;Alta;45;55.0;22.0
+SV14;Guarderia Dia Completo;Bienestar;Baja;480;22.0;12.0
+SV15;Adiestramiento Basico;Bienestar;Media;60;35.0;12.0

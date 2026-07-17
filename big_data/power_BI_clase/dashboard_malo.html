@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>❌ Dashboard INCORRECTO — TecnoShop Ventas 2024</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Comic Sans MS', cursive;
+      background: linear-gradient(135deg, #ff9a9e, #fecfef, #ffecd2);
+      color: #333;
+    }
+
+    /* ── CABECERA exagerada ── */
+    header {
+      background: linear-gradient(90deg, #ff0000, #ff7700, #ffff00, #00ff00, #0000ff, #9400d3);
+      color: white;
+      padding: 18px 20px;
+      text-align: center;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+    header h1 { font-size: 28px; font-weight: 900; }
+    header p { font-size: 12px; margin-top: 4px; }
+
+    main { padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+
+    /* ── GRID CAÓTICO ── */
+    .chaos-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+      gap: 8px;
+    }
+    .mini-card {
+      background: white;
+      border-radius: 4px;
+      padding: 12px 8px;
+      text-align: center;
+      border: 3px solid;
+      box-shadow: 4px 4px 8px rgba(0,0,0,0.2);
+    }
+    .mini-card .val { font-size: 22px; font-weight: 900; }
+    .mini-card .lbl { font-size: 9px; color: #999; }
+
+    /* Colores aleatorios para cada card */
+    .c1 { border-color: #ff0000; color: #ff0000; }
+    .c2 { border-color: #00aa00; color: #00aa00; }
+    .c3 { border-color: #0000ff; color: #0000ff; }
+    .c4 { border-color: #ff6600; color: #ff6600; }
+    .c5 { border-color: #9400d3; color: #9400d3; }
+    .c6 { border-color: #cc0066; color: #cc0066; }
+
+    /* ── GRÁFICOS INCORRECTOS ── */
+    .charts-bad {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+    }
+    .chart-card {
+      background: white;
+      padding: 12px;
+      border-radius: 4px;
+      border: 2px dashed #ccc;
+      box-shadow: 3px 3px 6px rgba(0,0,0,0.15);
+    }
+
+    /* Gráfico de tarta CSS */
+    .pie-container { position: relative; width: 130px; height: 130px; margin: 8px auto; border-radius: 50%; }
+    .pie-3d {
+      width: 130px; height: 80px;
+      border-radius: 50%;
+      background: conic-gradient(
+        #ff0000 0deg 60deg,
+        #ff6600 60deg 110deg,
+        #ffcc00 110deg 148deg,
+        #00cc00 148deg 185deg,
+        #0066ff 185deg 225deg,
+        #9900cc 225deg 270deg,
+        #ff0099 270deg 310deg,
+        #00cccc 310deg 348deg,
+        #cc6600 348deg 360deg
+      );
+      transform: perspective(40px) rotateX(20deg);
+      box-shadow: 0 10px 0 #aaa;
+      margin: 8px auto;
+    }
+    .pie-legend { font-size: 8px; display: flex; flex-wrap: wrap; gap: 2px; justify-content: center; margin-top: 4px; }
+    .pie-legend-item { display: flex; align-items: center; gap: 2px; }
+    .pie-dot { width: 6px; height: 6px; border-radius: 50%; display: inline-block; }
+
+    /* Pseudo gráfico de barras 3D */
+    .bars-3d {
+      display: flex;
+      align-items: flex-end;
+      gap: 6px;
+      height: 100px;
+      padding: 8px 4px 0;
+    }
+    .bar-3d {
+      flex: 1;
+      position: relative;
+      border-radius: 2px 2px 0 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .bar-3d::after {
+      content: '';
+      position: absolute;
+      top: -6px;
+      right: -6px;
+      width: 100%;
+      height: 6px;
+      transform: skewX(45deg);
+      transform-origin: bottom left;
+    }
+    .bar-3d span { font-size: 7px; margin-top: 2px; white-space: nowrap; }
+
+    /* ── TABLA SOBRECARGADA ── */
+    .table-bad {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 9px;
+      background: white;
+    }
+    .table-bad th {
+      background: #ffff00;
+      padding: 4px;
+      border: 1px solid #000;
+      font-size: 8px;
+      white-space: nowrap;
+    }
+    .table-bad td {
+      padding: 3px 4px;
+      border: 1px solid #ccc;
+      white-space: nowrap;
+      overflow: hidden;
+      max-width: 70px;
+      text-overflow: ellipsis;
+    }
+    .table-bad tr:nth-child(odd) { background: #ffffcc; }
+    .table-bad tr:nth-child(even) { background: #ffccff; }
+    .table-bad tr:nth-child(3n) { background: #ccffcc; }
+
+    /* ── ANOTACIONES DE ERRORES ── */
+    .error-bar {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 8px;
+      padding: 12px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    .error-bar strong { font-size: 12px; color: #856404; font-family: 'Segoe UI', sans-serif; }
+    .err { font-size: 11px; color: #dc3545; background: #fee2e2; padding: 3px 10px; border-radius: 12px; font-family: 'Segoe UI', sans-serif; }
+
+    .chart-title-missing { font-size: 11px; color: #999; font-style: italic; margin-bottom: 6px; }
+    .chart-title-ok { font-size: 11px; font-weight: 700; color: #333; margin-bottom: 4px; font-family: 'Comic Sans MS', cursive; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>💰💰 DASHBOARD EMPRESA VENTAS 2024 MEGA COMPLETO!!! 💰💰</h1>
+  <p>TODOS LOS DATOS DE TECNOSHOP · SUPERIMPORTANTE · NO BORRAR</p>
+</header>
+
+<main>
+
+  <!-- ANOTACIÓN DE ERRORES -->
+  <div class="error-bar" style="font-family:'Segoe UI',sans-serif;">
+    <strong>❌ ERRORES EN ESTE DASHBOARD:</strong>
+    <span class="err">① Título sin información útil</span>
+    <span class="err">② Fuente Comic Sans</span>
+    <span class="err">③ Fondo degradado colorido</span>
+    <span class="err">④ Sin filtros ni fecha</span>
+    <span class="err">⑤ KPIs sin contexto ni objetivo</span>
+    <span class="err">⑥ Gráficos de tarta 3D para todo</span>
+    <span class="err">⑦ 9+ colores distintos</span>
+    <span class="err">⑧ Gráficos sin título ni ejes</span>
+    <span class="err">⑨ Tabla ilegible (letra 8px)</span>
+    <span class="err">⑩ Sin jerarquía visual</span>
+  </div>
+
+  <!-- KPIs sin contexto -->
+  <div class="chaos-grid">
+    <div class="mini-card c1">
+      <div class="val">689000</div>
+      <div class="lbl">numero ventas</div>
+    </div>
+    <div class="mini-card c2">
+      <div class="val">1183</div>
+      <div class="lbl">pedidostotal</div>
+    </div>
+    <div class="mini-card c3">
+      <div class="val">582.4178</div>
+      <div class="lbl">media ticket</div>
+    </div>
+    <div class="mini-card c4">
+      <div class="val">18%</div>
+      <div class="lbl">%</div>
+    </div>
+    <div class="mini-card c5">
+      <div class="val">4.7</div>
+      <div class="lbl">stars</div>
+    </div>
+    <div class="mini-card c6">
+      <div class="val">5</div>
+      <div class="lbl">regiones</div>
+    </div>
+  </div>
+
+  <!-- GRÁFICOS INCORRECTOS -->
+  <div class="charts-bad">
+
+    <!-- Tartas 3D para evolución temporal (INCORRECTO) -->
+    <div class="chart-card">
+      <div class="chart-title-missing">(sin título)</div>
+      <div class="pie-3d"></div>
+      <div class="pie-legend">
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#ff0000"></span><span style="font-size:7px">Ene 45K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#ff6600"></span><span style="font-size:7px">Feb 38K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#ffcc00"></span><span style="font-size:7px">Mar 52K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#00cc00"></span><span style="font-size:7px">Abr 48K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#0066ff"></span><span style="font-size:7px">May 61K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#9900cc"></span><span style="font-size:7px">Jun 55K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#ff0099"></span><span style="font-size:7px">Jul 49K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#00cccc"></span><span style="font-size:7px">Ago 57K</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#cc6600"></span><span style="font-size:7px">Dic 82K</span></span>
+      </div>
+    </div>
+
+    <!-- Tarta para categorías de producto (INCORRECTO) -->
+    <div class="chart-card">
+      <div class="chart-title-ok">Grafico productos 2024</div>
+      <div class="pie-3d" style="background: conic-gradient(#e74c3c 0deg 88deg, #3498db 88deg 157deg, #2ecc71 157deg 209deg, #f39c12 209deg 251deg, #9b59b6 251deg 360deg);"></div>
+      <div class="pie-legend">
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#e74c3c"></span><span style="font-size:7px">Auriculares BT (241ud)</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#3498db"></span><span style="font-size:7px">Teclado (187ud)</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#2ecc71"></span><span style="font-size:7px">Monitor (142ud)</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#f39c12"></span><span style="font-size:7px">Webcam (115ud)</span></span>
+        <span class="pie-legend-item"><span class="pie-dot" style="background:#9b59b6"></span><span style="font-size:7px">Silla (98ud)</span></span>
+      </div>
+    </div>
+
+    <!-- Barras 3D sin eje ni escala -->
+    <div class="chart-card">
+      <div class="chart-title-ok">regiones!!!</div>
+      <div class="bars-3d">
+        <div class="bar-3d" style="height:80px;background:#e74c3c;">
+          <div style="background:#c0392b;height:80px;width:100%;border-radius:2px 2px 0 0;"></div>
+          <span>Mad</span>
+        </div>
+        <div class="bar-3d" style="height:65px;background:#3498db;">
+          <div style="background:#2980b9;height:65px;width:100%;border-radius:2px 2px 0 0;"></div>
+          <span>Bcn</span>
+        </div>
+        <div class="bar-3d" style="height:47px;background:#2ecc71;">
+          <div style="background:#27ae60;height:47px;width:100%;border-radius:2px 2px 0 0;"></div>
+          <span>Val</span>
+        </div>
+        <div class="bar-3d" style="height:39px;background:#f39c12;">
+          <div style="background:#d68910;height:39px;width:100%;border-radius:2px 2px 0 0;"></div>
+          <span>Sev</span>
+        </div>
+        <div class="bar-3d" style="height:29px;background:#9b59b6;">
+          <div style="background:#7d3c98;height:29px;width:100%;border-radius:2px 2px 0 0;"></div>
+          <span>Otr</span>
+        </div>
+      </div>
+      <p style="font-size:8px;color:#999;margin-top:4px;text-align:center">(sin escala, sin unidades)</p>
+    </div>
+  </div>
+
+  <!-- TABLA ILEGIBLE -->
+  <div class="chart-card">
+    <div class="chart-title-ok">TABLA COMPLETA TODOS LOS DATOS (IMPORTANTE)</div>
+    <div style="overflow-x:auto;">
+      <table class="table-bad">
+        <thead>
+          <tr>
+            <th>ID_VTA</th><th>FECHA_PED</th><th>ID_CLI</th><th>NOM_CLI</th><th>EMAIL_CLI</th>
+            <th>CIUDAD</th><th>REGION</th><th>SEGMENTO</th><th>ID_PROD</th><th>NOM_PROD</th>
+            <th>CATEG</th><th>CANT</th><th>PRECIO_U</th><th>DESCTO_%</th><th>PRECIO_FINAL</th>
+            <th>TOTAL_LINEA</th><th>COSTE_U</th><th>MARGEN_U</th><th>MARGEN_%</th><th>ESTADO</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>V001</td><td>02/01/2024</td><td>C012</td><td>Ana García López</td><td>ana.garcia@email.com</td><td>Madrid</td><td>Centro</td><td>Particular</td><td>P003</td><td>Auriculares Bluetooth Pro</td><td>Audio</td><td>2</td><td>29,95€</td><td>0%</td><td>29,95€</td><td>59,90€</td><td>14,80€</td><td>15,15€</td><td>50,6%</td><td>Entregado</td></tr>
+          <tr><td>V002</td><td>05/01/2024</td><td>C007</td><td>Luis Martínez Ruiz</td><td>luis.m@empresa.es</td><td>Barcelona</td><td>Cataluña</td><td>Empresa</td><td>P001</td><td>Monitor 27" 4K UHD</td><td>Monitores</td><td>1</td><td>349,99€</td><td>5%</td><td>332,49€</td><td>332,49€</td><td>180,00€</td><td>152,49€</td><td>45,8%</td><td>Entregado</td></tr>
+          <tr><td>V003</td><td>08/01/2024</td><td>C025</td><td>Sara López Fdez</td><td>sara.lopez@gmail.com</td><td>Valencia</td><td>Levante</td><td>Particular</td><td>P003</td><td>Auriculares Bluetooth Pro</td><td>Audio</td><td>3</td><td>29,95€</td><td>10%</td><td>26,96€</td><td>80,87€</td><td>14,80€</td><td>12,16€</td><td>45,1%</td><td>Enviado</td></tr>
+          <tr><td>V004</td><td>10/01/2024</td><td>C003</td><td>Pedro Sánchez Gil</td><td>p.sanchez@corp.com</td><td>Sevilla</td><td>Sur</td><td>Empresa</td><td>P002</td><td>Teclado Mecánico TKL</td><td>Periféricos</td><td>5</td><td>89,50€</td><td>8%</td><td>82,34€</td><td>411,70€</td><td>42,00€</td><td>40,34€</td><td>49,0%</td><td>Pendiente</td></tr>
+          <tr><td>V005</td><td>12/01/2024</td><td>C018</td><td>María Fernández</td><td>mfernandez@hotmail</td><td>Madrid</td><td>Centro</td><td>Particular</td><td>P005</td><td>Webcam HD 1080p</td><td>Periféricos</td><td>1</td><td>45,00€</td><td>0%</td><td>45,00€</td><td>45,00€</td><td>21,50€</td><td>23,50€</td><td>52,2%</td><td>Entregado</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:9px;color:#999;text-align:center;margin-top:4px;">Mostrando 5 de 1.183 filas — (tabla completa tiene 20 columnas, impossible de leer en pantalla)</p>
+  </div>
+
+</main>
+</body>
+</html>

@@ -1,0 +1,50 @@
+REPORTE DE INTERVENCIÓN: TK-2041
+Técnico asignado:  Laura Gómez
+Fecha de visita:  12/05/2024 10:30 AM
+Cliente afectado:  Hospital General Norte
+Nivel de Urgencia:  CRÍTICO
+
+DESCRIPCIÓN 
+Caída total del servidor principal de base de datos.
+El sistema no responde a los pings externos y el panel
+frontal muestra un error de redundancia de discos (RAID).
+  MATERIALES Y COSTES
+> Disco Duro SSD 2TB Enterprise (x2) - 850.00 EUR
+> Cable SAS reemplazo (x1) - 45.50 EUR
+
+Estado final: SOLUCIONADO
+Horas facturables: 4.5
+REPORTE DE INTERVENCIÓN: TK-2042
+Técnico asignado:  Carlos Ruiz
+Fecha de visita:  14/05/2024 09:00 AM
+Cliente afectado:  Agencia de Marketing Creativa
+Nivel de Urgencia:  MEDIA
+
+DESCRIPCIÓN
+Revisión de la red Wi-Fi en la planta 2. Los usuarios
+reportan cortes intermitentes durante las videollamadas.
+Se procedió a actualizar el firmware de los puntos de acceso
+y a cambiar el canal de transmisión para evitar interferencias.
+
+MATERIALES Y COSTES
+> Ninguno - 0.00 EUR
+
+Estado final: PENDIENTE DE OBSERVACIÓN
+Horas facturables: 2.0
+REPORTE DE INTERVENCIÓN: TK-2043
+Técnico asignado:  Laura Gómez
+Fecha de visita:  15/05/2024 16:15 PM
+Cliente afectado:  Consultoría Financiera SL
+Nivel de Urgencia:  ALTA
+
+DESCRIPCIÓN
+Impresora departamental láser emite ruidos extraños y
+atasca el papel en la bandeja 2. Se ha desmontado el fusor
+y se ha retirado un trozo de clip atascado. 
+Se requiere pedir un rodillo de repuesto por desgaste temporal.
+
+MATERIALES Y COSTES
+> Rodillo de tracción (Pendiente de envío) - 22.00 EUR
+
+Estado final: INCOMPLETO
+Horas facturables: 1.5

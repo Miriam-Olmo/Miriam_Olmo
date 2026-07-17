@@ -1,0 +1,501 @@
+id_venta,fecha,mes,trimestre,producto,categoria,vendedor,region,canal,cantidad,precio_unitario,importe_total,coste_total,beneficio,margen_pct
+435,2024-01-01,1,Q1,Cámara Web HD,Periféricos,Pedro Sánchez,Oeste,Online,5,52.41,262.05,151.99,110.06,42.0
+462,2024-01-01,1,Q1,"Tablet 10""",Tablets,Laura Martínez,Norte,Online,2,260.46,520.92,390.69,130.23,25.0
+109,2024-01-02,1,Q1,Cámara Web HD,Periféricos,María Ruiz,Este,Online,2,48.93,97.86,56.76,41.1,42.0
+128,2024-01-02,1,Q1,Auriculares BT,Audio,Pedro Sánchez,Centro,Tienda física,4,62.18,248.72,154.21,94.51,38.0
+77,2024-01-04,1,Q1,"Tablet 10""",Tablets,Carlos López,Sur,Tienda física,4,250.95,1003.8,752.85,250.95,25.0
+290,2024-01-05,1,Q1,Auriculares BT,Audio,María Ruiz,Norte,Teléfono,3,59.72,179.16,111.08,68.08,38.0
+384,2024-01-05,1,Q1,SSD 1TB,Almacenamiento,Ana García,Centro,Teléfono,5,91.37,456.85,296.95,159.9,35.0
+103,2024-01-07,1,Q1,Funda Laptop,Accesorios,Carlos López,Este,Online,1,19.5,19.5,8.77,10.73,55.0
+427,2024-01-07,1,Q1,"Monitor 27"" 4K",Monitores,Ana García,Sur,Teléfono,2,365.08,730.16,511.11,219.05,30.0
+329,2024-01-09,1,Q1,Auriculares BT,Audio,María Ruiz,Este,Tienda física,3,57.9,173.7,107.69,66.01,38.0
+26,2024-01-11,1,Q1,Funda Laptop,Accesorios,María Ruiz,Este,Online,1,19.45,19.45,8.75,10.7,55.0
+310,2024-01-12,1,Q1,Auriculares BT,Audio,María Ruiz,Oeste,Online,4,61.93,247.72,153.59,94.13,38.0
+3,2024-01-14,1,Q1,Altavoz Portátil,Audio,Ana García,Oeste,Online,2,39.79,79.58,44.56,35.02,44.0
+115,2024-01-14,1,Q1,Ratón Inalámbrico,Periféricos,Ana García,Oeste,Tienda física,5,31.34,156.7,86.19,70.51,45.0
+138,2024-01-15,1,Q1,Laptop Pro 15,Informática,Carlos López,Norte,Online,4,868.09,3472.36,2708.44,763.92,22.0
+219,2024-01-15,1,Q1,"Tablet 10""",Tablets,Laura Martínez,Centro,Tienda física,2,240.93,481.86,361.39,120.47,25.0
+27,2024-01-17,1,Q1,"Tablet 10""",Tablets,Ana García,Sur,Tienda física,2,250.97,501.94,376.45,125.49,25.0
+148,2024-01-18,1,Q1,Funda Laptop,Accesorios,Carlos López,Norte,Teléfono,3,20.48,61.44,27.65,33.79,55.0
+132,2024-01-19,1,Q1,Teclado Mecánico,Periféricos,María Ruiz,Este,Tienda física,4,76.79,307.16,184.3,122.86,40.0
+136,2024-01-19,1,Q1,Funda Laptop,Accesorios,Ana García,Oeste,Teléfono,2,20.48,40.96,18.43,22.53,55.0
+428,2024-01-19,1,Q1,Altavoz Portátil,Audio,Pedro Sánchez,Oeste,Tienda física,2,39.28,78.56,43.99,34.57,44.0
+288,2024-01-20,1,Q1,Teclado Mecánico,Periféricos,Carlos López,Centro,Teléfono,1,83.97,83.97,50.38,33.59,40.0
+50,2024-01-21,1,Q1,"Tablet 10""",Tablets,Ana García,Sur,Online,5,259.59,1297.95,973.46,324.49,25.0
+189,2024-01-22,1,Q1,Cámara Web HD,Periféricos,Ana García,Centro,Tienda física,5,49.64,248.2,143.96,104.24,42.0
+6,2024-01-23,1,Q1,SSD 1TB,Almacenamiento,María Ruiz,Centro,Online,5,88.13,440.65,286.42,154.23,35.0
+59,2024-01-23,1,Q1,Cámara Web HD,Periféricos,Ana García,Centro,Online,2,49.31,98.62,57.2,41.42,42.0
+314,2024-01-23,1,Q1,Cámara Web HD,Periféricos,Carlos López,Este,Tienda física,1,48.19,48.19,27.95,20.24,42.0
+102,2024-01-24,1,Q1,Laptop Pro 15,Informática,María Ruiz,Oeste,Online,4,864.22,3456.88,2696.37,760.51,22.0
+183,2024-01-27,1,Q1,Teclado Mecánico,Periféricos,Ana García,Oeste,Tienda física,3,79.53,238.59,143.15,95.44,40.0
+285,2024-01-27,1,Q1,Ratón Inalámbrico,Periféricos,Carlos López,Oeste,Online,2,28.51,57.02,31.36,25.66,45.0
+430,2024-01-27,1,Q1,Teclado Mecánico,Periféricos,Ana García,Este,Online,4,76.54,306.16,183.7,122.46,40.0
+121,2024-01-28,1,Q1,"Monitor 27"" 4K",Monitores,María Ruiz,Oeste,Online,4,359.09,1436.36,1005.45,430.91,30.0
+421,2024-01-29,1,Q1,Auriculares BT,Audio,María Ruiz,Oeste,Online,1,61.24,61.24,37.97,23.27,38.0
+377,2024-02-02,2,Q1,Funda Laptop,Accesorios,Ana García,Centro,Online,2,19.38,38.76,17.44,21.32,55.0
+197,2024-02-04,2,Q1,SSD 1TB,Almacenamiento,Carlos López,Sur,Online,1,88.66,88.66,57.63,31.03,35.0
+60,2024-02-05,2,Q1,"Tablet 10""",Tablets,María Ruiz,Oeste,Online,2,250.17,500.34,375.25,125.09,25.0
+112,2024-02-06,2,Q1,Laptop Pro 15,Informática,Ana García,Sur,Tienda física,4,937.9,3751.6,2926.25,825.35,22.0
+41,2024-02-07,2,Q1,Laptop Pro 15,Informática,María Ruiz,Centro,Teléfono,1,903.38,903.38,704.64,198.74,22.0
+67,2024-02-07,2,Q1,SSD 1TB,Almacenamiento,Carlos López,Oeste,Online,3,89.94,269.82,175.38,94.44,35.0
+198,2024-02-07,2,Q1,Auriculares BT,Audio,María Ruiz,Norte,Online,2,57.45,114.9,71.24,43.66,38.0
+258,2024-02-07,2,Q1,Laptop Pro 15,Informática,Ana García,Este,Online,2,909.59,1819.18,1418.96,400.22,22.0
+32,2024-02-08,2,Q1,SSD 1TB,Almacenamiento,Pedro Sánchez,Centro,Online,4,93.01,372.04,241.83,130.21,35.0
+333,2024-02-08,2,Q1,Laptop Pro 15,Informática,Pedro Sánchez,Este,Tienda física,1,861.11,861.11,671.67,189.44,22.0
+343,2024-02-08,2,Q1,Auriculares BT,Audio,Laura Martínez,Este,Online,2,57.08,114.16,70.78,43.38,38.0
+347,2024-02-08,2,Q1,"Tablet 10""",Tablets,María Ruiz,Oeste,Tienda física,2,238.23,476.46,357.34,119.12,25.0
+448,2024-02-08,2,Q1,Laptop Pro 15,Informática,Laura Martínez,Norte,Tienda física,1,863.27,863.27,673.35,189.92,22.0
+221,2024-02-10,2,Q1,Laptop Pro 15,Informática,Carlos López,Centro,Online,4,902.49,3609.96,2815.77,794.19,22.0
+236,2024-02-10,2,Q1,"Tablet 10""",Tablets,María Ruiz,Sur,Tienda física,3,241.66,724.98,543.74,181.24,25.0
+253,2024-02-10,2,Q1,Auriculares BT,Audio,Ana García,Centro,Online,2,60.68,121.36,75.24,46.12,38.0
+487,2024-02-10,2,Q1,Cámara Web HD,Periféricos,Laura Martínez,Oeste,Online,4,51.49,205.96,119.46,86.5,42.0
+418,2024-02-12,2,Q1,Altavoz Portátil,Audio,María Ruiz,Norte,Online,1,40.04,40.04,22.42,17.62,44.0
+225,2024-02-13,2,Q1,Altavoz Portátil,Audio,Laura Martínez,Norte,Online,4,41.14,164.56,92.15,72.41,44.0
+248,2024-02-14,2,Q1,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Tienda física,4,29.72,118.88,65.38,53.5,45.0
+199,2024-02-16,2,Q1,Funda Laptop,Accesorios,María Ruiz,Sur,Tienda física,1,19.89,19.89,8.95,10.94,55.0
+351,2024-02-16,2,Q1,Laptop Pro 15,Informática,Laura Martínez,Este,Tienda física,1,866.92,866.92,676.2,190.72,22.0
+404,2024-02-16,2,Q1,Ratón Inalámbrico,Periféricos,Ana García,Este,Online,1,30.05,30.05,16.53,13.52,45.0
+33,2024-02-17,2,Q1,"Monitor 27"" 4K",Monitores,Ana García,Este,Online,3,364.08,1092.24,764.57,327.67,30.0
+124,2024-02-17,2,Q1,"Monitor 27"" 4K",Monitores,Laura Martínez,Centro,Online,1,355.16,355.16,248.61,106.55,30.0
+254,2024-02-17,2,Q1,Altavoz Portátil,Audio,María Ruiz,Este,Tienda física,1,40.62,40.62,22.75,17.87,44.0
+476,2024-02-17,2,Q1,"Tablet 10""",Tablets,María Ruiz,Oeste,Online,1,248.27,248.27,186.2,62.07,25.0
+173,2024-02-18,2,Q1,"Tablet 10""",Tablets,Carlos López,Oeste,Online,1,254.66,254.66,191.0,63.66,25.0
+261,2024-02-19,2,Q1,Laptop Pro 15,Informática,Carlos López,Sur,Tienda física,1,941.63,941.63,734.47,207.16,22.0
+372,2024-02-19,2,Q1,SSD 1TB,Almacenamiento,Pedro Sánchez,Este,Online,1,92.78,92.78,60.31,32.47,35.0
+481,2024-02-19,2,Q1,Laptop Pro 15,Informática,Ana García,Oeste,Teléfono,3,930.93,2792.79,2178.38,614.41,22.0
+313,2024-02-21,2,Q1,Funda Laptop,Accesorios,Ana García,Este,Tienda física,1,19.48,19.48,8.77,10.71,55.0
+426,2024-02-22,2,Q1,Funda Laptop,Accesorios,Pedro Sánchez,Norte,Tienda física,1,19.08,19.08,8.59,10.49,55.0
+177,2024-02-23,2,Q1,Funda Laptop,Accesorios,María Ruiz,Norte,Online,1,19.69,19.69,8.86,10.83,55.0
+45,2024-02-24,2,Q1,Altavoz Portátil,Audio,Ana García,Sur,Online,2,38.8,77.6,43.46,34.14,44.0
+90,2024-02-24,2,Q1,Cámara Web HD,Periféricos,Laura Martínez,Oeste,Tienda física,1,49.67,49.67,28.81,20.86,42.0
+472,2024-02-25,2,Q1,Laptop Pro 15,Informática,Ana García,Este,Online,1,934.6,934.6,728.99,205.61,22.0
+15,2024-02-26,2,Q1,Teclado Mecánico,Periféricos,María Ruiz,Centro,Online,1,79.07,79.07,47.44,31.63,40.0
+222,2024-02-26,2,Q1,Auriculares BT,Audio,Ana García,Norte,Online,4,59.73,238.92,148.13,90.79,38.0
+223,2024-02-26,2,Q1,SSD 1TB,Almacenamiento,María Ruiz,Norte,Online,1,91.96,91.96,59.77,32.19,35.0
+414,2024-02-27,2,Q1,"Monitor 27"" 4K",Monitores,María Ruiz,Este,Online,1,367.03,367.03,256.92,110.11,30.0
+17,2024-02-28,2,Q1,Altavoz Portátil,Audio,Pedro Sánchez,Centro,Online,2,39.73,79.46,44.5,34.96,44.0
+86,2024-02-28,2,Q1,Teclado Mecánico,Periféricos,Laura Martínez,Norte,Online,2,80.6,161.2,96.72,64.48,40.0
+373,2024-02-28,2,Q1,Laptop Pro 15,Informática,Pedro Sánchez,Oeste,Tienda física,1,938.68,938.68,732.17,206.51,22.0
+378,2024-02-28,2,Q1,Auriculares BT,Audio,Pedro Sánchez,Este,Teléfono,2,60.57,121.14,75.11,46.03,38.0
+120,2024-02-29,2,Q1,Cámara Web HD,Periféricos,Laura Martínez,Centro,Online,4,49.8,199.2,115.54,83.66,42.0
+156,2024-02-29,2,Q1,Teclado Mecánico,Periféricos,Ana García,Norte,Teléfono,1,76.77,76.77,46.06,30.71,40.0
+268,2024-03-01,3,Q1,Teclado Mecánico,Periféricos,Laura Martínez,Sur,Tienda física,3,80.45,241.35,144.81,96.54,40.0
+70,2024-03-03,3,Q1,SSD 1TB,Almacenamiento,Ana García,Este,Online,5,90.85,454.25,295.26,158.99,35.0
+161,2024-03-03,3,Q1,SSD 1TB,Almacenamiento,Ana García,Norte,Tienda física,1,85.95,85.95,55.87,30.08,35.0
+410,2024-03-04,3,Q1,Funda Laptop,Accesorios,Pedro Sánchez,Sur,Online,2,19.49,38.98,17.54,21.44,55.0
+423,2024-03-05,3,Q1,Auriculares BT,Audio,Pedro Sánchez,Norte,Tienda física,3,61.83,185.49,115.0,70.49,38.0
+251,2024-03-07,3,Q1,Cámara Web HD,Periféricos,María Ruiz,Centro,Tienda física,5,48.26,241.3,139.95,101.35,42.0
+439,2024-03-07,3,Q1,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Teléfono,4,357.02,1428.08,999.66,428.42,30.0
+127,2024-03-10,3,Q1,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Online,5,29.29,146.45,80.55,65.9,45.0
+13,2024-03-12,3,Q1,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Tienda física,4,363.91,1455.64,1018.95,436.69,30.0
+346,2024-03-12,3,Q1,Ratón Inalámbrico,Periféricos,María Ruiz,Centro,Online,4,29.19,116.76,64.22,52.54,45.0
+364,2024-03-12,3,Q1,Auriculares BT,Audio,Ana García,Oeste,Tienda física,4,57.43,229.72,142.43,87.29,38.0
+371,2024-03-13,3,Q1,"Tablet 10""",Tablets,Carlos López,Este,Online,4,246.2,984.8,738.6,246.2,25.0
+239,2024-03-14,3,Q1,Funda Laptop,Accesorios,Pedro Sánchez,Este,Online,2,20.55,41.1,18.49,22.61,55.0
+164,2024-03-15,3,Q1,Teclado Mecánico,Periféricos,María Ruiz,Centro,Online,1,77.04,77.04,46.22,30.82,40.0
+282,2024-03-15,3,Q1,Auriculares BT,Audio,Ana García,Centro,Online,4,60.93,243.72,151.11,92.61,38.0
+334,2024-03-18,3,Q1,Laptop Pro 15,Informática,Ana García,Este,Online,5,937.14,4685.7,3654.85,1030.85,22.0
+370,2024-03-18,3,Q1,"Tablet 10""",Tablets,Laura Martínez,Este,Online,1,240.39,240.39,180.29,60.1,25.0
+409,2024-03-18,3,Q1,Cámara Web HD,Periféricos,María Ruiz,Este,Online,1,48.19,48.19,27.95,20.24,42.0
+125,2024-03-19,3,Q1,SSD 1TB,Almacenamiento,Laura Martínez,Sur,Tienda física,4,93.0,372.0,241.8,130.2,35.0
+350,2024-03-19,3,Q1,Cámara Web HD,Periféricos,Pedro Sánchez,Oeste,Tienda física,3,49.29,147.87,85.76,62.11,42.0
+158,2024-03-20,3,Q1,Cámara Web HD,Periféricos,María Ruiz,Centro,Tienda física,3,47.65,142.95,82.91,60.04,42.0
+43,2024-03-21,3,Q1,SSD 1TB,Almacenamiento,Pedro Sánchez,Oeste,Tienda física,5,85.56,427.8,278.07,149.73,35.0
+142,2024-03-21,3,Q1,Ratón Inalámbrico,Periféricos,Carlos López,Sur,Tienda física,4,30.56,122.24,67.23,55.01,45.0
+246,2024-03-21,3,Q1,Teclado Mecánico,Periféricos,Pedro Sánchez,Este,Online,2,82.33,164.66,98.8,65.86,40.0
+401,2024-03-21,3,Q1,SSD 1TB,Almacenamiento,María Ruiz,Centro,Online,2,93.43,186.86,121.46,65.4,35.0
+72,2024-03-22,3,Q1,SSD 1TB,Almacenamiento,María Ruiz,Centro,Tienda física,3,92.38,277.14,180.14,97.0,35.0
+262,2024-03-22,3,Q1,"Tablet 10""",Tablets,Laura Martínez,Oeste,Online,2,249.95,499.9,374.92,124.98,25.0
+297,2024-03-22,3,Q1,Cámara Web HD,Periféricos,Pedro Sánchez,Centro,Tienda física,3,50.94,152.82,88.64,64.18,42.0
+34,2024-03-25,3,Q1,Cámara Web HD,Periféricos,Ana García,Sur,Teléfono,4,48.92,195.68,113.49,82.19,42.0
+211,2024-03-25,3,Q1,SSD 1TB,Almacenamiento,Ana García,Sur,Tienda física,4,90.99,363.96,236.57,127.39,35.0
+252,2024-03-25,3,Q1,Teclado Mecánico,Periféricos,Carlos López,Oeste,Online,5,83.15,415.75,249.45,166.3,40.0
+193,2024-03-27,3,Q1,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Online,3,29.54,88.62,48.74,39.88,45.0
+355,2024-03-27,3,Q1,Cámara Web HD,Periféricos,Ana García,Sur,Online,2,47.81,95.62,55.46,40.16,42.0
+10,2024-03-28,3,Q1,Altavoz Portátil,Audio,Pedro Sánchez,Norte,Online,5,38.87,194.35,108.84,85.51,44.0
+149,2024-03-30,3,Q1,"Monitor 27"" 4K",Monitores,Ana García,Este,Teléfono,5,350.05,1750.25,1225.17,525.08,30.0
+445,2024-03-30,3,Q1,Laptop Pro 15,Informática,Laura Martínez,Centro,Tienda física,5,877.48,4387.4,3422.17,965.23,22.0
+461,2024-03-30,3,Q1,SSD 1TB,Almacenamiento,Ana García,Norte,Tienda física,1,90.23,90.23,58.65,31.58,35.0
+466,2024-03-30,3,Q1,Altavoz Portátil,Audio,Pedro Sánchez,Centro,Tienda física,2,40.65,81.3,45.53,35.77,44.0
+467,2024-03-30,3,Q1,Cámara Web HD,Periféricos,Carlos López,Oeste,Online,1,52.23,52.23,30.29,21.94,42.0
+52,2024-03-31,3,Q1,Cámara Web HD,Periféricos,Ana García,Oeste,Online,4,51.5,206.0,119.48,86.52,42.0
+360,2024-03-31,3,Q1,Cámara Web HD,Periféricos,Laura Martínez,Sur,Tienda física,4,52.33,209.32,121.41,87.91,42.0
+337,2024-04-01,4,Q2,Ratón Inalámbrico,Periféricos,Laura Martínez,Este,Online,5,30.07,150.35,82.69,67.66,45.0
+208,2024-04-02,4,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Online,2,337.91,675.82,473.07,202.75,30.0
+81,2024-04-03,4,Q2,Laptop Pro 15,Informática,Carlos López,Sur,Online,3,923.5,2770.5,2160.99,609.51,22.0
+94,2024-04-03,4,Q2,SSD 1TB,Almacenamiento,Ana García,Centro,Online,5,91.8,459.0,298.35,160.65,35.0
+234,2024-04-05,4,Q2,SSD 1TB,Almacenamiento,Pedro Sánchez,Sur,Tienda física,3,92.7,278.1,180.77,97.33,35.0
+352,2024-04-05,4,Q2,Cámara Web HD,Periféricos,Carlos López,Este,Online,1,47.94,47.94,27.81,20.13,42.0
+413,2024-04-06,4,Q2,Cámara Web HD,Periféricos,Carlos López,Norte,Tienda física,2,49.96,99.92,57.95,41.97,42.0
+31,2024-04-07,4,Q2,Altavoz Portátil,Audio,Carlos López,Este,Online,2,41.49,82.98,46.47,36.51,44.0
+232,2024-04-07,4,Q2,Auriculares BT,Audio,Carlos López,Centro,Tienda física,3,58.63,175.89,109.05,66.84,38.0
+325,2024-04-07,4,Q2,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Centro,Teléfono,5,30.6,153.0,84.15,68.85,45.0
+478,2024-04-07,4,Q2,Cámara Web HD,Periféricos,Pedro Sánchez,Oeste,Tienda física,3,50.79,152.37,88.37,64.0,42.0
+99,2024-04-08,4,Q2,"Tablet 10""",Tablets,Ana García,Este,Tienda física,2,242.28,484.56,363.42,121.14,25.0
+279,2024-04-08,4,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Sur,Teléfono,3,359.48,1078.44,754.91,323.53,30.0
+292,2024-04-08,4,Q2,Ratón Inalámbrico,Periféricos,Carlos López,Oeste,Tienda física,2,28.53,57.06,31.38,25.68,45.0
+489,2024-04-08,4,Q2,Teclado Mecánico,Periféricos,Ana García,Norte,Tienda física,2,83.97,167.94,100.76,67.18,40.0
+101,2024-04-09,4,Q2,Auriculares BT,Audio,Ana García,Norte,Online,5,57.75,288.75,179.03,109.72,38.0
+213,2024-04-09,4,Q2,"Tablet 10""",Tablets,Pedro Sánchez,Este,Online,3,256.94,770.82,578.12,192.7,25.0
+111,2024-04-11,4,Q2,Cámara Web HD,Periféricos,Ana García,Sur,Online,3,51.62,154.86,89.82,65.04,42.0
+362,2024-04-12,4,Q2,Funda Laptop,Accesorios,Laura Martínez,Norte,Tienda física,1,20.9,20.9,9.4,11.5,55.0
+432,2024-04-12,4,Q2,Auriculares BT,Audio,María Ruiz,Sur,Tienda física,4,59.2,236.8,146.82,89.98,38.0
+302,2024-04-13,4,Q2,Funda Laptop,Accesorios,María Ruiz,Norte,Tienda física,4,19.22,76.88,34.6,42.28,55.0
+122,2024-04-14,4,Q2,Auriculares BT,Audio,María Ruiz,Centro,Online,4,57.72,230.88,143.15,87.73,38.0
+419,2024-04-14,4,Q2,Teclado Mecánico,Periféricos,María Ruiz,Sur,Tienda física,1,78.47,78.47,47.08,31.39,40.0
+303,2024-04-15,4,Q2,Funda Laptop,Accesorios,María Ruiz,Centro,Online,1,19.9,19.9,8.95,10.95,55.0
+392,2024-04-15,4,Q2,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Online,5,351.35,1756.75,1229.72,527.03,30.0
+108,2024-04-16,4,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Norte,Online,5,335.12,1675.6,1172.92,502.68,30.0
+344,2024-04-16,4,Q2,Funda Laptop,Accesorios,Ana García,Centro,Tienda física,1,19.59,19.59,8.82,10.77,55.0
+63,2024-04-17,4,Q2,Cámara Web HD,Periféricos,Pedro Sánchez,Oeste,Online,4,49.7,198.8,115.3,83.5,42.0
+64,2024-04-19,4,Q2,Altavoz Portátil,Audio,María Ruiz,Centro,Tienda física,2,40.63,81.26,45.51,35.75,44.0
+163,2024-04-20,4,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Norte,Teléfono,1,342.19,342.19,239.53,102.66,30.0
+172,2024-04-20,4,Q2,Cámara Web HD,Periféricos,María Ruiz,Sur,Online,4,49.48,197.92,114.79,83.13,42.0
+300,2024-04-21,4,Q2,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Tienda física,5,348.13,1740.65,1218.45,522.2,30.0
+69,2024-04-22,4,Q2,Teclado Mecánico,Periféricos,Pedro Sánchez,Oeste,Online,5,77.98,389.9,233.94,155.96,40.0
+386,2024-04-22,4,Q2,Auriculares BT,Audio,Ana García,Sur,Online,4,60.38,241.52,149.74,91.78,38.0
+458,2024-04-22,4,Q2,Funda Laptop,Accesorios,Pedro Sánchez,Centro,Online,2,19.34,38.68,17.41,21.27,55.0
+54,2024-04-23,4,Q2,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Online,2,340.29,680.58,476.41,204.17,30.0
+66,2024-04-25,4,Q2,"Monitor 27"" 4K",Monitores,Ana García,Norte,Teléfono,5,362.23,1811.15,1267.81,543.34,30.0
+320,2024-04-25,4,Q2,Auriculares BT,Audio,Laura Martínez,Norte,Online,1,60.36,60.36,37.42,22.94,38.0
+8,2024-04-26,4,Q2,Auriculares BT,Audio,Laura Martínez,Centro,Tienda física,4,58.66,234.64,145.48,89.16,38.0
+498,2024-04-26,4,Q2,Teclado Mecánico,Periféricos,Carlos López,Oeste,Tienda física,3,78.15,234.45,140.67,93.78,40.0
+146,2024-04-27,4,Q2,Funda Laptop,Accesorios,Pedro Sánchez,Norte,Online,3,20.35,61.05,27.47,33.58,55.0
+342,2024-04-27,4,Q2,"Monitor 27"" 4K",Monitores,Laura Martínez,Oeste,Tienda física,3,334.12,1002.36,701.65,300.71,30.0
+437,2024-04-28,4,Q2,Altavoz Portátil,Audio,Carlos López,Centro,Online,1,40.31,40.31,22.57,17.74,44.0
+247,2024-05-01,5,Q2,SSD 1TB,Almacenamiento,Ana García,Este,Online,5,86.66,433.3,281.65,151.65,35.0
+470,2024-05-01,5,Q2,"Tablet 10""",Tablets,Laura Martínez,Norte,Tienda física,1,258.03,258.03,193.52,64.51,25.0
+22,2024-05-03,5,Q2,Funda Laptop,Accesorios,Laura Martínez,Norte,Online,1,20.95,20.95,9.43,11.52,55.0
+96,2024-05-03,5,Q2,SSD 1TB,Almacenamiento,María Ruiz,Este,Tienda física,1,88.14,88.14,57.29,30.85,35.0
+264,2024-05-03,5,Q2,"Monitor 27"" 4K",Monitores,María Ruiz,Norte,Online,5,363.37,1816.85,1271.79,545.06,30.0
+68,2024-05-04,5,Q2,Teclado Mecánico,Periféricos,María Ruiz,Norte,Tienda física,1,82.22,82.22,49.33,32.89,40.0
+93,2024-05-04,5,Q2,SSD 1TB,Almacenamiento,María Ruiz,Oeste,Online,4,93.15,372.6,242.19,130.41,35.0
+361,2024-05-04,5,Q2,"Tablet 10""",Tablets,Carlos López,Centro,Online,1,260.79,260.79,195.59,65.2,25.0
+374,2024-05-04,5,Q2,Altavoz Portátil,Audio,Ana García,Norte,Tienda física,4,38.92,155.68,87.18,68.5,44.0
+84,2024-05-06,5,Q2,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Oeste,Online,4,355.92,1423.68,996.58,427.1,30.0
+311,2024-05-06,5,Q2,SSD 1TB,Almacenamiento,Carlos López,Sur,Teléfono,1,85.78,85.78,55.76,30.02,35.0
+53,2024-05-07,5,Q2,Auriculares BT,Audio,Ana García,Oeste,Online,1,62.14,62.14,38.53,23.61,38.0
+295,2024-05-07,5,Q2,Laptop Pro 15,Informática,Carlos López,Sur,Tienda física,3,882.17,2646.51,2064.28,582.23,22.0
+215,2024-05-08,5,Q2,Laptop Pro 15,Informática,María Ruiz,Centro,Tienda física,1,919.02,919.02,716.84,202.18,22.0
+227,2024-05-09,5,Q2,Laptop Pro 15,Informática,Carlos López,Norte,Online,1,924.42,924.42,721.05,203.37,22.0
+141,2024-05-10,5,Q2,SSD 1TB,Almacenamiento,Carlos López,Norte,Tienda física,3,91.59,274.77,178.6,96.17,35.0
+57,2024-05-13,5,Q2,Teclado Mecánico,Periféricos,María Ruiz,Centro,Online,5,79.47,397.35,238.41,158.94,40.0
+475,2024-05-13,5,Q2,Ratón Inalámbrico,Periféricos,Ana García,Norte,Online,1,30.13,30.13,16.57,13.56,45.0
+134,2024-05-15,5,Q2,"Tablet 10""",Tablets,María Ruiz,Sur,Online,3,258.8,776.4,582.3,194.1,25.0
+274,2024-05-15,5,Q2,Funda Laptop,Accesorios,María Ruiz,Oeste,Tienda física,2,20.04,40.08,18.04,22.04,55.0
+484,2024-05-17,5,Q2,Funda Laptop,Accesorios,Ana García,Centro,Tienda física,1,20.33,20.33,9.15,11.18,55.0
+150,2024-05-19,5,Q2,Teclado Mecánico,Periféricos,Carlos López,Centro,Online,3,81.96,245.88,147.53,98.35,40.0
+180,2024-05-19,5,Q2,Auriculares BT,Audio,Laura Martínez,Sur,Online,2,60.39,120.78,74.88,45.9,38.0
+348,2024-05-19,5,Q2,SSD 1TB,Almacenamiento,María Ruiz,Sur,Teléfono,4,87.16,348.64,226.62,122.02,35.0
+424,2024-05-19,5,Q2,Altavoz Portátil,Audio,Ana García,Oeste,Tienda física,1,39.97,39.97,22.38,17.59,44.0
+238,2024-05-20,5,Q2,Laptop Pro 15,Informática,Ana García,Oeste,Online,2,940.74,1881.48,1467.55,413.93,22.0
+281,2024-05-20,5,Q2,Auriculares BT,Audio,Ana García,Oeste,Online,4,61.9,247.6,153.51,94.09,38.0
+317,2024-05-20,5,Q2,Laptop Pro 15,Informática,María Ruiz,Este,Tienda física,2,911.33,1822.66,1421.67,400.99,22.0
+336,2024-05-20,5,Q2,Altavoz Portátil,Audio,Laura Martínez,Norte,Tienda física,4,41.21,164.84,92.31,72.53,44.0
+451,2024-05-20,5,Q2,Auriculares BT,Audio,Carlos López,Norte,Tienda física,5,58.46,292.3,181.23,111.07,38.0
+95,2024-05-21,5,Q2,Altavoz Portátil,Audio,Ana García,Centro,Online,4,39.94,159.76,89.47,70.29,44.0
+495,2024-05-21,5,Q2,Cámara Web HD,Periféricos,Ana García,Oeste,Tienda física,1,49.47,49.47,28.69,20.78,42.0
+4,2024-05-22,5,Q2,Laptop Pro 15,Informática,Pedro Sánchez,Norte,Online,3,868.98,2606.94,2033.41,573.53,22.0
+117,2024-05-22,5,Q2,Teclado Mecánico,Periféricos,Laura Martínez,Este,Tienda física,1,79.75,79.75,47.85,31.9,40.0
+242,2024-05-22,5,Q2,"Monitor 27"" 4K",Monitores,Laura Martínez,Norte,Online,5,346.03,1730.15,1211.11,519.04,30.0
+397,2024-05-22,5,Q2,"Tablet 10""",Tablets,María Ruiz,Este,Tienda física,1,255.76,255.76,191.82,63.94,25.0
+110,2024-05-24,5,Q2,SSD 1TB,Almacenamiento,Ana García,Sur,Online,5,91.44,457.2,297.18,160.02,35.0
+65,2024-05-25,5,Q2,Altavoz Portátil,Audio,María Ruiz,Oeste,Online,2,40.68,81.36,45.56,35.8,44.0
+220,2024-05-26,5,Q2,SSD 1TB,Almacenamiento,Pedro Sánchez,Norte,Tienda física,4,91.03,364.12,236.68,127.44,35.0
+119,2024-05-27,5,Q2,Cámara Web HD,Periféricos,Pedro Sánchez,Este,Online,3,48.75,146.25,84.83,61.42,42.0
+267,2024-05-27,5,Q2,Ratón Inalámbrico,Periféricos,Carlos López,Este,Online,5,30.53,152.65,83.96,68.69,45.0
+287,2024-05-27,5,Q2,"Tablet 10""",Tablets,Carlos López,Norte,Tienda física,5,243.3,1216.5,912.38,304.12,25.0
+187,2024-05-28,5,Q2,"Tablet 10""",Tablets,Ana García,Este,Online,2,247.0,494.0,370.5,123.5,25.0
+315,2024-05-28,5,Q2,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Oeste,Online,5,359.53,1797.65,1258.36,539.29,30.0
+224,2024-05-29,5,Q2,Cámara Web HD,Periféricos,Ana García,Sur,Tienda física,2,50.81,101.62,58.94,42.68,42.0
+209,2024-05-31,5,Q2,Ratón Inalámbrico,Periféricos,María Ruiz,Este,Tienda física,5,28.6,143.0,78.65,64.35,45.0
+452,2024-05-31,5,Q2,SSD 1TB,Almacenamiento,Carlos López,Este,Online,3,88.94,266.82,173.43,93.39,35.0
+479,2024-06-01,6,Q2,"Monitor 27"" 4K",Monitores,Ana García,Sur,Online,3,337.87,1013.61,709.53,304.08,30.0
+407,2024-06-02,6,Q2,Teclado Mecánico,Periféricos,Carlos López,Centro,Tienda física,1,76.54,76.54,45.92,30.62,40.0
+88,2024-06-03,6,Q2,Funda Laptop,Accesorios,Pedro Sánchez,Centro,Tienda física,1,19.68,19.68,8.86,10.82,55.0
+402,2024-06-03,6,Q2,Teclado Mecánico,Periféricos,Laura Martínez,Centro,Online,2,77.99,155.98,93.59,62.39,40.0
+497,2024-06-04,6,Q2,Auriculares BT,Audio,Carlos López,Este,Tienda física,1,62.82,62.82,38.95,23.87,38.0
+381,2024-06-05,6,Q2,Ratón Inalámbrico,Periféricos,Ana García,Oeste,Online,3,30.28,90.84,49.96,40.88,45.0
+327,2024-06-06,6,Q2,Auriculares BT,Audio,Carlos López,Centro,Online,3,61.56,184.68,114.5,70.18,38.0
+482,2024-06-06,6,Q2,Cámara Web HD,Periféricos,María Ruiz,Centro,Online,4,49.43,197.72,114.68,83.04,42.0
+231,2024-06-07,6,Q2,Altavoz Portátil,Audio,Carlos López,Centro,Online,1,41.0,41.0,22.96,18.04,44.0
+40,2024-06-09,6,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Norte,Tienda física,3,343.56,1030.68,721.48,309.2,30.0
+58,2024-06-09,6,Q2,Cámara Web HD,Periféricos,María Ruiz,Este,Online,4,48.44,193.76,112.38,81.38,42.0
+259,2024-06-09,6,Q2,"Tablet 10""",Tablets,Pedro Sánchez,Centro,Teléfono,1,256.51,256.51,192.38,64.13,25.0
+278,2024-06-09,6,Q2,Teclado Mecánico,Periféricos,María Ruiz,Este,Online,2,80.87,161.74,97.04,64.7,40.0
+415,2024-06-11,6,Q2,Teclado Mecánico,Periféricos,Carlos López,Centro,Online,4,81.45,325.8,195.48,130.32,40.0
+319,2024-06-12,6,Q2,Cámara Web HD,Periféricos,Carlos López,Sur,Online,4,49.86,199.44,115.68,83.76,42.0
+328,2024-06-12,6,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Este,Tienda física,1,358.43,358.43,250.9,107.53,30.0
+130,2024-06-13,6,Q2,"Monitor 27"" 4K",Monitores,Laura Martínez,Sur,Online,3,334.02,1002.06,701.44,300.62,30.0
+316,2024-06-13,6,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Norte,Tienda física,1,346.96,346.96,242.87,104.09,30.0
+393,2024-06-14,6,Q2,Auriculares BT,Audio,Carlos López,Sur,Tienda física,1,57.8,57.8,35.84,21.96,38.0
+463,2024-06-14,6,Q2,Laptop Pro 15,Informática,Ana García,Este,Teléfono,1,931.17,931.17,726.31,204.86,22.0
+465,2024-06-14,6,Q2,Teclado Mecánico,Periféricos,Laura Martínez,Oeste,Online,3,81.18,243.54,146.12,97.42,40.0
+11,2024-06-15,6,Q2,Laptop Pro 15,Informática,Ana García,Norte,Online,2,860.95,1721.9,1343.08,378.82,22.0
+440,2024-06-16,6,Q2,"Tablet 10""",Tablets,María Ruiz,Sur,Teléfono,1,256.99,256.99,192.74,64.25,25.0
+330,2024-06-17,6,Q2,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Online,2,341.5,683.0,478.1,204.9,30.0
+368,2024-06-18,6,Q2,Cámara Web HD,Periféricos,Ana García,Norte,Online,4,50.28,201.12,116.65,84.47,42.0
+449,2024-06-18,6,Q2,Ratón Inalámbrico,Periféricos,Ana García,Este,Online,4,29.79,119.16,65.54,53.62,45.0
+496,2024-06-18,6,Q2,"Monitor 27"" 4K",Monitores,Ana García,Este,Online,2,333.2,666.4,466.48,199.92,30.0
+162,2024-06-19,6,Q2,"Monitor 27"" 4K",Monitores,Laura Martínez,Centro,Online,4,339.74,1358.96,951.27,407.69,30.0
+205,2024-06-19,6,Q2,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Online,3,28.88,86.64,47.65,38.99,45.0
+228,2024-06-19,6,Q2,Teclado Mecánico,Periféricos,Ana García,Este,Tienda física,1,82.63,82.63,49.58,33.05,40.0
+74,2024-06-20,6,Q2,"Tablet 10""",Tablets,Laura Martínez,Norte,Online,3,254.84,764.52,573.39,191.13,25.0
+5,2024-06-21,6,Q2,Ratón Inalámbrico,Periféricos,Ana García,Norte,Tienda física,4,29.28,117.12,64.42,52.7,45.0
+79,2024-06-21,6,Q2,Cámara Web HD,Periféricos,Pedro Sánchez,Centro,Teléfono,4,50.16,200.64,116.37,84.27,42.0
+210,2024-06-21,6,Q2,Funda Laptop,Accesorios,Ana García,Sur,Online,4,20.61,82.44,37.1,45.34,55.0
+293,2024-06-21,6,Q2,Auriculares BT,Audio,María Ruiz,Centro,Online,3,61.95,185.85,115.23,70.62,38.0
+151,2024-06-22,6,Q2,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Tienda física,1,31.07,31.07,17.09,13.98,45.0
+203,2024-06-22,6,Q2,Funda Laptop,Accesorios,Ana García,Oeste,Online,2,19.18,38.36,17.26,21.1,55.0
+201,2024-06-24,6,Q2,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Online,3,31.46,94.38,51.91,42.47,45.0
+494,2024-06-25,6,Q2,Cámara Web HD,Periféricos,Carlos López,Oeste,Tienda física,3,47.68,143.04,82.96,60.08,42.0
+309,2024-06-27,6,Q2,Ratón Inalámbrico,Periféricos,Ana García,Este,Online,1,30.99,30.99,17.04,13.95,45.0
+390,2024-06-27,6,Q2,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Tienda física,1,29.12,29.12,16.02,13.1,45.0
+460,2024-06-29,6,Q2,Funda Laptop,Accesorios,María Ruiz,Este,Online,3,20.07,60.21,27.09,33.12,55.0
+338,2024-06-30,6,Q2,Auriculares BT,Audio,Pedro Sánchez,Norte,Teléfono,3,60.38,181.14,112.31,68.83,38.0
+367,2024-06-30,6,Q2,Teclado Mecánico,Periféricos,María Ruiz,Norte,Teléfono,3,83.72,251.16,150.7,100.46,40.0
+144,2024-07-02,7,Q3,Funda Laptop,Accesorios,Carlos López,Oeste,Online,3,19.54,58.62,26.38,32.24,55.0
+165,2024-07-02,7,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Norte,Online,1,358.45,358.45,250.91,107.54,30.0
+442,2024-07-02,7,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Este,Tienda física,1,338.01,338.01,236.61,101.4,30.0
+366,2024-07-03,7,Q3,Altavoz Portátil,Audio,María Ruiz,Centro,Online,1,40.62,40.62,22.75,17.87,44.0
+480,2024-07-03,7,Q3,Laptop Pro 15,Informática,Carlos López,Sur,Tienda física,4,898.22,3592.88,2802.45,790.43,22.0
+464,2024-07-05,7,Q3,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Online,1,29.5,29.5,16.23,13.27,45.0
+240,2024-07-06,7,Q3,"Tablet 10""",Tablets,Carlos López,Este,Tienda física,3,261.21,783.63,587.72,195.91,25.0
+266,2024-07-06,7,Q3,Cámara Web HD,Periféricos,Carlos López,Este,Tienda física,1,49.3,49.3,28.59,20.71,42.0
+269,2024-07-06,7,Q3,Teclado Mecánico,Periféricos,Ana García,Este,Online,1,76.3,76.3,45.78,30.52,40.0
+388,2024-07-06,7,Q3,Altavoz Portátil,Audio,Pedro Sánchez,Norte,Tienda física,4,38.86,155.44,87.05,68.39,44.0
+160,2024-07-07,7,Q3,Altavoz Portátil,Audio,Laura Martínez,Oeste,Online,2,38.75,77.5,43.4,34.1,44.0
+233,2024-07-07,7,Q3,Cámara Web HD,Periféricos,Laura Martínez,Oeste,Tienda física,3,49.19,147.57,85.59,61.98,42.0
+49,2024-07-08,7,Q3,Funda Laptop,Accesorios,María Ruiz,Este,Online,2,20.79,41.58,18.71,22.87,55.0
+159,2024-07-08,7,Q3,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Tienda física,1,366.82,366.82,256.77,110.05,30.0
+483,2024-07-08,7,Q3,Cámara Web HD,Periféricos,Carlos López,Este,Online,3,48.81,146.43,84.93,61.5,42.0
+241,2024-07-09,7,Q3,SSD 1TB,Almacenamiento,Pedro Sánchez,Este,Online,3,88.32,264.96,172.22,92.74,35.0
+403,2024-07-09,7,Q3,Teclado Mecánico,Periféricos,Ana García,Oeste,Tienda física,1,79.42,79.42,47.65,31.77,40.0
+20,2024-07-10,7,Q3,Teclado Mecánico,Periféricos,María Ruiz,Centro,Online,1,80.78,80.78,48.47,32.31,40.0
+87,2024-07-11,7,Q3,Cámara Web HD,Periféricos,Laura Martínez,Norte,Tienda física,1,48.0,48.0,27.84,20.16,42.0
+62,2024-07-13,7,Q3,Teclado Mecánico,Periféricos,María Ruiz,Sur,Online,1,78.42,78.42,47.05,31.37,40.0
+82,2024-07-13,7,Q3,Auriculares BT,Audio,Pedro Sánchez,Centro,Online,1,59.81,59.81,37.08,22.73,38.0
+340,2024-07-13,7,Q3,Cámara Web HD,Periféricos,María Ruiz,Norte,Online,1,47.9,47.9,27.78,20.12,42.0
+140,2024-07-14,7,Q3,Funda Laptop,Accesorios,Pedro Sánchez,Este,Tienda física,1,19.91,19.91,8.96,10.95,55.0
+308,2024-07-14,7,Q3,SSD 1TB,Almacenamiento,Laura Martínez,Centro,Online,4,86.69,346.76,225.39,121.37,35.0
+454,2024-07-14,7,Q3,"Tablet 10""",Tablets,María Ruiz,Centro,Online,4,250.05,1000.2,750.15,250.05,25.0
+354,2024-07-17,7,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Este,Teléfono,1,30.21,30.21,16.62,13.59,45.0
+455,2024-07-17,7,Q3,Auriculares BT,Audio,Ana García,Sur,Online,2,57.34,114.68,71.1,43.58,38.0
+80,2024-07-20,7,Q3,Funda Laptop,Accesorios,María Ruiz,Norte,Tienda física,1,20.72,20.72,9.32,11.4,55.0
+186,2024-07-21,7,Q3,Funda Laptop,Accesorios,Ana García,Norte,Teléfono,1,20.52,20.52,9.23,11.29,55.0
+305,2024-07-21,7,Q3,Auriculares BT,Audio,Pedro Sánchez,Oeste,Tienda física,1,59.53,59.53,36.91,22.62,38.0
+358,2024-07-21,7,Q3,"Tablet 10""",Tablets,Pedro Sánchez,Sur,Tienda física,3,245.86,737.58,553.19,184.39,25.0
+450,2024-07-21,7,Q3,SSD 1TB,Almacenamiento,Ana García,Oeste,Online,1,93.66,93.66,60.88,32.78,35.0
+289,2024-07-22,7,Q3,SSD 1TB,Almacenamiento,Ana García,Oeste,Tienda física,2,93.38,186.76,121.39,65.37,35.0
+326,2024-07-22,7,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Centro,Online,4,355.2,1420.8,994.56,426.24,30.0
+417,2024-07-22,7,Q3,Altavoz Portátil,Audio,Carlos López,Oeste,Tienda física,3,40.8,122.4,68.54,53.86,44.0
+14,2024-07-23,7,Q3,"Tablet 10""",Tablets,Ana García,Centro,Online,1,256.38,256.38,192.28,64.1,25.0
+25,2024-07-23,7,Q3,"Tablet 10""",Tablets,Carlos López,Este,Online,1,239.09,239.09,179.32,59.77,25.0
+181,2024-07-24,7,Q3,Ratón Inalámbrico,Periféricos,Ana García,Oeste,Online,4,29.14,116.56,64.11,52.45,45.0
+447,2024-07-24,7,Q3,"Tablet 10""",Tablets,Pedro Sánchez,Centro,Online,4,243.96,975.84,731.88,243.96,25.0
+97,2024-07-26,7,Q3,"Monitor 27"" 4K",Monitores,Carlos López,Este,Online,4,344.52,1378.08,964.66,413.42,30.0
+190,2024-07-26,7,Q3,Cámara Web HD,Periféricos,Carlos López,Este,Teléfono,1,51.5,51.5,29.87,21.63,42.0
+375,2024-07-26,7,Q3,Teclado Mecánico,Periféricos,Ana García,Oeste,Online,4,83.05,332.2,199.32,132.88,40.0
+51,2024-07-27,7,Q3,Funda Laptop,Accesorios,Pedro Sánchez,Centro,Online,1,20.94,20.94,9.42,11.52,55.0
+118,2024-07-28,7,Q3,"Tablet 10""",Tablets,Carlos López,Norte,Online,3,254.83,764.49,573.37,191.12,25.0
+249,2024-07-28,7,Q3,Funda Laptop,Accesorios,Ana García,Centro,Tienda física,3,19.92,59.76,26.89,32.87,55.0
+307,2024-07-28,7,Q3,Teclado Mecánico,Periféricos,Pedro Sánchez,Centro,Teléfono,3,78.99,236.97,142.18,94.79,40.0
+385,2024-07-28,7,Q3,SSD 1TB,Almacenamiento,Carlos López,Centro,Online,1,90.58,90.58,58.88,31.7,35.0
+434,2024-07-28,7,Q3,Laptop Pro 15,Informática,Ana García,Sur,Tienda física,1,940.58,940.58,733.65,206.93,22.0
+394,2024-07-29,7,Q3,Laptop Pro 15,Informática,Laura Martínez,Centro,Online,1,877.46,877.46,684.42,193.04,22.0
+218,2024-07-31,7,Q3,Laptop Pro 15,Informática,Carlos López,Sur,Online,1,888.73,888.73,693.21,195.52,22.0
+321,2024-08-01,8,Q3,Altavoz Portátil,Audio,María Ruiz,Sur,Online,2,40.58,81.16,45.45,35.71,44.0
+429,2024-08-01,8,Q3,"Tablet 10""",Tablets,Carlos López,Norte,Online,3,254.32,762.96,572.22,190.74,25.0
+499,2024-08-01,8,Q3,Funda Laptop,Accesorios,María Ruiz,Norte,Online,2,20.47,40.94,18.42,22.52,55.0
+182,2024-08-02,8,Q3,SSD 1TB,Almacenamiento,Carlos López,Sur,Tienda física,3,90.86,272.58,177.18,95.4,35.0
+436,2024-08-02,8,Q3,SSD 1TB,Almacenamiento,Laura Martínez,Centro,Online,2,86.33,172.66,112.23,60.43,35.0
+453,2024-08-02,8,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Centro,Online,3,360.31,1080.93,756.65,324.28,30.0
+486,2024-08-02,8,Q3,Altavoz Portátil,Audio,Pedro Sánchez,Centro,Tienda física,1,39.9,39.9,22.34,17.56,44.0
+76,2024-08-03,8,Q3,Cámara Web HD,Periféricos,Laura Martínez,Este,Tienda física,3,49.39,148.17,85.94,62.23,42.0
+47,2024-08-04,8,Q3,Auriculares BT,Audio,Ana García,Sur,Online,2,57.96,115.92,71.87,44.05,38.0
+184,2024-08-05,8,Q3,SSD 1TB,Almacenamiento,María Ruiz,Este,Online,3,86.51,259.53,168.69,90.84,35.0
+235,2024-08-05,8,Q3,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Online,2,29.45,58.9,32.4,26.5,45.0
+389,2024-08-05,8,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Oeste,Online,1,29.84,29.84,16.41,13.43,45.0
+318,2024-08-06,8,Q3,Altavoz Portátil,Audio,María Ruiz,Centro,Teléfono,2,41.13,82.26,46.07,36.19,44.0
+89,2024-08-07,8,Q3,"Tablet 10""",Tablets,Ana García,Oeste,Online,2,258.05,516.1,387.08,129.02,25.0
+107,2024-08-07,8,Q3,Auriculares BT,Audio,María Ruiz,Norte,Teléfono,1,62.68,62.68,38.86,23.82,38.0
+185,2024-08-08,8,Q3,Ratón Inalámbrico,Periféricos,Carlos López,Oeste,Online,2,28.63,57.26,31.49,25.77,45.0
+137,2024-08-10,8,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Oeste,Online,1,30.57,30.57,16.81,13.76,45.0
+341,2024-08-10,8,Q3,"Tablet 10""",Tablets,María Ruiz,Centro,Online,3,260.47,781.41,586.06,195.35,25.0
+356,2024-08-10,8,Q3,Auriculares BT,Audio,Carlos López,Este,Online,2,62.65,125.3,77.69,47.61,38.0
+217,2024-08-11,8,Q3,Ratón Inalámbrico,Periféricos,Laura Martínez,Sur,Online,2,31.28,62.56,34.41,28.15,45.0
+420,2024-08-11,8,Q3,"Monitor 27"" 4K",Monitores,Ana García,Norte,Online,2,353.92,707.84,495.49,212.35,30.0
+113,2024-08-12,8,Q3,Ratón Inalámbrico,Periféricos,María Ruiz,Sur,Online,2,29.99,59.98,32.99,26.99,45.0
+276,2024-08-13,8,Q3,"Tablet 10""",Tablets,Carlos López,Este,Online,3,256.86,770.58,577.94,192.64,25.0
+48,2024-08-14,8,Q3,Altavoz Portátil,Audio,Pedro Sánchez,Este,Online,1,40.17,40.17,22.5,17.67,44.0
+71,2024-08-14,8,Q3,Funda Laptop,Accesorios,Pedro Sánchez,Centro,Online,3,19.88,59.64,26.84,32.8,55.0
+169,2024-08-15,8,Q3,Ratón Inalámbrico,Periféricos,Laura Martínez,Sur,Online,1,29.32,29.32,16.13,13.19,45.0
+237,2024-08-15,8,Q3,"Tablet 10""",Tablets,Carlos López,Oeste,Teléfono,3,262.44,787.32,590.49,196.83,25.0
+405,2024-08-15,8,Q3,Laptop Pro 15,Informática,Ana García,Sur,Online,2,917.45,1834.9,1431.22,403.68,22.0
+129,2024-08-16,8,Q3,Altavoz Portátil,Audio,María Ruiz,Sur,Tienda física,2,39.81,79.62,44.59,35.03,44.0
+196,2024-08-17,8,Q3,Funda Laptop,Accesorios,María Ruiz,Centro,Online,2,19.29,38.58,17.36,21.22,55.0
+212,2024-08-17,8,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Sur,Tienda física,2,364.13,728.26,509.78,218.48,30.0
+322,2024-08-18,8,Q3,"Tablet 10""",Tablets,Ana García,Oeste,Online,2,246.92,493.84,370.38,123.46,25.0
+376,2024-08-18,8,Q3,Funda Laptop,Accesorios,Carlos López,Norte,Online,2,20.49,40.98,18.44,22.54,55.0
+167,2024-08-19,8,Q3,Altavoz Portátil,Audio,Ana García,Oeste,Tienda física,3,39.2,117.6,65.86,51.74,44.0
+18,2024-08-20,8,Q3,Laptop Pro 15,Informática,Laura Martínez,Centro,Online,3,923.57,2770.71,2161.15,609.56,22.0
+133,2024-08-21,8,Q3,Laptop Pro 15,Informática,Pedro Sánchez,Este,Tienda física,1,861.72,861.72,672.14,189.58,22.0
+143,2024-08-21,8,Q3,Auriculares BT,Audio,Ana García,Sur,Online,1,59.28,59.28,36.75,22.53,38.0
+230,2024-08-22,8,Q3,Laptop Pro 15,Informática,Carlos López,Norte,Online,1,883.39,883.39,689.04,194.35,22.0
+398,2024-08-22,8,Q3,"Tablet 10""",Tablets,Laura Martínez,Centro,Online,2,258.11,516.22,387.17,129.05,25.0
+363,2024-08-24,8,Q3,"Monitor 27"" 4K",Monitores,Carlos López,Sur,Tienda física,2,356.04,712.08,498.46,213.62,30.0
+446,2024-08-24,8,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Norte,Online,1,28.88,28.88,15.88,13.0,45.0
+431,2024-08-26,8,Q3,Auriculares BT,Audio,Pedro Sánchez,Sur,Online,2,57.04,114.08,70.73,43.35,38.0
+126,2024-08-29,8,Q3,"Monitor 27"" 4K",Monitores,María Ruiz,Norte,Online,3,350.28,1050.84,735.59,315.25,30.0
+277,2024-08-29,8,Q3,Laptop Pro 15,Informática,Pedro Sánchez,Este,Tienda física,2,902.28,1804.56,1407.56,397.0,22.0
+416,2024-08-29,8,Q3,Ratón Inalámbrico,Periféricos,Ana García,Norte,Online,1,31.26,31.26,17.19,14.07,45.0
+456,2024-08-29,8,Q3,Altavoz Portátil,Audio,Carlos López,Este,Online,1,38.39,38.39,21.5,16.89,44.0
+131,2024-08-30,8,Q3,Cámara Web HD,Periféricos,Carlos López,Oeste,Tienda física,1,49.97,49.97,28.98,20.99,42.0
+174,2024-08-30,8,Q3,Ratón Inalámbrico,Periféricos,Ana García,Norte,Online,2,30.92,61.84,34.01,27.83,45.0
+104,2024-09-01,9,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Este,Online,1,28.95,28.95,15.92,13.03,45.0
+406,2024-09-01,9,Q3,Ratón Inalámbrico,Periféricos,Ana García,Norte,Tienda física,1,29.43,29.43,16.19,13.24,45.0
+283,2024-09-02,9,Q3,"Monitor 27"" 4K",Monitores,Ana García,Este,Teléfono,3,337.29,1011.87,708.31,303.56,30.0
+100,2024-09-04,9,Q3,Auriculares BT,Audio,Pedro Sánchez,Centro,Online,3,62.87,188.61,116.94,71.67,38.0
+400,2024-09-05,9,Q3,"Tablet 10""",Tablets,Laura Martínez,Centro,Online,4,237.9,951.6,713.7,237.9,25.0
+21,2024-09-07,9,Q3,Laptop Pro 15,Informática,Ana García,Sur,Teléfono,3,876.54,2629.62,2051.1,578.52,22.0
+331,2024-09-07,9,Q3,SSD 1TB,Almacenamiento,María Ruiz,Oeste,Online,2,91.97,183.94,119.56,64.38,35.0
+332,2024-09-07,9,Q3,Teclado Mecánico,Periféricos,Laura Martínez,Este,Tienda física,1,80.18,80.18,48.11,32.07,40.0
+383,2024-09-07,9,Q3,Auriculares BT,Audio,Ana García,Sur,Online,1,62.18,62.18,38.55,23.63,38.0
+244,2024-09-08,9,Q3,"Monitor 27"" 4K",Monitores,Ana García,Centro,Online,4,367.39,1469.56,1028.69,440.87,30.0
+114,2024-09-09,9,Q3,SSD 1TB,Almacenamiento,Ana García,Norte,Online,3,90.92,272.76,177.29,95.47,35.0
+433,2024-09-09,9,Q3,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Tienda física,2,332.71,665.42,465.79,199.63,30.0
+473,2024-09-09,9,Q3,Cámara Web HD,Periféricos,Carlos López,Sur,Tienda física,5,50.74,253.7,147.15,106.55,42.0
+387,2024-09-10,9,Q3,Altavoz Portátil,Audio,María Ruiz,Este,Online,5,41.28,206.4,115.58,90.82,44.0
+399,2024-09-10,9,Q3,Auriculares BT,Audio,Carlos López,Sur,Online,2,60.39,120.78,74.88,45.9,38.0
+257,2024-09-11,9,Q3,Altavoz Portátil,Audio,Carlos López,Centro,Online,4,39.18,156.72,87.76,68.96,44.0
+214,2024-09-14,9,Q3,Altavoz Portátil,Audio,Carlos López,Norte,Online,5,38.54,192.7,107.91,84.79,44.0
+171,2024-09-15,9,Q3,Funda Laptop,Accesorios,Carlos López,Centro,Online,5,20.43,102.15,45.97,56.18,55.0
+438,2024-09-15,9,Q3,Teclado Mecánico,Periféricos,María Ruiz,Sur,Tienda física,1,79.47,79.47,47.68,31.79,40.0
+19,2024-09-16,9,Q3,Ratón Inalámbrico,Periféricos,Laura Martínez,Sur,Tienda física,5,29.09,145.45,80.0,65.45,45.0
+42,2024-09-16,9,Q3,Auriculares BT,Audio,Ana García,Sur,Online,2,59.21,118.42,73.42,45.0,38.0
+226,2024-09-16,9,Q3,Altavoz Portátil,Audio,Ana García,Centro,Online,4,41.91,167.64,93.88,73.76,44.0
+272,2024-09-16,9,Q3,Altavoz Portátil,Audio,María Ruiz,Oeste,Online,1,39.46,39.46,22.1,17.36,44.0
+56,2024-09-17,9,Q3,Cámara Web HD,Periféricos,Pedro Sánchez,Centro,Online,1,48.07,48.07,27.88,20.19,42.0
+425,2024-09-18,9,Q3,"Tablet 10""",Tablets,Ana García,Centro,Online,2,243.87,487.74,365.81,121.93,25.0
+304,2024-09-19,9,Q3,Cámara Web HD,Periféricos,María Ruiz,Norte,Online,3,51.11,153.33,88.93,64.4,42.0
+260,2024-09-20,9,Q3,Altavoz Portátil,Audio,Ana García,Sur,Online,4,38.98,155.92,87.32,68.6,44.0
+263,2024-09-20,9,Q3,SSD 1TB,Almacenamiento,María Ruiz,Sur,Online,4,90.04,360.16,234.1,126.06,35.0
+294,2024-09-20,9,Q3,"Tablet 10""",Tablets,Ana García,Oeste,Online,2,249.43,498.86,374.14,124.72,25.0
+216,2024-09-21,9,Q3,Ratón Inalámbrico,Periféricos,Carlos López,Centro,Online,5,28.93,144.65,79.56,65.09,45.0
+250,2024-09-21,9,Q3,"Tablet 10""",Tablets,Ana García,Centro,Tienda física,5,242.04,1210.2,907.65,302.55,25.0
+500,2024-09-21,9,Q3,"Tablet 10""",Tablets,Pedro Sánchez,Este,Online,3,255.23,765.69,574.27,191.42,25.0
+73,2024-09-23,9,Q3,SSD 1TB,Almacenamiento,María Ruiz,Sur,Online,3,87.6,262.8,170.82,91.98,35.0
+91,2024-09-24,9,Q3,Auriculares BT,Audio,María Ruiz,Centro,Tienda física,4,59.6,238.4,147.81,90.59,38.0
+202,2024-09-25,9,Q3,Altavoz Portátil,Audio,María Ruiz,Sur,Teléfono,4,39.63,158.52,88.77,69.75,44.0
+166,2024-09-26,9,Q3,Ratón Inalámbrico,Periféricos,Pedro Sánchez,Este,Tienda física,5,30.27,151.35,83.24,68.11,45.0
+37,2024-09-28,9,Q3,Teclado Mecánico,Periféricos,Ana García,Este,Tienda física,1,80.75,80.75,48.45,32.3,40.0
+139,2024-09-28,9,Q3,Cámara Web HD,Periféricos,María Ruiz,Centro,Online,1,50.54,50.54,29.31,21.23,42.0
+23,2024-09-29,9,Q3,Teclado Mecánico,Periféricos,Ana García,Este,Online,3,80.21,240.63,144.38,96.25,40.0
+135,2024-09-30,9,Q3,Cámara Web HD,Periféricos,Laura Martínez,Oeste,Tienda física,4,51.85,207.4,120.29,87.11,42.0
+153,2024-10-01,10,Q4,Ratón Inalámbrico,Periféricos,María Ruiz,Oeste,Tienda física,5,29.63,148.15,81.48,66.67,45.0
+157,2024-10-02,10,Q4,Teclado Mecánico,Periféricos,Carlos López,Sur,Teléfono,5,79.34,396.7,238.02,158.68,40.0
+83,2024-10-03,10,Q4,Laptop Pro 15,Informática,Laura Martínez,Sur,Tienda física,1,922.87,922.87,719.84,203.03,22.0
+485,2024-10-04,10,Q4,Cámara Web HD,Periféricos,Laura Martínez,Este,Tienda física,4,51.58,206.32,119.67,86.65,42.0
+2,2024-10-06,10,Q4,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Online,2,30.01,60.02,33.01,27.01,45.0
+78,2024-10-06,10,Q4,Funda Laptop,Accesorios,Laura Martínez,Este,Online,4,19.05,76.2,34.29,41.91,55.0
+98,2024-10-08,10,Q4,"Tablet 10""",Tablets,Carlos López,Este,Online,2,240.51,481.02,360.76,120.26,25.0
+286,2024-10-08,10,Q4,Teclado Mecánico,Periféricos,Carlos López,Centro,Tienda física,4,81.19,324.76,194.86,129.9,40.0
+44,2024-10-10,10,Q4,Auriculares BT,Audio,Laura Martínez,Norte,Tienda física,3,57.68,173.04,107.28,65.76,38.0
+353,2024-10-10,10,Q4,Ratón Inalámbrico,Periféricos,María Ruiz,Centro,Tienda física,1,29.37,29.37,16.15,13.22,45.0
+175,2024-10-11,10,Q4,Laptop Pro 15,Informática,María Ruiz,Este,Online,1,891.96,891.96,695.73,196.23,22.0
+178,2024-10-11,10,Q4,"Tablet 10""",Tablets,Ana García,Sur,Online,4,258.62,1034.48,775.86,258.62,25.0
+491,2024-10-11,10,Q4,Cámara Web HD,Periféricos,María Ruiz,Centro,Online,1,51.42,51.42,29.82,21.6,42.0
+324,2024-10-13,10,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Centro,Online,1,339.9,339.9,237.93,101.97,30.0
+243,2024-10-14,10,Q4,Ratón Inalámbrico,Periféricos,Carlos López,Sur,Online,5,29.35,146.75,80.71,66.04,45.0
+85,2024-10-15,10,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Sur,Online,5,353.74,1768.7,1238.09,530.61,30.0
+105,2024-10-15,10,Q4,Auriculares BT,Audio,Ana García,Sur,Tienda física,4,60.63,242.52,150.36,92.16,38.0
+345,2024-10-15,10,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Centro,Tienda física,5,344.1,1720.5,1204.35,516.15,30.0
+408,2024-10-15,10,Q4,Laptop Pro 15,Informática,María Ruiz,Norte,Online,2,911.52,1823.04,1421.97,401.07,22.0
+145,2024-10-16,10,Q4,Laptop Pro 15,Informática,Laura Martínez,Oeste,Tienda física,3,924.81,2774.43,2164.06,610.37,22.0
+12,2024-10-17,10,Q4,"Tablet 10""",Tablets,Ana García,Este,Tienda física,4,241.06,964.24,723.18,241.06,25.0
+28,2024-10-19,10,Q4,Funda Laptop,Accesorios,María Ruiz,Centro,Tienda física,2,19.18,38.36,17.26,21.1,55.0
+200,2024-10-19,10,Q4,"Monitor 27"" 4K",Monitores,Carlos López,Este,Online,1,348.26,348.26,243.78,104.48,30.0
+296,2024-10-20,10,Q4,Laptop Pro 15,Informática,Carlos López,Sur,Online,1,896.88,896.88,699.57,197.31,22.0
+468,2024-10-20,10,Q4,Cámara Web HD,Periféricos,Laura Martínez,Centro,Tienda física,2,50.5,101.0,58.58,42.42,42.0
+382,2024-10-21,10,Q4,Cámara Web HD,Periféricos,Carlos López,Este,Online,2,50.26,100.52,58.3,42.22,42.0
+36,2024-10-23,10,Q4,Altavoz Portátil,Audio,Ana García,Sur,Online,4,40.0,160.0,89.6,70.4,44.0
+493,2024-10-25,10,Q4,Ratón Inalámbrico,Periféricos,Laura Martínez,Este,Online,3,31.09,93.27,51.3,41.97,45.0
+349,2024-10-26,10,Q4,Cámara Web HD,Periféricos,Ana García,Oeste,Tienda física,1,47.9,47.9,27.78,20.12,42.0
+441,2024-10-26,10,Q4,Ratón Inalámbrico,Periféricos,Ana García,Norte,Online,4,28.85,115.4,63.47,51.93,45.0
+192,2024-10-28,10,Q4,Cámara Web HD,Periféricos,María Ruiz,Sur,Online,3,48.6,145.8,84.56,61.24,42.0
+391,2024-10-28,10,Q4,"Tablet 10""",Tablets,Laura Martínez,Oeste,Online,5,240.97,1204.85,903.64,301.21,25.0
+92,2024-10-30,10,Q4,Auriculares BT,Audio,Carlos López,Sur,Teléfono,3,62.28,186.84,115.84,71.0,38.0
+459,2024-10-30,10,Q4,"Tablet 10""",Tablets,Pedro Sánchez,Oeste,Teléfono,1,255.08,255.08,191.31,63.77,25.0
+16,2024-11-01,11,Q4,SSD 1TB,Almacenamiento,María Ruiz,Centro,Tienda física,1,91.61,91.61,59.55,32.06,35.0
+365,2024-11-02,11,Q4,SSD 1TB,Almacenamiento,María Ruiz,Este,Teléfono,4,90.38,361.52,234.99,126.53,35.0
+255,2024-11-05,11,Q4,"Tablet 10""",Tablets,Pedro Sánchez,Este,Tienda física,1,239.52,239.52,179.64,59.88,25.0
+323,2024-11-05,11,Q4,Funda Laptop,Accesorios,Ana García,Norte,Tienda física,6,20.44,122.64,55.19,67.45,55.0
+24,2024-11-06,11,Q4,Cámara Web HD,Periféricos,Laura Martínez,Centro,Tienda física,2,51.05,102.1,59.22,42.88,42.0
+299,2024-11-06,11,Q4,"Tablet 10""",Tablets,Carlos López,Este,Online,6,257.54,1545.24,1158.93,386.31,25.0
+155,2024-11-08,11,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Oeste,Online,3,355.21,1065.63,745.94,319.69,30.0
+379,2024-11-08,11,Q4,Cámara Web HD,Periféricos,María Ruiz,Sur,Tienda física,6,48.35,290.1,168.26,121.84,42.0
+271,2024-11-09,11,Q4,"Tablet 10""",Tablets,Ana García,Centro,Tienda física,3,252.33,756.99,567.74,189.25,25.0
+469,2024-11-09,11,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Norte,Online,3,358.58,1075.74,753.02,322.72,30.0
+284,2024-11-11,11,Q4,Funda Laptop,Accesorios,Ana García,Norte,Teléfono,2,20.27,40.54,18.24,22.3,55.0
+106,2024-11-12,11,Q4,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Sur,Teléfono,3,362.6,1087.8,761.46,326.34,30.0
+191,2024-11-12,11,Q4,SSD 1TB,Almacenamiento,Pedro Sánchez,Centro,Online,1,87.68,87.68,56.99,30.69,35.0
+39,2024-11-13,11,Q4,Ratón Inalámbrico,Periféricos,Carlos López,Este,Online,3,29.1,87.3,48.02,39.28,45.0
+275,2024-11-13,11,Q4,Cámara Web HD,Periféricos,Ana García,Oeste,Online,1,48.44,48.44,28.1,20.34,42.0
+179,2024-11-14,11,Q4,Funda Laptop,Accesorios,Pedro Sánchez,Este,Tienda física,3,19.05,57.15,25.72,31.43,55.0
+492,2024-11-15,11,Q4,Funda Laptop,Accesorios,María Ruiz,Este,Online,2,20.12,40.24,18.11,22.13,55.0
+357,2024-11-16,11,Q4,SSD 1TB,Almacenamiento,María Ruiz,Norte,Online,3,85.55,256.65,166.82,89.83,35.0
+7,2024-11-17,11,Q4,Funda Laptop,Accesorios,Laura Martínez,Sur,Online,1,19.08,19.08,8.59,10.49,55.0
+490,2024-11-17,11,Q4,Teclado Mecánico,Periféricos,Pedro Sánchez,Sur,Teléfono,1,76.69,76.69,46.01,30.68,40.0
+123,2024-11-18,11,Q4,Funda Laptop,Accesorios,Pedro Sánchez,Oeste,Online,1,20.09,20.09,9.04,11.05,55.0
+396,2024-11-19,11,Q4,Auriculares BT,Audio,María Ruiz,Sur,Online,1,59.41,59.41,36.83,22.58,38.0
+46,2024-11-20,11,Q4,Auriculares BT,Audio,María Ruiz,Sur,Teléfono,1,57.54,57.54,35.67,21.87,38.0
+170,2024-11-20,11,Q4,Funda Laptop,Accesorios,María Ruiz,Sur,Teléfono,6,19.58,117.48,52.87,64.61,55.0
+9,2024-11-21,11,Q4,"Tablet 10""",Tablets,Ana García,Sur,Tienda física,1,252.72,252.72,189.54,63.18,25.0
+154,2024-11-22,11,Q4,"Tablet 10""",Tablets,Ana García,Sur,Online,6,245.69,1474.14,1105.61,368.53,25.0
+1,2024-11-23,11,Q4,Ratón Inalámbrico,Periféricos,Ana García,Sur,Online,1,30.52,30.52,16.79,13.73,45.0
+298,2024-11-23,11,Q4,Auriculares BT,Audio,Carlos López,Sur,Teléfono,4,57.91,231.64,143.62,88.02,38.0
+256,2024-11-24,11,Q4,Funda Laptop,Accesorios,Carlos López,Norte,Tienda física,6,20.27,121.62,54.73,66.89,55.0
+291,2024-11-24,11,Q4,Altavoz Portátil,Audio,María Ruiz,Centro,Online,6,39.86,239.16,133.93,105.23,44.0
+168,2024-11-25,11,Q4,Laptop Pro 15,Informática,Ana García,Este,Online,1,899.11,899.11,701.31,197.8,22.0
+30,2024-11-26,11,Q4,Ratón Inalámbrico,Periféricos,Ana García,Oeste,Tienda física,1,29.24,29.24,16.08,13.16,45.0
+194,2024-11-26,11,Q4,Teclado Mecánico,Periféricos,Ana García,Norte,Online,6,77.21,463.26,277.96,185.3,40.0
+411,2024-11-26,11,Q4,Ratón Inalámbrico,Periféricos,Ana García,Oeste,Tienda física,3,30.83,92.49,50.87,41.62,45.0
+359,2024-11-29,11,Q4,Funda Laptop,Accesorios,Ana García,Sur,Teléfono,2,19.95,39.9,17.95,21.95,55.0
+265,2024-11-30,11,Q4,SSD 1TB,Almacenamiento,Carlos López,Norte,Online,2,93.43,186.86,121.46,65.4,35.0
+477,2024-11-30,11,Q4,Teclado Mecánico,Periféricos,María Ruiz,Este,Online,3,77.63,232.89,139.73,93.16,40.0
+195,2024-12-01,12,Q4,Ratón Inalámbrico,Periféricos,Ana García,Centro,Online,7,30.77,215.39,118.46,96.93,45.0
+457,2024-12-02,12,Q4,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Teléfono,1,359.23,359.23,251.46,107.77,30.0
+29,2024-12-03,12,Q4,Cámara Web HD,Periféricos,Carlos López,Este,Tienda física,1,50.86,50.86,29.5,21.36,42.0
+55,2024-12-03,12,Q4,"Monitor 27"" 4K",Monitores,Carlos López,Sur,Online,4,344.78,1379.12,965.38,413.74,30.0
+147,2024-12-03,12,Q4,Teclado Mecánico,Periféricos,María Ruiz,Centro,Tienda física,4,82.3,329.2,197.52,131.68,40.0
+335,2024-12-03,12,Q4,SSD 1TB,Almacenamiento,Ana García,Este,Online,1,90.25,90.25,58.66,31.59,35.0
+312,2024-12-04,12,Q4,Cámara Web HD,Periféricos,María Ruiz,Centro,Tienda física,2,48.52,97.04,56.28,40.76,42.0
+176,2024-12-06,12,Q4,Cámara Web HD,Periféricos,Laura Martínez,Oeste,Teléfono,7,49.05,343.35,199.14,144.21,42.0
+61,2024-12-07,12,Q4,Cámara Web HD,Periféricos,Carlos López,Oeste,Tienda física,2,49.59,99.18,57.52,41.66,42.0
+471,2024-12-09,12,Q4,"Tablet 10""",Tablets,Carlos López,Sur,Online,1,246.25,246.25,184.69,61.56,25.0
+116,2024-12-10,12,Q4,Auriculares BT,Audio,María Ruiz,Centro,Online,7,60.9,426.3,264.31,161.99,38.0
+273,2024-12-10,12,Q4,Ratón Inalámbrico,Periféricos,Laura Martínez,Este,Tienda física,1,30.28,30.28,16.65,13.63,45.0
+380,2024-12-10,12,Q4,Auriculares BT,Audio,Laura Martínez,Este,Tienda física,4,57.7,230.8,143.1,87.7,38.0
+38,2024-12-11,12,Q4,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Tienda física,7,353.3,2473.1,1731.17,741.93,30.0
+152,2024-12-11,12,Q4,Cámara Web HD,Periféricos,Laura Martínez,Centro,Online,5,47.56,237.8,137.92,99.88,42.0
+488,2024-12-12,12,Q4,Funda Laptop,Accesorios,Ana García,Centro,Online,2,20.93,41.86,18.84,23.02,55.0
+204,2024-12-13,12,Q4,Cámara Web HD,Periféricos,Carlos López,Oeste,Tienda física,7,51.86,363.02,210.55,152.47,42.0
+245,2024-12-15,12,Q4,"Tablet 10""",Tablets,María Ruiz,Oeste,Online,4,259.77,1039.08,779.31,259.77,25.0
+207,2024-12-16,12,Q4,Altavoz Portátil,Audio,Ana García,Oeste,Online,1,39.44,39.44,22.09,17.35,44.0
+229,2024-12-16,12,Q4,SSD 1TB,Almacenamiento,Laura Martínez,Este,Online,2,86.06,172.12,111.88,60.24,35.0
+443,2024-12-17,12,Q4,Auriculares BT,Audio,Pedro Sánchez,Oeste,Online,4,57.88,231.52,143.54,87.98,38.0
+474,2024-12-17,12,Q4,"Monitor 27"" 4K",Monitores,Ana García,Norte,Tienda física,4,333.19,1332.76,932.93,399.83,30.0
+369,2024-12-18,12,Q4,Funda Laptop,Accesorios,Ana García,Sur,Online,7,20.37,142.59,64.17,78.42,55.0
+412,2024-12-19,12,Q4,Laptop Pro 15,Informática,Pedro Sánchez,Oeste,Online,7,909.61,6367.27,4966.47,1400.8,22.0
+35,2024-12-22,12,Q4,Altavoz Portátil,Audio,María Ruiz,Este,Online,2,41.86,83.72,46.88,36.84,44.0
+339,2024-12-22,12,Q4,"Monitor 27"" 4K",Monitores,Carlos López,Centro,Online,1,335.76,335.76,235.03,100.73,30.0
+306,2024-12-24,12,Q4,Ratón Inalámbrico,Periféricos,María Ruiz,Norte,Tienda física,5,28.59,142.95,78.62,64.33,45.0
+422,2024-12-25,12,Q4,Laptop Pro 15,Informática,Ana García,Centro,Online,4,870.02,3480.08,2714.46,765.62,22.0
+188,2024-12-26,12,Q4,"Monitor 27"" 4K",Monitores,María Ruiz,Centro,Tienda física,1,346.39,346.39,242.47,103.92,30.0
+280,2024-12-26,12,Q4,"Monitor 27"" 4K",Monitores,Pedro Sánchez,Este,Online,7,365.17,2556.19,1789.33,766.86,30.0
+301,2024-12-26,12,Q4,"Tablet 10""",Tablets,Ana García,Este,Online,7,260.06,1820.42,1365.32,455.1,25.0
+75,2024-12-27,12,Q4,"Monitor 27"" 4K",Monitores,Ana García,Este,Online,5,334.67,1673.35,1171.34,502.01,30.0
+206,2024-12-28,12,Q4,Ratón Inalámbrico,Periféricos,Carlos López,Sur,Tienda física,2,30.5,61.0,33.55,27.45,45.0
+395,2024-12-30,12,Q4,"Tablet 10""",Tablets,Pedro Sánchez,Centro,Tienda física,5,241.04,1205.2,903.9,301.3,25.0
+444,2024-12-30,12,Q4,"Monitor 27"" 4K",Monitores,Laura Martínez,Sur,Online,4,341.6,1366.4,956.48,409.92,30.0
+270,2024-12-31,12,Q4,"Tablet 10""",Tablets,Pedro Sánchez,Este,Online,7,240.98,1686.86,1265.14,421.72,25.0

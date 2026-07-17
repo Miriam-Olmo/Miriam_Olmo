@@ -1,0 +1,47 @@
+<root>
+  <producto id="P001" categoria="monitores">
+    <nombre>Monitor 27" 4K UHD</nombre>
+    <marca>ViewPro</marca>
+    <precio moneda="EUR">349.99</precio>
+    <stock>42</stock>
+    <especificaciones>
+      <resolucion>3840x2160</resolucion>
+      <panel>IPS</panel>
+      <frecuencia_hz>144</frecuencia_hz>
+      <puertos>
+        <puerto>HDMI 2.1</puerto>
+        <puerto>DisplayPort 1.4</puerto>
+        <puerto>USB-C</puerto>
+      </puertos>
+    </especificaciones>
+    <valoracion_media>4.7</valoracion_media>
+  </producto>
+  <producto id="P002" categoria="perifericos">
+    <nombre>Teclado Mecánico TKL</nombre>
+    <marca>KeyMaster</marca>
+    <precio moneda="EUR">89.50</precio>
+    <stock>130</stock>
+    <especificaciones>
+      <switch>Cherry MX Red</switch>
+      <retroiluminacion>RGB</retroiluminacion>
+      <conexion>USB / Bluetooth</conexion>
+    </especificaciones>
+  </producto>
+  <producto id="P003" categoria="audio">
+    <nombre>Auriculares Bluetooth Pro</nombre>
+    <marca>SoundMax</marca>
+    <precio moneda="EUR">29.95</precio>
+    <precio_oferta moneda="EUR" hasta="2024-04-01">24.95</precio_oferta>
+    <stock>85</stock>
+    <especificaciones>
+      <autonomia_horas>30</autonomia_horas>
+      <cancelacion_ruido>true</cancelacion_ruido>
+      <conexion>Bluetooth 5.3</conexion>
+    </especificaciones>
+    <valoracion_media>4.2</valoracion_media>
+    <etiquetas>
+      <etiqueta>oferta</etiqueta>
+      <etiqueta>más vendido</etiqueta>
+    </etiquetas>
+  </producto>
+</root>

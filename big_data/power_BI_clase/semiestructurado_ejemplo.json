@@ -1,0 +1,66 @@
+{
+  "_comentario": "EJEMPLO: DATOS SEMIESTRUCTURADOS — formato JSON",
+  "_descripcion": [
+    "Los datos SEMIESTRUCTURADOS NO tienen un esquema fijo en una tabla,",
+    "pero SÍ tienen marcadores que separan campos (etiquetas, claves, jerarquías).",
+    "En JSON los datos se organizan con claves y valores, y pueden anidarse."
+  ],
+
+  "pedidos": [
+    {
+      "id_pedido": 1001,
+      "fecha": "2024-03-10",
+      "cliente": {
+        "nombre": "Ana García",
+        "email": "ana.garcia@email.com",
+        "ciudad": "Madrid"
+      },
+      "productos": [
+        { "nombre": "Monitor 27\" 4K",  "cantidad": 1, "precio_unitario": 349.99 },
+        { "nombre": "Teclado mecánico", "cantidad": 1, "precio_unitario":  89.50 }
+      ],
+      "total": 439.49,
+      "estado": "entregado",
+      "notas": "Entrega urgente solicitada"
+    },
+    {
+      "id_pedido": 1002,
+      "fecha": "2024-03-15",
+      "cliente": {
+        "nombre": "Luis Martínez",
+        "email": "luis.martinez@email.com",
+        "ciudad": "Barcelona"
+      },
+      "productos": [
+        { "nombre": "Silla ergonómica", "cantidad": 1, "precio_unitario": 220.00 }
+      ],
+      "total": 220.00,
+      "estado": "enviado"
+    },
+    {
+      "id_pedido": 1003,
+      "fecha": "2024-03-20",
+      "cliente": {
+        "nombre": "Sara López",
+        "email": "sara.lopez@email.com",
+        "ciudad": "Valencia"
+      },
+      "productos": [
+        { "nombre": "Auriculares Bluetooth", "cantidad": 2, "precio_unitario": 29.95 },
+        { "nombre": "Funda protectora",      "cantidad": 2, "precio_unitario":  5.99 }
+      ],
+      "total": 71.88,
+      "estado": "pendiente",
+      "descuento_aplicado": {
+        "codigo": "PROMO10",
+        "porcentaje": 10
+      }
+    }
+  ],
+
+  "_nota_power_bi": [
+    "Power Query puede importar y expandir este JSON automáticamente.",
+    "El reto es que cada pedido tiene un número variable de productos (lista anidada),",
+    "lo que requiere un paso extra de 'Expandir' en Power Query."
+  ]
+}

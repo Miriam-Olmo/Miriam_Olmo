@@ -1,0 +1,60 @@
+# ================================================================
+# EJEMPLO: DATOS SEMIESTRUCTURADOS — Logs de aplicación
+# ================================================================
+#
+# Los logs tienen ESTRUCTURA PARCIAL:
+#   - Siempre incluyen: timestamp, nivel de severidad y mensaje
+#   - Pero el contenido del mensaje varía libremente
+#   - Siguen un patrón repetible pero NO tienen esquema de tabla
+#
+# Formato de este log:
+#   [FECHA HORA] [NIVEL] [MÓDULO] Mensaje descriptivo {datos_extra}
+#
+# Niveles de severidad (de menor a mayor):
+#   DEBUG → INFO → WARNING → ERROR → CRITICAL
+# ================================================================
+
+[2024-03-20 08:00:01] [INFO]     [app.startup]    Aplicación TecnoShop iniciada. Versión: 3.2.1
+[2024-03-20 08:00:02] [INFO]     [db.connection]  Conexión a base de datos establecida. Host: db-prod-01 Puerto: 3306
+[2024-03-20 08:00:05] [INFO]     [cache]          Cache Redis iniciado. Entradas en caché: 14.820
+[2024-03-20 08:01:14] [DEBUG]    [auth]           Token JWT validado para usuario id=42 (ana.garcia@email.com)
+[2024-03-20 08:01:15] [INFO]     [pedidos]        Nuevo pedido creado. id_pedido=1001 id_cliente=42 total=439.49€
+[2024-03-20 08:01:15] [INFO]     [stock]          Stock actualizado. producto=P001 cantidad_anterior=43 cantidad_nueva=42
+[2024-03-20 08:01:16] [INFO]     [email]          Email de confirmación enviado. destinatario=ana.garcia@email.com id_pedido=1001
+[2024-03-20 08:03:45] [DEBUG]    [auth]           Token JWT validado para usuario id=87 (luis.martinez@email.com)
+[2024-03-20 08:05:22] [WARNING]  [stock]          Stock bajo para producto=P002 (Teclado mecánico). Stock actual: 8 unidades. Umbral mínimo: 10
+[2024-03-20 08:05:22] [INFO]     [alertas]        Alerta de reposición enviada al proveedor id=5 (KeyMaster)
+[2024-03-20 08:12:37] [ERROR]    [pagos]          Fallo al procesar pago. id_cliente=87 metodo=tarjeta error="Tarjeta rechazada — fondos insuficientes" codigo_banco=51
+[2024-03-20 08:12:37] [INFO]     [pagos]          Reintento de pago programado en 300s para id_cliente=87
+[2024-03-20 08:17:38] [INFO]     [pagos]          Pago procesado correctamente en reintento #1. id_cliente=87 id_pedido=1002 total=220.00€
+[2024-03-20 09:30:14] [WARNING]  [api]            Tiempo de respuesta elevado. endpoint=/api/v1/productos tiempo=2847ms umbral=1000ms
+[2024-03-20 09:30:15] [INFO]     [cache]          Cache purgado y regenerado para categoría=monitores (232 productos)
+[2024-03-20 09:30:16] [INFO]     [api]            Tiempo de respuesta normalizado. endpoint=/api/v1/productos tiempo=180ms
+[2024-03-20 11:45:02] [ERROR]    [db.connection]  Timeout en consulta SQL. query="SELECT * FROM pedidos WHERE..." duracion=30s tabla=pedidos
+[2024-03-20 11:45:02] [CRITICAL] [db.connection]  Se han producido 3 timeouts consecutivos. Activando conexión de respaldo. host_backup: db-prod-02
+[2024-03-20 11:45:05] [INFO]     [db.connection]  Conexión de respaldo activa. Host: db-prod-02. Sistema operativo con degradación mínima.
+[2024-03-20 14:22:09] [DEBUG]    [auth]           Intento de login fallido. usuario=pedro@email.com ip=185.220.101.45 intentos_fallidos=5
+[2024-03-20 14:22:09] [WARNING]  [auth]           Cuenta bloqueada temporalmente (15 min) por exceso de intentos. usuario=pedro@email.com
+[2024-03-20 17:59:58] [INFO]     [app.shutdown]   Inicio de apagado controlado. Peticiones pendientes: 3
+[2024-03-20 18:00:01] [INFO]     [app.shutdown]   Todas las peticiones finalizadas. Cerrando conexiones...
+[2024-03-20 18:00:03] [INFO]     [app.shutdown]   Aplicación TecnoShop detenida correctamente. Tiempo de actividad: 35.962 segundos
+
+# ================================================================
+# NOTA PARA EL AULA:
+# ================================================================
+# ¿Por qué son SEMIESTRUCTURADOS?
+#   → Cada línea sigue un patrón reconocible (timestamp + nivel + módulo)
+#   → Pero el campo "Mensaje" varía completamente entre líneas
+#   → Herramientas como Splunk, Elastic o Power Query pueden parsear
+#     el patrón, pero el contenido libre requiere procesamiento extra
+#
+# ¿Qué información útil contiene este log?
+#   → Cuántos pedidos se procesaron y a qué hora
+#   → Qué errores ocurrieron y cuándo
+#   → Rendimiento del sistema (tiempos de respuesta)
+#   → Alertas de seguridad (intentos de login fallidos)
+#
+# Power BI puede conectarse a logs via Azure Monitor, ficheros .txt
+# o conectores especializados, pero primero hay que TRANSFORMAR
+# los datos en una tabla estructurada con Power Query.
+# ================================================================

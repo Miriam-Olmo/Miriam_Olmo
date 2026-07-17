@@ -1,0 +1,93 @@
+[
+  {
+    "ticket_id": "INC-8001",
+    "fecha_reporte": "2024-05-18T08:30:00Z",
+    "empleado": {
+      "nombre": "Marta López",
+      "departamento": "Finanzas",
+      "email": "marta.l@empresa.com"
+    },
+    "problema": "La batería del portátil se agota en 20 minutos",
+    "info_dispositivo": {
+      "modelo": "Dell Latitude 7420",
+      "sistema_operativo": "Windows 11 Pro",
+      "en_garantia": true
+    },
+    "registro_trabajo": [
+      {
+        "paso": 1,
+        "accion": "Diagnóstico de batería ejecutado",
+        "minutos_invertidos": 15
+      },
+      {
+        "paso": 2,
+        "accion": "Solicitud de batería de reemplazo a compras",
+        "minutos_invertidos": 5
+      }
+    ],
+    "etiquetas": [
+      "hardware",
+      "bateria",
+      "garantia"
+    ]
+  },
+  {
+    "ticket_id": "INC-8002",
+    "fecha_reporte": "2024-05-18T09:15:00Z",
+    "empleado": {
+      "nombre": "Carlos Ruiz",
+      "departamento": "Marketing"
+    },
+    "problema": "No puedo acceder a mi cuenta de Adobe Creative Cloud",
+    "info_dispositivo": null,
+    "registro_trabajo": [
+      {
+        "paso": 1,
+        "accion": "Reinicio de contraseña desde el panel de admin",
+        "minutos_invertidos": 10
+      }
+    ],
+    "etiquetas": [
+      "software",
+      "adobe",
+      "accesos"
+    ]
+  },
+  {
+    "ticket_id": "INC-8003",
+    "fecha_reporte": "2024-05-18T11:45:00Z",
+    "empleado": {
+      "nombre": "Ana García",
+      "departamento": "Recursos Humanos",
+      "email": "ana.g@empresa.com"
+    },
+    "problema": "Pantallazo azul (BSOD) al encender el equipo",
+    "info_dispositivo": {
+      "modelo": "Lenovo ThinkPad T14",
+      "sistema_operativo": "Windows 10",
+      "en_garantia": false
+    },
+    "registro_trabajo": [
+      {
+        "paso": 1,
+        "accion": "Arranque en modo seguro",
+        "minutos_invertidos": 20
+      },
+      {
+        "paso": 2,
+        "accion": "Actualización de drivers de vídeo",
+        "minutos_invertidos": 30
+      },
+      {
+        "paso": 3,
+        "accion": "Reinicio y testeo de estrés",
+        "minutos_invertidos": 15
+      }
+    ],
+    "etiquetas": [
+      "hardware",
+      "bsod",
+      "critico"
+    ]
+  }
+]

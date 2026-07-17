@@ -1,0 +1,75 @@
+----------------------------------------------------------------
+EMAIL 1
+----------------------------------------------------------------
+From:    pedidos@tecnoshop.com
+To:      ana.garcia@email.com
+Date:    Mon, 11 Mar 2024 09:14:32 +0100
+Subject: Confirmación de tu pedido #1001
+Message-ID: <20240311091432.7823@tecnoshop.com>
+Content-Type: text/plain; charset=UTF-8
+
+Hola Ana,
+
+Te confirmamos que hemos recibido tu pedido #1001 con los siguientes
+artículos:
+
+  - Monitor 27" 4K (x1)  ........  349,99 €
+  - Teclado mecánico (x1)  .......   89,50 €
+                            TOTAL:  439,49 €
+
+Tu pedido está siendo preparado y recibirás otro correo con el número
+de seguimiento cuando salga de nuestro almacén.
+
+Gracias por comprar en TecnoShop.
+Un saludo,
+El equipo de TecnoShop
+
+----------------------------------------------------------------
+EMAIL 2
+----------------------------------------------------------------
+From:    soporte@tecnoshop.com
+To:      luis.martinez@email.com
+Date:    Wed, 20 Mar 2024 15:47:09 +0100
+Subject: Re: Problema con mi pedido #1002
+Message-ID: <20240320154709.3341@tecnoshop.com>
+In-Reply-To: <20240319112305.9910@gmail.com>
+Content-Type: text/plain; charset=UTF-8
+
+Hola Luis,
+
+Gracias por ponerte en contacto con nosotros.
+
+Hemos revisado tu pedido #1002 (Silla ergonómica) y vemos que el
+transportista registró un intento de entrega fallido el día 18 de marzo.
+
+Te rogamos que contactes directamente con la agencia de transporte
+SEUR con el número de seguimiento ES-20240315-8874 para acordar
+una nueva franja horaria de entrega.
+
+Si el problema persiste, no dudes en escribirnos de nuevo.
+
+Atentamente,
+Marta Ruiz — Atención al cliente
+TecnoShop | soporte@tecnoshop.com | Tel: 900 123 456
+
+----------------------------------------------------------------
+EMAIL 3
+----------------------------------------------------------------
+From:    noreply@tecnoshop.com
+To:      sara.lopez@email.com
+Date:    Thu, 21 Mar 2024 08:00:00 +0100
+Subject: ¡Tu código de descuento PROMO10 caduca mañana!
+Message-ID: <20240321080000.5512@tecnoshop.com>
+Content-Type: text/plain; charset=UTF-8
+
+Hola Sara,
+
+Te recordamos que tu código de descuento PROMO10 (10% de descuento
+en toda la tienda) caduca mañana, 22 de marzo de 2024.
+
+Aprovecha ahora en: www.tecnoshop.com
+
+¡No te lo pierdas!
+El equipo de TecnoShop
+
+

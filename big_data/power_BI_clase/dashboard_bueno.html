@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>✅ Dashboard CORRECTO — TecnoShop Ventas 2024</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: #f0f2f5; color: #1e293b; }
+
+    /* ── CABECERA ── */
+    header {
+      background: #1e3a5f;
+      color: white;
+      padding: 14px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header .logo { font-size: 20px; font-weight: 700; letter-spacing: -0.5px; }
+    header .logo span { color: #60a5fa; }
+    header .filters { display: flex; gap: 10px; align-items: center; }
+    header .filter-pill {
+      background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25);
+      padding: 5px 14px; border-radius: 20px; font-size: 13px; cursor: pointer;
+    }
+    header .filter-pill:hover { background: rgba(255,255,255,0.2); }
+    header .updated { font-size: 11px; color: #94a3b8; }
+
+    /* ── LAYOUT ── */
+    main { padding: 20px 24px; display: flex; flex-direction: column; gap: 16px; }
+
+    /* ── KPI CARDS ── */
+    .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+    .kpi {
+      background: white; border-radius: 10px; padding: 18px 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      border-top: 3px solid #2563eb;
+    }
+    .kpi.verde { border-top-color: #059669; }
+    .kpi.amarillo { border-top-color: #d97706; }
+    .kpi.gris { border-top-color: #6366f1; }
+    .kpi-label { font-size: 11px; font-weight: 600; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+    .kpi-value { font-size: 28px; font-weight: 800; color: #1e293b; line-height: 1; margin-bottom: 8px; }
+    .kpi-delta {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 12px; font-weight: 600; padding: 2px 8px;
+      border-radius: 12px;
+    }
+    .kpi-delta.up { background: #d1fae5; color: #065f46; }
+    .kpi-delta.flat { background: #f1f5f9; color: #475569; }
+    .kpi-sub { font-size: 11px; color: #94a3b8; margin-top: 4px; }
+
+    /* ── CHARTS ROW ── */
+    .charts-row { display: grid; grid-template-columns: 2fr 1fr; gap: 14px; }
+
+    /* ── CARDS ── */
+    .card {
+      background: white; border-radius: 10px; padding: 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px; }
+    .card-title { font-size: 14px; font-weight: 700; color: #1e293b; }
+    .card-subtitle { font-size: 11px; color: #94a3b8; margin-bottom: 14px; }
+    .legend { display: flex; gap: 16px; font-size: 11px; color: #64748b; }
+    .legend-item { display: flex; align-items: center; gap: 5px; }
+    .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+    /* ── TABLE ── */
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    thead th { background: #f8fafc; padding: 10px 12px; text-align: left; font-weight: 600; color: #64748b; font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px; border-bottom: 2px solid #e2e8f0; }
+    tbody td { padding: 10px 12px; border-bottom: 1px solid #f1f5f9; color: #1e293b; }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover td { background: #f8fafc; }
+    .mini-bar-bg { background: #e2e8f0; border-radius: 4px; height: 6px; width: 100px; display: inline-block; vertical-align: middle; margin-left: 8px; }
+    .mini-bar { background: #2563eb; height: 6px; border-radius: 4px; }
+    .tag { display: inline-block; padding: 2px 8px; border-radius: 8px; font-size: 11px; font-weight: 600; }
+    .tag-verde { background: #d1fae5; color: #065f46; }
+    .tag-amarillo { background: #fef3c7; color: #92400e; }
+    .tag-rojo { background: #fee2e2; color: #991b1b; }
+
+    /* ── ANNOTATIONS (para clase) ── */
+    .annotation-bar {
+      background: #eff6ff; border: 1px solid #bfdbfe;
+      border-radius: 8px; padding: 12px 20px;
+      display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+    }
+    .annotation-bar strong { font-size: 12px; color: #1e40af; }
+    .ann { font-size: 12px; color: #1d4ed8; background: #dbeafe; padding: 3px 10px; border-radius: 12px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">📊 Tecno<span>Shop</span> · Análisis de Ventas</div>
+  <div class="filters">
+    <span class="filter-pill">📅 Año: 2024 ▾</span>
+    <span class="filter-pill">🌍 Región: Todas ▾</span>
+    <span class="filter-pill">📦 Categoría: Todas ▾</span>
+  </div>
+  <div class="updated">Actualizado: 20 Mar 2024</div>
+</header>
+
+<main>
+
+  <!-- ANOTACIÓN PARA EL AULA -->
+  <div class="annotation-bar">
+    <strong>✅ DASHBOARD CORRECTO — Principios aplicados:</strong>
+    <span class="ann">① Título claro</span>
+    <span class="ann">② Filtros accesibles</span>
+    <span class="ann">③ KPIs arriba con contexto</span>
+    <span class="ann">④ Gráfico adecuado para cada análisis</span>
+    <span class="ann">⑤ Máximo 3 colores</span>
+    <span class="ann">⑥ Espacio en blanco</span>
+    <span class="ann">⑦ Todo tiene título y unidades</span>
+  </div>
+
+  <!-- KPIs -->
+  <div class="kpi-row">
+    <div class="kpi">
+      <div class="kpi-label">💰 Ventas Totales</div>
+      <div class="kpi-value">689.000 €</div>
+      <span class="kpi-delta up">▲ +18% vs 2023</span>
+      <div class="kpi-sub">Objetivo anual: 650.000 €</div>
+    </div>
+    <div class="kpi verde">
+      <div class="kpi-label">📦 Pedidos</div>
+      <div class="kpi-value">1.183</div>
+      <span class="kpi-delta up">▲ +12% vs 2023</span>
+      <div class="kpi-sub">Media mensual: 98,6</div>
+    </div>
+    <div class="kpi amarillo">
+      <div class="kpi-label">🧾 Ticket Medio</div>
+      <div class="kpi-value">582 €</div>
+      <span class="kpi-delta up">▲ +5% vs 2023</span>
+      <div class="kpi-sub">Objetivo: 550 €</div>
+    </div>
+    <div class="kpi gris">
+      <div class="kpi-label">⭐ Satisfacción</div>
+      <div class="kpi-value">4,7 / 5</div>
+      <span class="kpi-delta flat">→ Sin cambios</span>
+      <div class="kpi-sub">Objetivo: ≥ 4,5</div>
+    </div>
+  </div>
+
+  <!-- CHARTS -->
+  <div class="charts-row">
+
+    <!-- Gráfico de líneas: evolución mensual -->
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Evolución mensual de ventas (€)</div>
+          <div class="card-subtitle">Ventas reales vs. objetivo mensual · 2024</div>
+        </div>
+        <div class="legend">
+          <span class="legend-item"><span class="legend-dot" style="background:#2563eb"></span> Ventas reales</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#f59e0b;border-radius:0;height:2px;width:20px"></span> Objetivo</span>
+        </div>
+      </div>
+      <svg viewBox="0 0 560 180" width="100%" style="overflow:visible">
+        <!-- Grid lines -->
+        <line x1="50" y1="20" x2="540" y2="20" stroke="#f1f5f9" stroke-width="1"/>
+        <line x1="50" y1="63" x2="540" y2="63" stroke="#f1f5f9" stroke-width="1"/>
+        <line x1="50" y1="107" x2="540" y2="107" stroke="#f1f5f9" stroke-width="1"/>
+        <line x1="50" y1="150" x2="540" y2="150" stroke="#e2e8f0" stroke-width="1"/>
+        <!-- Y axis labels -->
+        <text x="44" y="24" text-anchor="end" font-size="10" fill="#94a3b8">90K</text>
+        <text x="44" y="67" text-anchor="end" font-size="10" fill="#94a3b8">60K</text>
+        <text x="44" y="111" text-anchor="end" font-size="10" fill="#94a3b8">30K</text>
+        <text x="44" y="154" text-anchor="end" font-size="10" fill="#94a3b8">0</text>
+        <!-- Objetivo line (54K/mes) -->
+        <line x1="50" y1="72" x2="540" y2="72" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.8"/>
+        <!-- Area fill -->
+        <polygon points="50,150 50,85 95,95 139,75 184,81 228,62 273,71 317,79 362,68 406,59 451,48 495,52 540,32 540,150" fill="#2563eb" opacity="0.08"/>
+        <!-- Line -->
+        <polyline points="50,85 95,95 139,75 184,81 228,62 273,71 317,79 362,68 406,59 451,48 495,52 540,32"
+          fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <!-- Dots -->
+        <circle cx="50" cy="85" r="4" fill="#2563eb"/><circle cx="95" cy="95" r="4" fill="#2563eb"/>
+        <circle cx="139" cy="75" r="4" fill="#2563eb"/><circle cx="184" cy="81" r="4" fill="#2563eb"/>
+        <circle cx="228" cy="62" r="4" fill="#2563eb"/><circle cx="273" cy="71" r="4" fill="#2563eb"/>
+        <circle cx="317" cy="79" r="4" fill="#2563eb"/><circle cx="362" cy="68" r="4" fill="#2563eb"/>
+        <circle cx="406" cy="59" r="4" fill="#2563eb"/><circle cx="451" cy="48" r="4" fill="#2563eb"/>
+        <circle cx="495" cy="52" r="4" fill="#2563eb"/>
+        <circle cx="540" cy="32" r="5" fill="#1d4ed8" stroke="white" stroke-width="2"/>
+        <!-- X labels -->
+        <text x="50"  y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Ene</text>
+        <text x="95"  y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Feb</text>
+        <text x="139" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Mar</text>
+        <text x="184" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Abr</text>
+        <text x="228" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">May</text>
+        <text x="273" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Jun</text>
+        <text x="317" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Jul</text>
+        <text x="362" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Ago</text>
+        <text x="406" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Sep</text>
+        <text x="451" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Oct</text>
+        <text x="495" y="168" text-anchor="middle" font-size="10" fill="#94a3b8">Nov</text>
+        <text x="540" y="168" text-anchor="middle" font-size="10" fill="#64748b" font-weight="600">Dic</text>
+        <!-- Objetivo label -->
+        <text x="544" y="70" font-size="9" fill="#d97706" font-weight="600">Obj.</text>
+        <!-- Last value callout -->
+        <text x="540" y="26" text-anchor="middle" font-size="10" fill="#1d4ed8" font-weight="700">82K€</text>
+      </svg>
+    </div>
+
+    <!-- Gráfico de barras: top productos -->
+    <div class="card">
+      <div class="card-title">Top 5 Productos</div>
+      <div class="card-subtitle">Por unidades vendidas · 2024</div>
+      <div style="display:flex;flex-direction:column;gap:14px;margin-top:16px;">
+        <!-- Bar 1 -->
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#475569;">🎧 Auriculares BT</span>
+            <span style="font-weight:700;color:#1e293b;">241 ud.</span>
+          </div>
+          <div style="background:#e2e8f0;border-radius:4px;height:8px;">
+            <div style="background:#2563eb;width:100%;height:8px;border-radius:4px;"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#475569;">⌨️ Teclado Mecánico</span>
+            <span style="font-weight:700;color:#1e293b;">187 ud.</span>
+          </div>
+          <div style="background:#e2e8f0;border-radius:4px;height:8px;">
+            <div style="background:#2563eb;width:77%;height:8px;border-radius:4px;opacity:0.85"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#475569;">🖥️ Monitor 27"</span>
+            <span style="font-weight:700;color:#1e293b;">142 ud.</span>
+          </div>
+          <div style="background:#e2e8f0;border-radius:4px;height:8px;">
+            <div style="background:#2563eb;width:59%;height:8px;border-radius:4px;opacity:0.75"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#475569;">📷 Webcam HD</span>
+            <span style="font-weight:700;color:#1e293b;">115 ud.</span>
+          </div>
+          <div style="background:#e2e8f0;border-radius:4px;height:8px;">
+            <div style="background:#2563eb;width:48%;height:8px;border-radius:4px;opacity:0.65"></div>
+          </div>
+        </div>
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:4px;">
+            <span style="color:#475569;">🪑 Silla Ergonómica</span>
+            <span style="font-weight:700;color:#1e293b;">98 ud.</span>
+          </div>
+          <div style="background:#e2e8f0;border-radius:4px;height:8px;">
+            <div style="background:#2563eb;width:41%;height:8px;border-radius:4px;opacity:0.55"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- TABLA VENTAS POR REGIÓN -->
+  <div class="card">
+    <div class="card-title">Ventas por Región</div>
+    <div class="card-subtitle">Comparativa de rendimiento regional · 2024 vs 2023</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Región</th>
+          <th>Ventas 2024</th>
+          <th>% del Total</th>
+          <th>Volumen relativo</th>
+          <th>Pedidos</th>
+          <th>Ticket Medio</th>
+          <th>vs 2023</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Madrid</strong></td>
+          <td>213.590 €</td>
+          <td>31 %</td>
+          <td><span class="mini-bar-bg"><span class="mini-bar" style="width:100px"></span></span></td>
+          <td>367</td>
+          <td>582 €</td>
+          <td><span class="tag tag-verde">▲ +22%</span></td>
+        </tr>
+        <tr>
+          <td><strong>Barcelona</strong></td>
+          <td>172.250 €</td>
+          <td>25 %</td>
+          <td><span class="mini-bar-bg"><span class="mini-bar" style="width:81px"></span></span></td>
+          <td>296</td>
+          <td>581 €</td>
+          <td><span class="tag tag-verde">▲ +15%</span></td>
+        </tr>
+        <tr>
+          <td><strong>Valencia</strong></td>
+          <td>124.020 €</td>
+          <td>18 %</td>
+          <td><span class="mini-bar-bg"><span class="mini-bar" style="width:58px"></span></span></td>
+          <td>213</td>
+          <td>582 €</td>
+          <td><span class="tag tag-verde">▲ +19%</span></td>
+        </tr>
+        <tr>
+          <td><strong>Sevilla</strong></td>
+          <td>103.350 €</td>
+          <td>15 %</td>
+          <td><span class="mini-bar-bg"><span class="mini-bar" style="width:48px"></span></span></td>
+          <td>177</td>
+          <td>584 €</td>
+          <td><span class="tag tag-amarillo">▲ +8%</span></td>
+        </tr>
+        <tr>
+          <td><strong>Otras</strong></td>
+          <td>75.790 €</td>
+          <td>11 %</td>
+          <td><span class="mini-bar-bg"><span class="mini-bar" style="width:36px"></span></span></td>
+          <td>130</td>
+          <td>583 €</td>
+          <td><span class="tag tag-rojo">▼ -3%</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</main>
+</body>
+</html>
