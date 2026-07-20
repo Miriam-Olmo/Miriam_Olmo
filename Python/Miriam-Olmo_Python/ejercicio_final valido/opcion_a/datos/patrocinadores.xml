@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<patrocinadores>
+  <patrocinador>
+    <nombre_empresa>Telefónica</nombre_empresa>
+    <contacto>Gloria Ortiz</contacto>
+    <email>gloria.ortiz@musica.es</email>
+    <importe_patrocinio>78597</importe_patrocinio>
+    <categoria>SILVER</categoria>
+    <fecha_inicio>01-01-2026</fecha_inicio>
+    <fecha_fin>septiembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Banco Santander</nombre_empresa>
+    <contacto>Fernando Morales</contacto>
+    <email>fernando.morales@musica.es</email>
+    <importe_patrocinio>46,970</importe_patrocinio>
+    <categoria>BRONCE</categoria>
+    <fecha_inicio>1/3/26</fecha_inicio>
+    <fecha_fin>2026-10-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Iberdrola</nombre_empresa>
+    <contacto>Roberto Cortés</contacto>
+    <email>roberto.cortes@outlook.com</email>
+    <importe_patrocinio>55960</importe_patrocinio>
+    <categoria>Plata</categoria>
+    <fecha_inicio>2026-02-01</fecha_inicio>
+    <fecha_fin>31/10/26</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>  Repsol</nombre_empresa>
+    <contacto>Pedro Sánchez</contacto>
+    <email />
+    <importe_patrocinio>57,184</importe_patrocinio>
+    <categoria>Plata</categoria>
+    <fecha_inicio>1/2/26</fecha_inicio>
+    <fecha_fin>31/10/26</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>BBVA</nombre_empresa>
+    <contacto>Adrián Calvo</contacto>
+    <email>adrian.calvo@management.com</email>
+    <importe_patrocinio>99,340</importe_patrocinio>
+    <categoria>Oro</categoria>
+    <fecha_inicio>1-ene-2026</fecha_inicio>
+    <fecha_fin>31-ago-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Mapfre</nombre_empresa>
+    <contacto>Ana Fernández</contacto>
+    <email>ana.fernandez@yahoo.es</email>
+    <importe_patrocinio>65979€</importe_patrocinio>
+    <categoria>SILVER</categoria>
+    <fecha_inicio>1-feb-2026</fecha_inicio>
+    <fecha_fin>31/08/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>El Corte Inglés</nombre_empresa>
+    <contacto>Marcos Peña</contacto>
+    <email>marcos.pena@musica.es</email>
+    <importe_patrocinio>46168</importe_patrocinio>
+    <categoria>Plata</categoria>
+    <fecha_inicio>1/1/26</fecha_inicio>
+    <fecha_fin>2026-11-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Mercadona</nombre_empresa>
+    <contacto>Pablo Santos</contacto>
+    <email>pablo.santos@musica.es</email>
+    <importe_patrocinio>51233</importe_patrocinio>
+    <categoria>Plata</categoria>
+    <fecha_inicio>1-feb-2026</fecha_inicio>
+    <fecha_fin>31/10/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Inditex  </nombre_empresa>
+    <contacto>Nuria Gallego</contacto>
+    <email>nuria.gallego@management.com</email>
+    <importe_patrocinio>52956</importe_patrocinio>
+    <categoria>Silver</categoria>
+    <fecha_inicio>enero 1, 2026</fecha_inicio>
+    <fecha_fin>agosto 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Endesa</nombre_empresa>
+    <contacto />
+    <email>hugo.guerrero@gmail.com</email>
+    <importe_patrocinio>39174</importe_patrocinio>
+    <categoria>BRONCE</categoria>
+    <fecha_inicio>1/3/26</fecha_inicio>
+    <fecha_fin>31-ago-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>CaixaBank</nombre_empresa>
+    <contacto>Sandra Cabrera</contacto>
+    <email>sandra.cabrera@outlook.com</email>
+    <importe_patrocinio>56163</importe_patrocinio>
+    <categoria>Silver</categoria>
+    <fecha_inicio>2026-01-01</fecha_inicio>
+    <fecha_fin>octubre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Naturgy</nombre_empresa>
+    <contacto>Sara Navarro</contacto>
+    <email />
+    <importe_patrocinio>46321</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>marzo 1, 2026</fecha_inicio>
+    <fecha_fin>noviembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Seat</nombre_empresa>
+    <contacto />
+    <email>..eva.garrido.@musica.es</email>
+    <importe_patrocinio>20112€</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>1/1/26</fecha_inicio>
+    <fecha_fin>31-11-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Estrella Damm</nombre_empresa>
+    <contacto>Marcos Peña</contacto>
+    <email>marcos.pena@hotmail.com</email>
+    <importe_patrocinio>44754</importe_patrocinio>
+    <categoria>Bronze</categoria>
+    <fecha_inicio>enero 1, 2026</fecha_inicio>
+    <fecha_fin />
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Mahou  </nombre_empresa>
+    <contacto />
+    <email />
+    <importe_patrocinio>55760</importe_patrocinio>
+    <categoria>Silver</categoria>
+    <fecha_inicio>1 de enero de 2026</fecha_inicio>
+    <fecha_fin>31/09/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Red Bull</nombre_empresa>
+    <contacto>Manuel Torres</contacto>
+    <email>manuel.torres@yahoo.es</email>
+    <importe_patrocinio>49792.00</importe_patrocinio>
+    <categoria>Bronce</categoria>
+    <fecha_inicio>01/03/2026</fecha_inicio>
+    <fecha_fin>2026-08-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Coca-Cola</nombre_empresa>
+    <contacto>Rocío Suárez</contacto>
+    <email>rocio.suarez@gmail.com</email>
+    <importe_patrocinio>120068</importe_patrocinio>
+    <categoria>Oro </categoria>
+    <fecha_inicio>01/01/2026</fecha_inicio>
+    <fecha_fin>2026-11-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Samsung</nombre_empresa>
+    <contacto>Carlos Martínez</contacto>
+    <email>carlos.martinez@outlook.com</email>
+    <importe_patrocinio>102548€</importe_patrocinio>
+    <categoria>Gold</categoria>
+    <fecha_inicio>1-ene-2026</fecha_inicio>
+    <fecha_fin>31-08-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Spotify  </nombre_empresa>
+    <contacto>Elena Álvarez</contacto>
+    <email>elena.alvarez@musica.es</email>
+    <importe_patrocinio>58481€</importe_patrocinio>
+    <categoria>Silver</categoria>
+    <fecha_inicio>01-02-2026</fecha_inicio>
+    <fecha_fin>diciembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Monster Energy</nombre_empresa>
+    <contacto>David Ruiz</contacto>
+    <email />
+    <importe_patrocinio>115651</importe_patrocinio>
+    <categoria>ORO</categoria>
+    <fecha_inicio>2026-02-01</fecha_inicio>
+    <fecha_fin>31/09/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>  Adidas</nombre_empresa>
+    <contacto />
+    <email>sandra.cabrera@yahoo.es</email>
+    <importe_patrocinio>38078</importe_patrocinio>
+    <categoria>bronce</categoria>
+    <fecha_inicio>1 de febrero de 2026</fecha_inicio>
+    <fecha_fin>2026-08-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Nike</nombre_empresa>
+    <contacto>Paula Gil</contacto>
+    <email>paula.gil@gmail.com</email>
+    <importe_patrocinio>114962</importe_patrocinio>
+    <categoria>ORO</categoria>
+    <fecha_inicio>01-03-2026</fecha_inicio>
+    <fecha_fin>31/10/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Pepsi</nombre_empresa>
+    <contacto>Tomás Soto</contacto>
+    <email>tomas.soto@hotmail.com</email>
+    <importe_patrocinio>112690</importe_patrocinio>
+    <categoria>GOLD</categoria>
+    <fecha_inicio>1-ene-2026</fecha_inicio>
+    <fecha_fin>2026-11-31</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Heineken</nombre_empresa>
+    <contacto>Sara Navarro</contacto>
+    <email>sara.navarro@yahoo.es</email>
+    <importe_patrocinio>119758</importe_patrocinio>
+    <categoria>Oro </categoria>
+    <fecha_inicio>1/3/26</fecha_inicio>
+    <fecha_fin>31-dic-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Movistar</nombre_empresa>
+    <contacto>Sara Navarro</contacto>
+    <email>sara.navarro@outlook.com</email>
+    <importe_patrocinio>42347</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>1/1/26</fecha_inicio>
+    <fecha_fin>31/12/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Vodafone</nombre_empresa>
+    <contacto>Isabel Gómez</contacto>
+    <email />
+    <importe_patrocinio>54642.00</importe_patrocinio>
+    <categoria>PLATA</categoria>
+    <fecha_inicio>01/02/2026</fecha_inicio>
+    <fecha_fin>diciembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Orange</nombre_empresa>
+    <contacto>Marta Vázquez</contacto>
+    <email>marta.vazquez@management.com</email>
+    <importe_patrocinio>53089€</importe_patrocinio>
+    <categoria>SILVER</categoria>
+    <fecha_inicio>1 de enero de 2026</fecha_inicio>
+    <fecha_fin>31-08-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Amazon</nombre_empresa>
+    <contacto>Felipe Carrasco</contacto>
+    <email>felipe.carrasco@gmail.com</email>
+    <importe_patrocinio>107,892</importe_patrocinio>
+    <categoria>ORO</categoria>
+    <fecha_inicio>01-02-2026</fecha_inicio>
+    <fecha_fin>31 de octubre de 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Google</nombre_empresa>
+    <contacto>Daniel Castro</contacto>
+    <email>daniel.castro@yahoo.es</email>
+    <importe_patrocinio>43561</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>01/01/2026</fecha_inicio>
+    <fecha_fin>31-sep-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Meta</nombre_empresa>
+    <contacto>Fernando Morales</contacto>
+    <email>fernando.morales@gmail.com</email>
+    <importe_patrocinio>51294€</importe_patrocinio>
+    <categoria>SILVER</categoria>
+    <fecha_inicio>01/03/2026</fecha_inicio>
+    <fecha_fin>31-oct-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Apple</nombre_empresa>
+    <contacto>Marta Vázquez</contacto>
+    <email>marta.vazquez@gmail.com</email>
+    <importe_patrocinio>104213</importe_patrocinio>
+    <categoria>Gold</categoria>
+    <fecha_inicio>1 de marzo de 2026</fecha_inicio>
+    <fecha_fin>31/12/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Microsoft  </nombre_empresa>
+    <contacto>Ana Fernández</contacto>
+    <email>ana.fernandez@yahoo.es</email>
+    <importe_patrocinio>78948.00</importe_patrocinio>
+    <categoria>Plata</categoria>
+    <fecha_inicio>2026-03-01</fecha_inicio>
+    <fecha_fin>31/08/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Sony</nombre_empresa>
+    <contacto>Irene Prieto</contacto>
+    <email>irene.prieto@yahoo.es</email>
+    <importe_patrocinio>28439</importe_patrocinio>
+    <categoria>Bronce</categoria>
+    <fecha_inicio>01/02/2026</fecha_inicio>
+    <fecha_fin>septiembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>HP  </nombre_empresa>
+    <contacto />
+    <email>adrian.calvo@outlook.com</email>
+    <importe_patrocinio>99400€</importe_patrocinio>
+    <categoria>Oro</categoria>
+    <fecha_inicio>2026-03-01</fecha_inicio>
+    <fecha_fin>31/08/2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>Lenovo</nombre_empresa>
+    <contacto>Hugo Guerrero</contacto>
+    <email>hugo.guerrero@hotmail.com</email>
+    <importe_patrocinio>110396</importe_patrocinio>
+    <categoria>oro</categoria>
+    <fecha_inicio>marzo 1, 2026</fecha_inicio>
+    <fecha_fin>noviembre 31, 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>MERCADONA</nombre_empresa>
+    <contacto>Mario Girón</contacto>
+    <email>miguel.rodriguez@musica.es</email>
+    <importe_patrocinio>58015</importe_patrocinio>
+    <categoria>Silver</categoria>
+    <fecha_inicio>01-02-2026</fecha_inicio>
+    <fecha_fin>31-nov-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>NATURGY</nombre_empresa>
+    <contacto>Víctor Blanco</contacto>
+    <email>rocio.suarez@hotmail.com</email>
+    <importe_patrocinio>80812</importe_patrocinio>
+    <categoria>Oro</categoria>
+    <fecha_inicio>01/02/2026</fecha_inicio>
+    <fecha_fin>31-ago-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>telefónica</nombre_empresa>
+    <contacto>Clara Cano</contacto>
+    <email>clara.cano@management.com</email>
+    <importe_patrocinio>59683</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>01/02/2026</fecha_inicio>
+    <fecha_fin>31 de octubre de 2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa>MERCADONA</nombre_empresa>
+    <contacto>José García</contacto>
+    <email>david.ruiz@yahoo.es</email>
+    <importe_patrocinio>80076</importe_patrocinio>
+    <categoria>BRONZE</categoria>
+    <fecha_inicio>marzo 1, 2026</fecha_inicio>
+    <fecha_fin>31-oct-2026</fecha_fin>
+  </patrocinador>
+  <patrocinador>
+    <nombre_empresa> Inditex </nombre_empresa>
+    <contacto>Isabel Gómez</contacto>
+    <email>alejandro.molina@management.com</email>
+    <importe_patrocinio>42871</importe_patrocinio>
+    <categoria>Oro </categoria>
+    <fecha_inicio>1/3/26</fecha_inicio>
+    <fecha_fin>31 de noviembre de 2026</fecha_fin>
+  </patrocinador>
+</patrocinadores>

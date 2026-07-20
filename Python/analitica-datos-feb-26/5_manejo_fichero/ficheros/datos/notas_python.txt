@@ -1,0 +1,8 @@
+Paula: 8
+Pablo: 3.5
+Lara: 4
+Miguel Ángel: 6
+Miriam: 9
+Reniel: 6.5
+David: 3
+Luís: 6

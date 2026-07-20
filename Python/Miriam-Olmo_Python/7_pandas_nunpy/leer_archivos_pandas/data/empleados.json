@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Antonio",
+        "apellidos": "Pérez Jarillo",
+        "correo": "jj@gmail.com",
+        "departamento": "Desarrollo"
+    },
+    {
+        "id": 2,
+        "nombre": "Almudena",
+        "apellidos": "González Camuñas",
+        "correo": "almu@gmail.com",
+        "departamento": "Finanzas"
+    },
+    {
+        "id": 3,
+        "nombre": "Marta",
+        "apellidos": "Rodriguez Lopez",
+        "correo": "marta@gmail.com",
+        "departamento": "Marketing"
+    },
+    {
+        "id": 4,
+        "nombre": "Joaquin",
+        "apellidos": "Calvo Lopez",
+        "correo": "joaquin@gmail.com",
+        "departamento": "Finanzas"
+    },
+    {
+        "id": 5,
+        "nombre": "Lucia",
+        "apellidos": "Pérez Alvárez",
+        "correo": "lucia@gmail.com",
+        "departamento": "Cuentas"
+    }
+]

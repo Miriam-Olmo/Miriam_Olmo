@@ -1,0 +1,30 @@
+============================================================
+INFORME DE LIMPIEZA — FESTIVAL SOUNDWAVE 2026
+Fecha del proceso: 20/05/2026
+============================================================
+
+RESUMEN EJECUTIVO
+----------------------------------------
+Ficheros procesados: 4
+Total registros originales: 830
+Total registros finales:    795
+
+DETALLE POR FICHERO
+----------------------------------------
+artistas.csv              232 → 212 registros  (eliminados: 20)
+escenarios_horarios.xlsx  158 → 155 registros  (eliminados: 3)
+ventas_entradas.json      400 → 393 registros  (eliminados: 7)
+patrocinadores.xml        40 → 35 registros  (eliminados: 5)
+
+VALIDACIÓN CRUZADA
+----------------------------------------
+  Sin inconsistencias detectadas.
+
+AVISOS
+----------------------------------------
+  Revisar manualmente campos marcados como 'REVISAR MANUALMENTE'.
+  Artistas sin referencia marcados como 'SIN REFERENCIA'.
+
+============================================================
+FIN DEL INFORME
+============================================================

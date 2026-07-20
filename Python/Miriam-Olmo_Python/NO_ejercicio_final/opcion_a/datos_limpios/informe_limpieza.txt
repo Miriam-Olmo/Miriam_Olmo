@@ -1,0 +1,35 @@
+=== INFORME DE LIMPIEZA ===
+Fecha del proceso: 26/05/2026
+Ficheros procesados: 4
+
+--- RESUMEN POR FICHERO ---
+artistas.csv:
+  Registros originales: 232 | Registros finales: 1
+  Duplicados eliminados: 231
+  Valores vacíos tratados: 696
+  Categorías normalizadas: 0
+  Fechas convertidas: 0
+escenarios_horarios.xlsx:
+  Registros originales: 158 | Registros finales: 144
+  Duplicados eliminados: 14
+  Valores vacíos tratados: 164
+  Categorías normalizadas: 0
+  Fechas convertidas: 0
+patrocinadores.xml:
+  Registros originales: 40 | Registros finales: 35
+  Duplicados eliminados: 5
+  Valores vacíos tratados: 10
+  Categorías normalizadas: 35
+  Fechas convertidas: 0
+ventas_entradas.json:
+  Registros originales: 400 | Registros finales: 1
+  Duplicados eliminados: 399
+  Valores vacíos tratados: 816
+  Categorías normalizadas: 0
+  Fechas convertidas: 1
+
+--- VALIDACIÓN CRUZADA ---
+  Fases 8 y 9 desactivadas por especificación del usuario.
+
+--- AVISOS (requieren atención humana) ---
+  Ninguno (Procesamiento cruzado omitido).

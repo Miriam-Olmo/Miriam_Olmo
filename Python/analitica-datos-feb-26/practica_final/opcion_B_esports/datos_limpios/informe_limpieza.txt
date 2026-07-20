@@ -1,0 +1,40 @@
+============================================================
+INFORME DE LIMPIEZA — CYBERLEAGUE PRO
+Fecha del proceso: 20/05/2026
+============================================================
+
+RESUMEN EJECUTIVO
+----------------------------------------
+Ficheros procesados: 5 (equipos.xlsx tiene 2 hojas)
+Total registros originales: 840
+Total registros finales:    796
+
+DETALLE POR FICHERO
+----------------------------------------
+jugadores.csv             200 → 184 registros  (eliminados: 16)
+equipos.xlsx [equipos]    20 → 20 registros  (eliminados: 0)
+equipos.xlsx [staff]      57 → 51 registros  (eliminados: 6)
+partidas.json             405 → 399 registros  (eliminados: 6)
+premios.csv               158 → 142 registros  (eliminados: 16)
+
+VALIDACIÓN CRUZADA
+----------------------------------------
+  - Partida MATCH-00386: equipo contra sí mismo (Nova Squad)
+  - Partida MATCH-00388: equipo contra sí mismo (Byte Force)
+  - Partida MATCH-00387: equipo contra sí mismo (Cyber Dragons)
+  - Partida MATCH-00382: equipo contra sí mismo (Thunder Esports)
+  - Partida MATCH-00390: equipo contra sí mismo (Quantum Five)
+  - Partida MATCH-00381: equipo contra sí mismo (Neon Strikers)
+  - Partida MATCH-00389: equipo contra sí mismo (Thunder Esports)
+  - Partida MATCH-00385: equipo contra sí mismo (Eclipse)
+  - Partida MATCH-00383: equipo contra sí mismo (Quantum Five)
+  - Partida MATCH-00384: equipo contra sí mismo (Byte Force)
+
+AVISOS
+----------------------------------------
+  Revisar manualmente campos marcados como 'REVISAR MANUALMENTE'.
+  Equipos sin referencia marcados como '[SIN REFERENCIA]'.
+
+============================================================
+FIN DEL INFORME
+============================================================

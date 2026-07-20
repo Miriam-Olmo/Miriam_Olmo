@@ -1,0 +1,102 @@
+==================================
+INFORME DE LIMPIEZA DE DATOS
+==================================
+
+ARCHIVO: artistas.csv
+TOTAL REGISTROS: 232
+DUPLICADOS: 0
+
+VALORES VACÍOS:
+id_artista: 0
+nombre: 0
+genero_musical: 0
+pais: 0
+cache_eur: 0
+email_manager: 11
+telefono: 7
+
+ESPACIOS EXTRA:
+id_artista: 0
+nombre: 31
+genero_musical: 1
+pais: 4
+cache_eur: 0
+email_manager: 0
+telefono: 0
+
+----------------------------------
+
+ARCHIVO: escenarios_horarios.xlsx
+TOTAL REGISTROS: 158
+DUPLICADOS: 0
+
+VALORES VACÍOS:
+fecha: 5
+escenario: 1
+artista: 5
+hora_inicio: 5
+hora_fin: 2
+soundcheck: 38
+notas: 58
+
+ESPACIOS EXTRA:
+fecha: 0
+escenario: 0
+artista: 22
+hora_inicio: 0
+hora_fin: 0
+soundcheck: 0
+notas: 39
+
+----------------------------------
+
+ARCHIVO: patrocinadores.xml
+TOTAL REGISTROS: 40
+DUPLICADOS: 0
+
+VALORES VACÍOS:
+nombre_empresa: 0
+contacto: 5
+email: 5
+importe_patrocinio: 0
+categoria: 0
+fecha_inicio: 0
+fecha_fin: 1
+
+ESPACIOS EXTRA:
+nombre_empresa: 8
+contacto: 0
+email: 0
+importe_patrocinio: 0
+categoria: 3
+fecha_inicio: 0
+fecha_fin: 0
+
+----------------------------------
+
+ARCHIVO: ventas_entradas.json
+TOTAL REGISTROS: 400
+DUPLICADOS: 7
+
+VALORES VACÍOS:
+id_venta: 0
+nombre_comprador: 4
+email: 17
+dni: 38
+tipo_entrada: 0
+precio: 0
+fecha_compra: 0
+metodo_pago: 5
+
+ESPACIOS EXTRA:
+id_venta: 0
+nombre_comprador: 66
+email: 0
+dni: 0
+tipo_entrada: 65
+precio: 0
+fecha_compra: 0
+metodo_pago: 0
+
+----------------------------------
+

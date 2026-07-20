@@ -1,0 +1,12 @@
+lechuga
+tomate
+aceitunas
+pepinillos
+queso
+vinagre
+sal
+
+1- cortamos lechuga al tamaño que queramos
+2- lavamos la lechuga
+3- juntamos todos los ingredientes con sal y vinagre al gusto
+4- mezclamos

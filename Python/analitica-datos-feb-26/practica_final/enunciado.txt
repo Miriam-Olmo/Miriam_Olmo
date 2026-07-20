@@ -1,0 +1,576 @@
+================================================================================
+   EJERCICIO FINAL - LIMPIEZA DE DATOS
+   Elige UNA de las dos opciones (A o B)
+================================================================================
+
+Duración estimada: 15-25 horas
+Entrega: individual
+Herramientas permitidas: Python puro + openpyxl (csv, json, xml.etree, os)
+NO se permite usar pandas, numpy ni ninguna otra librería externa
+
+
+════════════════════════════════════════════════════════════════════════════════
+ OPCIÓN A: FESTIVAL "SOUNDWAVE 2026"
+════════════════════════════════════════════════════════════════════════════════
+
+LA HISTORIA
+-----------
+Te acaban de contratar como técnico de datos en SoundWave, uno de los
+festivales de música más grandes de España. Faltan 3 semanas para que
+arranque el festival y todo es un caos.
+
+El problema: durante meses, el equipo de producción, el de ventas, el de
+marketing y los managers de los artistas han ido volcando información en
+ficheros separados, cada uno a su manera. Hay datos duplicados, nombres
+escritos de formas distintas, fechas en formatos imposibles, campos vacíos
+por todas partes y cifras que no cuadran.
+
+Tu jefe, Carlos, te lo ha dejado claro:
+"Necesito que TODOS los datos estén limpios, unificados y listos para
+cargar en el sistema del festival antes de la próxima reunión. Si subimos
+estos datos tal cual, el festival será un desastre."
+
+Tu misión es limpiar, normalizar y unificar los 4 ficheros de datos del
+festival para que todo esté correcto y consistente.
+
+LOS FICHEROS (carpeta opcion_A_festival/datos/)
+------------------------------------------------
+1. artistas.csv          - Registro de artistas contratados (~250 filas)
+2. escenarios_horarios.xlsx - Programación de escenarios y horarios (~200 filas)
+3. ventas_entradas.json  - Registro de venta de entradas (~400 entradas)
+4. patrocinadores.xml    - Datos de empresas patrocinadoras (~40 entradas)
+
+
+════════════════════════════════════════════════════════════════════════════════
+ OPCIÓN B: LIGA DE ESPORTS "CYBERLEAGUE PRO"
+════════════════════════════════════════════════════════════════════════════════
+
+LA HISTORIA
+-----------
+La CyberLeague Pro es una de las ligas de eSports con más crecimiento del
+momento. Tras dos temporadas, la liga necesita publicar las estadísticas
+oficiales en su web y compartir los datos con patrocinadores e inversores.
+
+El problema: los datos los han ido recogiendo diferentes personas (árbitros,
+managers, el equipo de comunicación y el departamento financiero), cada uno
+con su propio criterio. El resultado es un desastre: jugadores duplicados,
+equipos que aparecen con nombres distintos en cada fichero, partidas con
+resultados imposibles y premios que no cuadran.
+
+Laura, la directora de operaciones, te ha contratado como consultor de datos:
+"Nos jugamos la credibilidad de la liga. Si publicamos estos datos así,
+los equipos van a protestar, los patrocinadores van a desconfiar y la
+prensa nos va a crucificar. Necesito que todo esté impecable."
+
+Tu misión es limpiar, normalizar y cruzar los 4 ficheros de datos de la liga
+para que todo sea correcto, coherente y publicable.
+
+LOS FICHEROS (carpeta opcion_B_esports/datos/)
+-----------------------------------------------
+1. jugadores.csv         - Registro de jugadores de la liga (~250 filas)
+2. equipos.xlsx          - Equipos y staff técnico (~90 filas en 2 hojas)
+3. partidas.json         - Resultados de partidas disputadas (~400 entradas)
+4. premios.csv           - Premios de torneos (~150 filas)
+
+
+================================================================================
+   FASES DEL PROYECTO (comunes a ambas opciones)
+================================================================================
+
+Debes seguir estas fases EN ORDEN. Cada fase produce un resultado concreto.
+No avances a la siguiente fase hasta completar la actual.
+
+
+--------------------------------------------------------------------------------
+ FASE 1: EXPLORACIÓN Y CARGA DE DATOS (estimación: 2 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: cargar los 4 ficheros en estructuras de Python (listas de
+diccionarios) y entender qué contiene cada uno.
+
+Tareas:
+  1.1  Crea un fichero principal (ej: main.py o solucion.py) donde irás
+       escribiendo todo el código del ejercicio.
+
+  1.2  Crea una función de carga para CADA formato de fichero:
+       - Una función para cargar CSV
+       - Una función para cargar Excel (con openpyxl)
+       - Una función para cargar JSON
+       - Una función para cargar XML (si tu opción lo requiere)
+       Cada función debe recibir la ruta del fichero y devolver una lista
+       de diccionarios.
+
+  1.3  Carga los 4 ficheros y almacénalos en 4 variables.
+
+  1.4  Para cada fichero cargado, imprime por pantalla:
+       - Nombre del fichero
+       - Número total de registros
+       - Nombres de los campos/columnas
+       - Los 5 primeros registros (para hacerte una idea del contenido)
+
+Entregable de la fase: las funciones de carga y la salida por pantalla
+mostrando el resumen de cada fichero.
+
+
+--------------------------------------------------------------------------------
+ FASE 2: AUDITORÍA DE CALIDAD (estimación: 3 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: analizar cada fichero y detectar TODOS los problemas que contiene.
+Antes de limpiar, necesitas saber exactamente qué está mal.
+
+Tareas:
+  2.1  Para cada fichero, crea una función que analice y cuente:
+
+       a) VALORES VACÍOS: por cada campo/columna, ¿cuántos registros
+          tienen el valor vacío, None, "N/A", "-", "no disponible", etc.?
+
+       b) DUPLICADOS: ¿cuántos registros están duplicados?
+          Considera duplicados exactos Y duplicados parciales (mismo dato
+          escrito de forma diferente, ej: "Los Rebeldes" vs "los rebeldes").
+
+       c) FORMATOS INCONSISTENTES: ¿cuántos formatos diferentes hay para
+          un mismo tipo de campo? Por ejemplo, ¿cuántas formas diferentes
+          de escribir fechas encuentras? ¿Cuántas variaciones de una misma
+          categoría?
+
+       d) VALORES FUERA DE RANGO: ¿hay valores que no tienen sentido?
+          (precios negativos, edades imposibles, fechas futuras donde no
+          debería haberlas, etc.)
+
+       e) ESPACIOS EXTRA: ¿cuántos campos tienen espacios al principio,
+          al final o espacios dobles en medio?
+
+  2.2  Almacena los resultados de la auditoría en un diccionario con esta
+       estructura (o similar):
+
+       auditoria = {
+           "nombre_fichero": {
+               "total_registros": ...,
+               "valores_vacios": {"campo1": X, "campo2": Y, ...},
+               "duplicados": X,
+               "formatos_inconsistentes": {"campo": [lista de variaciones]},
+               "fuera_de_rango": {"campo": X},
+               "espacios_extra": {"campo": X}
+           }
+       }
+
+  2.3  Imprime un informe de auditoría por pantalla que muestre todos los
+       problemas encontrados de forma clara y legible. Ejemplo:
+
+       === AUDITORÍA: artistas.csv ===
+       Total registros: 250
+       Valores vacíos:
+         - email_manager: 32 vacíos
+         - telefono: 8 vacíos
+       Duplicados: 15 registros duplicados
+       Formatos inconsistentes:
+         - genero_musical: 23 variaciones (Rock, rock, ROCK, Rokc...)
+         - pais: 18 variaciones (España, Espana, españa...)
+       Valores fuera de rango:
+         - cache_eur: 3 valores negativos, 2 valores absurdos
+       Espacios extra:
+         - nombre: 45 campos con espacios extra
+       ================================
+
+Entregable de la fase: funciones de auditoría y el informe impreso por
+pantalla para los 4 ficheros.
+
+
+--------------------------------------------------------------------------------
+ FASE 3: LIMPIEZA DE TEXTO Y ESPACIOS (estimación: 2 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: corregir todos los problemas relacionados con formato de texto.
+
+Tareas:
+  3.1  Crea una función limpiar_texto(texto) que:
+       - Elimine espacios al principio y al final (strip)
+       - Elimine espacios dobles o múltiples en medio del texto
+       - Devuelva el texto limpio (sin cambiar mayúsculas/minúsculas aún)
+
+  3.2  Crea una función normalizar_texto(texto) que:
+       - Aplique limpiar_texto
+       - Convierta el texto a un formato estándar (ej: primera letra
+         mayúscula, resto minúsculas → .title() o .capitalize())
+       - Corrija tildes que faltan en nombres comunes:
+         "Jose" → "José", "Garcia" → "García", "Maria" → "María",
+         "Gonzalez" → "González", "Martinez" → "Martínez",
+         "Lopez" → "López", "Perez" → "Pérez", "Sanchez" → "Sánchez",
+         "Gomez" → "Gómez", "Fernandez" → "Fernández",
+         "Rodriguez" → "Rodríguez", "Hernandez" → "Hernández"
+         (crea un diccionario con las correcciones)
+
+  3.3  Aplica estas funciones a TODOS los campos de texto de los 4 ficheros.
+
+  3.4  Imprime por pantalla cuántas correcciones se han hecho en cada
+       fichero y campo. Ejemplo:
+       "artistas.csv > nombre: 45 textos corregidos"
+
+Entregable de la fase: funciones de limpieza y los datos con textos
+corregidos.
+
+
+--------------------------------------------------------------------------------
+ FASE 4: LIMPIEZA DE VALORES VACÍOS Y TIPOS (estimación: 2 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: tratar los valores vacíos y asegurar que cada campo tiene el tipo
+de dato correcto.
+
+Tareas:
+  4.1  Define las REGLAS para cada campo de cada fichero:
+       - ¿Qué tipo de dato debe tener? (texto, número entero, número
+         decimal, etc.)
+       - Si está vacío, ¿qué hacemos? Opciones:
+         a) Rellenar con un valor por defecto ("Desconocido", 0, etc.)
+         b) Marcarlo como "SIN DATOS"
+         c) Eliminar el registro completo (solo si el campo es crítico)
+
+       Documenta estas reglas como comentarios en tu código o como un
+       diccionario.
+
+  4.2  Crea una función limpiar_valor_numerico(valor) que:
+       - Reciba un valor que debería ser numérico pero puede venir como
+         texto con símbolos ("15.000€", "15,000", "$500", etc.)
+       - Elimine símbolos de moneda (€, $), puntos de miles, etc.
+       - Convierta comas decimales a puntos si es necesario
+       - Devuelva el número como int o float
+       - Si no se puede convertir, devuelva None o un valor por defecto
+
+  4.3  Aplica la conversión de tipos a todos los campos numéricos de los
+       4 ficheros.
+
+  4.4  Aplica el tratamiento de valores vacíos según las reglas que has
+       definido en 4.1.
+
+  4.5  Imprime un resumen de las acciones realizadas:
+       "artistas.csv > cache_eur: 5 valores convertidos a número"
+       "artistas.csv > email_manager: 32 vacíos → marcados como 'SIN DATOS'"
+
+Entregable de la fase: datos con tipos correctos y valores vacíos tratados.
+
+
+--------------------------------------------------------------------------------
+ FASE 5: NORMALIZACIÓN DE CATEGORÍAS (estimación: 2.5 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: unificar todos los valores que representan lo mismo pero están
+escritos de forma diferente.
+
+Tareas:
+  5.1  Identifica todos los campos que son "categorías" (campos con un
+       conjunto limitado de valores posibles). Ejemplos:
+
+       Opción A: genero_musical, pais, escenario, tipo_entrada,
+                 metodo_pago, categoria (patrocinador)
+       Opción B: pais, equipo, rol, region, cargo, mapa, torneo, posicion
+
+  5.2  Para CADA campo de categoría, crea un diccionario de mapeo que
+       traduzca todas las variaciones al valor correcto. Ejemplo:
+
+       mapeo_generos = {
+           "rock": "Rock",
+           "rokc": "Rock",
+           "ROCK": "Rock",
+           "electro": "Electrónica",
+           "electronica": "Electrónica",
+           ...
+       }
+
+  5.3  Crea una función normalizar_categoria(valor, diccionario_mapeo) que:
+       - Reciba el valor original y el diccionario de mapeo
+       - Busque el valor (en minúsculas) en el diccionario
+       - Devuelva el valor normalizado
+       - Si no encuentra coincidencia, devuelva el valor original
+         (y lo imprima como "AVISO: valor no reconocido")
+
+  5.4  Aplica la normalización a todos los campos de categoría de los 4
+       ficheros.
+
+  5.5  Imprime un resumen de valores únicos ANTES y DESPUÉS de normalizar
+       para verificar que todo está correcto:
+
+       "genero_musical ANTES: Rock, rock, ROCK, Rokc, Electrónica..."
+       "genero_musical DESPUÉS: Rock, Electrónica, Pop, Jazz..."
+
+Entregable de la fase: datos con todas las categorías unificadas.
+
+
+--------------------------------------------------------------------------------
+ FASE 6: NORMALIZACIÓN DE FECHAS (estimación: 1.5 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: unificar todos los formatos de fecha a un único formato estándar.
+
+Tareas:
+  6.1  Decide un formato estándar para las fechas. Recomendado: "DD/MM/AAAA"
+       (ejemplo: "15/07/2026")
+
+  6.2  Identifica todos los formatos de fecha que aparecen en los datos.
+       Algunos que encontrarás:
+       - "15/07/2026"
+       - "2026-07-15"
+       - "15 de julio de 2026"
+       - "julio 15, 2026"
+       - "15-07-2026"
+       - "15/7/26"
+       - "15-jul-2026"
+       - etc.
+
+  6.3  Crea una función normalizar_fecha(fecha_texto) que:
+       - Reciba una fecha en cualquiera de los formatos anteriores
+       - La convierta al formato estándar que elegiste
+       - Si no puede convertirla, devuelva "FECHA INVÁLIDA" y la imprima
+         como aviso
+       PISTA: puedes usar if/elif para detectar el formato por su
+       estructura (contiene "/", contiene "-", contiene "de", etc.)
+       y luego extraer día, mes y año con split() y replace().
+
+  6.4  Aplica la función a todos los campos de fecha de los 4 ficheros.
+
+  6.5  Imprime cuántas fechas se han normalizado y cuántas no se han
+       podido convertir.
+
+Entregable de la fase: datos con todas las fechas en formato unificado.
+
+
+--------------------------------------------------------------------------------
+ FASE 7: ELIMINACIÓN DE DUPLICADOS (estimación: 2 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: detectar y eliminar registros duplicados en cada fichero.
+
+Tareas:
+  7.1  Define qué campos determinan que dos registros son "el mismo" para
+       cada fichero. Ejemplos:
+
+       Opción A:
+       - artistas: mismo nombre (ignorando mayúsculas/minúsculas)
+       - ventas: mismo id_venta O (mismo nombre + misma fecha + mismo tipo)
+       - patrocinadores: mismo nombre_empresa
+       - horarios: mismo escenario + misma fecha + misma hora_inicio
+
+       Opción B:
+       - jugadores: mismo gamertag (ignorando mayúsculas/minúsculas)
+       - partidas: mismo id_partida O (mismos equipos + misma fecha)
+       - premios: mismo torneo + misma edición + mismo equipo
+       - staff: mismo nombre + mismo equipo
+
+  7.2  Crea una función eliminar_duplicados(datos, campos_clave) que:
+       - Reciba la lista de diccionarios y los campos que identifican
+         un registro único
+       - Compare registros normalizando los campos clave (minúsculas,
+         sin espacios extra)
+       - Cuando encuentre duplicados, se quede con el registro más
+         "completo" (el que tenga menos campos vacíos)
+       - Devuelva la lista sin duplicados
+
+  7.3  Aplica la función a los 4 ficheros.
+
+  7.4  Imprime cuántos duplicados se han eliminado en cada fichero:
+       "artistas.csv: 15 duplicados eliminados (250 → 235 registros)"
+
+Entregable de la fase: datos sin duplicados.
+
+
+--------------------------------------------------------------------------------
+ FASE 8: DETECCIÓN DE VALORES FUERA DE RANGO (estimación: 1.5 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: detectar y corregir valores que no tienen sentido.
+
+Tareas:
+  8.1  Define los rangos válidos para cada campo numérico. Ejemplos:
+
+       Opción A:
+       - cache_eur: entre 500 y 500000
+       - precio (entrada): entre 20 y 500
+       - importe_patrocinio: entre 1000 y 1000000
+
+       Opción B:
+       - edad: entre 14 y 45
+       - salario_mensual: entre 500 y 50000
+       - puntuacion: entre 0 y 30 (según el juego)
+       - duracion_minutos: entre 5 y 120
+       - premio_eur: entre 100 y 1000000
+
+  8.2  Crea una función detectar_fuera_de_rango(valor, minimo, maximo) que:
+       - Compruebe si el valor está dentro del rango
+       - Devuelva True si está fuera de rango, False si es correcto
+
+  8.3  Para cada valor fuera de rango, decide qué hacer:
+       - Si es negativo (cuando debería ser positivo) → convertir a
+         positivo (valor absoluto)
+       - Si es absurdamente alto/bajo → marcar como "REVISAR MANUALMENTE"
+       - Documenta estas decisiones en comentarios
+
+  8.4  Aplica las correcciones a los 4 ficheros.
+
+  8.5  Imprime un listado de todos los valores fuera de rango encontrados
+       con el registro completo, para facilitar la revisión:
+       "FUERA DE RANGO en artistas.csv, registro 47: cache_eur = -500"
+
+Entregable de la fase: datos con valores numéricos dentro de rangos lógicos.
+
+
+--------------------------------------------------------------------------------
+ FASE 9: VALIDACIÓN CRUZADA ENTRE FICHEROS (estimación: 2 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: verificar que los datos son coherentes ENTRE ficheros. No basta
+con que cada fichero esté limpio por separado; los datos deben cuadrar entre sí.
+
+Tareas:
+  9.1  Identifica las relaciones entre ficheros:
+
+       Opción A:
+       - Los artistas en escenarios_horarios deben existir en artistas.csv
+       - Los escenarios deben ser consistentes
+       - Las fechas de venta deben ser anteriores a las del festival
+       - Los importes de patrocinadores deben sumar un total lógico
+
+       Opción B:
+       - Los equipos en jugadores deben existir en equipos.xlsx
+       - Los equipos en partidas deben existir en equipos.xlsx
+       - Los equipos en premios deben existir en equipos.xlsx
+       - Los torneos en premios deben existir en partidas.json
+       - Las puntuaciones no deben reflejar partidas de un equipo
+         contra sí mismo
+
+  9.2  Para cada relación, crea una función de validación que:
+       - Compare los valores entre ficheros
+       - Identifique las inconsistencias (ej: un artista aparece en
+         horarios pero no en el listado de artistas)
+       - Imprima un informe de inconsistencias
+
+  9.3  Decide cómo resolver cada inconsistencia:
+       - ¿Es un error de nombre? → Corregir (buscar la coincidencia
+         más cercana en el fichero maestro)
+       - ¿Es un registro huérfano? → Marcarlo como "SIN REFERENCIA"
+       - Documenta todas las decisiones
+
+  9.4  Aplica las correcciones.
+
+  9.5  Vuelve a ejecutar las validaciones para confirmar que ya no hay
+       inconsistencias.
+
+Entregable de la fase: datos coherentes entre todos los ficheros.
+
+
+--------------------------------------------------------------------------------
+ FASE 10: EXPORTACIÓN Y REPORTE FINAL (estimación: 1.5 horas)
+--------------------------------------------------------------------------------
+
+Objetivo: generar los ficheros limpios finales y un informe resumen de todo
+el proceso de limpieza.
+
+Tareas:
+  10.1  Crea una carpeta "datos_limpios" dentro de tu carpeta de opción.
+
+  10.2  Exporta los datos limpios en estos formatos:
+        - Todos los ficheros como CSV (independientemente del formato
+          original). Esto unifica el formato de salida.
+        - Un fichero Excel que contenga TODOS los datos en hojas separadas
+          (una hoja por cada fichero original).
+
+  10.3  Crea un fichero "informe_limpieza.txt" que contenga:
+
+        a) RESUMEN EJECUTIVO:
+           - Fecha del proceso
+           - Número de ficheros procesados
+           - Total de registros antes y después de la limpieza
+
+        b) DETALLE POR FICHERO:
+           - Registros originales vs registros finales
+           - Número de duplicados eliminados
+           - Número de valores vacíos tratados
+           - Número de categorías normalizadas
+           - Número de fechas convertidas
+           - Número de valores fuera de rango corregidos
+
+        c) VALIDACIÓN CRUZADA:
+           - Inconsistencias encontradas entre ficheros
+           - Acciones tomadas para resolverlas
+
+        d) AVISOS:
+           - Valores marcados como "REVISAR MANUALMENTE"
+           - Valores marcados como "SIN REFERENCIA"
+           - Cualquier situación que requiera atención humana
+
+  10.4  Imprime el informe por pantalla Y guárdalo en el fichero.
+
+Entregable de la fase: carpeta datos_limpios/ con los ficheros finales y
+el informe de limpieza.
+
+
+================================================================================
+   ESTRUCTURA FINAL DE ARCHIVOS
+================================================================================
+
+Tu entrega debe tener esta estructura de carpetas:
+
+opcion_X/
+├── datos/                    ← Ficheros originales (NO los modifiques)
+│   ├── (ficheros originales sucios)
+├── datos_limpios/            ← Ficheros generados por tu código
+│   ├── (ficheros CSV limpios)
+│   ├── datos_completos.xlsx  ← Excel con todos los datos en hojas
+│   └── informe_limpieza.txt  ← Informe del proceso
+├── main.py                   ← Fichero principal (o como lo llames)
+└── funciones.py              ← (Opcional) Fichero con funciones auxiliares
+
+
+================================================================================
+   CRITERIOS DE EVALUACIÓN
+================================================================================
+
+1. FUNCIONALIDAD (40%)
+   - ¿El código carga correctamente los 4 ficheros?
+   - ¿Detecta los problemas de calidad?
+   - ¿Limpia y normaliza los datos correctamente?
+   - ¿Los ficheros de salida están limpios y son correctos?
+
+2. CÓDIGO (30%)
+   - ¿El código está organizado en funciones reutilizables?
+   - ¿Las funciones reciben parámetros y devuelven valores?
+   - ¿Se manejan las excepciones donde es necesario?
+   - ¿El código es legible y está comentado donde hace falta?
+
+3. PROCESO (20%)
+   - ¿Se ha seguido el orden de las fases?
+   - ¿Cada fase produce un resultado visible?
+   - ¿El informe final documenta todo el proceso?
+
+4. RIGOR (10%)
+   - ¿Se ha validado que no quedan problemas sin tratar?
+   - ¿Los datos cruzan correctamente entre ficheros?
+   - ¿Se han documentado las decisiones tomadas?
+
+
+================================================================================
+   CONSEJOS
+================================================================================
+
+- LEE los datos antes de escribir código. Abre los ficheros, mira qué
+  contienen, entiende la estructura.
+
+- IMPRIME mucho. Cada vez que hagas una transformación, imprime un antes
+  y después para verificar que funciona.
+
+- USA FUNCIONES. No escribas todo en un bloque. Crea funciones pequeñas
+  que hagan una cosa bien, y combínalas.
+
+- PRUEBA con pocos datos primero. Si un fichero tiene 400 registros,
+  prueba tu función con los 10 primeros antes de aplicarla a todos.
+
+- NO MODIFIQUES los ficheros originales. Siempre trabaja con copias en
+  memoria y exporta a ficheros nuevos.
+
+- COMENTA las decisiones. Cuando decidas cómo tratar un valor vacío o
+  un outlier, escribe un comentario explicando por qué.
+
+- PIDE AYUDA si llevas más de 30 minutos atascado en el mismo problema.
+  Pero primero intenta buscar la solución por tu cuenta.
+
+================================================================================

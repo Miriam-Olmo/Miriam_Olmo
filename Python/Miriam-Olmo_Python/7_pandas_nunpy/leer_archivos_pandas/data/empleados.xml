@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<empleados>
+    <empleado id="1">
+        <nombre>Juan Antonio</nombre>
+        <apellidos>Pérez Jarillo</apellidos>
+        <correo>jj@gmail.com</correo>
+        <departamento>Desarrollo</departamento>
+    </empleado>
+    <empleado id="2">
+        <nombre>Almudena</nombre>
+        <apellidos>González Cid</apellidos>
+        <correo>almu@gmail.com</correo>
+        <departamento>Finanzas</departamento>
+    </empleado>
+    <empleado id="3">
+        <nombre>Marta</nombre>
+        <apellidos>Rodriguez Lopez</apellidos>
+        <correo>marta@gmail.com</correo>
+        <departamento>Marketing</departamento>
+    </empleado>
+    <empleado id="4">
+        <nombre>Joaquin</nombre>
+        <apellidos>Calvo Lopez</apellidos>
+        <correo>joaquin@gmail.com</correo>
+        <departamento>Finanzas</departamento>
+    </empleado>
+    <empleado id="5">
+        <nombre>Lucia</nombre>
+        <apellidos>Pérez Alvárez</apellidos>
+        <correo>lucia@gmail.com</correo>
+        <departamento>Cuentas</departamento>
+    </empleado>
+</empleados>

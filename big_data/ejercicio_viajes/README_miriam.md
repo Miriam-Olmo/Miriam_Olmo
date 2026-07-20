@@ -1,0 +1,2 @@
+iniciamos ejercicio colaborativo
+miriam transportes y alojamientos

@@ -1,0 +1,109 @@
+Análisis Exploratorio de Datos (EDA) del informe de RRHH al 13-07-2026
+
+**Datos generales:**
+- Total empleados: 220
+- Salario medio global: 36,902.47 €
+- Departamento más grande: IT (66 empleados, 30% aprox del total)
+- Empleados que hacen teletrabajo: 36%
+
+---
+
+### 1. Análisis distribución salarial global y por variables relevantes
+
+#### Por departamento (rojo = número empleados, salario medio en €):
+
+| Departamento | Nº Empleados | Salario Medio (€) | Observaciones |
+|--------------|--------------|------------------|---------------|
+| IT           | 66           | ~39,649          | Más grande, salario medio superior a global (36,902€). Amplia variabilidad y algunos salarios altos (picos > 45k€). |
+| Marketing    | 37 aprox     | ~33,000-36,000   | Salarios intermedios y varios al rededor 30k€+. Algunos salarios top (~46k€). |
+| Ventas       | 62 aprox     | ~29,000-33,000   | Salarios más bajos que IT, con un rango amplio y algunos valores muy bajos (por encima de 19k€). |
+| RRHH         | ~25          | ~28,000-34,000   | Salarios más reducidos respecto IT y Marketing, con variabilidad. Un caso extremo: 45,971€. |
+| Finanzas     | ~30          | ~32,000-43,000   | Salario medio ligeramente superior a Ventas y RRHH, con algunos casos atípicos muy altos (198k€ y 235k€) que distorsionan el promedio. |
+
+**Notas importantes:**
+- Existe una concentración importante en IT con más del 30% empleados.
+- Finanzas tiene salarios muy dispares, con outliers salariales muy altos (198k€ y 235k€) que inflan la media. Sin esos casos la media sería mucho más baja.
+- Ventas y RRHH presentan los salarios medios más bajos, con bastante dispersión y algunos salarios mínimos muy bajos.
+
+#### Por antigüedad (años) - análisis general:
+- Empleados con baja antigüedad (<3 años): Salarios tienden a estar por debajo del promedio global.
+- Empleados con antigüedad alta (>10 años): Salarios generalmente superiores a la media con picos considerables (40k€+ en IT, casos excepcionales en Finanzas).
+- Existe correlación positiva entre antigüedad y salario, aunque con ciertas excepciones (casos de alta antigüedad y bajos salarios y viceversa).
+
+#### Por teletrabajo:
+- 36% del total hacen teletrabajo.
+- Teletrabajo está distribuido mayormente en IT, Marketing y Finanzas.
+- No hay datos exactos de salario medio según teletrabajo, pero parece haber teletrabajo tanto en rangos salariales bajos como altos.
+
+#### Por horas extra mensuales:
+- Se observan empleados con hasta 20 horas extra al mes, principalmente en IT, Ventas y Finanzas.
+- Horas extra representan un coste adicional indirecto importante y posible oportunidad de mejora o realineación.
+
+---
+
+### 2. Hallazgos clave y oportunidades para optimización y reducción de costes
+
+**Hallazgos críticos:**
+
+- Departamento IT es el más grande y con salarios por encima de la media. Es un área crítica para revisión de optimización salarial y control de horas extra.
+- Finanzas presenta outliers salariales muy altos que afectan el costo salarial total (3 empleados con salarios ~198k€, 235k€ y 198.5k€), que no corresponden con la media general de la empresa y podrían ser analizados para evaluaciones de ajuste.
+- En RRHH y Ventas hay varios empleados con salarios bajos y antigüedad alta, podría evaluarse si desempeño y satisfacción justifican continuidad o reestructuración.
+- Horas extra mensuales elevadas y frecuentes en varios departamentos sugieren sobrecarga de trabajo o necesidad de ajuste plantilla o procesos.
+- El 36% de teletrabajo es alto pero no refleja ahorro con claridad; análisis costo-beneficio específico teletrabajo debería hacerse.
+
+**Variables relacionadas a satisfacción y horas extra:**
+- Satisfacción media está en alrededor de 6-7, sin correlación clara con salario.
+- Empleados con bajas satisfacciones (4-5) y altos salarios o muchas horas extra pueden estar en riesgo de baja productividad o fuga.
+
+---
+
+### 3. Plan de acción recomendado para reducción de costes de RRHH
+
+**Estrategias estructuradas:**
+
+1. **Revisión salarios outliers en Finanzas:**
+   - Revisar contratos, desempeño y necesidad de mantener los tres salarios extremadamente altos (198k€, 235k€, 198.5k€).
+   - Considerar renegociación o redistribución responsabilidades para mejorar balance salarial en Finanzas.
+
+2. **Optimización plantilla IT:**
+   - Análisis detallado de cargas de trabajo y horas extra.
+   - Posible redistribución tareas o contrataciones temporales frente a horas extra constantes.
+   - Control de salarios por antigüedad y desempeño para reducir excesos en rangos altos.
+
+3. **Análisis reestructuración en Ventas y RRHH:**
+   - Evaluar empleados con baja productividad, baja satisfacción pero antigüedad alta y salarios medios-bajos.
+   - Posible enfoque en formación, rotación o ajuste de plantilla para mejorar ROI del gasto salarial.
+
+4. **Control y regulación de horas extra:**
+   - Implantar política estricta en gestión de horas extra para reducir costes adicionales.
+   - Promover balanceo de cargas y contratación temporal/outsourcing si es necesario.
+
+5. **Evaluar teletrabajo desde perspectiva coste-beneficio:**
+   - Identificar si el teletrabajo contribuye a reducción de gastos (infraestructura, espacio, etc).
+   - Ajustar política de teletrabajo para maximizar productividad y minimizar costes operativos.
+
+6. **Implementar sistema de revisión periódica de salarios basado en desempeño, antigüedad y mercado:**
+   - Corregir desviaciones salariales excesivas sin justificación objetiva.
+   - Incentivar desempeño y retener talento crítico con criterios claros.
+
+---
+
+### Resumen métricas clave:
+
+- Salario medio general: 36,902.47 €
+- Empleados totales: 220
+- % empleados teletrabajo: 36%
+- Departamento IT: 66 empleados, salario medio ~39,649 €
+- Salarios extremos en Finanzas: hasta 235,000 €
+- Horas extra: frecuentes hasta 20 horas/mes en varios departamentos
+- Antigüedad media: variada, correlacionada con salario
+- Satisfacción media general empleados: ~6-7
+
+---
+
+Este análisis apunta a que un foco para reducción de costes debe estar en:
+- Ajuste salarios extremos (Finanzas)
+- Control horas extra y optimización carga laboral (IT, Ventas)
+- Revisión eficiencia y rotación en RRHH y Ventas
+
+Sugeriría validar estas recomendaciones con un análisis financiero adicional para cuantificar impacto potencial.

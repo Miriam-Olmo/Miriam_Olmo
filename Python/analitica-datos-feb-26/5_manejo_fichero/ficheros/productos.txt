@@ -1,0 +1,4 @@
+carne: 12
+huevo: 6
+leche: 5
+pan: 0.35

@@ -1,0 +1,2 @@
+quiero añadir un columna nueva llamada alerta
+en esta columna si el tiempo de respuesta es mayor de 300ms pondrá LENTO y si no OPTIMO

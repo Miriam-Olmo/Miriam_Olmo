@@ -1,0 +1,201 @@
+id_jugador,gamertag,nombre_real,edad,pais,equipo,rol,salario_mensual
+JUG-0161,RenForce,Guillermo Jiménez Marín,29,COLOMBIA,Storm Gaming,Support,7861
+JUG-0170,RyuNoChikara,Ignacio Padilla Rey,29,France,ZENITH,Tank,4742
+JUG-0100,Hydra,Valentín Córdoba Yuste,29,Brasil,Byte Force,igl,4716
+JUG-0075,Recursion,Aitor Soler Núñez,0,Perú,  Thunder Esports,AWPer,999999
+JUG-0156,ChiSpark,Adrián Calvo Herrero,23,Argetina,QUANTUM FIVE,Flexible,3285
+JUG-0234,FeniX,Lola Flores Reyes,90,Perú,  Neon Strikers,Sniper,6906
+JUG-0179,IceBreaker,Mario Girón Blanco,32,BRASIL,Dark Wolves,sniper,2098
+JUG-0017,RapidFire,Paula Gil Suárez,16,Denmark,Neon Strikers,support,1764
+JUG-0066,Glitch,Leonardo Santana López,18,Portugal,  Thunder Esports,soporte,3576€
+JUG-0235,PANTERAROSA,Manuel Torres Ortega,16,Suecia,StormGaming,Tank,3.271
+JUG-0247,burritovolador_,Gloria Ortiz Ferrer,25,PORTUGAL,  Shadow Legion,LURKER,7115
+JUG-0105,Poseidon,Pilar Reyes Crespo,30,Kolombia,PhoenixRising,Entry,7815
+JUG-0127,BoldBadger,Alejandro Molina Morales,17,Kolombia,  Neon Strikers,entry,3886
+JUG-0032,GladiatorX,Almudena Luna Vera,29,Espana,TITAN ESPORTS,lurker,1013
+JUG-0176,WindRunner,Esperanza Salazar Calderón,20,españa,storm gaming,Igl,5127
+JUG-0064,Cryptex,Montserrat Mateo Salazar,86,Denmark,  Blaze Team,Soporte,5720
+JUG-0008,BlazeMaster,Ismael Benítez Padilla,20,Mejico,BYTE FORCE,soporte,6140
+JUG-0034,WarlordZ,Alejandro Molina Morales,29,Argentina,THUNDER ESPORTS,TANK,6447
+JUG-0167,TsukinoKaze,Beatriz Aguilar Cruz,31,Kolombia,Storm Gaming  ,Líder,2254
+JUG-0014,DragonSlayer  ,Iván Serrano Arias,26,espña,Stomr Gaming,dps,1580
+JUG-0072,Binary,Inés Pastor Ortiz,26,Portugal,THUNDER ESPORTS,Sniper,2545
+JUG-0177,WATERBENDER,Marcos Peña Vargas,veinte,Brazil,Cyber Dragons  ,Líder,3254
+JUG-0084,QuesadillaX,Beatriz Aguilar Cruz,28,Mejico,Ratpors GG,ENTRY,1.114
+JUG-0094,Coyote,Juan Moreno Domínguez,32,brasil,Quantmu Five,Entrada,3415
+JUG-0026,laserbeam,Beatriz Aguilar Cruz,veinte,Francia,THUNDER ESPORTS,AWPER,1916
+JUG-0080,ChurroMortal,Asunción Expósito Merino,-1,DINAMARCA,Arctic Foxes  ,support,3248
+JUG-0172,StarDust,Raúl Herrero Carrasco,29,dinamarca,  Shadow Legion,TANK,4067
+JUG-0053,Proton,Nuria Gallego Pastor,18,espña,IronBears,FLEX,3410
+JUG-0037,HeadHunter,César Ríos Santana,28,Corea del Sur,Blaze Team  ,In Game Leader,5.049
+JUG-0108,Hades,Santiago Rivera Montero,26,DINAMARCA,Zenith,Flex,6138
+JUG-0086,  SalsaBrava,Alberto Medina Calvo,17,españa,  Neon Strikers,tanque,3493€
+JUG-0040,DoomBringer,Alberto Medina Calvo,23,Dinamarca,vortex club,flex,3249
+JUG-0107,Ares,Marta Vázquez Ramos,19,argentina,Omega Team  ,Tanque,2199
+JUG-0033,SpartanKing,Adrián Calvo Herrero,26,SUECIA,Byet Force,ENTRY,6434
+JUG-0103,Pegaso,Manuel Torres Ortega,19,peru,Vortex Club,lurker,1063
+JUG-0165,AkiLeaf,Silvia Castillo Cano,26,Chile,  Storm Gaming,Flex,3473
+JUG-0012,VenomStrike,Dolores Carmona Luna,31,colombia,  Byte Force,TANK,5503
+JUG-0134,PluckyPuffin,Sergio León Jiménez,18,Portugal,Omega Team,entry,5701
+JUG-0144,DeltaForce,Dolores Carmona Luna,30,COLOMBIA,  Byte Force,SUPPORT,4404
+JUG-0047,Comet,Elena Álvarez Vázquez,19,Kolombia,Voretx Club,entry,7371
+JUG-0152,MuonPulse,Ignacio Padilla Rey,25,Corea,Crystal Gaming  ,Flex,4890
+JUG-0054,Electron  ,Valentín Córdoba Yuste,30,Perú,eclipse,entry,3219
+JUG-0029,NinjaStar,Diego Rubio Peña,31,Espana,neon strikers,AWPer,2822
+JUG-0020,ToxicWaste,Álvaro Moya Lara,18,Mejico,Byte Force,Tanque,6531
+JUG-0001,xDarkKnight,Inmaculada Vera Torres,30,ARGENTINA,THUNDER ESPORTS,awper,5827
+JUG-0168,HikariNoYa  ,Isabel Gómez Torres,18,dinamarca,TitanEsports,Líder,5304
+JUG-0113,Dioniso,Dolores Carmona Luna,24,CHILE,  Thunder Esports,awper,6928
+JUG-0067,BUGHUNTER,Aitor Soler Núñez,22,espña,zenith,AWPER,5247
+JUG-0099,Kraken,Javier Domínguez Herrera,25,Chile,  Phoenix Rising,Tank,3783
+JUG-0068,  Debug,Daniel Castro Santos,16,Mexico,zenith,Flex,6161
+JUG-0048,Nebula,Álvaro Moya Lara,25,MEXICO,  Byte Force,Igl,7965
+JUG-0057,ByteMe,Roberto Cortés León,31,Portugal,Blaze eTam,lurker,4608
+JUG-0110,Apollo,Rafael Delgado Medina,17,suecia,Raptors GG,Flexible,4684
+JUG-0079,AguacateGamer,Elena Álvarez Vázquez,25,PORTUGAL,ECLIPSE,LURKER,2631
+JUG-0139,ResoluteRhino,Rosa Cruz Pascual,18,brasil,Iron Bears  ,sniper,2026
+JUG-0131,KeenKite,Rosa Cruz Pascual,19,PERU,SHADOW LEGION,lurker,1655
+JUG-0081,TacoFurioso,Leonardo Santana López,22,Argentina,  Quantum Five,Entry,6086
+JUG-0090,PanteraRosa,Manuel Torres Ortega,16,Suecia,  Nova Squad,Tank,3.271
+JUG-0120,  BraveLion,Óscar Herrera Soto,19,Perú,Dark Wolves  ,Flexible,6827
+JUG-0126,SlyRaccoon,Roberto Cortés León,31,Brasil,BYTE FORCE,support,1356
+JUG-0093,Puma,  luis fuentes nieto ,29,Brasil,dark wolves,FLEX,6620
+JUG-0238,firewall,César Ríos Santana,veintiuno,argentina,BYTE FORCE,TANK,5521
+JUG-0052,Neutron,Valentín Córdoba Yuste,16,francia,  Quantum Five,lurker,5232€
+JUG-0038,KillSwitch,Patricia Romero Castro,88,KR,StormGaming,tanque,4805
+JUG-0240,CHAOSMAKER,Mario Girón Blanco,20,corea del sur,Eclipse,Sniper,6786
+JUG-0155,PhiFlash,Alejandro Molina Morales,26,FRANCIA,  Cyber Dragons,Igl,6424
+JUG-0143,GammaRay,Xavier Giménez Córdoba,16,Sweden,BLAZE TEAM,Sniper,5079
+JUG-0083,burritovolador,Gloria Ortiz Ferrer,25,PORTUGAL,  Shadow Legion,LURKER,7115
+JUG-0049,Pulsar,Tomás Soto Fuentes,29,Espana,Byet Force,entry,7736
+JUG-0166,FuyuFrost,Alfredo Núñez Millán,28,COLOMBIA,ZENITH,LURKER,6620
+JUG-0082,nacholibre,Clara Cano Méndez,27,espña,ARCTIC FOXES,FLEX,6999
+JUG-0148,ThetaShield,Silvia Castillo Cano,16,FRANCIA,Iron Bears,lurker,7.940
+JUG-0147,  EtaPhase,Nicolás Gutiérrez Peña,28,Mejico,Iron Bears  ,Sup,5140
+JUG-0121,WildBear,Beatriz Aguilar Cruz,27,portugal,byte force,IGL,1218
+JUG-0175,EarthShaker,Alfredo Núñez Millán,0,Mexico,Stomr Gaming,In Game Leader,5865
+JUG-0042,HellFire,Inés Pastor Ortiz,-3,Sweden,RaptorsGG,Sup,4907
+JUG-0154,TauHammer,César Ríos Santana,16,Argetina,Dark Wolves  ,DPS,4.612
+JUG-0146,ZetaWave  ,Sergio León Jiménez,21,Argetina,Ratpors GG,AWPER,7664
+JUG-0078,PepinilloLoco,Susana Pacheco Valero,16,chile,VortexClub,FLEX,7591
+JUG-0173,MoonBeam,José García Martínez,28,France,  Neon Strikers,tanque,5332
+JUG-0101,Minotauro,Dolores Carmona Luna,18,Dinamarca,SHADOW LEGION,Soporte,3229
+JUG-0030,SamuraiX,Xavier Giménez Córdoba,24,peru,Titan Esports,AWPer,1568
+JUG-0242, NeonBlade,Ricardo Lara Guerrero,27,Dinamarca,Byte Force  ,Lurker,999999
+JUG-0013,GhostRider,Alicia Vega Campos,32,Portugal,Raptors GG,Entry,4698
+JUG-0007,IronFist,Teresa Méndez Ibáñez,24,corea del sur,CyberDragons,In Game Leader,7119
+JUG-0045,Supernova,David Ruiz Romero,24,Brasil,NOVA SQUAD,entry,7160
+JUG-0157,PsiStorm,Guillermo Jiménez Marín,19,Chile,OMEGA TEAM,Lurker,5697
+JUG-0241,HEXADECIMAL,Maribel Esteban Sáez,20,Dinamarca,RaptorsGG,Sniper,5.057
+JUG-0231,SpaceCowboy_,Víctor Blanco Lozano,21,Espana,NOVA SQUAD,awper,7033
+JUG-0246, HalconNegro,Patricia Romero Castro,27,Francia,  Iron Bears,entry,1496
+JUG-0095,Serpiente,Marcos Peña Vargas,30,Perú,  Storm Gaming,Sniper,4266€
+JUG-0043,DarkMatter,Alicia Vega Campos,23,PORTUGAL,thunder esports,In Game Leader,-3235
+JUG-0115,Demeter,Andrea Ortega Iglesias,29,Denmark,crystal gaming,dps,5165
+JUG-0087,LoboSolitario,Irene Prieto Rubio,19,brasil,Eclipse  ,TANK,7829
+JUG-0160,KaiBlast,Óscar Herrera Soto,31,Brasil,  Phoenix Rising,tanque,4911
+JUG-0141,AlphaStrike,Manuel Torres Ortega,24,Mexico,OmegaTeam,LURKER,2608
+JUG-0031,VikingRage,Esperanza Salazar Calderón,24,Suecia,Voretx Club,tanque,1313
+JUG-0233,serpiente,Marcos Peña Vargas,30,Perú,  Storm Gaming,Sniper,4266€
+JUG-0149,IotaBeam,Rubén Gallardo Giménez,25,Peru,dark wolves,IGL,1602
+JUG-0248, Coyote,Juan Moreno Domínguez,32,brasil,Thnuder Esports,Entrada,3415
+JUG-0150,kappaking,Teresa Méndez Ibáñez,27,peru,Raptors GG  ,Entrada,7184
+JUG-0051,Photon,Andrea Ortega Iglesias,0,SUECIA,STORM GAMING,FLEX,3755
+JUG-0092,Jaguar,Emilio Velasco Ríos,32,peru,Iron Baers,Flex,5863
+JUG-0140,IntrepidIbex,Patricia Romero Castro,29,colombia,BLAZE TEAM,tank,999999
+JUG-0019,AcidRain,Verónica Mora Bravo,17,Espana,Arctic Foxes,Líder,999999
+JUG-0076,ElReyDelMid,Ana Martínez Gómez,19,DINAMARCA,Eclpise,dps,4634
+JUG-0027,RocketMan,Víctor Blanco Lozano,23,argentina,Dark Wolves  ,entry,6463
+JUG-0178,FireStarter,Santiago Rivera Montero,20,brasil,Nova Squad  ,Sniper,3456
+JUG-0041,ChaosMaker,Mario Girón Blanco,20,corea del sur,Storm Gaming  ,Sniper,6786
+JUG-0109,Hermes,Óscar Herrera Soto,0,CHILE,OmegaTeam,DAMAGE,4702
+JUG-0023,UltraViolet,Yolanda Espinosa Durán,25,Francia,shadow legion,FLEX,6010
+JUG-0245,GladiatorX,Almudena Luna Vera,29,Espana,TITAN ESPORTS,lurker,1013
+JUG-0132,DaringDolphin,Carmen Hernández Moreno,29,suecia,Dark Wolves,entry,3249
+JUG-0123,RoyalPenguin,Esperanza Salazar Calderón,24,españa,phoenix rising,Damage,2766
+JUG-0070,Runtime,Francisco Pérez Álvarez,22,Brazil,THUNDER ESPORTS,tanque,5910
+JUG-0249,deadshot,Alicia Vega Campos,20,Corea,NeonStrikers,damage,3231
+JUG-0088,HalconNegro,Patricia Romero Castro,27,Francia,  Neon Strikers,entry,1496
+JUG-0010,ThunderGod  ,Marta Vázquez Ramos,25,Dinamarca,CrystalGaming,Damage,7894
+JUG-0119,SwiftEagle,Daniel Castro Santos,25,Portugal,Omega Team  ,FLEX,7374
+JUG-0006,StormBreaker,Lorena Guerrero Pardo,dieciocho,PERU,storm gaming,SUPPORT,3193
+JUG-0035,BerserkerX,Mónica Rojas Carmona,26,suecia,  Titan Esports,AWPer,4809
+JUG-0061,Malware,Ricardo Lara Guerrero,23,dinamarca,  Zenith,dps,3167
+JUG-0073,  Hexadecimal,Maribel Esteban Sáez,20,Dinamarca,RaptorsGG,Sniper,5.057
+JUG-0114,Hefesto,Nuria Gallego Pastor,28,DINAMARCA,Omega Team  ,Lurker,2056
+JUG-0089,TigreBlanco,Pablo Santos Cortés,26,Espana,Quantum Five  ,support,2995
+JUG-0133,LivelyLemur,Tomás Soto Fuentes,20,espña,quantum five,Flexible,1550
+JUG-0116,CrazyMouse,Susana Pacheco Valero,25,Mexico,  Cyber Dragons,TANK,7917
+JUG-0055,Atom,Rafael Delgado Medina,32,Corea,Iron Bears,LURKER,5888€
+JUG-0059,hackmaster,Aurora Durán Franco,25,PORTUGAL,raptors gg,FLEX,5821
+JUG-0011,NightOwl,Alberto Medina Calvo,27,Mexico,  Iron Bears,Soporte,7813
+JUG-0236, HellFire,Inés Pastor Ortiz,-3,Sweden,  Thunder Esports,Sup,4907
+JUG-0085,  ChilePicante,Emilio Velasco Ríos,16,PORTUGAL,NEON STRIKERS,In Game Leader,6075
+JUG-0112,Athena,Miguel Fernández Ruiz,28,Chile,OMEGA TEAM,Entry,4348
+JUG-0128,FierceFalcon,Cristina Ramos Garrido,30,Corea,CyberDragons,damage,0
+JUG-0022,MegaVolt,Manuel Torres Ortega,19,suecia,PHOENIX RISING,FLEX,1600
+JUG-0044,BlackHole,Gloria Ortiz Ferrer,16,BRASIL,cyber dragons,Soporte,1.687
+JUG-0243,Recursion_,Aitor Soler Núñez,0,Perú,TITAN ESPORTS,AWPer,999999
+JUG-0015,PixelKing,Víctor Blanco Lozano,19,Argentina,Iron Bears,Sniper,1794
+JUG-0122,SharpShark,Santiago Rivera Montero,26,Korea,Noav Squad,DAMAGE,0
+JUG-0097,Fenix,Lola Flores Reyes,90,Perú,  Neon Strikers,Sniper,6906
+JUG-0098,Grifo,Marcos Peña Vargas,27,Peru,StormGaming,Damage,1941
+JUG-0151,LambdaCore,Daniel Castro Santos,32,COLOMBIA,CrystalGaming,FLEX,2145
+JUG-0024,DeadShot,Alicia Vega Campos,20,Corea,NeonStrikers,damage,3231
+JUG-0009,FrostByte,Pilar Reyes Crespo,24,DINAMARCA,PhoenixRising,dps,7296€
+JUG-0153,SigmaGrind,Aitor Soler Núñez,96,chile,quantum five,flex,6909
+JUG-0077,ToxicoGG,Raúl Herrero Carrasco,21,suecia,storm gaming,Sniper,2392
+JUG-0058,CodeBreaker,Eva Garrido Gallego,20,colombia,Byte Force  ,soporte,7644
+JUG-0063,Cipher,Pilar Reyes Crespo,,Francia,Raptors GG,Lurker,0
+JUG-0145,EpsilonX,Patricia Romero Castro,32,Peru,Raptors GG,TANK,5601
+JUG-0118,SmartFox,Ángel Camacho Soler,25,portugal,Omega Team  ,igl,7163
+JUG-0104,Tritón,Noemí Segura Bueno,30,españa,Dark Wolves,Sniper,1637
+JUG-0239,Puma_,  luis fuentes nieto ,29,Brasil,dark wolves,FLEX,6620
+JUG-0021,ZeroGravity,Guillermo Jiménez Marín,22,chile,BLAZE TEAM,Entry,6486
+JUG-0102,centauro,Guillermo Jiménez Marín,31,DINAMARCA,neon strikers,Lurker,0
+JUG-0069,Compile,Alfredo Núñez Millán,20,Denmark,zenith,damage,5082
+JUG-0091,ElCondor,Miguel Fernández Ruiz,23,Peru,  Cyber Dragons,Support,5823
+JUG-0065,Matrix,Daniel Castro Santos,29,peru,  Byte Force,Flexible,3730€
+JUG-0163,HaruWind,Gregorio Guerrero Pinto,30,colombia,neon strikers,Entry Fragger,6310
+JUG-0237, Asteroid,Alberto Medina Calvo,23,espña,Crystal Gamnig,Soporte,2633
+JUG-0050,Quasar,Hugo Guerrero Vega,31,Suecia,CRYSTAL GAMING,lurker,4808
+JUG-0062,Trojan,Álvaro Moya Lara,17,MEXICO,  Vortex Club,TANK,2359
+JUG-0244,SamuraiX,Xavier Giménez Córdoba,24,peru,Titan Esports,AWPer,1568
+JUG-0135,GallantGoose,Rocío Suárez Castillo,19,France,iron bears,AWPer,3144
+JUG-0025,QuickScope,Leonardo Santana López,29,México,  Vortex Club,Soporte,-7794
+JUG-0028,SpaceCowboy,Víctor Blanco Lozano,21,Espana,SHADOW LEGION,awper,7033
+JUG-0046,Asteroid,Alberto Medina Calvo,23,espña,byte force,Soporte,2633
+JUG-0111,Artemis,Alfredo Núñez Millán,18,KR,NeonStrikers,entry,0
+JUG-0129,ProudStag,Milagros Roldán Serrano,17,chile,Thnuder Esports,Flexible,7170
+JUG-0174,SunFlare,Valentín Córdoba Yuste,23,Argetina,Eclipse,AWPer,4773
+JUG-0074,Overflow,Alicia Vega Campos,20,Brasil,Phoenix Rising  ,TANK,1612
+JUG-0138,TenaciousTurtle,Rubén Gallardo Giménez,27,España,STORM GAMING,Flexible,5538
+JUG-0071,Syntax,Iván Serrano Arias,25,chile,VORTEX CLUB,SUPPORT,7860
+JUG-0136,ValiantViper,Almudena Luna Vera,21,PORTUGAL,CYBER DRAGONS,DPS,6843€
+JUG-0180,ThunderClap,Isabel Gómez Torres,28,CHILE,  Titan Esports,soporte,0
+JUG-0004,CyberWolf,Lola Flores Reyes,30,CHILE,  Neon Strikers,AWPer,6.207
+JUG-0250,thundergod,Marta Vázquez Ramos,25,Dinamarca,CrystalGaming,Damage,7894
+JUG-0142,BetaTest,Ana Martínez Gómez,26,COLOMBIA,  Shadow Legion,tank,0
+JUG-0137,ZealousZebra,Alejandro Molina Morales,21,Chile,thunder esports,Lurker,6831
+JUG-0002,  ShadowHunter,Dolores Carmona Luna,,Mejico,Titan Esports,Entrada,4112
+JUG-0005,PhantomX,Consuelo Valero Heredia,23,FRANCIA,Quantum Five  ,Tank,2338
+JUG-0125,CleverCrow,Alberto Medina Calvo,20,Corea del Sur,BlazeTeam,Igl,3386
+JUG-0169,KageNoShi,Nicolás Gutiérrez Peña,32,PERU,Cyber Dragons  ,Tank,4619
+JUG-0124,MightyElk,Antonio Muñoz Gil,29,Argentina,  Neon Strikers,soporte,6234
+JUG-0158,OmegaEnd,Cristina Ramos Garrido,30,peru,arctic foxes,DPS,6373
+JUG-0171,  VoidWalker,Carmen Hernández Moreno,29,España,TITAN ESPORTS,damage,3822
+JUG-0164,NatsuFlame,Sara Navarro Delgado,26,Francia,RAPTORS GG,Sniper,1710€
+JUG-0159,SoraPower,Natalia Iglesias Prieto,17,Argentina,  Quantum Five,igl,6487
+JUG-0016,NovaFlare,Andrea Ortega Iglesias,22,Argentina,Noav Squad,DAMAGE,2.558
+JUG-0096,Escorpion,Manuel Torres Ortega,,Mejico,ByteForce,Damage,4537
+JUG-0117,LuckyDuck,Leonardo Santana López,28,Sweden,Quantum Five,Tanque,2263
+JUG-0130,  NobleLynx,Eduardo Ponce Velasco,21,Peru,Zeinth,sniper,5064
+JUG-0056,QuantumX,Manuel Torres Ortega,17,Chile,Thunder Esports  ,Tank,1446
+JUG-0003,NeonBlade,Ricardo Lara Guerrero,27,Dinamarca,Byte Force  ,Lurker,999999
+JUG-0039,WarMachine,Daniel Castro Santos,32,SUECIA,Nova Squad  ,flex,4495
+JUG-0232,SHADOWHUNTER,Dolores Carmona Luna,,Mejico,Titan Esports,Entrada,4112
+JUG-0018,SilentKill,Remedios Franco Roldán,24,Brazil,raptors gg,support,7423
+JUG-0060,Firewall,César Ríos Santana,veintiuno,argentina,BYTE FORCE,TANK,5521
+JUG-0162,YukiIce  ,Lorena Guerrero Pardo,25,PERU,ARCTIC FOXES,dps,4722
+JUG-0036,SnipeElite,Javier Domínguez Herrera,23,Mexico,Arctic Fxoes,Entrada,6511
+JUG-0106,Zeus,Mónica Rojas Carmona,26,corea del sur,Raptors GG  ,lurker,2.815

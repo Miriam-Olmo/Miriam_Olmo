@@ -1,0 +1,45 @@
+from openpyxl import load_workbook
+from openpyxl import Workbook
+ventas = [
+    {'id':1,  'fecha':'2026-01-15', 'producto':'Laptop Pro',     'categoria':'Electrónica', 'cantidad':2, 'precio_unitario':899.00, 'vendedor':'Ana García',   'region':'Norte'},
+    {'id':2,  'fecha':'2026-01-16', 'producto':'Ratón WiFi',      'categoria':'Periféricos', 'cantidad':10,'precio_unitario': 14.99, 'vendedor':'Luis Martínez','region':'Sur'},
+    {'id':3,  'fecha':'2026-01-17', 'producto':'Monitor 24"',     'categoria':'Electrónica', 'cantidad':5, 'precio_unitario':249.00, 'vendedor':'Ana García',   'region':'Norte'},
+    {'id':4,  'fecha':'2026-01-18', 'producto':'Teclado Mecánico','categoria':'Periféricos', 'cantidad':8, 'precio_unitario': 64.99, 'vendedor':'Marta Pérez',  'region':'Este'},
+    {'id':5,  'fecha':'2026-01-19', 'producto':'Webcam HD',       'categoria':'Periféricos', 'cantidad':15,'precio_unitario': 25.00, 'vendedor':'Luis Martínez','region':'Sur'},
+    {'id':6,  'fecha':'2026-01-20', 'producto':'Laptop Pro',      'categoria':'Electrónica', 'cantidad':3, 'precio_unitario':899.00, 'vendedor':'Marta Pérez',  'region':'Este'},
+    {'id':7,  'fecha':'2026-01-21', 'producto':'Auriculares BT',  'categoria':'Electrónica', 'cantidad':7, 'precio_unitario': 79.99, 'vendedor':'Javier Ruiz',  'region':'Oeste'},
+    {'id':8,  'fecha':'2026-01-22', 'producto':'Monitor 24"',     'categoria':'Electrónica', 'cantidad':2, 'precio_unitario':249.00, 'vendedor':'Javier Ruiz',  'region':'Oeste'},
+]
+
+
+def crear_excel(carpeta, fichero, datos):
+    wb = Workbook()
+    hoja = wb.active
+    hoja.title = 'ventas'
+    cabeceras = list(datos[0].keys())
+    hoja.append(cabeceras)
+    for producto in datos:
+        ventas = [producto[clave] for clave in cabeceras]
+        hoja.append(ventas)
+    wb.save(f'./{carpeta}/{fichero}')
+
+
+crear_excel('data', 'ventas.xlsx', ventas)
+
+
+
+
+
+
+
+
+
+
+
+# def leer_excel(carpeta, fichero):
+#     excel = load_workbook(f'{carpeta}/{fichero}')
+#     hoja = excel.active
+
+   
+
+

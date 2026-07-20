@@ -1,0 +1,156 @@
+fecha,escenario,artista,hora_inicio,hora_fin,soundcheck,notas
+15/07/2026,Escenario Principal,Neón,15:30,16:00,14:00,
+17/07/2026,Escenario Principal,Topacio,21:00,22:00,,Patrocinado por Red Bull
+16/07/2026,Escenario Río,Los Olvidados,16:00,18:00,15:00,
+15/07/2026,Escenario Sol,Código Rojo,18:30,19:30,17:00,Equipo propio de sonido
+17/07/2026,Escenario Río,Cuarto Creciente,17:30,18:00,,Patrocinado por Red Bull
+15/07/2026,Escenario Sol,Aurora Boreal,22:00,18:00,16:00,Error horario posible
+16/07/2026,Escenario Bosque,Silencio Roto,14:00,15:30,13:00,
+15/07/2026,Escenario Luna,Wisteria,12:30,14:00,10:00,IMPORTANTE: carga eléctrica extra
+17/07/2026,Escenario Sol,Sístole,11:30,12:00,09:00,
+15/07/2026,Escenario Luna,Loto,16:30,17:00,14:00,
+15/07/2026,Escenario Luna,Amanecer,22:00,23:00,20:00,Cambio de última hora
+17/07/2026,Escenario Río,Los Satélites,20:00,21:30,,Necesita piano de cola
+16/07/2026,Escenario Sol,OASIS SONORO,12:00,,,
+15/07/2026,Escenario Río,Sonido Ancestral,19:30,20:00,18:00,Patrocinado por Red Bull
+16/07/2026,Escenario Principal,Gaviota,01:30,03:30,23:00,Artista confirmado
+16/07/2026,Escenario Sol,Sombra Latina,16:00,17:00,15:00,
+16/07/2026,Escenario Río,,13:00,17:00,,
+16/07/2026,Escenario Bosque,TEMPESTAD,19:00,20:00,17:00,Equipo propio de sonido
+16/07/2026,Escenario Luna,Radio Pirata,18:30,19:30,17:00,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Río,Ébano,22:00,23:00,20:00,Necesita piano de cola
+,Escenario Bosque,Laberinto,23:00,16:00,,
+16/07/2026,Escenario Bosque,los eternos,00:00,02:30,23:00,
+17/07/2026,Escenario Bosque,CLAVE DE SOL,15:30,16:00,14:00,Requiere pantalla LED
+17/07/2026,Escenario Río,Yesca,18:00,20:30,,
+17/07/2026,Escenario Bosque,lava,20:00,21:00,,
+15/07/2026,Escenario Sol,Coral,13:00,14:00,11:00,
+15/07/2026,Escenario Bosque,Enigma,16:30,18:00,15:00,
+16/07/2026,Escenario Río,Vórtice,18:30,20:30,17:00,Patrocinado por Red Bull
+17/07/2026,Escenario Luna,Urano,20:00,21:30,19:00,Posible retraso
+15/07/2026,Escenario Bosque,Jungla Urbana,12:30,14:00,11:00,Equipo propio de sonido
+16/07/2026,Escenario Principal,Corriente Alterna,14:00,15:00,13:00,Posible retraso
+15/07/2026,Escenario Bosque,Lux,21:30,22:00,20:00,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Río,Nómada,01:30,02:00,,IMPORTANTE: carga eléctrica extra
+,Escenario Bosque,,21:00,23:00,,
+16/07/2026,Escenario Luna,los eternos,19:00,20:00,17:00,Cambio de última hora
+16/07/2026,Escenario Luna,Callejón Sin Salida,20:00,21:00,,Requiere pantalla LED
+15/07/2026,Escenario Luna,Zodíaco,23:30,00:00,22:00,Posible retraso
+17/07/2026,Escenario Sol,Los Satélites,14:30,16:00,13:00,IMPORTANTE: carga eléctrica extra
+15/07/2026,Escenario Principal,Prisma,18:30,20:30,17:00,
+16/07/2026,Escenario Principal,Oleaje,15:00,16:30,,IMPORTANTE: carga eléctrica extra
+17/07/2026,Escenario Sol,Café Quemado,13:30,14:30,12:00,Artista confirmado
+15/07/2026,Escenario Bosque,Rayo,22:00,00:00,,Sin requisitos especiales
+17/07/2026,Escenario Bosque,Los Descalzos,22:30,23:00,21:00,Artista confirmado
+15/07/2026,Escenario Luna,Iris,21:00,22:30,,
+17/07/2026,Escenario Luna,Ecos del Sur,18:30,20:00,16:00,Sin requisitos especiales
+17/07/2026,Escenario Río,Quintaesencia,00:30,01:30,23:00,Posible retraso
+17/07/2026,Escenario Luna,Impulso,13:00,15:00,12:00,Sin requisitos especiales
+17/07/2026,Escenario Luna,CLAVE DE SOL,15:00,17:30,,Patrocinado por Red Bull
+15/07/2026,Escenario Sol,El Circo Eléctrico,19:00,20:30,18:00,Artista confirmado
+17/07/2026,Escenario Luna,Prisma,11:30,13:30,10:00,
+17/07/2026,Escenario Río,Alma Negra,21:30,23:00,19:00,
+17/07/2026,Escenario Luna,Vendaval,17:00,18:00,16:00,
+15/07/2026,Escenario Bosque,Pólvora,18:00,19:30,17:00,Requiere pantalla LED
+17/07/2026,Escenario Bosque,Beto y los Fugitivos,13:00,14:00,11:00,IMPORTANTE: carga eléctrica extra
+15/07/2026,Escenario Principal,Rocío,13:00,15:00,,
+16/07/2026,Escenario Luna,Amanecer,11:30,13:00,09:00,
+16/07/2026,Escenario Río,Mosaico,04:00,06:30,02:00,Artista confirmado
+16/07/2026,Escenario Bosque,MÁRMOL,22:00,18:00,16:00,Error horario posible
+17/07/2026,Escenario Bosque,Tercer Acto,21:00,22:30,,Patrocinado por Red Bull
+16/07/2026,,Zodíaco,,15:00,,
+16/07/2026,Escenario Principal,Impulso,11:00,12:00,09:00,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Sol,Los Vagabundos,11:00,12:00,10:00,Patrocinado por Red Bull
+17/07/2026,Escenario Principal,La Tribu,14:00,15:00,13:00,
+16/07/2026,Escenario Luna,Vendaval,22:00,18:00,16:00,Error horario posible
+16/07/2026,Escenario Sol,OASIS SONORO,13:30,15:00,11:00,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Luna,Kaleidoscopio,13:00,15:30,11:00,
+17/07/2026,Escenario Luna,Alquimia,01:30,02:00,23:00,
+15/07/2026,Escenario Principal,MÁRMOL,21:00,22:00,20:00,
+15/07/2026,Escenario Bosque,Crepúsculo,14:00,16:00,12:00,Sin requisitos especiales
+17/07/2026,Escenario Bosque,Quirón,14:00,15:00,13:00,
+17/07/2026,Escenario Sol,Jardín Secreto,16:00,18:00,15:00,Requiere pantalla LED
+16/07/2026,Escenario Bosque,Rocío,15:30,17:00,14:00,Requiere pantalla LED
+15/07/2026,Escenario Principal,Wisteria,16:00,18:30,14:00,
+15/07/2026,Escenario Sol,Despertar,14:30,16:30,12:00,
+17/07/2026,Escenario Luna,Eclipse Total,23:00,01:00,,Posible retraso
+15/07/2026,Escenario Río,Ecos del Sur,15:30,17:00,14:00,
+15/07/2026,Escenario Río,Granito,21:00,22:00,20:00,
+15/07/2026,Escenario Sol,Los Descalzos,12:30,13:00,10:00,Artista confirmado
+16/07/2026,Escenario Río,Altavoz,06:00,07:00,05:00,Requiere pantalla LED
+16/07/2026,Escenario Sol,Magma,12:30,13:00,10:00,
+16/07/2026,Escenario Río,Callejón Sin Salida,20:00,22:00,,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Sol,Wavelength,18:00,19:00,,Artista confirmado
+15/07/2026,Escenario Luna,Brújula,15:00,16:00,14:00,
+15/07/2026,Escenario Sol,Kilómetro Cero,16:00,17:00,15:00,
+15/07/2026,Escenario Principal,Nómada,11:30,12:00,10:00,Necesita piano de cola
+16/07/2026,Escenario Río,Voltio,03:00,04:00,01:00,Artista confirmado
+16/07/2026,Escenario Principal,Latido,20:00,21:30,19:00,Sin requisitos especiales
+17/07/2026,Escenario Principal,Fusión Latina,15:00,17:30,13:00,Posible retraso
+15/07/2026,Escenario Principal,Zenit,20:00,21:30,18:00,Posible retraso
+16/07/2026,Escenario Bosque,Obsidiana,17:00,19:00,16:00,Cambio de última hora
+17/07/2026,Escenario Sol,Tercer Acto,21:30,23:30,19:00,
+16/07/2026,Escenario Río,Ecos del Sur,23:00,01:00,21:00,
+17/07/2026,Escenario Río,Fuego Lento,16:30,17:00,,Artista confirmado
+16/07/2026,Escenario Principal,Relámpago,12:30,13:00,,Patrocinado por Red Bull
+16/07/2026,Escenario Principal,Espiral,22:00,00:00,21:00,
+17/07/2026,Escenario Bosque,Voltio,19:00,21:30,,Posible retraso
+15/07/2026,Escenario Sol,Pandora,17:30,18:00,16:00,
+15/07/2026,Escenario Luna,Brújula,17:30,19:30,16:00,
+16/07/2026,Escenario Bosque,THE ELECTRIC SHEEP,20:00,22:30,18:00,Artista confirmado
+16/07/2026,Escenario Luna,Sendero,,14:00,,
+16/07/2026,Escenario Sol,Xilófono,15:00,16:30,13:00,
+15/07/2026,Escenario Río,Iridiscente,17:00,18:30,15:00,
+17/07/2026,Escenario Principal,Los Invisibles,12:00,13:00,11:00,Patrocinado por Red Bull
+15/07/2026,Escenario Sol,Café Quemado,20:00,21:30,18:00,Patrocinado por Red Bull
+16/07/2026,Escenario Bosque,Beto y los Fugitivos,13:00,14:00,12:00,Posible retraso
+15/07/2026,Escenario Luna,Bajo Presión,14:30,15:00,12:00,
+17/07/2026,Escenario Principal,Hipnosis,11:30,12:00,10:00,Posible retraso
+16/07/2026,Escenario Principal,Kometa,21:30,22:00,19:00,
+17/07/2026,Escenario Principal,Fulgor,17:00,18:00,15:00,
+16/07/2026,Escenario Principal,Equinoccio,13:00,14:00,11:00,Patrocinado por Red Bull
+16/07/2026,Escenario Río,Pulso Urbano,14:30,16:00,12:00,Patrocinado por Red Bull
+17/07/2026,Escenario Bosque,Los Pioneros,18:30,19:30,17:00,
+15/07/2026,Escenario Río,Rapsodia,20:30,21:00,19:00,Necesita piano de cola
+17/07/2026,Escenario Río,Titanio,12:30,13:00,10:00,Equipo propio de sonido
+17/07/2026,Escenario Luna,Eclipse Total,21:30,23:30,19:00,
+17/07/2026,Escenario Río,CLAVE DE SOL,13:00,15:30,12:00,IMPORTANTE: carga eléctrica extra
+16/07/2026,Escenario Principal,Amanecer,16:30,18:30,,Posible retraso
+15/07/2026,Escenario Luna,Alma Negra,20:00,21:30,19:00,
+16/07/2026,Escenario Sol,Loto,19:00,20:00,18:00,
+16/07/2026,Escenario Luna,El Circo Eléctrico,22:30,00:00,,
+17/07/2026,Escenario Principal,Diáspora,18:00,20:30,16:00,IMPORTANTE: carga eléctrica extra
+17/07/2026,Escenario Río,Obsidiana,23:00,00:30,21:00,
+,Escenario Principal,Cáctus,19:00,22:00,,
+15/07/2026,Escenario Río,los eternos,11:00,13:00,09:00,Requiere pantalla LED
+17/07/2026,Escenario Principal,Grafito,20:00,21:30,19:00,
+16/07/2026,Escenario Luna,TEMPESTAD,21:00,22:30,20:00,Cambio de última hora
+16/07/2026,Escenario Bosque,GRIETA,04:00,06:00,,
+16/07/2026,Escenario Río,Ritmo Salvaje,18:00,22:00,,
+16/07/2026,Escenario Luna,CLAVE DE SOL,17:00,18:00,15:00,
+16/07/2026,Escenario Luna,Wavelength,15:00,16:00,14:00,Artista confirmado
+17/07/2026,Escenario Sol,Andén Cero,19:30,21:30,18:00,Necesita piano de cola
+15/07/2026,Escenario Bosque,Bumerán,19:00,21:00,17:00,Artista confirmado
+15/07/2026,Escenario Río,Ónix,13:00,15:00,11:00,Sin requisitos especiales
+16/07/2026,Escenario Bosque,Solsticio,02:00,04:00,00:00,Cambio de última hora
+16/07/2026,Escenario Sol,,,16:00,,
+16/07/2026,Escenario Río,lava,02:00,03:30,01:00,Artista confirmado
+16/07/2026,Escenario Principal,Los Olvidados,00:30,01:00,23:00,Sin requisitos especiales
+17/07/2026,Escenario Principal,Iridiscente,13:00,14:30,11:00,Requiere pantalla LED
+17/07/2026,Escenario Sol,,21:00,20:00,,
+15/07/2026,Escenario Bosque,,13:00,13:00,,
+15/07/2026,Escenario Río,ícaro,18:30,19:00,,Patrocinado por Red Bull
+17/07/2026,Escenario Bosque,Los Satélites,16:30,18:30,15:00,
+,Escenario Sol,Los Vagabundos,,,,
+15/07/2026,Escenario Principal,Kilómetro Cero,12:00,13:30,11:00,
+16/07/2026,Escenario Principal,Lux,18:00,20:00,17:00,Requiere pantalla LED
+,Escenario Bosque,Bermellón,,22:00,,
+17/07/2026,Escenario Sol,Ritmo Salvaje,12:00,13:00,,IMPORTANTE: carga eléctrica extra
+17/07/2026,Escenario Luna,Melodía Errante,22:00,18:00,16:00,Error horario posible
+16/07/2026,Escenario Río,Impulso,13:30,14:00,11:00,
+15/07/2026,Escenario Luna,Cristal Roto,19:00,20:00,18:00,Requiere pantalla LED
+16/07/2026,Escenario Sol,mala hierba,17:00,18:00,16:00,Patrocinado por Red Bull
+17/07/2026,Escenario Río,Duende,15:30,16:00,13:00,
+16/07/2026,Escenario Luna,Géminis,16:00,17:00,14:00,
+15/07/2026,Escenario Bosque,CLAVE DE SOL,11:00,12:30,10:00,Equipo propio de sonido
+17/07/2026,Escenario Sol,Atardecer,18:00,19:00,16:00,

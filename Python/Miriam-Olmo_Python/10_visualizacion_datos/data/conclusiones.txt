@@ -1,0 +1,115 @@
+Análisis Exploratorio de Datos (EDA) - Informe Salarial y Estrategias para Optimización de Costes
+
+---
+
+### Datos generales
+
+- Fecha informe: 13-07-2026 12:13
+- Número total empleados: 220
+- Salario medio global: 36,902.47 €
+- Departamento más grande: IT (66 empleados, 30% aprox.)
+- Empleados en teletrabajo: 36%
+
+---
+
+### 1. Distribución Salarial Actual
+
+**Por Departamento (estadísticas clave salario anual):**
+
+| Departamento | Empleados | Salario Medio (€) | Salario Mínimo (€) | Salario Máximo (€) | Mediana (€) | Comentarios |
+|--------------|-----------|-------------------|--------------------|--------------------|-------------|-------------|
+| IT           | 66        | 40,700 aprox.     | ~27,934            | 55,867             | ~39,000     | Mayor concentración y dispersión moderada. Un salario atípico muy alto (235,000 en Finanzas) no está en IT. Se identifican varios empleados > 45k. |
+| Marketing    | ~30       | ~33,000 - 38,000  | ~23,379            | ~46,138            | ~34,500     | Salarios en rango medio-bajo/medio, algunos altos en torno a 41k-46k. |
+| Ventas       | ~50       | ~30,000 - 35,000  | ~19,032            | ~43,755            | ~32,500     | Variedad amplia, con valores relativamente bajos en extremo mínimo, algunos top cerca 40k+ |
+| RRHH         | ~25       | ~30,000           | ~18,532            | ~46,000            | ~30,000     | Concentración alrededor de 30k, un pico alto hasta ~46k. |
+| Finanzas     | ~25       | ~35,000-50,000    | ~23,500             | 235,000            | ~35,000     | Presencia de salarios outlier muy altos (198,500 y 235,000), que distorsiona media. Mediana más baja. |
+
+---
+
+**Por Antigüedad (salario anual y tendencias):**
+
+- A mayor antigüedad suele corresponder salarios más altos, aunque hay excepciones:
+  - Ejemplo: un empleado en Finanzas con antigüedad 15 años y salario 235,000 €, que es el máximo salarial.
+  - Sin embargo, también hay empleados con alta antigüedad y salarios bajos (~18,000-30,000 €), especialmente en RRHH y Ventas.
+- Salarios < 20,000 € corresponden a empleados con antigüedad 0-2 años, pero hay algunos en ese rango con más años, que podría indicar posibles áreas para revisión.
+
+---
+
+**Por Teletrabajo:**
+
+- 36% trabajadores hacen teletrabajo.
+- No se evidencia una relación directa visible en estos datos entre teletrabajo y salario, aunque empleados IT y Finanzas tienen mayor proporción teletrabajando.
+- Teletrabajo puede ser un punto para ahorro en costes operativos complementarios (infraestructura, transporte).
+
+---
+
+**Horas extras mensuales promedio:**
+
+- Se detectan empleados con horas extra elevadas (hasta 20/mes), especialmente en IT, Ventas y Finanzas.
+- Horas extras elevadas implican costes adicionales (horas pagadas, posibles incurrimientos legales o problemas bienestar).
+
+---
+
+### 2. Hallazgos Críticos
+
+- **Un outlier importantísimo está en Finanzas (empleados con >198k y >235k €)** que sesga notablemente el promedio en este departamento.
+- IT es el departamento más grande y con salarios promedio ligeramente mayores (aprox. 40,700 € vs 36,900 € global).
+- RRHH tiene salarios medianos/bajos, con casos de empleados con salarios bajos y antigüedad alta, posible desalineación.
+- Empleados con antigüedad cero (recién incorporados) que ganan salarios bajos en Ventas (19,032 €) y RRHH (~18,500 €).
+- Horas extras elevadas en departamentos claves pueden representar coste oculto.
+- Satisfacción promedio en torno a 6 (escala 1-10), indica espacio para mejora en gestión de personas y posible eficiencia.
+
+---
+
+### 3. Propuesta de Estrategias para Optimización y Reducción de Costes RH
+
+**A. Gestión Salarial**
+
+- Revisar salarios atípicos en Finanzas (>198k y 235k) para evaluar adecuación de responsabilidades, productividad y benchmarking externo.
+- Implementar política estructurada de bandas salariales para todos los departamentos para limitar desviaciones y asegurar equidad.
+- Realizar evaluación de desempeño ligada a revisión salarial, especialmente en casos de antigüedad alta y salarios bajos para detectar ineficiencia o posible redistribución.
+- Negociar ajustes salariales en nuevos puestos con salarios bajos pero potencial para desarrollo, revisando estrategia de crecimiento interno.
+
+**B. Control de Horas Extras**
+
+- Analizar causas de horas extras elevadas en IT, Ventas y Finanzas.
+- Planificar redistribución de carga laboral, automatización o subcontratación donde sea conveniente.
+- Incentivar balance entre horas trabajadas y productividad, limitando costos extras.
+
+**C. Optimización de Teletrabajo**
+
+- Fomentar teletrabajo en departamentos que lo permiten para reducir costes asociados a infraestructura física y necesidades logísticas.
+- Evaluar desempeño y satisfacción para confirmar beneficios asociados.
+- Posibilidad de reducir espacios físicos y consumos fijos (energía, servicios) en oficinas centrales.
+
+**D. Eficiencia por Departamento**
+
+- IT, por tamaño y salarios promedios, es foco principal de ahorro.
+- Analizar proyectos y roles con posibles redundancias o bajas contribuciones.
+- Reforzar formación para mejorar satisfacción y productividad, evitar rotación costosa.
+
+**E. Retención y Satisfacción**
+
+- Implementar programas de mejora en satisfacción (actual promedio 6/10), ya que baja satisfacción puede traducirse en baja productividad y alta rotación.
+- Enfocar esfuerzos en departamentos y roles con baja satisfacción y coste salarial elevado.
+
+---
+
+### Resumen Conclusivo
+
+| Área | Observación Clave | Acción Recomendada | Impacto Esperado |
+|-------|-------------------|--------------------|------------------|
+| Salarios altos outlier en Finanzas | Revisar y ajustar contratos atípicos | Reducción significativa gastos en salarios | Alto |
+| Horas extras elevadas | Control y redistribución carga laboral | Reducción costes horas extras | Medio |
+| Teletrabajo 36% | Extender y optimizar teletrabajo | Disminución costes operativos | Medio |
+| Antigüedad vs salario | Revisar anomalías en salarios bajos con antigüedad | Mejorar eficiencia y justicia interna | Medio |
+| Rentabilidad IT (máximo presupuesto) | Revisión roles y productividad | Optimización gasto personal IT | Alto |
+| Satisfacción media baja | Abrir canal mejora bienestar y formación | Aumento productividad y retención | Medio |
+
+---
+
+Si se implementan estas medidas estructuradas y basadas en análisis objetivo de los datos, se podría lograr una reducción ordenada de los gastos de recursos humanos, alineada con rendimiento y satisfacción, evitando pérdidas por ineficiencias ocultas o desequilibrios financieros.
+
+---
+
+Quedo a disposición para análisis más profundos o modelado predictivo si es requerido.

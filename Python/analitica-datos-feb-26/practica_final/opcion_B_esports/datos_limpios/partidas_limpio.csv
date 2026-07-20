@@ -1,0 +1,400 @@
+id_partida,fecha,equipo_1,equipo_2,puntuacion_1,puntuacion_2,mapa,torneo,duracion_minutos
+MATCH-00344,25/11/2025,Thunder Esports,Raptors GG,8,4,Mirage,CyberLeague S1,48
+MATCH-00320,04/03/2026,Nova Squad,Arctic Foxes,1,15,Bind,Copa Nacional,34
+MATCH-00140,17/12/2025,Eclipse,Arctic Foxes,14,14,Vertigo,CyberLeague S1,25
+MATCH-00077,25/12/2026,Iron Bears,Raptors GG,3,13,Ascent,Open Qualifier,28
+MATCH-00053,28/10/2025,Thunder Esports,Vortex Club,0,10,Mirage,CyberLeague S2,49
+MATCH-00124,05/07/2025,Byte Force,Vortex Club,10,2,Bind,Copa Nacional,REVISAR MANUALMENTE
+MATCH-00104,05/01/2025,Quantum Five,Iron Bears,0,5,Nuke,Copa Nacional,26
+MATCH-00364,22/01/2026,Neon Strikers,Phoenix Rising,1,3,Dust2,Copa Nacional,20
+MATCH-00021,07/05/2026,Eclipse,Raptors GG,9,16,Ascent,Masters Series,72
+MATCH-00146,23/11/2026,Shadow Legion,Titan Esports,5,14,Overpass,Open Qualifier,67
+MATCH-00164,18/06/2025,Neon Strikers,Quantum Five,14,5,Vertigo,Masters Series,REVISAR MANUALMENTE
+MATCH-00322,10/04/2025,Omega Team,Dark Wolves,7,8,Dust2,CyberLeague S2,66
+MATCH-00308,10/11/2025,Omega Team,Titan Esports,7,4,Inferno,Open Qualifier,43
+MATCH-00179,22/02/2026,Phoenix Rising,Zenith,11,7,Inferno,Open Qualifier,66
+MATCH-00119,15/08/2026,Raptors GG,Blaze Team,0,1,Overpass,Copa Nacional,38
+MATCH-00170,19/09/2025,Storm Gaming,Thunder Esports,1,1,Overpass,Masters Series,56
+MATCH-00114,16/02/2025,Cyber Dragons,Titan Esports,3,1,Dust2,CyberLeague S2,56
+MATCH-00109,25/06/2025,Blaze Team,Iron Bears,7,5,Vertigo,CyberLeague S2,51
+MATCH-00167,14/04/2026,Omega Team,Neon Strikers,12,10,Overpass,CyberLeague S1,65
+MATCH-00303,02/08/2025,Storm Gaming,Blaze Team,14,9,Bind,Open Qualifier,30
+MATCH-00165,25/10/2025,Dark Wolves,Neon Strikers,4,4,Nuke,CyberLeague S2,48
+MATCH-00111,16/12/2025,Zenith,Blaze Team,5,11,Overpass,Open Qualifier,40
+MATCH-00095,21/11/2026,Quantum Five,Titan Esports,5,9,Vertigo,Open Qualifier,42
+MATCH-00097,17/10/2026,Vortex Club,Iron Bears,13,5,Ascent,Grand Finals,31
+MATCH-00058,24/02/2025,Titan Esports,Blaze Team,0,14,Bind,Grand Finals,65
+MATCH-00367,22/06/2026,Phoenix Rising,Raptors GG,7,15,Dust2,Grand Finals,45
+MATCH-00350,10/02/2025,Phoenix Rising,Vortex Club,13,7,Dust2,Open Qualifier,59
+MATCH-00093,16/07/2025,Cyber Dragons,Crystal Gaming,16,10,Dust2,CyberLeague S2,70
+MATCH-00305,25/05/2026,Crystal Gaming,Nova Squad,8,7,Ascent,Grand Finals,62
+MATCH-00178,13/10/2026,Vortex Club,Neon Strikers,7,6,Overpass,Grand Finals,53
+MATCH-00270,01/09/2025,Omega Team,Vortex Club,14,5,Vertigo,CyberLeague S1,70
+MATCH-00026,04/09/2026,Quantum Five,Byte Force,REVISAR MANUALMENTE,9,Haven,CyberLeague S2,46
+MATCH-00404,11/10/2026,Thunder Esports,Dark Wolves,8,15,Haven,Copa Nacional,31
+MATCH-00242,05/08/2025,Dark Wolves,Thunder Esports,4,9,Nuke,Copa Nacional,74
+MATCH-00101,01/05/2025,Omega Team,Zenith,16,4,Overpass,,42
+MATCH-00293,10/10/2025,Eclipse,Neon Strikers,16,4,Inferno,Copa Nacional,27
+MATCH-00062,24/12/2025,Byte Force,Nova Squad,6,13,Nuke,Grand Finals,61
+MATCH-00018,09/04/2025,Zenith,Dark Wolves,14,16,Ascent,Grand Finals,45
+MATCH-00067,21/08/2025,Thunder Esports,Vortex Club,11,12,Ancient,Open Qualifier,34
+MATCH-00231,16/05/2026,Cyber Dragons,Iron Bears,7,4,Inferno,CyberLeague S1,REVISAR MANUALMENTE
+MATCH-00379,24/11/2026,Iron Bears,Arctic Foxes,2,14,Vertigo,CyberLeague S2,75
+MATCH-00343,23/04/2026,Byte Force,Neon Strikers,4,15,Ancient,Grand Finals,72
+MATCH-00375,10/07/2025,Dark Wolves,Titan Esports,0,12,Haven,Grand Finals,41
+MATCH-00139,13/09/2025,Zenith,Dark Wolves,12,16,Nuke,Open Qualifier,REVISAR MANUALMENTE
+MATCH-00083,12/07/2026,Phoenix Rising,Titan Esports,1,6,Inferno,Copa Nacional,53
+MATCH-00401,12/09/2026,Arctic Foxes,Crystal Gaming,5,14,Ancient,CyberLeague S1,27
+MATCH-00132,11/03/2026,Phoenix Rising,Blaze Team,4,2,Overpass,CyberLeague S2,66
+MATCH-00338,22/12/2026,Arctic Foxes,Quantum Five,8,6,Nuke,Open Qualifier,20
+MATCH-00247,14/08/2025,Neon Strikers,Titan Esports,1,15,Nuke,Copa Nacional,54
+MATCH-00120,19/09/2026,Phoenix Rising,Arctic Foxes,4,3,Ancient,Open Qualifier,22
+MATCH-00162,26/12/2025,Cyber Dragons,Thunder Esports,10,2,Inferno,Masters Series,70
+MATCH-00185,07/11/2025,Nova Squad,Byte Force,1,12,Haven,Copa Nacional,62
+MATCH-00023,11/11/2025,Storm Gaming,Dark Wolves,0,15,Vertigo,Masters Series,38
+MATCH-00156,22/01/2026,Crystal Gaming,Neon Strikers,2,10,Dust2,Copa Nacional,49
+MATCH-00283,23/06/2026,Crystal Gaming,Shadow Legion,11,7,Inferno,Copa Nacional,29
+MATCH-00212,19/04/2026,Nova Squad,Dark Wolves,5,8,Vertigo,Grand Finals,32
+MATCH-00391,13/08/2025,Thunder Esports,Byte Force,8,15,Inferno,Masters Series,64
+MATCH-00046,23/03/2026,Eclipse,Quantum Five,5,4,Haven,Open Qualifier,26
+MATCH-00082,28/04/2026,Shadow Legion,Crystal Gaming,9,6,SIN DATOS,CyberLeague S1,22
+MATCH-00081,14/10/2025,Phoenix Rising,Neon Strikers,2,8,Mirage,Masters Series,34
+MATCH-00345,15/05/2025,Crystal Gaming,Neon Strikers,0,1,SIN DATOS,Grand Finals,69
+MATCH-00378,16/06/2025,Eclipse,Shadow Legion,1,3,SIN DATOS,CyberLeague S1,52
+MATCH-00184,13/01/2026,Raptors GG,Byte Force,3,11,Ancient,CyberLeague S2,41
+MATCH-00020,01/11/2026,Vortex Club,Zenith,4,5,Ancient,CyberLeague S1,58
+MATCH-00315,13/07/2025,Dark Wolves,Blaze Team,13,7,Dust2,Copa Nacional,75
+MATCH-00143,24/05/2026,Shadow Legion,Dark Wolves,9,5,Bind,Copa Nacional,27
+MATCH-00272,13/12/2026,Phoenix Rising,Titan Esports,15,9,Haven,Masters Series,59
+MATCH-00158,09/06/2025,Titan Esports,Blaze Team,9,7,Ascent,Open Qualifier,
+MATCH-00268,21/04/2025,Crystal Gaming,Nova Squad,15,16,Haven,Grand Finals,60
+MATCH-00310,18/11/2026,Vortex Club,Titan Esports,8,14,Dust2,Grand Finals,20
+MATCH-00281,20/10/2025,Zenith,Iron Bears,1,16,Inferno,CyberLeague S1,26
+MATCH-00025,14/05/2025,Storm Gaming,Raptors GG,11,8,Nuke,Grand Finals,57
+MATCH-00262,28/04/2025,Cyber Dragons,Neon Strikers,5,5,Ascent,CyberLeague S1,67
+MATCH-00134,19/11/2025,Crystal Gaming,Cyber Dragons,10,2,Bind,CyberLeague S2,55
+MATCH-00243,08/10/2026,Arctic Foxes,Shadow Legion,7,3,Overpass,Grand Finals,29
+MATCH-00403,28/04/2026,Raptors GG,Crystal Gaming,9,6,SIN DATOS,CyberLeague S1,22
+MATCH-00012,27/03/2026,Byte Force,Zenith,8,10,Nuke,Grand Finals,REVISAR MANUALMENTE
+MATCH-00150,07/11/2025,Omega Team,Blaze Team,8,2,Nuke,CyberLeague S1,39
+MATCH-00317,24/08/2026,Crystal Gaming,Vortex Club,14,5,Ascent,Masters Series,REVISAR MANUALMENTE
+MATCH-00163,27/04/2026,Iron Bears,Raptors GG,13,13,Inferno,Copa Nacional,56
+MATCH-00107,22/07/2025,Neon Strikers,Thunder Esports,10,5,Nuke,Masters Series,60
+MATCH-00155,28/12/2026,Cyber Dragons,Storm Gaming,9,10,Ascent,Masters Series,29
+MATCH-00172,17/08/2026,Nova Squad,Blaze Team,10,13,Dust2,Masters Series,42
+MATCH-00106,27/04/2025,Byte Force,Blaze Team,12,0,Haven,CyberLeague S2,27
+MATCH-00168,10/03/2025,Thunder Esports,Raptors GG,4,0,Ascent,Masters Series,24
+MATCH-00076,03/02/2026,Iron Bears,Dark Wolves,4,0,Ancient,Open Qualifier,69
+MATCH-00394,08/12/2025,Cyber Dragons,Eclipse,13,11,Nuke,Grand Finals,53
+MATCH-00201,15/08/2025,Zenith,Quantum Five,12,5,Vertigo,CyberLeague S1,70
+MATCH-00099,27/09/2025,Arctic Foxes,Iron Bears,0,1,Mirage,CyberLeague S2,62
+MATCH-00017,23/05/2026,Dark Wolves,Thunder Esports,12,4,Mirage,CyberLeague S1,69
+MATCH-00302,26/11/2025,Blaze Team,Neon Strikers,9,13,Nuke,Open Qualifier,48
+MATCH-00257,24/07/2026,Raptors GG,Titan Esports,8,2,Bind,Grand Finals,REVISAR MANUALMENTE
+MATCH-00376,13/09/2025,Arctic Foxes,Nova Squad,4,10,Nuke,Grand Finals,68
+MATCH-00086,08/12/2025,Byte Force,Eclipse,13,11,Nuke,Grand Finals,53
+MATCH-00373,27/05/2025,Thunder Esports,Zenith,15,14,Ascent,CyberLeague S2,29
+MATCH-00015,09/08/2025,Nova Squad,Storm Gaming,0,10,Dust2,Grand Finals,72
+MATCH-00386,17/06/2025,Nova Squad,Nova Squad,8,16,Inferno,CyberLeague S2,32
+MATCH-00043,23/08/2025,Nova Squad,Blaze Team,14,3,Vertigo,Open Qualifier,26
+MATCH-00214,26/03/2026,Zenith,Eclipse,13,4,Haven,Copa Nacional,73
+MATCH-00063,18/11/2025,Blaze Team,Dark Wolves,9,2,Ancient,Masters Series,36
+MATCH-00207,14/06/2026,Phoenix Rising,Vortex Club,10,10,Ancient,Grand Finals,51
+MATCH-00117,14/09/2025,Blaze Team,Shadow Legion,11,14,Ancient,Grand Finals,64
+MATCH-00056,13/06/2025,Quantum Five,Storm Gaming,12,8,Dust2,Grand Finals,17
+MATCH-00013,19/10/2026,Crystal Gaming,Zenith,13,3,Dust2,Grand Finals,46
+MATCH-00130,11/02/2026,Storm Gaming,Eclipse,2,5,Ancient,Grand Finals,32
+MATCH-00216,18/08/2026,Dark Wolves,Nova Squad,3,0,Vertigo,Copa Nacional,70
+MATCH-00297,18/10/2026,Neon Strikers,Blaze Team,1,16,Inferno,CyberLeague S2,32
+MATCH-00037,23/07/2026,Raptors GG,Eclipse,13,5,Haven,Copa Nacional,27
+MATCH-00198,26/03/2026,Nova Squad,Storm Gaming,5,7,Overpass,Open Qualifier,25
+MATCH-00224,19/04/2025,Phoenix Rising,Cyber Dragons,5,11,Inferno,Open Qualifier,21
+MATCH-00280,16/04/2025,Neon Strikers,Vortex Club,REVISAR MANUALMENTE,11,Inferno,Open Qualifier,69
+MATCH-00226,06/10/2026,Crystal Gaming,Iron Bears,3,5,Ascent,Grand Finals,73
+MATCH-00369,07/04/2025,Neon Strikers,Crystal Gaming,2,3,Ancient,CyberLeague S2,30
+MATCH-00001,05/06/2025,Blaze Team,Neon Strikers,13,15,Ascent,Copa Nacional,61
+MATCH-00197,09/06/2025,Cyber Dragons,Iron Bears,10,4,Nuke,Grand Finals,REVISAR MANUALMENTE
+MATCH-00145,21/01/2025,Titan Esports,Dark Wolves,1,5,Mirage,CyberLeague S2,74
+MATCH-00007,04/04/2025,Thunder Esports,Vortex Club,REVISAR MANUALMENTE,15,Overpass,Copa Nacional,3
+MATCH-00115,01/02/2025,Omega Team,Storm Gaming,15,2,Vertigo,Grand Finals,REVISAR MANUALMENTE
+MATCH-00360,23/05/2025,Titan Esports,Zenith,16,12,Mirage,Masters Series,57
+MATCH-00032,13/08/2025,Phoenix Rising,Byte Force,8,15,Inferno,Masters Series,64
+MATCH-00054,03/06/2025,Arctic Foxes,Crystal Gaming,16,7,Vertigo,Open Qualifier,31
+MATCH-00239,02/05/2025,Byte Force,Blaze Team,12,7,Nuke,Copa Nacional,59
+MATCH-00399,27/12/2025,Arctic Foxes,Zenith,4,6,Overpass,Masters Series,20
+MATCH-00121,07/10/2025,Arctic Foxes,Byte Force,10,15,Vertigo,Masters Series,31
+MATCH-00244,05/05/2025,Eclipse,Dark Wolves,8,8,Nuke,CyberLeague S2,62
+MATCH-00160,15/12/2025,Zenith,Quantum Five,14,9,Mirage,CyberLeague S1,63
+MATCH-00219,10/05/2026,Omega Team,Zenith,2,16,Ascent,CyberLeague S1,32
+MATCH-00199,19/07/2025,Eclipse,Storm Gaming,4,0,Nuke,Copa Nacional,REVISAR MANUALMENTE
+MATCH-00078,01/09/2026,Phoenix Rising,Quantum Five,6,10,Ancient,CyberLeague S1,46
+MATCH-00144,08/08/2025,Iron Bears,Blaze Team,15,14,Dust2,Open Qualifier,46
+MATCH-00301,09/02/2025,Iron Bears,Thunder Esports,10,14,Ancient,Masters Series,55
+MATCH-00173,19/08/2025,Blaze Team,Vortex Club,1,9,Dust2,Grand Finals,16
+MATCH-00016,25/08/2025,Storm Gaming,Cyber Dragons,8,13,Overpass,Grand Finals,58
+MATCH-00287,13/06/2025,Arctic Foxes,Byte Force,16,9,Dust2,Open Qualifier,N/A
+MATCH-00148,20/12/2025,Crystal Gaming,Byte Force,13,10,Haven,Grand Finals,36
+MATCH-00361,24/04/2026,Omega Team,Cyber Dragons,9,0,Overpass,Grand Finals,3
+MATCH-00057,03/09/2025,Dark Wolves,Nova Squad,5,REVISAR MANUALMENTE,Nuke,Copa Nacional,60
+MATCH-00060,26/05/2025,Byte Force,Raptors GG,2,9,Ancient,CyberLeague S1,68
+MATCH-00324,23/07/2025,Cyber Dragons,Storm Gaming,10,13,Nuke,Open Qualifier,REVISAR MANUALMENTE
+MATCH-00135,27/12/2025,Eclipse,Zenith,4,6,Overpass,Masters Series,20
+MATCH-00105,26/05/2026,Iron Bears,Titan Esports,11,14,Ascent,Masters Series,64
+MATCH-00336,07/05/2025,Shadow Legion,Storm Gaming,9,16,Inferno,Masters Series,24
+MATCH-00189,11/07/2026,Quantum Five,Storm Gaming,10,3,Inferno,CyberLeague S2,63
+MATCH-00024,17/06/2025,Storm Gaming,Blaze Team,5,5,Haven,Grand Finals,38
+MATCH-00276,17/01/2025,Quantum Five,Iron Bears,13,REVISAR MANUALMENTE,Nuke,Grand Finals,55
+MATCH-00307,13/06/2025,Neon Strikers,Raptors GG,0,3,Bind,Open Qualifier,49
+MATCH-00166,01/10/2026,Arctic Foxes,Zenith,16,12,Ascent,CyberLeague S1,74
+MATCH-00038,25/07/2025,Blaze Team,Zenith,0,4,Mirage,Open Qualifier,N/A
+MATCH-00050,23/01/2025,Shadow Legion,Nova Squad,6,1,Overpass,CyberLeague S2,42
+MATCH-00071,16/06/2026,Storm Gaming,Thunder Esports,0,16,Bind,Copa Nacional,28
+MATCH-00010,02/09/2026,Thunder Esports,Eclipse,16,13,Vertigo,CyberLeague S2,54
+MATCH-00213,13/06/2025,Quantum Five,Crystal Gaming,13,11,Dust2,Grand Finals,44
+MATCH-00279,10/08/2025,Quantum Five,Iron Bears,6,1,Inferno,Masters Series,21
+MATCH-00334,19/01/2025,Thunder Esports,Arctic Foxes,4,4,Ascent,Open Qualifier,41
+MATCH-00059,21/08/2026,Storm Gaming,Arctic Foxes,13,10,Bind,Masters Series,21
+MATCH-00321,27/03/2025,Nova Squad,Eclipse,11,0,Nuke,Masters Series,24
+MATCH-00152,24/10/2025,Eclipse,Dark Wolves,0,6,Ancient,Copa Nacional,56
+MATCH-00233,04/07/2026,Thunder Esports,Blaze Team,14,10,Dust2,CyberLeague S1,74
+MATCH-00314,13/01/2025,Blaze Team,Neon Strikers,2,4,Inferno,CyberLeague S1,23
+MATCH-00355,14/07/2025,Eclipse,Cyber Dragons,9,4,Haven,CyberLeague S1,55
+MATCH-00333,19/03/2025,Zenith,Blaze Team,9,0,Dust2,Copa Nacional,51
+MATCH-00122,25/01/2025,Dark Wolves,Quantum Five,11,13,Bind,CyberLeague S1,46
+MATCH-00222,10/12/2025,Zenith,Thunder Esports,3,7,Ascent,CyberLeague S2,28
+MATCH-00332,26/10/2026,Titan Esports,Crystal Gaming,14,14,Nuke,Open Qualifier,41
+MATCH-00256,01/03/2025,Titan Esports,Zenith,8,7,SIN DATOS,Masters Series,59
+MATCH-00068,08/11/2026,Raptors GG,Omega Team,5,16,Ancient,CyberLeague S1,28
+MATCH-00290,07/10/2025,Storm Gaming,Neon Strikers,14,3,Ascent,Open Qualifier,29
+MATCH-00072,24/06/2025,Omega Team,Neon Strikers,15,15,Nuke,Masters Series,50
+MATCH-00298,26/02/2026,Titan Esports,Vortex Club,REVISAR MANUALMENTE,12,Vertigo,Masters Series,
+MATCH-00357,19/11/2025,Omega Team,Eclipse,13,1,Haven,Copa Nacional,27
+MATCH-00131,22/06/2025,Iron Bears,Raptors GG,11,9,Mirage,CyberLeague S1,35
+MATCH-00313,04/04/2026,Phoenix Rising,Quantum Five,REVISAR MANUALMENTE,10,Ascent,Copa Nacional,73
+MATCH-00159,13/07/2025,Neon Strikers,Eclipse,14,11,Dust2,CyberLeague S1,39
+MATCH-00371,09/04/2025,Raptors GG,Blaze Team,9,2,Bind,CyberLeague S2,27
+MATCH-00260,17/05/2025,Eclipse,Arctic Foxes,13,5,Overpass,Open Qualifier,40
+MATCH-00388,18/05/2025,Byte Force,Byte Force,7,11,Haven,Copa Nacional,29
+MATCH-00125,16/04/2026,Cyber Dragons,Shadow Legion,6,16,Haven,Open Qualifier,35
+MATCH-00232,04/10/2025,Nova Squad,Cyber Dragons,16,15,Overpass,Open Qualifier,70
+MATCH-00075,08/02/2026,Nova Squad,Iron Bears,5,4,Vertigo,Open Qualifier,26
+MATCH-00275,21/02/2026,Raptors GG,Dark Wolves,13,15,Ascent,CyberLeague S1,67
+MATCH-00346,26/02/2025,Nova Squad,Titan Esports,5,1,Inferno,CyberLeague S2,46
+MATCH-00282,12/11/2025,Crystal Gaming,Iron Bears,4,3,Inferno,CyberLeague S2,74
+MATCH-00285,26/12/2026,Cyber Dragons,Quantum Five,9,13,Dust2,Grand Finals,45
+MATCH-00300,04/07/2025,Shadow Legion,Phoenix Rising,4,13,Dust2,Copa Nacional,40
+MATCH-00329,21/05/2025,Phoenix Rising,Titan Esports,11,2,Haven,CyberLeague S2,38
+MATCH-00309,16/09/2025,Raptors GG,Neon Strikers,6,5,Overpass,Open Qualifier,24
+MATCH-00014,13/05/2026,Arctic Foxes,Blaze Team,15,1,Ascent,Masters Series,31
+MATCH-00306,06/11/2026,Phoenix Rising,Crystal Gaming,15,12,Dust2,CyberLeague S1,54
+MATCH-00176,06/01/2026,Omega Team,Dark Wolves,12,15,Overpass,CyberLeague S1,39
+MATCH-00265,18/02/2026,Arctic Foxes,Omega Team,12,2,Dust2,Grand Finals,45
+MATCH-00204,14/11/2025,Nova Squad,Raptors GG,1,2,Overpass,Open Qualifier,43
+MATCH-00089,11/10/2026,Thunder Esports,Dark Wolves,8,15,Haven,Copa Nacional,31
+MATCH-00359,19/10/2025,Zenith,Cyber Dragons,0,3,Overpass,CyberLeague S2,69
+MATCH-00210,04/05/2025,Zenith,Blaze Team,12,15,Mirage,Open Qualifier,69
+MATCH-00349,25/11/2025,Raptors GG,Cyber Dragons,5,2,Ascent,CyberLeague S2,41
+MATCH-00266,25/11/2025,Shadow Legion,Eclipse,3,9,Bind,Copa Nacional,51
+MATCH-00234,23/05/2026,Shadow Legion,Crystal Gaming,15,3,Bind,CyberLeague S2,56
+MATCH-00034,18/01/2026,Omega Team,Zenith,6,15,Overpass,CyberLeague S2,3
+MATCH-00100,21/08/2026,Thunder Esports,Shadow Legion,13,16,Vertigo,Open Qualifier,60
+MATCH-00387,10/04/2025,Cyber Dragons,Cyber Dragons,8,14,Ascent,CyberLeague S2,47
+MATCH-00186,01/04/2026,Zenith,Titan Esports,7,REVISAR MANUALMENTE,SIN DATOS,CyberLeague S1,44
+MATCH-00126,12/06/2026,Eclipse,Omega Team,0,9,Ascent,CyberLeague S2,30
+MATCH-00103,09/11/2025,Storm Gaming,Thunder Esports,8,13,Vertigo,Grand Finals,32
+MATCH-00200,08/08/2025,Raptors GG,Crystal Gaming,0,13,Inferno,Masters Series,33
+MATCH-00196,14/12/2025,Nova Squad,Storm Gaming,12,7,Inferno,CyberLeague S2,24
+MATCH-00193,12/10/2026,Titan Esports,Neon Strikers,16,7,Ancient,CyberLeague S1,49
+MATCH-00084,13/08/2026,Vortex Club,Storm Gaming,0,8,Vertigo,CyberLeague S2,31
+MATCH-00033,24/09/2026,Vortex Club,Cyber Dragons,3,9,Bind,CyberLeague S1,27
+MATCH-00289,19/12/2026,Phoenix Rising,Iron Bears,7,11,Ascent,CyberLeague S2,39
+MATCH-00175,20/03/2025,Crystal Gaming,Dark Wolves,15,13,Ascent,CyberLeague S1,69
+MATCH-00205,26/06/2025,Thunder Esports,Arctic Foxes,6,14,Haven,Open Qualifier,25
+MATCH-00127,28/12/2025,Storm Gaming,Titan Esports,3,1,Ascent,CyberLeague S2,35
+MATCH-00141,07/12/2026,Phoenix Rising,Titan Esports,2,8,Haven,Open Qualifier,40
+MATCH-00331,27/05/2025,Thunder Esports,Vortex Club,12,12,Dust2,Copa Nacional,72
+MATCH-00228,28/05/2026,Zenith,Storm Gaming,6,2,Ancient,Masters Series,73
+MATCH-00031,06/09/2025,Cyber Dragons,Storm Gaming,11,1,Dust2,Open Qualifier,44
+MATCH-00251,12/02/2026,Neon Strikers,Titan Esports,10,1,Overpass,Open Qualifier,64
+MATCH-00237,11/09/2025,Neon Strikers,Omega Team,14,13,Mirage,CyberLeague S1,56
+MATCH-00358,14/07/2025,Iron Bears,Omega Team,7,15,Dust2,Grand Finals,22
+MATCH-00380,17/11/2025,Byte Force,Cyber Dragons,0,15,Haven,Grand Finals,37
+MATCH-00171,17/02/2026,Crystal Gaming,Vortex Club,2,7,Haven,Open Qualifier,50
+MATCH-00245,14/02/2025,Byte Force,Omega Team,2,12,Vertigo,Copa Nacional,73
+MATCH-00009,09/01/2026,Raptors GG,Omega Team,14,8,Mirage,Masters Series,34
+MATCH-00356,16/12/2025,Iron Bears,Byte Force,5,6,Ascent,CyberLeague S2,20
+MATCH-00191,06/01/2025,Phoenix Rising,Crystal Gaming,9,13,Inferno,CyberLeague S1,64
+MATCH-00108,04/04/2025,Titan Esports,Raptors GG,13,10,Dust2,Grand Finals,20
+MATCH-00341,12/02/2025,Titan Esports,Crystal Gaming,3,16,Bind,Open Qualifier,69
+MATCH-00035,08/11/2026,Crystal Gaming,Byte Force,REVISAR MANUALMENTE,8,Inferno,Copa Nacional,49
+MATCH-00011,22/10/2026,Dark Wolves,Thunder Esports,4,3,Vertigo,Open Qualifier,68
+MATCH-00073,02/09/2026,Blaze Team,Shadow Legion,4,1,Mirage,Grand Finals,30
+MATCH-00049,22/10/2026,Omega Team,Blaze Team,1,13,Haven,Open Qualifier,5
+MATCH-00029,01/11/2025,Nova Squad,Thunder Esports,7,11,Nuke,CyberLeague S1,39
+MATCH-00051,14/07/2025,Crystal Gaming,Arctic Foxes,1,0,Dust2,Masters Series,67
+MATCH-00278,24/11/2025,Arctic Foxes,Eclipse,15,5,Bind,Grand Finals,59
+MATCH-00223,25/08/2026,Eclipse,Neon Strikers,1,5,Inferno,CyberLeague S1,26
+MATCH-00227,05/09/2026,Nova Squad,Neon Strikers,11,9,Haven,CyberLeague S1,55
+MATCH-00092,06/08/2026,Omega Team,Raptors GG,4,7,Bind,Copa Nacional,72
+MATCH-00299,18/02/2025,Raptors GG,Vortex Club,9,4,Inferno,CyberLeague S1,31
+MATCH-00296,18/06/2025,Eclipse,Raptors GG,14,8,Nuke,Masters Series,61
+MATCH-00259,23/06/2026,Nova Squad,Iron Bears,13,4,Mirage,CyberLeague S1,REVISAR MANUALMENTE
+MATCH-00091,06/05/2026,Neon Strikers,Omega Team,8,7,Ascent,Open Qualifier,37
+MATCH-00036,01/01/2025,Nova Squad,Zenith,5,10,Inferno,CyberLeague S1,42
+MATCH-00042,26/02/2026,Dark Wolves,Blaze Team,9,16,Ancient,CyberLeague S1,55
+MATCH-00249,28/04/2026,Arctic Foxes,Raptors GG,12,0,Inferno,Open Qualifier,45
+MATCH-00382,26/09/2025,Thunder Esports,Thunder Esports,14,13,Inferno,Grand Finals,31
+MATCH-00286,23/03/2026,Phoenix Rising,Arctic Foxes,14,6,Ancient,Open Qualifier,54
+MATCH-00113,22/09/2026,Byte Force,Blaze Team,4,9,Bind,CyberLeague S2,40
+MATCH-00390,06/07/2025,Quantum Five,Quantum Five,11,11,Dust2,CyberLeague S2,37
+MATCH-00319,07/04/2025,Thunder Esports,Dark Wolves,2,10,Bind,Copa Nacional,32
+MATCH-00339,02/10/2025,Blaze Team,Iron Bears,9,14,Haven,Masters Series,42
+MATCH-00138,13/07/2025,Iron Bears,Nova Squad,12,10,Haven,CyberLeague S2,45
+MATCH-00381,11/02/2025,Neon Strikers,Neon Strikers,13,7,Bind,CyberLeague S1,55
+MATCH-00229,03/11/2025,Raptors GG,Iron Bears,4,12,Ancient,Grand Finals,45
+MATCH-00389,07/02/2025,Thunder Esports,Thunder Esports,15,16,Nuke,Copa Nacional,52
+MATCH-00187,22/11/2026,Dark Wolves,Eclipse,14,4,Inferno,CyberLeague S2,67
+MATCH-00405,20/10/2026,Raptors GG,Eclipse,5,3,Ancient,CyberLeague S2,75
+MATCH-00327,13/04/2025,Titan Esports,Vortex Club,9,13,Nuke,Masters Series,44
+MATCH-00203,12/06/2025,Omega Team,Iron Bears,2,6,Vertigo,CyberLeague S1,28
+MATCH-00241,23/11/2026,Zenith,Blaze Team,5,15,Mirage,CyberLeague S1,33
+MATCH-00323,26/11/2025,Neon Strikers,Phoenix Rising,10,6,Mirage,Masters Series,39
+MATCH-00129,10/01/2025,Crystal Gaming,Dark Wolves,8,1,Overpass,CyberLeague S2,
+MATCH-00398,25/03/2025,Neon Strikers,Cyber Dragons,15,10,Ascent,Grand Finals,60
+MATCH-00288,17/07/2025,Vortex Club,Storm Gaming,1,11,Overpass,Grand Finals,36
+MATCH-00340,06/11/2026,Quantum Five,Eclipse,3,12,Haven,Masters Series,64
+MATCH-00211,15/12/2025,Arctic Foxes,Quantum Five,3,15,Mirage,Open Qualifier,22
+MATCH-00079,18/07/2026,Omega Team,Vortex Club,15,5,Bind,CyberLeague S2,43
+MATCH-00294,07/05/2025,Blaze Team,Eclipse,15,0,Dust2,Copa Nacional,REVISAR MANUALMENTE
+MATCH-00330,11/04/2025,Byte Force,Raptors GG,10,8,Dust2,Open Qualifier,39
+MATCH-00353,06/02/2026,Dark Wolves,Shadow Legion,6,7,Nuke,CyberLeague S2,52
+MATCH-00102,07/06/2026,Quantum Five,Storm Gaming,13,12,Dust2,Open Qualifier,35
+MATCH-00252,06/02/2025,Arctic Foxes,Omega Team,16,4,Vertigo,CyberLeague S1,74
+MATCH-00221,08/09/2025,Shadow Legion,Neon Strikers,16,3,Nuke,CyberLeague S2,46
+MATCH-00052,07/10/2025,Omega Team,Quantum Five,9,14,Ancient,Grand Finals,31
+MATCH-00402,21/09/2025,Dark Wolves,Omega Team,8,5,Inferno,Grand Finals,44
+MATCH-00351,11/12/2025,Dark Wolves,Vortex Club,8,10,Vertigo,Masters Series,REVISAR MANUALMENTE
+MATCH-00206,21/09/2025,Cyber Dragons,Crystal Gaming,9,13,Mirage,CyberLeague S2,63
+MATCH-00096,14/06/2026,Zenith,Cyber Dragons,12,2,Mirage,Grand Finals,25
+MATCH-00180,05/10/2026,Titan Esports,Neon Strikers,5,3,Inferno,CyberLeague S1,64
+MATCH-00003,05/08/2025,Quantum Five,Storm Gaming,2,7,SIN DATOS,CyberLeague S1,42
+MATCH-00055,07/05/2026,Titan Esports,Omega Team,16,15,Ascent,Copa Nacional,55
+MATCH-00153,20/10/2026,Nova Squad,Eclipse,5,3,Ancient,CyberLeague S2,75
+MATCH-00169,06/10/2026,Eclipse,Iron Bears,16,13,Vertigo,Masters Series,55
+MATCH-00236,14/02/2025,Blaze Team,Phoenix Rising,11,REVISAR MANUALMENTE,Ascent,Masters Series,42
+MATCH-00335,16/04/2025,Raptors GG,Byte Force,10,14,Ancient,Masters Series,60
+MATCH-00183,21/03/2025,Vortex Club,Iron Bears,1,12,Dust2,Masters Series,37
+MATCH-00354,15/10/2025,Quantum Five,Storm Gaming,8,15,Overpass,Copa Nacional,25
+MATCH-00250,26/07/2025,Shadow Legion,Iron Bears,8,2,Ascent,Grand Finals,72
+MATCH-00238,04/08/2025,Raptors GG,Nova Squad,10,15,Vertigo,CyberLeague S1,52
+MATCH-00019,06/06/2025,Iron Bears,Quantum Five,2,9,Ancient,Copa Nacional,21
+MATCH-00318,05/03/2026,Omega Team,Arctic Foxes,9,10,Vertigo,Open Qualifier,19
+MATCH-00365,11/11/2025,Quantum Five,Eclipse,7,11,Ascent,Copa Nacional,62
+MATCH-00112,12/09/2026,Cyber Dragons,Iron Bears,0,16,Overpass,Copa Nacional,44
+MATCH-00202,25/07/2025,Nova Squad,Thunder Esports,6,2,Dust2,Copa Nacional,59
+MATCH-00292,15/12/2025,Cyber Dragons,Thunder Esports,16,16,Mirage,Masters Series,27
+MATCH-00002,10/12/2025,Shadow Legion,Eclipse,5,0,Overpass,Grand Finals,64
+MATCH-00110,11/04/2026,Thunder Esports,Neon Strikers,11,14,Mirage,Masters Series,66
+MATCH-00136,23/02/2026,Storm Gaming,Vortex Club,4,16,Dust2,Copa Nacional,74
+MATCH-00151,27/06/2025,Blaze Team,Phoenix Rising,15,2,Mirage,CyberLeague S2,71
+MATCH-00248,27/06/2025,Cyber Dragons,Raptors GG,0,1,Haven,Grand Finals,73
+MATCH-00154,07/05/2026,Iron Bears,Storm Gaming,9,5,Ascent,Masters Series,REVISAR MANUALMENTE
+MATCH-00149,23/04/2025,Iron Bears,Crystal Gaming,1,0,Mirage,Open Qualifier,27
+MATCH-00061,05/11/2025,Cyber Dragons,Eclipse,11,0,Ancient,Copa Nacional,55
+MATCH-00277,10/03/2025,Omega Team,Iron Bears,15,11,Bind,CyberLeague S1,48
+MATCH-00385,22/01/2025,Eclipse,Eclipse,13,9,Ancient,CyberLeague S2,51
+MATCH-00174,24/01/2025,Quantum Five,Vortex Club,5,4,Overpass,Copa Nacional,62
+MATCH-00192,23/10/2025,Zenith,Eclipse,5,15,Nuke,CyberLeague S2,59
+MATCH-00088,27/04/2026,Vortex Club,Titan Esports,11,4,Nuke,CyberLeague S2,69
+MATCH-00195,17/08/2025,Thunder Esports,Shadow Legion,2,7,Mirage,CyberLeague S1,66
+MATCH-00254,28/12/2025,Byte Force,Iron Bears,1,12,Nuke,Copa Nacional,
+MATCH-00217,21/12/2025,Arctic Foxes,Zenith,0,3,Mirage,Masters Series,68
+MATCH-00027,25/03/2025,Zenith,Cyber Dragons,15,10,Ascent,Grand Finals,60
+MATCH-00181,25/05/2025,Nova Squad,Vortex Club,12,12,Mirage,CyberLeague S1,41
+MATCH-00342,13/12/2025,Byte Force,Iron Bears,12,1,Bind,Copa Nacional,20
+MATCH-00069,03/04/2025,Omega Team,Dark Wolves,11,7,Nuke,Masters Series,22
+MATCH-00188,05/11/2025,Quantum Five,Dark Wolves,5,1,Nuke,Grand Finals,39
+MATCH-00039,17/06/2026,Blaze Team,Quantum Five,3,13,Nuke,Grand Finals,62
+MATCH-00090,12/09/2026,Eclipse,Crystal Gaming,5,14,Ancient,CyberLeague S1,27
+MATCH-00116,27/02/2025,Vortex Club,Thunder Esports,2,6,Dust2,Grand Finals,53
+MATCH-00269,10/07/2026,Cyber Dragons,Nova Squad,1,2,Nuke,Open Qualifier,22
+MATCH-00087,11/08/2025,Nova Squad,Byte Force,6,8,Ancient,CyberLeague S2,31
+MATCH-00230,24/07/2026,Quantum Five,Raptors GG,8,8,Inferno,CyberLeague S2,68
+MATCH-00311,15/09/2026,Eclipse,Vortex Club,REVISAR MANUALMENTE,16,SIN DATOS,Grand Finals,68
+MATCH-00022,16/02/2025,Quantum Five,Arctic Foxes,10,8,Overpass,Grand Finals,60
+MATCH-00383,23/03/2025,Quantum Five,Quantum Five,10,6,Dust2,Open Qualifier,30
+MATCH-00271,28/06/2025,Zenith,Iron Bears,6,5,Vertigo,,25
+MATCH-00177,13/08/2025,Crystal Gaming,Eclipse,16,1,Dust2,Copa Nacional,26
+MATCH-00274,04/01/2025,Zenith,Cyber Dragons,4,14,Haven,Masters Series,51
+MATCH-00384,18/05/2025,Byte Force,Byte Force,6,6,Ancient,Copa Nacional,30
+MATCH-00004,01/12/2025,Byte Force,Raptors GG,12,14,Overpass,CyberLeague S1,66
+MATCH-00098,02/09/2025,Neon Strikers,Cyber Dragons,12,16,Inferno,Masters Series,68
+MATCH-00316,26/11/2025,Quantum Five,Neon Strikers,14,16,Ascent,Grand Finals,41
+MATCH-00008,03/05/2026,Phoenix Rising,Storm Gaming,3,9,Mirage,Grand Finals,70
+MATCH-00208,12/08/2025,Arctic Foxes,Shadow Legion,1,4,Overpass,CyberLeague S2,42
+MATCH-00064,15/08/2025,Quantum Five,Byte Force,9,4,Nuke,Copa Nacional,56
+MATCH-00273,23/01/2025,Cyber Dragons,Phoenix Rising,0,6,Nuke,CyberLeague S1,50
+MATCH-00264,09/11/2026,Byte Force,Iron Bears,0,10,Haven,Masters Series,22
+MATCH-00255,07/12/2025,Zenith,Crystal Gaming,8,9,Inferno,CyberLeague S2,67
+MATCH-00246,08/02/2026,Blaze Team,Crystal Gaming,3,10,Overpass,Masters Series,41
+MATCH-00070,21/09/2025,Dark Wolves,Omega Team,8,5,Inferno,Grand Finals,44
+MATCH-00261,09/08/2025,Dark Wolves,Vortex Club,14,13,Mirage,CyberLeague S1,27
+MATCH-00347,07/04/2025,Thunder Esports,Raptors GG,3,10,Bind,CyberLeague S1,7
+MATCH-00218,12/02/2026,Eclipse,Vortex Club,0,8,Haven,Grand Finals,30
+MATCH-00006,23/08/2025,Byte Force,Omega Team,13,5,Vertigo,Open Qualifier,58
+MATCH-00253,14/02/2025,Blaze Team,Nova Squad,5,12,Overpass,CyberLeague S2,44
+MATCH-00284,05/08/2025,Zenith,Thunder Esports,16,2,Ascent,CyberLeague S1,25
+MATCH-00374,16/10/2025,Crystal Gaming,Neon Strikers,15,9,Overpass,Grand Finals,REVISAR MANUALMENTE
+MATCH-00044,27/03/2026,Neon Strikers,Dark Wolves,3,8,Mirage,Masters Series,59
+MATCH-00030,11/09/2026,Arctic Foxes,Iron Bears,4,10,Ancient,Open Qualifier,51
+MATCH-00295,05/10/2025,Nova Squad,Eclipse,16,14,Haven,Grand Finals,68
+MATCH-00085,13/08/2026,Thunder Esports,Quantum Five,15,7,Overpass,Grand Finals,68
+MATCH-00048,23/10/2025,Thunder Esports,Titan Esports,11,4,Nuke,CyberLeague S2,65
+MATCH-00123,11/01/2026,Raptors GG,Dark Wolves,4,10,Overpass,Open Qualifier,52
+MATCH-00040,17/03/2026,Thunder Esports,Dark Wolves,15,5,Dust2,Grand Finals,24
+MATCH-00041,15/08/2026,Raptors GG,Eclipse,14,2,Nuke,CyberLeague S1,74
+MATCH-00325,28/05/2025,Nova Squad,Storm Gaming,16,15,Dust2,Grand Finals,33
+MATCH-00047,15/05/2025,Storm Gaming,Arctic Foxes,4,13,Bind,Copa Nacional,58
+MATCH-00161,11/11/2025,Omega Team,Eclipse,14,REVISAR MANUALMENTE,Mirage,Grand Finals,21
+MATCH-00209,02/02/2025,Shadow Legion,Cyber Dragons,4,14,Mirage,CyberLeague S2,36
+MATCH-00370,24/11/2026,Iron Bears,Neon Strikers,2,10,Mirage,Open Qualifier,75
+MATCH-00045,19/11/2025,Neon Strikers,Zenith,14,14,Dust2,Grand Finals,62
+MATCH-00326,06/08/2025,Crystal Gaming,Omega Team,11,16,Haven,Open Qualifier,64
+MATCH-00157,09/05/2026,Titan Esports,Omega Team,10,14,Nuke,CyberLeague S2,62
+MATCH-00118,11/06/2026,Shadow Legion,Blaze Team,10,11,Vertigo,Masters Series,46
+MATCH-00368,26/10/2026,Arctic Foxes,Titan Esports,1,4,Mirage,Open Qualifier,51
+MATCH-00267,13/08/2026,Omega Team,Thunder Esports,8,13,Nuke,Masters Series,25
+MATCH-00220,23/12/2025,Nova Squad,Arctic Foxes,3,11,Overpass,Grand Finals,72
+MATCH-00142,13/12/2026,Zenith,Omega Team,5,12,Inferno,Open Qualifier,55
+MATCH-00147,16/05/2025,Byte Force,Zenith,3,8,Ancient,CyberLeague S1,41
+MATCH-00258,13/10/2025,Dark Wolves,Phoenix Rising,12,11,Overpass,Open Qualifier,28
+MATCH-00240,26/06/2025,Crystal Gaming,Iron Bears,9,16,Bind,CyberLeague S2,71
+MATCH-00182,04/08/2025,Titan Esports,Eclipse,13,6,Mirage,Grand Finals,59
+MATCH-00225,04/02/2026,Quantum Five,Storm Gaming,0,16,Ancient,Open Qualifier,33
+MATCH-00094,04/11/2026,Dark Wolves,Storm Gaming,10,8,Overpass,Masters Series,43
+MATCH-00235,16/05/2026,Shadow Legion,Thunder Esports,12,11,Dust2,Masters Series,69
+MATCH-00362,23/03/2025,Eclipse,Shadow Legion,6,15,Mirage,Copa Nacional,31
+MATCH-00215,21/07/2025,Blaze Team,Raptors GG,13,5,Inferno,CyberLeague S1,55
+MATCH-00312,23/04/2026,Byte Force,Quantum Five,2,7,Dust2,Grand Finals,32
+MATCH-00348,10/07/2026,Omega Team,Dark Wolves,15,3,Inferno,CyberLeague S2,65
+MATCH-00128,11/01/2025,Neon Strikers,Nova Squad,6,6,Haven,Masters Series,54
+MATCH-00363,20/11/2025,Titan Esports,Arctic Foxes,5,2,Bind,Masters Series,38
+MATCH-00190,06/07/2025,Byte Force,Cyber Dragons,5,14,Overpass,CyberLeague S2,REVISAR MANUALMENTE
+MATCH-00328,19/04/2025,Arctic Foxes,Iron Bears,14,16,Ancient,Copa Nacional,59
+MATCH-00372,10/01/2025,Nova Squad,Eclipse,6,12,Vertigo,Grand Finals,47
+MATCH-00028,05/02/2026,Shadow Legion,Quantum Five,13,13,Mirage,Masters Series,45
+MATCH-00137,25/07/2025,Shadow Legion,Storm Gaming,8,13,Nuke,CyberLeague S1,34
+MATCH-00377,10/08/2025,Blaze Team,Cyber Dragons,6,6,Haven,Grand Finals,71
+MATCH-00291,13/09/2026,Zenith,Byte Force,16,12,Ascent,Grand Finals,75
+MATCH-00194,02/11/2025,Iron Bears,Crystal Gaming,11,9,Mirage,CyberLeague S2,33
+MATCH-00074,06/08/2025,Titan Esports,Iron Bears,13,4,Vertigo,Masters Series,70
+MATCH-00065,24/11/2025,Eclipse,Vortex Club,15,14,Ascent,CyberLeague S2,48
+MATCH-00337,24/08/2025,Neon Strikers,Shadow Legion,12,6,Ancient,Masters Series,28
+MATCH-00080,04/03/2025,Neon Strikers,Vortex Club,16,12,Haven,Grand Finals,70
+MATCH-00366,28/02/2026,Raptors GG,Cyber Dragons,8,7,Dust2,Open Qualifier,
+MATCH-00263,22/08/2025,Shadow Legion,Zenith,10,0,Inferno,CyberLeague S2,38
+MATCH-00352,02/09/2025,Nova Squad,Omega Team,7,12,Nuke,CyberLeague S2,53
+MATCH-00005,03/08/2025,Iron Bears,Quantum Five,9,0,Nuke,CyberLeague S2,40
+MATCH-00133,15/06/2026,Cyber Dragons,Zenith,4,6,Overpass,Open Qualifier,61
+MATCH-00066,21/12/2025,Cyber Dragons,Blaze Team,2,0,Nuke,Copa Nacional,REVISAR MANUALMENTE
+MATCH-00304,06/01/2026,Titan Esports,Quantum Five,2,9,Ancient,Copa Nacional,25

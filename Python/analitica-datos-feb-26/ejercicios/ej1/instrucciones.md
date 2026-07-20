@@ -1,0 +1,7 @@
+# EJERCICIO 1: FUNCIÓN QUE CLASIFICA UNA LISTA DE NÚMEROS
+
+# numeros = [4, -2, 0, 7, -5, 0, 3, -1, 8, 0, -9, 6]
+
+ - Crea una función clasificar_numeros(lista) que reciba una lista de números y devuelva tres listas: positivos, negativos y ceros.
+ - Crea también una función estadisticas(lista) que devuelva la suma, el mayor numero, menor numero y la media
+

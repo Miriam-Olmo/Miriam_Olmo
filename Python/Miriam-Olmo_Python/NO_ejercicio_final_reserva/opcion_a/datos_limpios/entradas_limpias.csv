@@ -1,0 +1,401 @@
+id_venta,nombre_comprador,email,dni,tipo_entrada,precio,fecha_compra,metodo_pago
+VNT-00189,  Guillermo Jiménez ,guillermo.jimenez@yahoo.es,21507650,General,65.0,22/05/2026,PayPal
+VNT-00298,Gloria Ortiz,gloria.ortiz@musica.es,,Gral,74.0,14/01/2026,PayPal
+VNT-00092,Pilar Reyes,pilar.reyes@outlook.com,57688529K,premium,117.0,27/05/2026,Transfer.
+VNT-00295,Rocío Suárez,rocio.suarez@hotmail.com,20739561L,VIP,158.0,FECHA INVÁLIDA,PayPal
+VNT-00072,Gloria Ortiz,gloria.ortiz@outlook.com,65559839H,General,91.0,11/05/2026,Tarjeta de crédito
+VNT-00132,Sara Navarro,sara.navarro@outlook.com,N/A,General,99999.0,2026/05/17,Pay Pal
+VNT-00373,  María López ,maria.lopez@outlook.com,28805567E,VIP,155.0,2026/02/25,Visa
+VNT-00268,Teresa Méndez,teresa.mendez@management.com,X9418218R,Gral.,51.0,12/01/2026,BIZUM
+VNT-00197,Gloria Ortiz,gloria.ortiz@management.com,46147308,Gral.,51.0,15/04/2026,Efectivo
+VNT-00312,Antonio Muñoz,antonio.munoz@musica.es,54667809Y,premium,132.0,24/06/2026,BIZUM
+VNT-00125,Rosa Cruz,rosa.cruz@hotmail.com,N/A,Premium,95.0,FECHA INVÁLIDA,metalico
+VNT-00234,  María López ,maria.lopez@management.com,81611045F,Prémium,91.0,15/05/26,Cash
+VNT-00087,Laura González,n/a,49124904D,VIP,188.0,05/06/2026,transferencia
+VNT-00202,Natalia Iglesias,natalia.iglesias@gmail.com,74103912M,PREMIUM,121.0,15/03/2026,Efectivo
+VNT-00124,  FRANCISCO PEREZ ,francisco.perez@outlook.com,39508245J,Prémium,107.0,06/04/2026,tarjeta credito
+VNT-00419,Andrea Ortega,andrea.ortega@yahoo.es,46210517K,Prémium,130.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00201,Rafael Delgado,rafael.delgado@yahoo.es,67179047A,Premium,117.0,06/05/2026,transferencia bancaria
+VNT-00144,Alberto Medina,alberto.medina@outlook.com,46685578V,Premiun,94.0,01/01/2026,PayPal
+VNT-00057,Adrián Calvo,adrian.calvo@musica.es,15168989,Gral.,75.0,17/05/2026,Pay Pal
+VNT-00286,Juan Moreno,juan.moreno@hotmail.com,78786599F,VIP,146.0,06/06/26,Efectivo
+VNT-00351,Sandra Cabrera,sandra.cabrera@gmail.com,90776943,General,91.0,05/01/2026,Metálico
+VNT-00116,Guillermo Jiménez,guillermo.jimenez@hotmail.com,84277128,VIP,151.0,06/04/2026,transferencia
+VNT-00391,Patricia Romero,patricia.romero@yahoo.es,68536768B,VIP,-152.0,16/04/2026,Efectivo
+VNT-00138,Mario Girón,mario.giron@musica.es,X9378825S,General,73.0,04/03/2026,Efectivo
+VNT-00137,Lucía Díaz,sin email,59616555A,premium,100.0,FECHA INVÁLIDA,Metálico
+VNT-00136,Francisco Pérez,francisco.perez@yahoo.es,71193423M,General,100.0,05/01/2026,metalico
+VNT-00071,Marta Vázquez,marta.vazquez@yahoo.es,13908068Z,premium,-139.0,FECHA INVÁLIDA,PayPal
+VNT-00018,Raúl Herrero,raul.herrero@outlook.com,67772049L,General,80.0,FECHA INVÁLIDA,PayPal
+VNT-00185,Guillermo Jiménez,guillermo.jimenez@musica.es,21327835G,Gral,97.0,26/03/26,bizum
+VNT-00156,Miguel Rodríguez,miguel.rodriguez@hotmail.com,23245372-P,VIP,153.0,01/05/2026,TRANSFERENCIA
+VNT-00229,Carlos Martínez,carlos.martinez@gmail.com,80166008Z,premium,97.0,19/03/2026,PayPal
+VNT-00227,Lola Flores,lola.flores@outlook.com,80632831Y,Gral,99999.0,FECHA INVÁLIDA,Tarjeta
+VNT-00332,Antonio Muñoz,antonio.munoz@musica.es,86793756J,V.I.P.,151.0,2026/04/4,Tarjeta de crédito
+VNT-00322,Eva Garrido,,97283256M,PREMIUM,131.0,03/06/2026,Efectivo
+VNT-00172,  guillermo jimenez ,guillermo.jimenez@hotmail.com,79171687Y,Gral,69.0,13/04/2026,Transferencia
+VNT-00311,Alberto Medina,alberto.medina@management.com,13922081C,VIP,153.0,04/01/26,Cash
+VNT-00035,Rocío Suárez,rocio.suarez@hotmail.com,57288136N,V.I.P.,175.0,20/05/26,Efectivo
+VNT-00364,Sergio León,sergio.leon@outlook.com,X4802977E,VIP,146.0,FECHA INVÁLIDA,Tarjeta
+VNT-00214,María López,maria.lopez@musica.es,67796900F,General,93.0,FECHA INVÁLIDA,PayPal
+VNT-00406,Sandra Cabrera,sandra.cabrera@yahoo.es,91882291M,Premium,99.0,FECHA INVÁLIDA,Visa
+VNT-00263,  Pedro Sánchez ,pedro.sanchez@yahoo.es,42822896-R,VIP,152.0,FECHA INVÁLIDA,Metálico
+VNT-00276,David Ruiz,david.ruiz@outlook.com,37713235C,General,60.0,FECHA INVÁLIDA,BIZUM
+VNT-00122,Sandra Cabrera,sandra.cabrera@gmail.com,65377624D,General,97.0,FECHA INVÁLIDA,Efectivo
+VNT-00390,Lucía Díaz,lucia.diaz@musica.es,52181984K,VIP,162.0,14/02/2026,Efectivo
+VNT-00261,Juan Moreno,juan.moreno@hotmail.com,84424395C,General,51.0,24/03/2026,
+VNT-00325,Sandra Cabrera,sandra.cabrera@gmail.com,34150810L,Premium,138.0,28/02/2026,Tarjeta
+VNT-00151,  David Ruiz ,david.ruiz@musica.es,N/A,VIP,154.0,23/05/2026,Transfer.
+VNT-00001,Luis Fuentes,luis.fuentes@outlook.com,71585593W,Premiun,134.0,25/02/2026,Pay Pal
+VNT-00120,Mario Girón,mario.giron@outlook.com,15786878T,VIP,147.0,06/04/26,Efectivo
+VNT-00226,Mario Girón,mario.giron@management.com,88164250Y,premium,133.0,04/02/26,Transfer.
+VNT-00089,Rosa Cruz,rosa.cruz@gmail.com,67943873X,VIP,185.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00052,Teresa Méndez,teresa.mendez@hotmail.com,85812116J,VIP,184.0,25/04/26,PayPal
+VNT-00105,Manuel Torres,manuel.torres@outlook.com,53406567I,premium,130.0,22/06/2026,Tarjeta
+VNT-00061,Clara Cano,clara.cano@yahoo.es,78674708T,VIP,145.0,FECHA INVÁLIDA,Tarjeta de crédito
+VNT-00021,Nuria Gallego,,23726915T,PREMIUM,121.0,2026/05/1,transferencia
+VNT-00262,María López,maria.lopez@hotmail.com,59976005D,VIP,181.0,15/03/2026,Bisum
+VNT-00271,Tomás Soto,tomas.soto@outlook.com,21526062V,General,83.0,FECHA INVÁLIDA,Cash
+VNT-00157,Lucía Díaz,lucia.diaz@musica.es,52181984K,VIP,162.0,14/02/2026,Efectivo
+VNT-00287,Juan Moreno,juan.moreno@yahoo.es,97777422Y,PREMIUM,117.0,06/03/2026,Bisum
+VNT-00066,Diego Rubio,diego.rubio@gmail.com,59468550A,Premiun,119.0,25/01/2026,Cash
+VNT-00131,Irene Prieto,irene.prieto@outlook.com,38158070N,VIP,161.0,FECHA INVÁLIDA,Efectivo
+VNT-00259,Paula Gil,-,38606966V,General,81.0,08/06/2026,tarjeta credito
+VNT-00212,Antonio Muñoz,antonio.munoz@outlook.com,62394739N,PREMIUM,128.0,10/02/2026,PayPal
+VNT-00296,Rocío Suárez,rocio.suarez@outlook.com,21171324P,PREMIUM,138.0,25/01/2026,bizum
+VNT-00211,Rosa Cruz,rosa.cruz@outlook.com,48656152C,General,81.0,FECHA INVÁLIDA,Visa
+VNT-00063,Carmen Hernández,correo@,N/A,VIP,179.0,FECHA INVÁLIDA,Tarjeta
+VNT-00013,Daniel Castro,daniel.castro@outlook.com,70436720W,Premiun,128.0,24/03/2026,PayPal
+VNT-00188,Lola Flores,lola.flores@hotmail.com,47979220-R,General,97.0,FECHA INVÁLIDA,Pay Pal
+VNT-00281,Miguel Rodríguez,miguel.rodriguez@gmail.com,71995701C,Gral,78.0,01/04/26,Bisum
+VNT-00047,Javier Domínguez,javier.dominguez@gmail.com,98983888,PREMIUM,99999.0,13/01/2026,Transferencia
+VNT-00257,Marta Vázquez,marta.vazquez@hotmail.com,85088096X,General,50.0,FECHA INVÁLIDA,PayPal
+VNT-00010,  david ruiz ,david.ruiz@yahoo.es,44589898M,General,90.0,12/03/2026,Bisum
+VNT-00127,Alberto Medina,,39260335W,premium,118.0,24/06/26,Tarjeta
+VNT-00363,Miguel Rodríguez,miguel.rodriguez@outlook.com,30738427P,General,62.0,10/02/2026,Tarjeta de crédito
+VNT-00313,Lola Flores,lola.flores@outlook.com,49054205N,Premium,131.0,08/02/2026,Bizum
+VNT-00037,Javier Domínguez,javier.dominguez@hotmail.com,47038339R,Prémium,-109.0,01/03/2026,
+VNT-00088,Luis Fuentes,luis.fuentes@gmail.com,78507933,Premiun,117.0,01/05/2026,PayPal
+VNT-00349,Sara Navarro,,53169737,General,65.0,2026/01/2,Bisum
+VNT-00016,  DAVID RUIZ ,david.ruiz@musica.es,82381952T,premium,110.0,18/03/2026,PayPal
+VNT-00077,  Silvia Castillo ,silvia.castillo@yahoo.es,98447373J,General,93.0,2026/04/2,Tarjeta
+VNT-00339,Rafael Delgado,rafael.delgado@gmail.com,45534249E,VIP,183.0,10/03/2026,PayPal
+VNT-00015,Silvia Castillo,correo sin arroba.com,48141360Z,VIP,156.0,08/03/2026,Tarjeta
+VNT-00379,  MARTA VAZQUEZ ,marta.vazquez@outlook.com,23070100-L,General,75.0,FECHA INVÁLIDA,PayPal
+VNT-00245,Inés Pastor,ines.pastor@gmail.com,47733231C,VIP,169.0,24/02/26,Tarjeta
+VNT-00356,Antonio Muñoz,-,47279846,General,57.0,2026/03/2,Transferencia
+VNT-00003,Víctor Blanco,victor.blanco@musica.es,X9371819G,premium,120.0,FECHA INVÁLIDA,metalico
+VNT-00183,Luis Fuentes,correo sin arroba.com,N/A,VIP,184.0,24/05/2026,Efectivo
+VNT-00273,Alicia Vega,,54325475-G,Prémium,109.0,FECHA INVÁLIDA,Transfer.
+VNT-00403,  gloria ortiz ,gloria.ortiz@outlook.com,65559839H,General,91.0,11/05/2026,Tarjeta de crédito
+VNT-00323,Carmen Hernández,carmen.hernandez@musica.es,22690720,Prémium,-104.0,09/04/2026,Transfer.
+VNT-00377,Clara Cano,clara.cano@yahoo.es,82688015W,General,56.0,08/01/2026,Tarjeta
+VNT-00307,Daniel Castro,daniel.castro@yahoo.es,63929804Q,General,74.0,01/01/2026,Bizum
+VNT-00360,Rocío Suárez,rocio.suarez@hotmail.com,34213769G,General,81.0,2026/02/19,Tarjeta
+VNT-00113,Mario Girón,mario.giron@gmail.com,97755782D,Premium,99.0,24/01/2026,transferencia bancaria
+VNT-00367,Alejandro Molina,alejandro.molina@management.com,29950518X,General,92.0,26/01/2026,BIZUM
+VNT-00337,Alicia Vega,alicia.vega@management.com,81715863Z,PREMIUM,-115.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00174,Isabel Gómez,isabel.gomez@gmail.com,N/A,PREMIUM,117.0,07/06/2026,PayPal
+VNT-00025,Marta Vázquez,marta.vazquez@gmail.com,26059096G,VIP,147.0,FECHA INVÁLIDA,Efectivo
+VNT-00039,Diego Rubio,diego.rubio@musica.es,54881018L,VIP,181.0,FECHA INVÁLIDA,Transferencia
+VNT-00029,Adrián Calvo,adrian.calvo@yahoo.es,95634408V,Prémium,94.0,FECHA INVÁLIDA,metalico
+VNT-00084,Pedro Sánchez,pedro.sanchez@hotmail.com,61514973-R,Premium,115.0,06/05/26,bizum
+VNT-00246,Nuria Gallego,nuria.gallego@gmail.com,X4507886F,Premium,104.0,FECHA INVÁLIDA,metalico
+VNT-00321,  gloria ortiz ,gloria.ortiz@musica.es,,General,61.0,FECHA INVÁLIDA,bizum
+VNT-00378,Raúl Herrero,no disponible,85663810B,VIP,152.0,19/01/2026,Transferencia
+VNT-00145,Óscar Herrera,oscar.herrera@outlook.com,N/A,V.I.P.,151.0,27/01/2026,Metálico
+VNT-00123,Sandra Cabrera,sandra.cabrera@outlook.com,36059032T,General,63.0,05/03/26,Efectivo
+VNT-00191,Mario Girón,mario.giron@yahoo.es,85102924A,Premium,90.0,22/04/2026,Tarjeta
+VNT-00282,  CRISTINA RAMOS ,cristina.ramos@management.com,21079489N,Gral.,95.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00341,Alejandro Molina,alejandro.molina@hotmail.com,30630696D,VIP,-162.0,17/01/2026,
+VNT-00094,Sandra Cabrera,sandra.cabrera@yahoo.es,91882291M,Premium,99.0,FECHA INVÁLIDA,Visa
+VNT-00162,Roberto Cortés,roberto.cortes@management.com,,General,57.0,01/02/2026,tarjeta credito
+VNT-00184,Lucía Díaz,lucia.diaz@yahoo.es,43501223N,Prémium,90.0,03/05/2026,Metálico
+VNT-00049,  LOLA FLORES ,lola.flores@hotmail.com,57698045,VIP,159.0,2026/01/12,transferencia
+VNT-00074,Óscar Herrera,oscar.herrera@management.com,65548633J,VIP,147.0,23/03/2026,transferencia
+VNT-00011,Pilar Reyes,pilar.reyes@hotmail.com,78510704C,Premiun,126.0,12/03/2026,Efectivo
+VNT-00070,Carmen Hernández,carmen.hernandez@musica.es,37002880C,VIP,166.0,2026/06/7,TRANSFERENCIA
+VNT-00250,Sara Navarro,sara.navarro@gmail.com,40283277L,Premiun,-110.0,26/05/2026,bizum
+VNT-00348,Laura González,laura.gonzalez@hotmail.com,18234220G,Gral.,83.0,FECHA INVÁLIDA,Bizum
+VNT-00076,Alberto Medina,alberto.medina@gmail.com,37539747-K,Premium,139.0,22/05/2026,Pay Pal
+VNT-00389,Javier Domínguez,javier.dominguez@management.com,75987927K,General,54.0,06/03/2026,Cash
+VNT-00285,  fernando morales ,fernando.morales@hotmail.com,12152643H,VIP,189.0,08/03/2026,Tarjeta
+VNT-00099,Isabel Gómez,isabel.gomez@hotmail.com,32452379G,VIP,188.0,15/06/26,Bizum
+VNT-00081,Paula Gil,paula.gil@outlook.com,72850928S,Premium,95.0,05/05/2026,TRANSFERENCIA
+VNT-00168,Patricia Romero,no disponible,82265081S,General,55.0,11/01/2026,Transfer.
+VNT-00366,  Paula Gil ,paula.gil@yahoo.es,30162191,VIP,178.0,2026/05/6,Tarjeta de crédito
+VNT-00165,David Ruiz,david.ruiz@musica.es,82396020,VIP,185.0,16/06/2026,Pay Pal
+VNT-00331,  Sara Navarro ,sara.navarro@yahoo.es,40301728R,V.I.P.,99999.0,25/03/2026,Transferencia
+VNT-00024,Carlos Martínez,carlos.martinez@outlook.com,X1707762W,Prémium,123.0,10/06/2026,Tarjeta
+VNT-00053,  Tomás Soto ,tomas.soto@outlook.com,95476210J,General,-96.0,2026/04/10,Efectivo
+VNT-00300,Lola Flores,lola.flores@hotmail.com,98933292,premium,106.0,08/03/2026,Efectivo
+VNT-00365,Javier Domínguez,javier.dominguez@gmail.com,40134894-D,Premium,133.0,2026/04/6,BIZUM
+VNT-00067,Pedro Sánchez,pedro.sanchez@outlook.com,92148463,VIP,184.0,07/05/2026,Tarjeta de crédito
+VNT-00150,Alicia Vega,alicia.vega@hotmail.com,60065117L,Gral,56.0,FECHA INVÁLIDA,PayPal
+VNT-00031,N/A,n/a,24368701V,VIP,173.0,FECHA INVÁLIDA,Tarjeta
+VNT-00309,Carlos Martínez,carlos.martinez@outlook.com,56752592N,Premiun,133.0,20/06/2026,Pay Pal
+VNT-00146,  ANTONIO MUÑOZ ,antonio.munoz@management.com,48612968,VIP,156.0,04/04/2026,Cash
+VNT-00203,Marta Vázquez,marta.vazquez@gmail.com,65434526D,Premium,108.0,04/05/2026,BIZUM
+VNT-00060,Lucía Díaz,lucia.diaz@gmail.com,37102854J,Premiun,98.0,15/02/2026,TRANSFERENCIA
+VNT-00225,Clara Cano,clara.cano@hotmail.com,94254420Y,General,86.0,FECHA INVÁLIDA,PayPal
+VNT-00041,  isabel gomez ,isabel.gomez@gmail.com,62925057R,premium,118.0,14/02/2026,BIZUM
+VNT-00161,  Cristina Ramos ,cristina.ramos@musica.es,96413557M,General,67.0,25/03/2026,Bisum
+VNT-00336,  sergio león ,no disponible,N/A,Premiun,95.0,16/05/2026,Cash
+VNT-00104,Adrián Calvo,adrian.calvo@gmail.com,96960449Q,VIP,180.0,05/05/2026,Transferencia
+VNT-00045,Raúl Herrero,raul.herrero@hotmail.com,N/A,V.I.P.,99999.0,01/03/2026,Visa
+VNT-00100,Raúl Herrero,raul.herrero@management.com,62354374V,VIP,169.0,2026/05/8,Efectivo
+VNT-00033,Beatriz Aguilar,beatriz.aguilar@yahoo.es,50789378C,General,100.0,02/05/2026,PayPal
+VNT-00370,Antonio Muñoz,antonio.munoz@management.com,58547818F,Premium,123.0,FECHA INVÁLIDA,Bizum
+VNT-00148,Tomás Soto,tomas.soto@management.com,46597195T,General,99999.0,FECHA INVÁLIDA,metalico
+VNT-00014,Francisco Pérez,n/a,73509922J,Prémium,137.0,04/04/2026,PayPal
+VNT-00152,  Pedro Sánchez ,pedro.sanchez@hotmail.com,55908520M,VIP,170.0,2026/04/20,Tarjeta
+VNT-00371,Alberto Medina,alberto.medina@hotmail.com,84021128N,VIP,162.0,FECHA INVÁLIDA,Tarjeta
+VNT-00101,  ROCÍO SUÁREZ ,rocio.suarez@gmail.com,67953319,Gral.,93.0,2026/01/18,BIZUM
+VNT-00352,Luis Fuentes,@dominio.com,73645847P,VIP,185.0,11/05/2026,Efectivo
+VNT-00173,Silvia Castillo,silvia.castillo@outlook.com,92466364Q,Premiun,103.0,21/03/2026,bizum
+VNT-00279,Lola Flores,lola.flores@musica.es,98460225P,General,61.0,14/06/2026,Transfer.
+VNT-00147,Clara Cano,sin email,44616300A,VIP,171.0,16/05/2026,PayPal
+VNT-00368,Fernando Morales,fernando.morales@yahoo.es,27117558Y,General,57.0,FECHA INVÁLIDA,Tarjeta
+VNT-00302,Tomás Soto,tomas.soto@yahoo.es,63414658W,PREMIUM,96.0,09/02/2026,Tarjeta
+VNT-00034,Hugo Guerrero,hugo.guerrero@hotmail.com,24161873M,VIP,182.0,24/05/26,Transfer.
+VNT-00154,Carlos Martínez,carlos.martinez@yahoo.es,11378737Q,VIP,99999.0,03/01/2026,transferencia bancaria
+VNT-00314,Sandra Cabrera,sandra.cabrera@outlook.com,18306055X,Prémium,126.0,FECHA INVÁLIDA,Visa
+VNT-00178,Patricia Romero,patricia.romero@management.com,24336334B,General,87.0,FECHA INVÁLIDA,PayPal
+VNT-00197,Gloria Ortiz,gloria.ortiz@management.com,46147308,Gral.,51.0,15/04/2026,Efectivo
+VNT-00007,  Sandra Cabrera ,sandra.cabrera@yahoo.es,34684475S,Gral,66.0,FECHA INVÁLIDA,transferencia
+VNT-00004,Manuel Torres,manuel.torres@gmail.com,76124358-Q,VIP,179.0,22/01/2026,Metálico
+VNT-00198,Clara Cano,clara.cano@musica.es,,General,96.0,07/02/26,PayPal
+VNT-00170,Elena Álvarez,elena.alvarez@outlook.com,20109437,Prémium,100.0,FECHA INVÁLIDA,PayPal
+VNT-00266,Felipe Carrasco,felipe.carrasco@hotmail.com,60611218P,Prémium,103.0,07/04/2026,Tarjeta
+VNT-00062,Inés Pastor,ines.pastor@hotmail.com,66315301J,General,92.0,25/02/2026,TRANSFERENCIA
+VNT-00107,Elena Álvarez,N/A,69845276A,VIP,185.0,24/05/2026,bizum
+VNT-00079,Hugo Guerrero,hugo.guerrero@musica.es,92310750C,General,59.0,06/02/2026,PayPal
+VNT-00068,Sergio León,sergio.leon@management.com,52478375,V.I.P.,186.0,14/03/26,bizum
+VNT-00228,Sergio León,sergio.leon@hotmail.com,71433172W,General,96.0,05/05/2026,bizum
+VNT-00069,Eva Garrido,eva.garrido@hotmail.com,10212187-A,Premium,121.0,10/06/2026,Bisum
+VNT-00223,Tomás Soto,@dominio.com,95320264F,VIP,174.0,17/03/2026,Transferencia
+VNT-00345,Alejandro Molina,alejandro.molina@musica.es,48851553J,PREMIUM,93.0,01/06/2026,Efectivo
+VNT-00362,Rafael Delgado,rafael.delgado@hotmail.com,29144226Y,VIP,188.0,25/02/2026,Tarjeta
+VNT-00242,Teresa Méndez,teresa.mendez@outlook.com,53169555,PREMIUM,130.0,FECHA INVÁLIDA,Pay Pal
+VNT-00278,Cristina Ramos,cristina.ramos@outlook.com,22227594A,V.I.P.,161.0,19/04/2026,TRANSFERENCIA
+VNT-00297,Natalia Iglesias,n/a,35451146G,General,85.0,16/06/2026,BIZUM
+VNT-00181,Diego Rubio,diego.rubio@outlook.com,X6048065W,Premium,124.0,FECHA INVÁLIDA,Tarjeta
+VNT-00290,Roberto Cortés,,,VIP,177.0,FECHA INVÁLIDA,transferencia
+VNT-00210,Eva Garrido,eva.garrido@hotmail.com,66640491S,Prémium,133.0,02/06/26,transferencia bancaria
+VNT-00119,Laura González,laura.gonzalez@gmail.com,82440371,Gral.,-76.0,FECHA INVÁLIDA,Pay Pal
+VNT-00090,Rafael Delgado,rafael.delgado@hotmail.com,N/A,Gral,63.0,13/05/2026,TRANSFERENCIA
+VNT-00338,Felipe Carrasco,felipe.carrasco@management.com,59264742K,premium,92.0,08/05/26,Transferencia
+VNT-00121,Manuel Torres,manuel.torres@hotmail.com,79109207V,General,56.0,26/02/2026,Tarjeta
+VNT-00051,Silvia Castillo,silvia.castillo@yahoo.es,27686156K,premium,116.0,11/05/2026,Metálico
+VNT-00335,Alejandro Molina,alejandro.molina@management.com,21669195,PREMIUM,107.0,FECHA INVÁLIDA,PayPal
+VNT-00301,Clara Cano,clara.cano@musica.es,67293719C,General,95.0,2026/02/14,Bisum
+VNT-00236,Manuel Torres,sin email,50000149M,VIP,166.0,01/02/26,PayPal
+VNT-00254,Ana Fernández,ana.fernandez@musica.es,61528873D,Gral,56.0,FECHA INVÁLIDA,Bizum
+VNT-00058,  LUIS FUENTES ,luis.fuentes@musica.es,16616323G,V.I.P.,174.0,17/04/2026,Transfer.
+VNT-00055,Marcos Peña,marcos.pena@hotmail.com,64839908X,Premium,101.0,2026/02/7,Pay Pal
+VNT-00265,Raúl Herrero,raul.herrero@management.com,76409861,Premiun,121.0,2026/03/17,PayPal
+VNT-00342,Alberto Medina,alberto.medina@yahoo.es,68969458,General,77.0,15/01/2026,PayPal
+VNT-00171,Marta Vázquez,tiene espacios @correo.com,19028796E,Gral.,89.0,19/01/2026,Cash
+VNT-00260,Víctor Blanco,victor.blanco@gmail.com,14028892L,Prémium,103.0,01/03/2026,bizum
+VNT-00405,Luis Fuentes,correo sin arroba.com,N/A,VIP,184.0,24/05/2026,Efectivo
+VNT-00129,Andrea Ortega,andrea.ortega@yahoo.es,46210517K,Prémium,130.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00114,Diego Rubio,diego.rubio@gmail.com,89328380Z,VIP,0.0,20/04/2026,Efectivo
+VNT-00299,Manuel Torres,manuel.torres@yahoo.es,66913730,premium,122.0,FECHA INVÁLIDA,N/A
+VNT-00219,Silvia Castillo,silvia.castillo@outlook.com,13994712,VIP,167.0,26/05/2026,Efectivo
+VNT-00140,  ROSA CRUZ ,rosa.cruz@hotmail.com,17386489F,Prémium,97.0,FECHA INVÁLIDA,transferencia bancaria
+VNT-00160,Mario Girón,mario.giron@gmail.com,36720922L,V.I.P.,165.0,FECHA INVÁLIDA,Metálico
+VNT-00408,  ÓSCAR HERRERA ,oscar.herrera@musica.es,15082158T,Prémium,135.0,12/05/2026,metalico
+VNT-00192,Eva Garrido,eva.garrido@hotmail.com,27162621N,Gral,55.0,2026/03/4,metalico
+VNT-00128,  LAURA GONZALEZ ,laura.gonzalez@management.com,72244899-J,premium,100.0,FECHA INVÁLIDA,PayPal
+VNT-00270,Felipe Carrasco,felipe.carrasco@outlook.com,73351303,General,72.0,25/05/2026,Pay Pal
+VNT-00252,  esther campos ,tiene espacios @correo.com,93932889O,Gral.,100.0,15/05/2026,Transferencia
+VNT-00258,Juan Moreno,juan.moreno@management.com,87632976,VIP,161.0,20/04/26,Tarjeta de crédito
+VNT-00004,Manuel Torres,manuel.torres@gmail.com,76124358-Q,VIP,179.0,22/01/2026,Metálico
+VNT-00255,Alicia Vega,alicia.vega@gmail.com,35986503J,Gral.,71.0,23/05/2026,transferencia bancaria
+VNT-00218,Inés Pastor,ines.pastor@yahoo.es,58404738U,VIP,161.0,FECHA INVÁLIDA,bizum
+VNT-00027,Isabel Gómez,isabel.gomez@management.com,,VIP,171.0,FECHA INVÁLIDA,Efectivo
+VNT-00304,Carmen Hernández,carmen.hernandez@hotmail.com,94132688J,VIP,99999.0,28/03/2026,metalico
+VNT-00207,  Juan Moreno ,juan.moreno@management.com,N/A,VIP,141.0,14/02/2026,Efectivo
+VNT-00023,Inés Pastor,ines.pastor@outlook.com,43415162-V,Premiun,101.0,04/01/2026,bizum
+VNT-00026,Sandra Cabrera,n/a,55422244,General,59.0,03/04/2026,Transferencia
+VNT-00357,Patricia Romero,patricia.romero@musica.es,83722452Z,V.I.P.,-147.0,11/03/2026,Transfer.
+VNT-00159,Javier Domínguez,javier.dominguez@management.com,75987927K,General,54.0,06/03/2026,Cash
+VNT-00180,Andrea Ortega,andrea.ortega@gmail.com,43954789,VIP,142.0,FECHA INVÁLIDA,TRANSFERENCIA
+VNT-00230,Andrea Ortega,andrea.ortega@outlook.com,,General,100.0,10/01/2026,Tarjeta
+VNT-00283,Francisco Pérez,francisco.perez@hotmail.com,62458932V,General,60.0,04/03/2026,metalico
+VNT-00417,Sergio León,sergio.leon@outlook.com,70720566M,Premiun,128.0,FECHA INVÁLIDA,PayPal
+VNT-00175,Patricia Romero,patricia.romero@yahoo.es,68536768B,VIP,-152.0,16/04/2026,Efectivo
+VNT-00177,Pablo Santos,pablo.santos@hotmail.com,77142220J,Premium,115.0,2026/02/4,Visa
+VNT-00361,Luis Fuentes,-,23453152-Y,General,99999.0,21/04/2026,Transferencia
+VNT-00409,Sandra Cabrera,sandra.cabrera@gmail.com,65377624D,General,97.0,FECHA INVÁLIDA,Efectivo
+VNT-00324,Clara Cano,@dominio.com,N/A,Gral,58.0,13/02/2026,Transferencia
+VNT-00264,Isabel Gómez,isabel.gomez@outlook.com,73171894Q,VIP,148.0,24/02/2026,PayPal
+VNT-00272,Diego Rubio,diego.rubio@hotmail.com,98429098T,General,0.0,24/03/26,bizum
+VNT-00248,Gloria Ortiz,gloria.ortiz@management.com,92470962,V.I.P.,186.0,23/01/2026,Transferencia
+VNT-00320,Javier Domínguez,javier.dominguez@yahoo.es,29811269A,VIP,187.0,FECHA INVÁLIDA,metalico
+VNT-00340,Gloria Ortiz,gloria.ortiz@outlook.com,71787651M,PREMIUM,92.0,2026/01/12,TRANSFERENCIA
+VNT-00142,Roberto Cortés,roberto.cortes@yahoo.es,56294407K,PREMIUM,115.0,2026/04/12,Pay Pal
+VNT-00347,Roberto Cortés,roberto.cortes@hotmail.com,35793612T,VIP,180.0,FECHA INVÁLIDA,Transferencia
+VNT-00096,Pablo Santos,pablo.santos@management.com,44956086B,General,0.0,24/03/2026,PayPal
+VNT-00303,  josé garcía ,jose.garcia@outlook.com,28029744N,premium,123.0,06/02/2026,bizum
+VNT-00118,Guillermo Jiménez,guillermo.jimenez@outlook.com,X1631179Z,Prémium,103.0,08/04/2026,metalico
+VNT-00046,Hugo Guerrero,hugo.guerrero@management.com,12468064,Premiun,138.0,23/02/2026,TRANSFERENCIA
+VNT-00238,  pablo santos ,pablo.santos@yahoo.es,43059986,VIP,180.0,19/05/2026,BIZUM
+VNT-00410,Hugo Guerrero,hugo.guerrero@management.com,12468064,Premiun,138.0,23/02/2026,TRANSFERENCIA
+VNT-00316,Eva Garrido,eva.garrido@management.com,77428032G,VIP,158.0,20/01/2026,TRANSFERENCIA
+VNT-00196,José García,jose.garcia@outlook.com,,PREMIUM,116.0,04/06/2026,Cash
+VNT-00134,Isabel Gómez,isabel.gomez@management.com,66388890B,VIP,-180.0,05/05/2026,TRANSFERENCIA
+VNT-00315,Daniel Castro,daniel.castro@gmail.com,71821057S,PREMIUM,123.0,01/04/2026,Efectivo
+VNT-00372,Ana Fernández,ana.fernandez@outlook.com,98952439S,VIP,164.0,02/03/2026,Metálico
+VNT-00213,Javier Domínguez,javier.dominguez@outlook.com,76266658S,V.I.P.,148.0,FECHA INVÁLIDA,bizum
+VNT-00251,Paula Gil,paula.gil@musica.es,N/A,Premium,91.0,11/06/2026,Tarjeta
+VNT-00327,  MARIO GIRON ,mario.giron@musica.es,52001565Z,Gral.,83.0,05/04/26,Tarjeta de crédito
+VNT-00253,  FELIPE CARRASCO ,felipe.carrasco@outlook.com,67960448,General,100.0,10/01/2026,tarjeta credito
+VNT-00106,Rafael Delgado,-,76042812M,VIP,156.0,13/05/2026,PayPal
+VNT-00117,  Carlos Martínez ,correo@,21964334R,Prémium,114.0,2026/01/1,Transfer.
+VNT-00167,Esther Campos,esther.campos@outlook.com,57964863X,Premiun,91.0,14/01/26,Transferencia
+VNT-00284,Alicia Vega,notengo@email,16409704D,General,61.0,07/05/2026,Pay Pal
+VNT-00064,Alberto Medina,alberto.medina@musica.es,37868647,General,88.0,20/03/2026,Tarjeta
+VNT-00158,Eva Garrido,correo@,90582915Z,PREMIUM,125.0,13/01/2026,PayPal
+VNT-00155,Rosa Cruz,rosa.cruz@yahoo.es,77194013X,Prémium,91.0,FECHA INVÁLIDA,PayPal
+VNT-00009,Teresa Méndez,teresa.mendez@management.com,75313057J,V.I.P.,140.0,18/05/2026,Bisum
+VNT-00187,  DAVID RUIZ ,sin email,80576741J,Premiun,128.0,19/02/2026,Bisum
+VNT-00190,Diego Rubio,diego.rubio@gmail.com,54676053Q,VIP,185.0,18/01/2026,BIZUM
+VNT-00294,Isabel Gómez,isabel.gomez@hotmail.com,72689644F,V.I.P.,151.0,17/02/2026,tarjeta credito
+VNT-00098,José García,jose.garcia@yahoo.es,41701674P,premium,127.0,09/02/2026,Efectivo
+VNT-00108,José García,jose.garcia@outlook.com,75857881V,Premiun,107.0,FECHA INVÁLIDA,Bisum
+VNT-00305,  javier domínguez ,javier.dominguez@outlook.com,11275951B,V.I.P.,144.0,22/04/2026,PayPal
+VNT-00111,  Rosa Cruz ,rosa.cruz@management.com,13404379W,Prémium,121.0,FECHA INVÁLIDA,Pay Pal
+VNT-00194,Ana Fernández,ana.fernandez@gmail.com,85276619W,VIP,156.0,02/04/2026,Bisum
+VNT-00086,Daniel Castro,N/A,60856575R,General,69.0,27/06/2026,metalico
+VNT-00216,Fernando Morales,fernando.morales@gmail.com,32420574G,VIP,190.0,02/05/2026,Tarjeta
+VNT-00097,Ana Fernández,@dominio.com,43829709E,Gral.,51.0,2026/01/28,TRANSFERENCIA
+VNT-00112,Guillermo Jiménez,guillermo.jimenez@gmail.com,15746469W,Gral,84.0,11/01/2026,bizum
+VNT-00019,Juan Moreno,juan.moreno@management.com,45296615R,Premium,115.0,FECHA INVÁLIDA,bizum
+VNT-00050,Roberto Cortés,roberto.cortes@gmail.com,55873760K,VIP,164.0,09/05/2026,PayPal
+VNT-00277,Lola Flores,lola.flores@musica.es,37072082S,VIP,176.0,22/06/2026,Transfer.
+VNT-00065,  ALEJANDRO MOLINA ,alejandro.molina@gmail.com,31654047-K,VIP,178.0,2026/01/14,transferencia bancaria
+VNT-00175,Patricia Romero,patricia.romero@yahoo.es,68536768B,VIP,-152.0,16/04/2026,Efectivo
+VNT-00002,Pedro Sánchez,pedro.sanchez@musica.es,N/A,V.I.P.,160.0,23/01/2026,Cash
+VNT-00267,  Laura González ,laura.gonzalez@gmail.com,67190488,VIP,168.0,17/04/2026,Pay Pal
+VNT-00401,Sara Navarro,sara.navarro@outlook.com,N/A,General,99999.0,2026/05/17,Pay Pal
+VNT-00209,Esther Campos,esther.campos@outlook.com,87666600F,VIP,140.0,2026/04/28,PayPal
+VNT-00353,Pablo Santos,pablo.santos@management.com,66237786V,Gral.,72.0,14/01/2026,transferencia
+VNT-00289,,adrian.calvo@hotmail.com,52676804,Premiun,133.0,06/03/2026,BIZUM
+VNT-00256,Pablo Santos,pablo.santos@gmail.com,78870570M,PREMIUM,101.0,2026/02/10,bizum
+VNT-00076,Alberto Medina,alberto.medina@gmail.com,37539747-K,Premium,139.0,22/05/2026,Pay Pal
+VNT-00235,Eva Garrido,@dominio.com,25387340D,VIP,167.0,13/03/2026,PayPal
+VNT-00078,Marta Vázquez,,30041488S,VIP,152.0,2026/04/22,PayPal
+VNT-00008,Raúl Herrero,raul.herrero@musica.es,N/A,General,78.0,FECHA INVÁLIDA,Pay Pal
+VNT-00117,  Carlos Martínez ,correo@,21964334R,Prémium,114.0,2026/01/1,Transfer.
+VNT-00166,David Ruiz,david.ruiz@management.com,53014471-T,General,81.0,25/03/2026,PayPal
+VNT-00346,Patricia Romero,patricia.romero@yahoo.es,67600736,premium,101.0,08/06/2026,Transferencia
+VNT-00040,Antonio Muñoz,antonio.munoz@yahoo.es,85821325E,premium,130.0,02/05/26,Tarjeta de crédito
+VNT-00306,  carlos martínez ,carlos.martinez@yahoo.es,91117376N,PREMIUM,114.0,16/04/26,tarjeta credito
+VNT-00386,Alberto Medina,alberto.medina@hotmail.com,,VIP,99999.0,20/06/2026,Tarjeta de crédito
+VNT-00006,  francisco perez ,francisco.perez@management.com,,Gral,0.0,15/02/26,Bizum
+VNT-00200,Clara Cano,clara.cano@management.com,22899866P,General,77.0,FECHA INVÁLIDA,Bisum
+VNT-00293,Felipe Carrasco,felipe.carrasco@hotmail.com,75987111X,VIP,178.0,FECHA INVÁLIDA,Efectivo
+VNT-00182,Luis Fuentes,luis.fuentes@yahoo.es,75993764P,General,99.0,FECHA INVÁLIDA,PayPal
+VNT-00224,Hugo Guerrero,hugo.guerrero@management.com,94153110B,VIP,186.0,27/01/26,PayPal
+VNT-00083,Pedro Sánchez,pedro.sanchez@yahoo.es,23815327T,Gral,79.0,19/05/2026,BIZUM
+VNT-00275,Adrián Calvo,adrian.calvo@hotmail.com,19392480,VIP,144.0,10/02/2026,Efectivo
+VNT-00354,Diego Rubio,diego.rubio@hotmail.com,81466893L,Gral.,99999.0,27/06/2026,Tarjeta
+VNT-00247,Pilar Reyes,pilar.reyes@musica.es,33559082,Premium,100.0,22/06/2026,Bizum
+VNT-00317,Lola Flores,lola.flores@gmail.com,N/A,premium,121.0,05/03/2026,Efectivo
+VNT-00375,Luis Fuentes,luis.fuentes@outlook.com,79994685-H,Premiun,126.0,09/02/2026,PayPal
+VNT-00102,  teresa méndez ,teresa.mendez@hotmail.com,36162482L,Prémium,115.0,22/06/26,transferencia
+VNT-00085,Sandra Cabrera,sandra.cabrera@hotmail.com,87066247T,Gral,100.0,22/06/2026,transferencia bancaria
+VNT-00319,Juan Moreno,juan.moreno@musica.es,X8676121Q,premium,96.0,28/01/2026,Bisum
+VNT-00358,Javier Domínguez,javier.dominguez@hotmail.com,88283995J,VIP,162.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00220,Silvia Castillo,silvia.castillo@outlook.com,98607345U,VIP,160.0,13/01/2026,PayPal
+VNT-00376,Ana Fernández,ana.fernandez@outlook.com,64371584,VIP,178.0,11/04/2026,Transferencia
+VNT-00333,Ana Fernández,ana.fernandez@musica.es,N/A,Gral,72.0,20/05/2026,Efectivo
+VNT-00095,Mario Girón,sin email,70939515V,VIP,177.0,25/05/2026,transferencia bancaria
+VNT-00133,Teresa Méndez,teresa.mendez@gmail.com,20327693V,Premium,102.0,06/04/2026,Tarjeta
+VNT-00334,  Francisco Pérez ,francisco.perez@yahoo.es,91698732D,Premiun,93.0,25/06/2026,PayPal
+VNT-00269,  Miguel Rodríguez ,miguel.rodriguez@yahoo.es,46838009G,General,84.0,10/03/2026,tarjeta credito
+VNT-00215,Eva Garrido,eva.garrido@yahoo.es,79174131,Gral.,0.0,28/02/2026,PayPal
+VNT-00232,Mario Girón,mario.giron@outlook.com,X1768727L,Premiun,95.0,2026/04/8,PayPal
+VNT-00153,Carmen Hernández,carmen.hernandez@hotmail.com,24995099,Premium,134.0,14/01/2026,Cash
+VNT-00042,Óscar Herrera,oscar.herrera@management.com,85067462F,premium,106.0,25/02/2026,Bisum
+VNT-00208,Isabel Gómez,isabel.gomez@outlook.com,70333053L,VIP,150.0,FECHA INVÁLIDA,Tarjeta
+VNT-00141,Guillermo Jiménez,guillermo.jimenez@management.com,62938641-S,General,51.0,03/06/2026,Efectivo
+VNT-00036,Sergio León,sergio.leon@outlook.com,70720566M,Premiun,128.0,FECHA INVÁLIDA,PayPal
+VNT-00073,Tomás Soto,tomas.soto@yahoo.es,14183991Y,PREMIUM,91.0,FECHA INVÁLIDA,transferencia bancaria
+VNT-00043,Juan Moreno,juan.moreno@outlook.com,X2887937E,Premiun,105.0,FECHA INVÁLIDA,TRANSFERENCIA
+VNT-00091,  Mario Girón ,mario.giron@outlook.com,28223512-M,VIP,-181.0,14/06/2026,tarjeta credito
+VNT-00326,Francisco Pérez,francisco.perez@gmail.com,58796148Y,Prémium,95.0,04/01/2026,Cash
+VNT-00130,Luis Fuentes,correo sin arroba.com,59066128,V.I.P.,183.0,15/03/2026,transferencia bancaria
+VNT-00139,Beatriz Aguilar,beatriz.aguilar@yahoo.es,85864089Y,Premiun,131.0,22/05/26,PayPal
+VNT-00217,David Ruiz,david.ruiz@gmail.com,28491507G,Premium,138.0,FECHA INVÁLIDA,Bisum
+VNT-00012,Javier Domínguez,javier.dominguez@management.com,19575640H,VIP,180.0,19/05/2026,Efectivo
+VNT-00355,Roberto Cortés,roberto.cortes@hotmail.com,11189346F,Gral.,88.0,07/05/2026,BIZUM
+VNT-00028,Manuel Torres,manuel.torres@hotmail.com,53443711Z,General,85.0,06/05/2026,BIZUM
+VNT-00344,  Sara Navarro ,sara.navarro@yahoo.es,62190363E,General,81.0,17/04/2026,Transferencia
+VNT-00243,  PAULA GIL ,paula.gil@gmail.com,84596958Z,Premiun,131.0,FECHA INVÁLIDA,Metálico
+VNT-00221,Pablo Santos,pablo.santos@yahoo.es,80839007X,Prémium,109.0,27/01/2026,Transfer.
+VNT-00186,Rafael Delgado,rafael.delgado@management.com,21942232W,Premiun,91.0,FECHA INVÁLIDA,Efectivo
+VNT-00032,Eva Garrido,eva.garrido@management.com,X9244416C,Premium,0.0,01/01/2026,Transferencia
+VNT-00195,Tomás Soto,tomas.soto@hotmail.com,N/A,VIP,145.0,FECHA INVÁLIDA,PayPal
+VNT-00308,Pilar Reyes,pilar.reyes@outlook.com,10419981,PREMIUM,113.0,14/05/2026,metalico
+VNT-00017,Sergio León,sergio.leon@outlook.com,30900054Z,General,80.0,12/03/2026,PayPal
+VNT-00291,  Ana Fernández ,ana.fernandez@gmail.com,69555922N,General,62.0,24/02/26,PayPal
+VNT-00164,Manuel Torres,correo sin arroba.com,60511038Q,Premiun,91.0,13/01/2026,N/A
+VNT-00110,  clara cano ,clara.cano@yahoo.es,15278941H,Premiun,95.0,FECHA INVÁLIDA,PayPal
+VNT-00328,Elena Álvarez,elena.alvarez@hotmail.com,89427788Q,PREMIUM,0.0,2026/02/20,Tarjeta
+VNT-00075,Esther Campos,esther.campos@gmail.com,13346688H,VIP,159.0,03/02/2026,transferencia
+VNT-00241,  JAVIER DOMÍNGUEZ ,N/A,47508257D,Premiun,99999.0,FECHA INVÁLIDA,transferencia bancaria
+VNT-00128,  LAURA GONZALEZ ,laura.gonzalez@management.com,72244899-J,premium,100.0,FECHA INVÁLIDA,PayPal
+VNT-00280,Carlos Martínez,carlos.martinez@gmail.com,39159454P,VIP,180.0,24/06/2026,PayPal
+VNT-00020,Teresa Méndez,teresa.mendez@yahoo.es,,premium,108.0,2026/04/7,PayPal
+VNT-00233,  LOLA FLORES ,lola.flores@gmail.com,17096679C,Prémium,125.0,FECHA INVÁLIDA,Pay Pal
+VNT-00143,Laura González,laura.gonzalez@outlook.com,88809974M,Gral.,78.0,14/06/2026,bizum
+VNT-00059,Inés Pastor,ines.pastor@management.com,96718276X,Gral,77.0,05/05/2026,metalico
+VNT-00244,Luis Fuentes,luis.fuentes@outlook.com,60516391X,VIP,141.0,04/06/26,Transfer.
+VNT-00109,Inés Pastor,ines.pastor@outlook.com,58173202S,V.I.P.,-154.0,2026/01/19,Transfer.
+VNT-00249,Clara Cano,clara.cano@yahoo.es,76514912F,PREMIUM,110.0,22/01/2026,tarjeta credito
+VNT-00310,Juan Moreno,juan.moreno@hotmail.com,83651529T,Premiun,140.0,26/04/2026,Transfer.
+VNT-00176,  FRANCISCO PEREZ ,correo@,,General,61.0,2026/01/2,Transferencia
+VNT-00163,Adrián Calvo,adrian.calvo@management.com,72548391C,VIP,179.0,2026/05/25,Pay Pal
+VNT-00034,Hugo Guerrero,hugo.guerrero@hotmail.com,24161873M,VIP,182.0,24/05/26,Transfer.
+VNT-00169,Rocío Suárez,rocio.suarez@yahoo.es,86844836X,General,51.0,19/04/2026,PayPal
+VNT-00206,Diego Rubio,diego.rubio@musica.es,63015631,PREMIUM,136.0,23/03/2026,transferencia
+VNT-00103,José García,jose.garcia@outlook.com,43808923G,VIP,166.0,08/03/2026,Tarjeta de crédito
+VNT-00222,Elena Álvarez,elena.alvarez@management.com,50470861Y,Premium,131.0,25/04/2026,transferencia bancaria
+VNT-00204,  sandra cabrera ,sandra.cabrera@hotmail.com,49949573J,PREMIUM,97.0,02/04/2026,tarjeta credito
+VNT-00369,Rocío Suárez,rocio.suarez@management.com,76719940J,Gral.,100.0,13/02/2026,transferencia bancaria
+VNT-00093,Óscar Herrera,oscar.herrera@musica.es,15082158T,Prémium,135.0,12/05/2026,metalico
+VNT-00044,Daniel Castro,daniel.castro@musica.es,16023362K,premium,139.0,FECHA INVÁLIDA,tarjeta credito
+VNT-00056,Mario Girón,mario.giron@musica.es,71410640X,VIP,151.0,FECHA INVÁLIDA,Visa
+VNT-00374,Paula Gil,notengo@email,77551168F,Premium,108.0,FECHA INVÁLIDA,Visa
+VNT-00274,  cristina ramos ,cristina.ramos@outlook.com,24000677Q,General,80.0,10/06/2026,Efectivo
+VNT-00329,  rocío suárez ,rocio.suarez@outlook.com,29225877,Gral.,74.0,FECHA INVÁLIDA,PayPal
+VNT-00240,Javier Domínguez,javier.dominguez@musica.es,57166514,VIP,143.0,FECHA INVÁLIDA,Tarjeta de crédito
+VNT-00239,N/A,fernando.morales@musica.es,66875091S,Prémium,103.0,26/02/2026,Transferencia
+VNT-00179,Manuel Torres,manuel.torres@yahoo.es,43064092L,V.I.P.,174.0,14/05/2026,BIZUM
+VNT-00048,Luis Fuentes,sin email,21813934K,VIP,172.0,FECHA INVÁLIDA,Bisum
+VNT-00343,José García,correo sin arroba.com,14242158Y,premium,97.0,FECHA INVÁLIDA,Cash
+VNT-00237,Daniel Castro,daniel.castro@hotmail.com,61680358D,V.I.P.,152.0,17/04/2026,Tarjeta
+VNT-00199,Irene Prieto,irene.prieto@outlook.com,,Gral,75.0,FECHA INVÁLIDA,Tarjeta
+VNT-00115,Teresa Méndez,teresa.mendez@management.com,87304983L,VIP,167.0,13/06/2026,Efectivo
+VNT-00038,Francisco Pérez,francisco.perez@musica.es,X6447428X,Premiun,104.0,19/04/2026,Cash
+VNT-00205,,teresa.mendez@yahoo.es,12404540L,VIP,151.0,FECHA INVÁLIDA,Efectivo
+VNT-00292,Clara Cano,clara.cano@yahoo.es,N/A,V.I.P.,190.0,FECHA INVÁLIDA,transferencia
+VNT-00082,Lola Flores,lola.flores@yahoo.es,99279031Z,General,64.0,13/03/26,Cash
+VNT-00193,Rocío Suárez,rocio.suarez@outlook.com,75937784Y,General,98.0,11/02/2026,Transferencia
+VNT-00149,  ALEJANDRO MOLINA ,alejandro.molina@management.com,32432603G,Gral.,90.0,25/02/26,TRANSFERENCIA
+VNT-00054,  Miguel Rodríguez ,miguel.rodriguez@hotmail.com,13501001R,V.I.P.,179.0,08/05/2026,Transfer.
+VNT-00080,Alberto Medina,alberto.medina@hotmail.com,,VIP,99999.0,20/06/2026,Tarjeta de crédito
+VNT-00005,Marcos Peña,marcos.pena@musica.es,78603195M,PREMIUM,121.0,FECHA INVÁLIDA,PayPal
+VNT-00288,  antonio muñoz ,antonio.munoz@outlook.com,23665188M,General,0.0,25/03/2026,TRANSFERENCIA
+VNT-00359,Sergio León,sergio.leon@musica.es,,premium,118.0,26/06/2026,Efectivo
+VNT-00126,Patricia Romero,patricia.romero@gmail.com,73169926A,Prémium,127.0,02/04/2026,Cash
+VNT-00380,Teresa Méndez,teresa.mendez@gmail.com,72157065Q,VIP,190.0,06/03/2026,transferencia
+VNT-00030,María López,@dominio.com,76779917Y,Gral.,65.0,07/04/2026,transferencia bancaria
+VNT-00330,Sara Navarro,sara.navarro@musica.es,,PREMIUM,135.0,FECHA INVÁLIDA,Cash
+VNT-00318,Tomás Soto,tomas.soto@management.com,62487600C,Prémium,91.0,2026/04/12,Efectivo
+VNT-00022,  TOMÁS SOTO ,tomas.soto@yahoo.es,14259684Y,V.I.P.,140.0,12/04/2026,Efectivo
+VNT-00350,  Adrián Calvo ,adrian.calvo@gmail.com,27489655,V.I.P.,171.0,01/06/26,PayPal
+VNT-00135,María López,maria.lopez@management.com,89639062N,VIP,181.0,26/06/2026,Transfer.
+VNT-00231,  alejandro molina ,alejandro.molina@yahoo.es,N/A,VIP,170.0,16/04/2026,Bisum

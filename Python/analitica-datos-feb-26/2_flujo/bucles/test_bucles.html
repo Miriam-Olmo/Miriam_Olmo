@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test de Bucles Python: Break, Continue y Else</title>
+    <style>
+        :root {
+            --primary: #3776ab;
+            --secondary: #ffd43b;
+            --success: #28a745;
+            --danger: #dc3545;
+            --dark: #212529;
+            --light: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e9ecef;
+            color: var(--dark);
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            margin: 0;
+        }
+
+        .quiz-container {
+            background: white;
+            width: 100%;
+            max-width: 700px;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: var(--primary);
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .progress {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .question-box {
+            margin-bottom: 25px;
+        }
+
+        .question-text {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+
+        pre {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: 'Consolas', monospace;
+            margin-bottom: 20px;
+        }
+
+        .options-container {
+            display: grid;
+            gap: 10px;
+        }
+
+        .option-btn {
+            background: var(--light);
+            border: 2px solid #dee2e6;
+            padding: 12px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s;
+            font-size: 1em;
+        }
+
+        .option-btn:hover {
+            background: #e2e6ea;
+            border-color: var(--primary);
+        }
+
+        .option-btn.correct {
+            background-color: #d4edda !important;
+            border-color: var(--success) !important;
+            color: #155724;
+        }
+
+        .option-btn.wrong {
+            background-color: #f8d7da !important;
+            border-color: var(--danger) !important;
+            color: #721c24;
+        }
+
+        #feedback {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            display: none;
+            line-height: 1.5;
+        }
+
+        .feedback-correct {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid var(--success);
+        }
+
+        .feedback-wrong {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeeba;
+        }
+
+        #next-btn {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            margin-top: 20px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            cursor: pointer;
+            display: none;
+        }
+
+        #next-btn:hover {
+            background: #2b5b87;
+        }
+
+        #result-screen {
+            text-align: center;
+            display: none;
+        }
+
+        .score-circle {
+            font-size: 3em;
+            color: var(--primary);
+            margin: 20px 0;
+            font-weight: bold;
+        }
+
+        .restart-btn {
+            background: var(--secondary);
+            color: var(--dark);
+            padding: 10px 25px;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="quiz-container">
+        <div id="quiz-screen">
+            <h1>Test de Bucles Python</h1>
+            <div class="progress" id="progress">Pregunta 1 de 10</div>
+
+            <div id="question-area">
+            </div>
+
+            <div id="feedback"></div>
+            <button id="next-btn">Siguiente Pregunta</button>
+        </div>
+
+        <div id="result-screen">
+            <h1>¡Test Completado!</h1>
+            <p>Tu puntuación es:</p>
+            <div class="score-circle" id="final-score">0 / 10</div>
+            <p id="result-message"></p>
+            <button class="restart-btn" onclick="location.reload()">Reiniciar Test</button>
+        </div>
+    </div>
+
+    <script>
+        const questions = [
+            {
+                q: "¿Qué imprimirá el siguiente código?",
+                code: "for i in range(5):\n    if i == 3:\n        break\n    print(i)",
+                options: ["0, 1, 2", "0, 1, 2, 3", "0, 1, 2, 4", "1, 2, 3"],
+                correct: 0,
+                rationale: "El bucle se detiene completamente cuando i llega a 3 debido al break, por lo que el 3 y el 4 nunca se imprimen."
+            },
+            {
+                q: "¿Cuál es el resultado de este código?",
+                code: "for i in range(3):\n    if i == 1:\n        continue\n    print(i)",
+                options: ["0, 2", "0, 1, 2", "2", "0"],
+                correct: 0,
+                rationale: "La instrucción continue salta el resto del código en la iteración actual (cuando i es 1) y pasa directamente a la siguiente (i es 2)."
+            },
+            {
+                q: "Observa este código. ¿Se imprimirá la palabra 'Terminado'?",
+                code: "for i in range(3):\n    print(i)\nelse:\n    print(\"Terminado\")",
+                options: ["Sí, siempre que el bucle termine de forma natural.", "No, else solo funciona con if.", "Solo si el bucle está vacío.", "Solo si ocurre un error."],
+                correct: 0,
+                rationale: "En Python, el bloque else de un bucle se ejecuta si este completa todas sus iteraciones sin ser interrumpido por un break."
+            },
+            {
+                q: "¿Qué sucede en este caso?",
+                code: "for i in range(5):\n    if i == 2:\n        break\nelse:\n    print(\"Fin\")",
+                options: ["No se imprime nada.", "Se imprime 'Fin'.", "Se imprime 0, 1 y 'Fin'.", "Da un error de sintaxis."],
+                correct: 0,
+                rationale: "Como el bucle se interrumpió con un break cuando i era 2, el bloque else se ignora por completo."
+            },
+            {
+                q: "¿Cuál es la función principal de 'continue' dentro de un bucle while?",
+                code: "",
+                options: [
+                    "Saltar el código restante de la iteración actual y volver a evaluar la condición.",
+                    "Detener el bucle para siempre.",
+                    "Reiniciar las variables del bucle a cero.",
+                    "Hacer que el bucle sea infinito."
+                ],
+                correct: 0,
+                rationale: "Continue obliga al programa a ignorar lo que queda debajo en el bloque del bucle y regresar arriba para comprobar si debe seguir."
+            },
+            {
+                q: "En un bucle while, ¿qué debemos asegurar ANTES de llamar a un continue si usamos un contador?",
+                code: "",
+                options: [
+                    "Haber actualizado el contador antes del continue.",
+                    "Que el contador sea igual a cero.",
+                    "No se puede usar continue en un bucle while.",
+                    "Usar un break justo después."
+                ],
+                correct: 0,
+                rationale: "Si saltas la iteración antes de incrementar el contador, la condición seguirá siendo la misma y crearás un bucle infinito."
+            },
+            {
+                q: "¿Qué imprimirá este código?",
+                code: "x = 0\nwhile x < 3:\n    x += 1\n    if x == 2:\n        continue\n    print(x)",
+                options: ["1, 3", "1, 2, 3", "0, 1, 3", "1"],
+                correct: 0,
+                rationale: "Cuando x=1 se imprime. Cuando x=2 se activa continue (salta el print). Cuando x=3 se imprime."
+            },
+            {
+                q: "¿Para qué sirve comúnmente el 'else' en un bucle que busca algo?",
+                code: "",
+                options: [
+                    "Para ejecutar código solo si el elemento NO se encontró tras revisar todo.",
+                    "Para repetir el bucle otra vez.",
+                    "Para obligar a que el bucle use un break.",
+                    "Para limpiar la memoria del ordenador."
+                ],
+                correct: 0,
+                rationale: "Si recorremos todo sin encontrar lo que buscamos (es decir, sin activar un break), el else se activa para avisar que no hubo hallazgo."
+            },
+            {
+                q: "¿Qué hace este código?",
+                code: "for i in range(1, 4):\n    for j in range(1, 4):\n        if j == 2:\n            break\n        print(i, j)",
+                options: [
+                    "Imprime (1, 1), (2, 1), (3, 1)",
+                    "Imprime solo (1, 1) y se detiene todo.",
+                    "Imprime (1, 1), (1, 3), (2, 1), (2, 3)...",
+                    "Da un error de sintaxis."
+                ],
+                correct: 0,
+                rationale: "El break solo afecta al bucle interno (j). Cada vez que j=2 se rompe el interno, pero el externo (i) sigue a la siguiente vuelta."
+            },
+            {
+                q: "Si tenemos un bucle 'while True:', ¿cómo podemos evitar que sea infinito?",
+                code: "",
+                options: [
+                    "Utilizando la sentencia break bajo alguna condición.",
+                    "Cambiando el True por un continue.",
+                    "Poniendo un else al final.",
+                    "No se puede evitar, siempre será infinito."
+                ],
+                correct: 0,
+                rationale: "Un while True siempre es verdadero, la única forma de salir de forma controlada desde dentro es con un break."
+            }
+        ];
+
+        let currentQuestion = 0;
+        let score = 0;
+
+        const questionArea = document.getElementById('question-area');
+        const feedback = document.getElementById('feedback');
+        const nextBtn = document.getElementById('next-btn');
+        const progressText = document.getElementById('progress');
+
+        function loadQuestion() {
+            const qData = questions[currentQuestion];
+            feedback.style.display = 'none';
+            nextBtn.style.display = 'none';
+            progressText.innerText = `Pregunta ${currentQuestion + 1} de ${questions.length}`;
+
+            let codeHtml = qData.code ? `<pre>${qData.code}</pre>` : '';
+
+            let optionsHtml = qData.options.map((opt, index) =>
+                `<button class="option-btn" onclick="checkAnswer(${index})">${opt}</button>`
+            ).join('');
+
+            questionArea.innerHTML = `
+            <div class="question-text">${qData.q}</div>
+            ${codeHtml}
+            <div class="options-container">${optionsHtml}</div>
+        `;
+        }
+
+        window.checkAnswer = function (selectedIndex) {
+            const qData = questions[currentQuestion];
+            const buttons = document.querySelectorAll('.option-btn');
+
+            // Bloquear botones
+            buttons.forEach(btn => btn.disabled = true);
+
+            if (selectedIndex === qData.correct) {
+                buttons[selectedIndex].classList.add('correct');
+                feedback.innerHTML = `<strong>¡Correcto!</strong> ${qData.rationale}`;
+                feedback.className = 'feedback-correct';
+                score++;
+            } else {
+                buttons[selectedIndex].classList.add('wrong');
+                buttons[qData.correct].classList.add('correct');
+                feedback.innerHTML = `<strong>Incorrecto.</strong> ${qData.rationale}`;
+                feedback.className = 'feedback-wrong';
+            }
+
+            feedback.style.display = 'block';
+            nextBtn.style.display = 'block';
+        };
+
+        nextBtn.onclick = () => {
+            currentQuestion++;
+            if (currentQuestion < questions.length) {
+                loadQuestion();
+            } else {
+                showResults();
+            }
+        };
+
+        function showResults() {
+            document.getElementById('quiz-screen').style.display = 'none';
+            const resultScreen = document.getElementById('result-screen');
+            resultScreen.style.display = 'block';
+            document.getElementById('final-score').innerText = `${score} / ${questions.length}`;
+
+            let msg = "";
+            if (score === 10) msg = "¡Maestro de los bucles! Lo sabes todo.";
+            else if (score >= 7) msg = "¡Muy bien! Tienes los conceptos claros.";
+            else msg = "Buen intento, pero te vendría bien repasar el flujo de break y else.";
+            document.getElementById('result-message').innerText = msg;
+        }
+
+        loadQuestion();
+    </script>
+
+</body>
+
+</html>

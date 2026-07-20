@@ -1,0 +1,231 @@
+id_empleado,nombre,departamento,genero,edad,antiguedad_anios,salario_anual,satisfaccion,horas_extra_mes,teletrabajo
+79,Beatriz Rubio,Marketing,Hombre,42.0,11.0,32852.78,6.0,18,False
+151,Ana López,marketing,Hombre,47.0,11.0,36555.44,9.0,1,True
+172,Teresa Ruiz,ventas,Mujer,52.0,14.0,38518.68,6.0,17,True
+65,Pablo Blanco,RRHH,Mujer,35.0,8.0,27203.22,6.0,7,False
+191,Silvia Gómez,VENTAS ,Mujer,50.0,14.0,37651.75,5.0,17,True
+89,Andrea Fernández,IT,Hombre,25.0,,36955.41,6.0,9,True
+211,Hugo Rubio,IT,Hombre,50.0,12.0,42339.26,6.0,15,True
+117,Nuria Ortega,finanzas,Hombre,60.0,2.0,29375.7,6.0,5,False
+214,Carlos Navarro,it,Hombre,40.0,3.0,37383.42,5.0,11,False
+63,Beatriz Navarro,RRHH,Mujer,38.0,2.0,,6.0,12,False
+35,Paula Pérez,MARKETING,Hombre,,14.0,41121.68,7.0,3,True
+5,Paula Iglesias,Ventas,Hombre,40.0,12.0,36401.18,4.0,6,False
+39,Cristina Marín,IT,Mujer,57.0,3.0,35049.66,8.0,13,False
+197,Alberto Gómez,RRHH,Hombre,56.0,11.0,41236.0,5.0,16,False
+32,Fernando Ortiz,IT,Hombre,31.0,12.0,37284.49,7.0,12,False
+218,Pedro Sánchez,Finanzas,Mujer,60.0,7.0,35328.99,8.0,15,False
+111,Pedro Álvarez,It ,Mujer,55.0,15.0,43432.72,8.0,18,False
+68,Miguel Domínguez,Ventas,Hombre,57.0,0.0,19032.16,6.0,7,False
+94,Marina Moreno,RRHH,Hombre,52.0,8.0,30339.83,9.0,20,True
+161,Gonzalo López,IT,Mujer,28.0,1.0,32623.03,5.0,7,True
+131,Alberto Torres,It ,Mujer,41.0,6.0,41558.85,7.0,15,True
+168,Carmen Gil,Ventas,Hombre,43.0,5.0,33210.73,6.0,11,True
+40,Iván Serrano,IT,Mujer,,8.0,46350.22,7.0,8,False
+59,Carlos Molina,Finanzas,Mujer,24.0,1.0,31561.44,7.0,9,False
+192,Marta Gil,Ventas,Hombre,58.0,6.0,21055.33,6.0,10,False
+213,Pedro Iglesias,Ventas,Hombre,58.0,1.0,23163.42,5.0,20,False
+91,Gonzalo Romero,Ventas,Hombre,33.0,8.0,24223.39,7.0,13,False
+194,Nuria Domínguez, Ventas,Mujer,54.0,11.0,34516.65,7.0,9,False
+177,Raúl Suárez,IT,Hombre,,12.0,45600.7,7.0,20,False
+201,Diego Álvarez,IT,Hombre,,6.0,32024.83,4.0,6,False
+19,Cristina Domínguez,marketing,Hombre,48.0,7.0,34750.43,6.0,9,False
+208,Rubén Suárez,IT,Hombre,60.0,4.0,,6.0,14,True
+85,Teresa Torres,Ventas,Hombre,42.0,0.0,24132.92,7.0,14,False
+170,Pablo Castro,Finanzas,Hombre,48.0,15.0,47572.71,5.0,2,True
+20,Claudia Díaz,Ventas,Mujer,39.0,4.0,33330.93,4.0,11,False
+86,Lucía Ruiz,FINANZAS,Mujer,57.0,4.0,25821.07,5.0,5,True
+45,Óscar Gil,Finanzas,Mujer,59.0,2.0,36089.3,8.0,20,False
+34,Nuria Vázquez,IT,Hombre,54.0,13.0,55867.74,7.0,12,True
+174,Fernando Ortiz,IT,Mujer,56.0,,33188.41,5.0,10,False
+36,Nuria Sánchez,IT,Hombre,54.0,0.0,35650.38,8.0,8,False
+12,Laura Álvarez,IT,Hombre,49.0,7.0,38657.09,8.0,3,False
+30,Irene Blanco,FINANZAS,Mujer,41.0,0.0,29848.74,8.0,2,False
+1,Carlos Delgado,Ventas,Hombre,49.0,3.0,24142.37,4.0,15,False
+212,Laura Romero, IT,Hombre,38.0,7.0,35365.11,7.0,14,False
+103,Pedro Moreno,Marketing,Hombre,30.0,8.0,36790.05,7.0,18,True
+209,Hugo Castro,it,Mujer,43.0,4.0,40154.0,7.0,5,False
+52,Sergio Gil,RRHH,Hombre,50.0,13.0,31319.23,5.0,9,False
+96,Teresa Sánchez, Ventas,Mujer,39.0,3.0,30654.92,6.0,8,True
+29,Luis Molina,marketing,Hombre,44.0,14.0,37905.41,5.0,10,True
+17,Iván Serrano,Ventas,Hombre,41.0,3.0,29949.05,6.0,3,True
+119,Javier Moreno,Finanzas,Mujer,26.0,15.0,235000.0,6.0,1,False
+163,Carlos Ortega,IT,Hombre,37.0,1.0,39537.34,,17,False
+115,Marina Gil,Ventas,Mujer,58.0,8.0,36380.1,7.0,7,True
+108,Eva Gil,IT,Mujer,31.0,9.0,38307.05,8.0,15,True
+70,Rocío Suárez,Marketing,Mujer,46.0,5.0,34267.82,4.0,9,False
+48,Marta Delgado,IT,Hombre,50.0,6.0,37401.7,7.0,7,False
+125,Eva Rubio,Marketing,Hombre,41.0,7.0,34748.27,6.0,7,False
+185,Gonzalo Fernández,Marketing,Mujer,39.0,7.0,32723.72,,8,True
+28,Javier Sánchez,rrhh,Mujer,58.0,11.0,29634.15,9.0,16,True
+74,Lucía Ruiz,Marketing,Mujer,47.0,6.0,31842.85,8.0,15,True
+41,Rubén Blanco,it,Hombre,28.0,6.0,45445.73,7.0,7,True
+120,Cristina Pérez,Ventas,Hombre,25.0,13.0,34784.37,8.0,10,False
+109,Rubén Vázquez,RRHH,Mujer,49.0,15.0,36383.13,8.0,0,False
+158,Adrián Álvarez,VENTAS ,Hombre,42.0,2.0,30791.4,5.0,17,False
+160,Adrián Domínguez,finanzas,Hombre,40.0,9.0,32802.0,4.0,4,False
+118,Pedro Martínez,Ventas,Hombre,47.0,10.0,28144.93,7.0,2,True
+164,Rubén Vázquez,Finanzas,Hombre,24.0,5.0,31481.73,8.0,16,False
+107,Laura Serrano,it,Mujer,27.0,4.0,38969.43,4.0,0,False
+90,Carmen Blanco,Ventas,Mujer,59.0,15.0,36341.52,8.0,7,True
+60,Patricia Navarro,IT,Hombre,60.0,9.0,43597.62,6.0,18,False
+169,Carlos Moreno,Marketing,Hombre,,3.0,28134.95,6.0,5,False
+218,Pedro Sánchez,Finanzas,Mujer,60.0,7.0,35328.99,8.0,15,False
+133,Rubén Iglesias,IT,Mujer,33.0,,45540.83,4.0,6,False
+111,Pedro Álvarez,It ,Mujer,55.0,15.0,43432.72,8.0,18,False
+15,Fernando Torres,it,Mujer,26.0,7.0,34254.38,9.0,12,True
+186,Marta López,IT,Mujer,39.0,3.0,41870.88,9.0,6,True
+22,Elena Sánchez,Finanzas,Hombre,27.0,,43649.64,6.0,16,False
+57,Carmen Marín,Marketing,Mujer,54.0,7.0,30606.91,5.0,14,True
+200,Pedro López,Ventas,Mujer,51.0,1.0,22764.82,8.0,5,False
+56,Ana Pérez,RRHH,Hombre,59.0,3.0,18532.34,8.0,16,True
+100,Pedro García,It ,Mujer,23.0,2.0,27934.56,5.0,1,True
+54,Adrián Martínez,Finanzas,Hombre,27.0,10.0,40660.47,8.0,0,False
+121,Laura López,IT,Hombre,36.0,9.0,39081.89,9.0,7,True
+165,Andrea Gómez,Finanzas,Mujer,41.0,4.0,198500.0,9.0,16,True
+92,Luis Díaz,IT,Hombre,35.0,13.0,47047.86,5.0,16,False
+124,Teresa Gil,Ventas,Mujer,50.0,3.0,22117.21,5.0,19,True
+43,Miguel Torres,Marketing,Mujer,29.0,12.0,36762.0,4.0,6,False
+18,Álvaro Delgado,Finanzas,Hombre,39.0,5.0,35723.03,5.0,20,True
+6,Diego Ramos,Ventas,Mujer,46.0,11.0,,6.0,16,False
+173,Marina Martínez,IT,Hombre,27.0,7.0,41201.74,4.0,20,False
+160,Adrián Domínguez,finanzas,Hombre,40.0,9.0,32802.0,4.0,4,False
+49,Óscar Rubio,MARKETING,Hombre,42.0,5.0,30966.17,5.0,19,True
+188,Luis Álvarez,IT,Hombre,44.0,5.0,40781.12,8.0,16,False
+67,Elena Vázquez, Ventas,Hombre,24.0,13.0,38982.86,9.0,11,True
+71,Laura Molina,Marketing,Hombre,59.0,8.0,31093.07,7.0,2,False
+220,Teresa Romero,Marketing,Mujer,31.0,12.0,36450.3,7.0,16,False
+166,Álvaro Domínguez,Ventas,Mujer,26.0,12.0,33295.48,9.0,14,True
+190,Cristina Torres,Finanzas,Hombre,52.0,,31266.86,7.0,3,True
+55,Diego Ruiz,IT,Mujer,29.0,0.0,35824.09,9.0,0,True
+120,Cristina Pérez,Ventas,Hombre,25.0,13.0,34784.37,8.0,10,False
+99,Diego Ortega,finanzas,Hombre,39.0,13.0,40903.96,8.0,6,True
+48,Marta Delgado,IT,Hombre,50.0,6.0,37401.7,7.0,7,False
+139,Patricia Iglesias,Ventas,Mujer,22.0,8.0,33195.13,6.0,7,False
+98,Raúl Ramos,MARKETING,Hombre,34.0,9.0,29861.76,5.0,7,False
+123,Marta Romero,marketing,Mujer,38.0,0.0,24822.41,6.0,2,False
+175,Sergio Ruiz,Finanzas,Mujer,57.0,6.0,24677.02,4.0,2,False
+106,Ana Marín,Finanzas,Hombre,37.0,2.0,31670.76,6.0,11,False
+195,Iván Gómez,Rrhh,Hombre,47.0,12.0,32263.86,8.0,12,True
+95,Óscar Sánchez, IT,Hombre,60.0,7.0,39596.13,5.0,1,True
+146,Sergio Rubio,RRHH ,Mujer,44.0,2.0,24831.55,5.0,10,False
+13,Sergio Suárez,Ventas,Hombre,33.0,10.0,29094.33,8.0,7,True
+155,Pedro Iglesias,Ventas,Mujer,29.0,14.0,43755.34,6.0,4,False
+187,Laura Ortiz,Finanzas,Hombre,42.0,10.0,33065.63,,11,True
+149,Rubén Castro,Marketing,Hombre,34.0,3.0,28749.14,7.0,4,False
+148,Hugo Moreno,Ventas,Hombre,30.0,0.0,27818.81,6.0,16,True
+182,Patricia Ramos,Finanzas,Mujer,37.0,12.0,43007.09,6.0,6,False
+128,Pablo Vázquez,IT,Hombre,53.0,,39667.88,8.0,17,True
+82,Hugo Ortiz,Finanzas,Hombre,24.0,12.0,44260.57,6.0,16,False
+153,Miguel Ortega,Ventas,Mujer,40.0,4.0,22594.59,6.0,13,True
+167,Cristina Torres,RRHH,Hombre,53.0,14.0,35999.52,6.0,9,True
+14,Marta Álvarez,Finanzas,Mujer,39.0,4.0,37147.3,5.0,15,False
+206,Marta Rubio,Ventas,Mujer,,13.0,36871.69,8.0,20,True
+83,Lucía Marín,Marketing,Hombre,59.0,0.0,23379.92,7.0,14,False
+113,Raúl Sánchez,Finanzas,Mujer,53.0,8.0,41196.2,4.0,9,False
+210,Fernando Delgado,Marketing,Mujer,54.0,13.0,38802.98,5.0,7,False
+207,Marina Serrano,it,Mujer,24.0,10.0,41720.86,8.0,0,False
+46,Fernando Marín,IT,Mujer,23.0,1.0,35992.03,4.0,12,False
+159,Eva Álvarez,IT,Hombre,52.0,10.0,45145.38,4.0,9,False
+104,Luis Ortega,it,Mujer,50.0,13.0,51751.48,8.0,2,True
+37,Adrián Moreno,Ventas,Mujer,55.0,8.0,32859.5,5.0,13,True
+189,Sara Vázquez,RRHH,Mujer,46.0,15.0,42287.68,7.0,4,True
+215,Claudia Blanco,it,Hombre,27.0,0.0,35862.45,9.0,8,True
+181,Andrea Romero,Finanzas,Hombre,57.0,1.0,,8.0,3,False
+203,Víctor Álvarez,RRHH,Hombre,46.0,15.0,,8.0,19,False
+76,Raúl Marín,RRHH,Hombre,35.0,9.0,30301.8,7.0,0,True
+152,Teresa Díaz,Ventas,Mujer,23.0,1.0,26322.72,6.0,5,False
+202,Tomás Díaz,IT,Mujer,33.0,13.0,39811.86,5.0,1,False
+180,Paula Martínez,Ventas,Hombre,59.0,10.0,32437.0,5.0,10,True
+3,Nuria Fernández,Rrhh,Mujer,32.0,10.0,32352.98,5.0,20,True
+178,Irene Marín,IT,Hombre,35.0,2.0,38867.9,4.0,4,False
+7,Adrián Romero,IT,Mujer,27.0,13.0,45936.53,,16,False
+196,Raúl Serrano,Ventas,Mujer,41.0,7.0,27305.02,5.0,2,False
+183,Elena Delgado,IT,Hombre,29.0,1.0,39259.72,6.0,17,False
+78,Raúl Navarro,rrhh,Hombre,32.0,2.0,26464.45,7.0,16,False
+114,Ana Fernández,Ventas,Mujer,58.0,,39058.7,6.0,12,True
+66,Carmen Vázquez,Marketing,Hombre,57.0,13.0,38103.57,6.0,5,False
+47,Sergio Torres,Ventas,Mujer,53.0,8.0,25978.67,6.0,17,False
+75,Paula Ortega,Ventas,Mujer,34.0,7.0,33337.46,5.0,10,False
+93,Álvaro Delgado,Ventas,Mujer,60.0,9.0,32576.07,8.0,3,True
+171,Andrea Marín, IT,Mujer,48.0,14.0,45836.9,6.0,3,False
+88,Fernando Navarro,IT,Hombre,60.0,13.0,39642.65,,10,True
+144,Adrián Ruiz,Marketing,Hombre,37.0,7.0,30104.93,9.0,0,True
+162,Paula Ruiz,Ventas,Mujer,45.0,6.0,,5.0,14,False
+11,Andrea Díaz,RRHH,Mujer,52.0,15.0,36417.29,7.0,6,False
+33,Víctor Rubio,RRHH,Hombre,36.0,14.0,36270.08,6.0,5,False
+137,Diego Marín, IT,Mujer,27.0,4.0,38789.56,5.0,15,False
+84,Silvia Delgado,Finanzas,Hombre,53.0,6.0,32251.08,4.0,4,False
+184,Pedro Iglesias,Marketing,Mujer,26.0,14.0,41546.26,7.0,20,False
+156,Beatriz Fernández,rrhh,Mujer,,9.0,29087.05,5.0,14,False
+101,Marina Fernández, Marketing,Hombre,55.0,8.0,36007.04,7.0,20,False
+126,Pedro Álvarez,Finanzas,Hombre,54.0,15.0,43583.67,8.0,4,False
+24,Javier Torres,Finanzas,Hombre,51.0,13.0,40284.77,8.0,9,False
+127,Laura Ruiz,IT,Mujer,22.0,5.0,40217.68,8.0,8,False
+10,Luis Álvarez,IT,Hombre,60.0,13.0,41733.49,9.0,5,True
+199,Rocío Álvarez,ventas,Hombre,31.0,4.0,29520.6,8.0,14,False
+105,Gonzalo Pérez, IT,Mujer,49.0,0.0,34211.35,4.0,5,False
+154,Rocío Sanz,IT,Hombre,28.0,0.0,34644.2,8.0,17,False
+216,Adrián Serrano,it,Mujer,46.0,6.0,43514.27,7.0,12,False
+136,Silvia Sánchez,RRHH ,Mujer,34.0,12.0,33047.39,4.0,15,False
+112,Óscar Blanco,Ventas,Mujer,25.0,11.0,26545.08,8.0,11,False
+217,Teresa Ruiz,It ,Mujer,,8.0,38292.31,5.0,12,False
+65,Pablo Blanco,RRHH,Mujer,35.0,8.0,27203.22,6.0,7,False
+16,Pablo Gómez,Finanzas,Hombre,50.0,10.0,38076.48,6.0,1,False
+42,Óscar Moreno,Ventas,Hombre,33.0,12.0,38839.29,8.0,16,False
+192,Marta Gil,Ventas,Hombre,58.0,6.0,21055.33,6.0,10,False
+110,Luis Delgado,Ventas,Mujer,25.0,12.0,35393.03,8.0,9,False
+81,Javier Castro, Marketing,Hombre,26.0,4.0,29117.38,4.0,18,False
+53,Ana Moreno,Finanzas,Mujer,26.0,6.0,,9.0,16,True
+27,Tomás Díaz,Marketing,Hombre,41.0,8.0,33627.95,5.0,4,True
+77,Alberto Iglesias,Rrhh,Hombre,35.0,5.0,27941.23,4.0,14,False
+44,Tomás Ortega,IT,Mujer,55.0,14.0,,5.0,13,True
+25,Elena García,RRHH,Mujer,56.0,1.0,30275.15,5.0,19,True
+4,Raúl Rubio,marketing,Hombre,41.0,0.0,28444.56,8.0,15,False
+198,Laura Díaz,IT,Hombre,29.0,14.0,47754.8,8.0,3,False
+50,Marina Torres,Ventas,Hombre,43.0,15.0,40208.07,8.0,2,False
+150,Gonzalo Díaz,Finanzas,Hombre,27.0,4.0,29139.8,7.0,4,True
+132,Patricia Torres,RRHH,Hombre,40.0,9.0,26742.5,9.0,1,True
+219,Luis Castro,marketing,Hombre,60.0,3.0,29887.1,6.0,12,False
+31,Patricia Pérez,Ventas,Hombre,45.0,2.0,26794.16,8.0,13,False
+122,Adrián Navarro,Marketing,Hombre,30.0,9.0,42311.04,8.0,15,False
+176,Gonzalo Delgado, Marketing,Hombre,50.0,13.0,37989.7,,9,False
+116,Alberto Delgado,IT,Hombre,23.0,5.0,40833.0,5.0,2,True
+117,Nuria Ortega,finanzas,Hombre,60.0,2.0,29375.7,6.0,5,False
+9,Silvia Domínguez,RRHH,Mujer,46.0,9.0,34589.29,7.0,12,True
+61,Marina Torres,Finanzas,Hombre,44.0,8.0,35039.79,7.0,3,False
+129,Andrea Suárez,it,Hombre,52.0,10.0,42993.28,7.0,17,False
+2,Fernando Vázquez,Ventas,Hombre,,14.0,38831.11,6.0,9,False
+58,Irene Ramos,RRHH,Mujer,39.0,2.0,20618.12,5.0,5,True
+23,Carmen Moreno,Finanzas ,Mujer,57.0,4.0,30308.24,7.0,0,True
+62,Pedro Torres,Ventas,Mujer,27.0,,27142.83,5.0,6,True
+64,Elena Marín,Ventas,Hombre,27.0,3.0,,6.0,14,False
+8,Silvia Domínguez,Marketing,Mujer,41.0,9.0,34137.0,7.0,14,True
+184,Pedro Iglesias,Marketing,Mujer,26.0,14.0,41546.26,7.0,20,False
+142,Marta Domínguez,VENTAS ,Mujer,46.0,4.0,30014.22,5.0,8,False
+87,Pablo Rubio, IT,Hombre,39.0,11.0,46347.19,7.0,6,False
+97,Laura García,IT,Hombre,,1.0,30644.38,7.0,8,True
+69,Patricia Pérez,RRHH ,Hombre,41.0,15.0,45971.45,6.0,6,False
+51,Alberto Blanco,Marketing,Mujer,38.0,1.0,,4.0,2,False
+143,Javier Fernández,Marketing,Mujer,28.0,5.0,,4.0,2,False
+158,Adrián Álvarez,VENTAS ,Hombre,42.0,2.0,30791.4,5.0,17,False
+157,Nuria García,IT,Hombre,40.0,9.0,38607.52,5.0,2,False
+140,Raúl Gómez,FINANZAS,Mujer,43.0,11.0,39256.74,7.0,16,True
+147,Javier Suárez,RRHH,Hombre,60.0,0.0,29527.15,6.0,2,False
+102,Teresa Díaz,Finanzas,Hombre,59.0,9.0,43348.09,8.0,17,True
+21,Pedro Moreno,IT,Mujer,26.0,4.0,38582.4,8.0,16,False
+179,Claudia Navarro,IT,Mujer,60.0,13.0,44951.68,4.0,9,False
+26,Víctor Ruiz,IT,Mujer,27.0,11.0,49015.06,4.0,0,False
+135,Andrea Moreno,rrhh,Mujer,37.0,7.0,30310.48,7.0,6,True
+72,Irene Torres, Ventas,Mujer,,6.0,,6.0,3,True
+205,Rocío Ramos, Marketing,Hombre,29.0,12.0,31894.28,7.0,18,False
+130,Sara Fernández,Ventas,Mujer,51.0,0.0,,9.0,1,True
+145,Cristina Navarro,Finanzas,Mujer,46.0,1.0,29370.63,5.0,5,False
+193,Andrea Navarro,IT,Hombre,30.0,11.0,44915.14,7.0,0,False
+80,Eva Sánchez,Marketing,Mujer,43.0,15.0,46138.91,7.0,3,False
+134,Paula Sanz,Ventas,Hombre,37.0,14.0,41283.88,6.0,15,False
+204,Irene Delgado,VENTAS ,Hombre,44.0,7.0,34460.49,6.0,11,False
+138,Sara Sanz,Marketing,Mujer,44.0,9.0,35226.21,4.0,6,False
+73,Diego Marín,IT,Hombre,29.0,7.0,44317.34,4.0,1,False
+141,Diego Navarro,Finanzas,Mujer,58.0,15.0,38153.86,5.0,16,False
+38,Marina Sanz,IT,Hombre,58.0,8.0,37306.56,4.0,1,False

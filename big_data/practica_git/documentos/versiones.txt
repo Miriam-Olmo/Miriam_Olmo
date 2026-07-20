@@ -1,0 +1,7 @@
+existen varias formas de abrir un documento:
+
+por terminal
+
+con procesador de texto
+
+con code
